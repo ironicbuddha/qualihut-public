@@ -1,0 +1,6 @@
+OUTPUT=docs/quests_and_rumors
+TITLE=Quests & Rumors
+
+INCLUDE=content/quests/
+EXCLUDE=content/**/draft-*.md
+EXCLUDE=content/**/wip-*.md

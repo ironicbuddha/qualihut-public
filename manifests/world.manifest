@@ -1,0 +1,8 @@
+OUTPUT=docs/world_overview
+TITLE=World Overview
+
+INCLUDE=content/_world_state.md
+INCLUDE=content/races/
+INCLUDE=content/environments/
+INCLUDE=content/economy/
+INCLUDE=content/locations/

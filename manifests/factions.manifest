@@ -1,0 +1,5 @@
+OUTPUT=docs/factions_of_the_empire
+TITLE=Factions of the Empire
+
+INCLUDE=content/factions/
+INCLUDE=content/institutions/

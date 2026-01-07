@@ -1,0 +1,12 @@
+OUTPUT=docs/player_primer
+TITLE=Player Primer
+
+INCLUDE=content/_world_state.md
+INCLUDE=content/meta/campaign.md
+INCLUDE=content/races/
+INCLUDE=content/environments/
+INCLUDE=content/magic/
+INCLUDE=content/factions/banking-guild.md
+
+EXCLUDE=content/**/draft-*.md
+EXCLUDE=content/**/wip-*.md
