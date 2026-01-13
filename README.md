@@ -13,6 +13,7 @@ Build the local HTML site:
 This generates sources in `.mdbook-src/` and (if `mdbook` is installed) the site in `site/`.
 
 GitHub Pages deployment is handled by `.github/workflows/pages.yml`.
+Template: `workflows/pages.yml.template`
 
 ## Build guides
 
