@@ -2,7 +2,7 @@
 id: campaign
 title: Campaign Overview
 type: meta
-status: draft
+status: published
 ---
 
 ## What this campaign is

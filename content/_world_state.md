@@ -2,7 +2,7 @@
 id: world-state
 title: World State (Canonical Bullets)
 type: meta
-status: canon
+status: published
 ---
 
 ## World Snapshot

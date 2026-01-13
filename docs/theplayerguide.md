@@ -1,10 +1,14 @@
-# World Overview
+# The Player Guide
 
 > This document reflects common knowledge in the world. Rumors, myths, and errors may be present.
 
 ## Table of Contents
 
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
+- [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
+- [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
+- [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
+- [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
@@ -23,6 +27,77 @@ _Source: `content/_world_state.md`_
 - Magic is finite/refined; increasingly used as currency/collateral.
 - Fey Roads enable liminal travel; time distortion; madness risk.
 - Protected old-growth forests; treacherous sea (three moons); dangerous central wilds.
+
+---
+
+## Feudal Empire
+
+_Source: `content/institutions/feudal-empire.md`_
+
+## What players would know
+
+- A sprawling feudal empire claims the land, but imperial edicts arrive late and enforcement is uneven.
+- Local lords, guilds, and churches run day-to-day life; “imperial” mostly means taxes, roads, and occasional levies.
+
+### Common rumors
+
+- The Throne is weaker than the caravans.
+- Provincial keeps follow the emperor only when convenient.
+
+---
+
+## Merchant Houses
+
+_Source: `content/institutions/merchant-houses.md`_
+
+## What players would know
+
+- Merchant houses that began as trade families now buy seats at councils, fund militias, and shape law with contracts.
+- Their caravans keep provinces fed and informed, making them indispensable to nobles and churches alike.
+
+### Common rumors
+
+- A merchant’s seal is worth more than a baron’s.
+- Merchant houses purchase minor titles to dodge tariffs.
+
+---
+
+## Noble Houses
+
+_Source: `content/institutions/noble-houses.md`_
+
+## What players would know
+
+- Ancient houses control land and titles, propped up by heraldry, dowries, and cautious intermarriage.
+- Nobles speak of blood purity and legitimacy even as their banners hide debts and scandals.
+
+### Common rumors
+
+- Elves quietly bless or veto noble marriages.
+- Noble bloodlines are thinning, but coats of arms keep multiplying.
+
+---
+
+## Campaign Overview
+
+_Source: `content/meta/campaign.md`_
+
+## What this campaign is
+
+A high-magic feudal empire with rising guild power, unstable divine institutions, and liminal travel via the Fey Roads.
+
+### Tone & themes
+
+- wonder and dread
+- political absurdity
+- scarcity and trade
+- secrets with consequences
+
+### What characters might know
+
+- Travel by sea is dangerous (three moons; monsters).
+- Old-growth forests are protected; wood is scarce.
+- Magic can be refined and traded like currency.
 
 ---
 

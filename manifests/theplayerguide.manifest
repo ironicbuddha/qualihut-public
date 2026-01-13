@@ -1,0 +1,19 @@
+OUTPUT=docs/theplayerguide
+TITLE=The Player Guide
+
+INCLUDE=content/_world_state.md
+INCLUDE=content/meta/campaign.md
+
+INCLUDE=content/races/
+INCLUDE=content/environments/
+INCLUDE=content/economy/
+INCLUDE=content/magic/
+
+INCLUDE=content/factions/
+INCLUDE=content/institutions/
+
+INCLUDE=content/locations/
+INCLUDE=content/quests/
+
+EXCLUDE=content/**/draft-*.md
+EXCLUDE=content/**/wip-*.md
