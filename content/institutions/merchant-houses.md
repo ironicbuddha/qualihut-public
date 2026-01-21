@@ -7,8 +7,9 @@ status: published
 
 ## What players would know
 
-- Merchant houses that began as trade families now buy seats at councils, fund militias, and shape law with contracts.
-- Their caravans keep provinces fed and informed, making them indispensable to nobles and churches alike.
+Merchant houses began as trade families and grew into institutions: buying council seats, funding militias, and shaping law with contracts instead of crowns. Their caravans keep provinces fed, supplied, and informed, which makes them indispensable to nobles who pretend to despise them.
+
+In practice, a merchant seal can open doors a baron can’t—because the baron still needs flour to arrive.
 
 ### Common rumors
 

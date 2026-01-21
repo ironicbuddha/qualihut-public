@@ -7,8 +7,9 @@ status: published
 
 ## What players would know
 
-- Most of the population of the empire is human or half-elf. Non-noble elves, half elves and humans have equal citizenship status and towns and villages are run through local politics and rarely unified.
-- Imperial authority is thin, so local lords, guilds, mayors, and caravans negotiate power deal by deal.
+Most of the Empire’s population is human or half‑elf. Outside the high nobility, citizenship and daily life are more local than imperial: towns and villages run on bargains, grudges, and practical alliances, rarely unified for long.
+
+Imperial authority is thin, so local lords, guilds, mayors, and caravans negotiate power deal by deal. “The law” is often whoever arrived last with a seal and enough people to enforce it.
 
 ### Common rumors
 

@@ -7,7 +7,7 @@ status: published
 
 ## What this campaign is
 
-A high-magic feudal empire with rising guild power, unstable divine institutions, and liminal travel via the Fey Roads.
+This campaign lives in a high-magic feudal empire where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
 
 ### Tone & themes
 
@@ -18,6 +18,8 @@ A high-magic feudal empire with rising guild power, unstable divine institutions
 
 ### What characters might know
 
-- Travel by sea is dangerous (three moons; monsters).
-- Old-growth forests are protected; wood is scarce.
-- Magic can be refined and traded like currency.
+Most people in the Empire know a few practical truths:
+
+- The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
+- [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
+- Magic can be refined and traded like currency, which means money now has arcane consequences.

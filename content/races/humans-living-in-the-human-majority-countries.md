@@ -7,8 +7,9 @@ status: published
 
 ## What players would know
 
-- Most of the population is human; towns and villages are human-run but rarely unified.
-- Imperial authority is thin, so local lords, guilds, and caravans negotiate power deal by deal.
+In the human-majority countries, most towns and villages are human-run but rarely unified. Alliances form around trade, marriage, and shared threats, then dissolve when the next season’s problems arrive.
+
+Imperial authority (where it exists at all) is thin. Local lords, guilds, and caravans negotiate power deal by deal, and a hard winter can redraw “politics” faster than any decree.
 
 ### Common rumors
 
