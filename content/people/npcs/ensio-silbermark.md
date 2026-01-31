@@ -10,7 +10,7 @@ status: published
 
 ### Portrait
 
-![Captain Ensio Silbermark](captain-ensio-silbermark-01.png)
+![Captain Ensio Silbermark](images/ensio-silbermark.png)
 
 Captain Ensio Silbermark is a cooperative, professional City Watch officer in [Hochsilvar](../../locations/hochsilvar.md). He is tasked with keeping order while balancing guild demands, magistrate expectations, and the practical realities of an underpaid force. The high profile nature of the crime you're investigating is that an official arrest or identification of the guilty is placing a lot of pressure on him.
 

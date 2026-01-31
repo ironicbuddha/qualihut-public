@@ -15,7 +15,6 @@
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
-- [Leyline Blights (Ecology After Extraction)](#leyline-blights-ecology-after-extraction)  `content/environments/leyline-blights.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
@@ -29,16 +28,25 @@
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
+- [House of Warlocks (Misnomer)](#house-of-warlocks-misnomer)  `content/institutions/house-of-warlocks.md`
+- [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
+- [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
-- [Sacrament Administration](#sacrament-administration)  `content/institutions/sacrament-administration.md`
+- [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
 - [The Solar Church](#the-solar-church)  `content/institutions/solar-church.md`
+- [Thieves' Guilds](#thieves-guilds)  `content/institutions/thieves-guilds.md`
+- [The Witnessed Cut (Ritual Slaughter)](#the-witnessed-cut-ritual-slaughter)  `content/institutions/witnessed-cut.md`
+- [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
 - [Hochsilvar](#hochsilvar)  `content/locations/hochsilvar.md`
+- [Animal Omen](#animal-omen)  `content/magic/animal-omen.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
+- [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
+- [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
@@ -294,29 +302,6 @@ Farmers talk about it like it has moods. A cloudy summer can thin the harvest; a
 
 ---
 
-## Leyline Blights (Ecology After Extraction)
-
-_Source: `content/environments/leyline-blights.md`_
-
-## What players would know
-
-People in the countryside don’t argue about whether magic is “real.” They argue about what it does to crops when it’s disturbed.
-
-When a place is blighted, the symptoms look mundane at first: sick soil, strange insects, animals avoiding water, bread that doesn’t rise. Then the pattern sharpens into something that feels like intent. The land starts behaving like it’s trying to say “no” in a language nobody asked to learn.
-
-### Common rumors
-
-- Blights follow “thin places” and old stones.
-- Some priests call it heresy. Some druids call it debt.
-- You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
-
-### See also
-
-- [Leyline Convergences](../magic/leyline-convergences.md)
-- [Refined Magic](../magic/refined-magic.md)
-
----
-
 ## Mountains and Passes
 
 _Source: `content/environments/mountains-and-passes.md`_
@@ -512,6 +497,8 @@ _Source: `content/institutions/der-kronenschild.md`_
 
 Der Kronenschild is the Empire’s internal continuity apparatus: the people who show up when a situation stops being a crime and becomes a threat to “harmony.” Officially they preserve stability and prevent sedition. Unofficially, they are famous for consequences delivered with impeccable manners.
 
+If the City Watch is local law, Kronenschild is the Crown’s cross‑jurisdiction bureau: the seal that lets someone investigate across feudal boundaries and treat “a case” as a state problem.
+
 ### Common rumors
 
 - They apologize while ruining your life.
@@ -551,6 +538,54 @@ Day-to-day power is local: lords, guilds, churches, mayors, caravan captains. Th
 
 ---
 
+## House of Warlocks (Misnomer)
+
+_Source: `content/institutions/house-of-warlocks.md`_
+
+## What players would know
+
+“House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**.
+
+If you’re looking for the canonical entry, use **[House von Stillwort](house-von-stillwort.md)**.
+
+---
+
+## House von Stillwort
+
+_Source: `content/institutions/house-von-stillwort.md`_
+
+## What players would know
+
+House von Stillwort is an elven noble house known for immaculate restraint: soft voices, precise clothing, and the feeling that even their silences are practiced. In court they present as advisors, archivists, and “quiet overseers” whose influence arrives without spectacle and leaves people rearranging their lives around new procedures.
+
+They are also the one house commonly associated with **warlock power**—not as a free-for-all talent, but as a lineage-bound inheritance tied to an ancestral bargain. In the popular telling, warlock power has **manifested in their bloodline** ever since.
+
+### Common rumors
+
+- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
+- Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
+- Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
+- Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
+
+---
+
+## Intelligence Bureaus
+
+_Source: `content/institutions/intelligence-bureaus.md`_
+
+## What players would know
+
+Every power center keeps spies. Politics isn’t only speeches and votes; it’s sabotage, rumor campaigns, coerced witnesses, and disappearances politely attributed to bandits.
+
+Most people can’t name the bureaus, only the symptoms: a rival’s caravan “misroutes,” a scandal breaks at the perfect time, a clerk loses the only copy of a document that mattered.
+
+### Common rumors
+
+- Assassins travel with caravans.
+- Magistrates hire thieves’ guilds for deniable jobs.
+
+---
+
 ## Merchant Houses
 
 _Source: `content/institutions/merchant-houses.md`_
@@ -582,23 +617,24 @@ Behind the banners are debts, scandals, and the constant labor of keeping a fami
 
 - [Elves](../races/elves.md) quietly bless or veto noble marriages.
 - Noble bloodlines are thinning, but coats of arms keep multiplying.
+- Some houses keep a second set of blood ledgers with titles that sound like doctrine, not romance.
 
 ---
 
-## Sacrament Administration
+## The Royal Games
 
-_Source: `content/institutions/sacrament-administration.md`_
+_Source: `content/institutions/royal-games.md`_
 
 ## What players would know
 
-The [Solar Church](solar-church.md) treats sacrament as more than devotion. It is a controlled substance, a ritual catalyst, and a legitimacy symbol—distributed through formal channels with seals, witnesses, and strict calendars. In the countryside that looks like wafers and feast days. In the capital it looks like ledgers, armed escorts, and arguments that never mention the word “shortage.”
+The Royal Games are a solstice week when the capital forgets it is a city and remembers it is a crowd. Teams from villages, wards, docks, monasteries, and mining hollows all pour in for matches that are half sport and half civic ritual. Betting flows like wine, and the streets feel one spark away from riot in both directions—joy and violence sharing a spine.
 
-Most people don’t know what sacrament is made from, only that it arrives by caravan, disappears into church custody, and reappears as ceremonies that keep society feeling “held together.” When rumors of disruption spread, nobles grow pious in public and desperate in private.
+Everyone knows the “rules” that matter: the ball is blessed but never enchanted, nobles sponsor quietly and dress plainly at the final, and the monarch must attend. In taverns, people say the Games are the only time the Empire tells the truth about itself: what it loves, what it hates, and how quickly it will trample anyone in the way.
 
 ### Common rumors
 
-- A missing crate of sacrament causes more panic than a missing crate of coin.
-- Some border towns have seen church caravans linger for days, as if waiting for the right omens to cross.
+- Every intelligence service runs operations during the Games because the crowd covers everything.
+- A curse laid in the stands can spread through chants faster than fire.
 
 ---
 
@@ -616,6 +652,76 @@ The Church’s power is not only in prayer, but in administration. It blesses co
 
 - The gods answer, but not always on the schedule priests promise.
 - When a prophet refuses the Church’s authority, it’s not heresy—it’s a crack in the whole machine.
+
+---
+
+## Thieves' Guilds
+
+_Source: `content/institutions/thieves-guilds.md`_
+
+## What players would know
+
+There isn’t one thieves’ guild. There are many—local crews and cross-border networks trading in passage, information, contraband, and the kind of protection you buy because the law is too slow or too expensive.
+
+They fill the gaps official power leaves behind: moving goods when roads close, settling disputes when courts won’t listen, and making problems disappear in exchange for the right favors.
+
+### Common rumors
+
+- Rival guilds run shadow courts to settle disputes.
+
+---
+
+## The Witnessed Cut (Ritual Slaughter)
+
+_Source: `content/institutions/witnessed-cut.md`_
+
+## What players would know
+
+In elven-influenced imperial custom, killing an animal for food is never meant to be casual. The act is marked by a small, repeatable ritual performed before the blade: an acknowledgement of the life being taken, a promise of full use, and a short prayer that frames the killing as _transformation_ rather than appetite.
+
+Most towns have their own phrasing, but the shape is consistent: the butcher (or household head) speaks a witness-name for the animal, offers a token return to the land (salt, clean water, grain, or a single drop of blood into the soil), and then makes one clean cut. The rest is treated as a moral obligation: nothing wasted, nothing hidden, nothing “forgotten” to rot.
+
+In cities, the [Solar Church](solar-church.md) often oversees or blesses the practice in public slaughterhouses. In rural places, it’s older and less bureaucratic—more gesture than doctrine. Either way, people know the line it draws: a witnessed cut is permitted; un-witnessed slaughter is treated like something halfway between theft and desecration.
+
+### Common rumors
+
+- “Waste is a sin that smells”: a butcher who discards usable parts will lose customers faster than a thief loses fingers.
+- Some wardens can tell whether meat was taken by witnessed cut just by looking at the color of the blood.
+- Black-market slaughter always brings trouble—illness, bad luck, or spirits that follow the smell of unspent life.
+
+### See also
+
+- [Fish Farming](../economy/fish-farming.md)
+- [Salt Pork (Jar Trade)](../economy/salt-pork.md)
+- [The Solar Church](solar-church.md)
+- [Red Sun Rites](../magic/red-sun-rites.md)
+
+---
+
+## Banco Valdieri (Bankhouse)
+
+_Source: `content/locations/banco-valdieri-bankhouse.md`_
+
+## What players would know
+
+![Banco Valdieri](images/banco-valdieri-bankhouse.png)
+
+Banco Valdieri’s bankhouse is a marble certainty in the high end of [Hochsilvar](hochsilvar.md): a civic-temple of money with broad steps, dense columns, and a façade designed to make ordinary people feel small.
+
+When something goes wrong here, the city treats it as more than a crime. It becomes a confidence crisis with barricades, clerks, and the kind of “help” that arrives with seals.
+
+### At a glance
+
+- Marble, columns, elevation: the building communicates “verdict,” not “service.”
+- Banking and politics in one place: couriers, legal reps, guild eyes.
+- After the theft: Watch perimeter, controlled entry, and the feeling that the street is being audited.
+
+### See also
+
+- [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
+- [Hochsilvar](hochsilvar.md)
+- [Niederstadt](niederstadt.md)
+- [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
 
 ---
 
@@ -648,13 +754,13 @@ _Source: `content/locations/hochsilvar.md`_
 
 ### Illustration
 
-![[hochsilvar.png]]
+![[images/hochsilvar.png]]
 
-![[hochsilvar-gates.png]]
+![[images/hochsilvar-gates.png]]
 
-![[hochsilvar-night.png]]
+![[images/hochsilvar-night.png]]
 
-![[hochsilvar-map.png]]
+![[images/hochsilvar-map.png]]
 
 Hochsilvar is the imperial capital: high stone, old privilege, and bureaucracy thick enough to choke a street. It is a place where guild power is rising, court power is defensive, and “authority” changes meaning depending on which door you knock on.
 
@@ -681,6 +787,23 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 - [City Watch](../institutions/city-watch.md)
 - [Der Kronenschild](../institutions/der-kronenschild.md)
 - [Der Weitblick](../institutions/der-weitblick.md)
+
+---
+
+## Animal Omen
+
+_Source: `content/magic/animal-omen.md`_
+
+## What players would know
+
+Animal Omen is a druidic practice used by rangers, hermits, and the kind of caravan guides who don’t brag about the trips that went well. At sunset, the caster listens for the land’s “answer” in animal behavior—a sign that is more riddle than report.
+
+The omen doesn’t tell you what is out there. It tells you how wrong it is to stay. A hawk hunting too low, deer moving at noon, crows gathering without a carcass—each is the world tapping the glass.
+
+### Common rumors
+
+- If no animals answer at all—no birds, no insects, no movement—don’t camp. Don’t even light a fire.
+- Some druids say the land goes silent when a Fey Road is near.
 
 ---
 
@@ -734,6 +857,23 @@ In much of the Empire and its neighbors, refined magic is becoming a trade stand
 
 ---
 
+## Tears of the Moon
+
+_Source: `content/magic/tears-of-the-moon.md`_
+
+## What players would know
+
+Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+
+Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+
+### Common rumors
+
+- A Tear-forged blade changes subtly based on what it kills.
+- The Union has some, the Empire has more, and everyone lies about the numbers.
+
+---
+
 ## Campaign Overview
 
 _Source: `content/meta/campaign.md`_
@@ -756,6 +896,16 @@ Most people in the Empire know a few practical truths:
 - The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
 - [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
 - Magic can be refined and traded like currency, which means money now has arcane consequences.
+
+---
+
+## Dwarves
+
+_Source: `content/races/dwarves.md`_
+
+## What players would know
+
+There are no dwarves on this world. Playable ancestries are limited to elf, half‑elf, human, and half-orc.
 
 ---
 

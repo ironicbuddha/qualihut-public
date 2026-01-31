@@ -9,13 +9,13 @@ status: published
 
 ### Illustration
 
-![[hochsilvar.png]]
+![[images/hochsilvar.png]]
 
-![[hochsilvar-gates.png]]
+![[images/hochsilvar-gates.png]]
 
-![[hochsilvar-night.png]]
+![[images/hochsilvar-night.png]]
 
-![[hochsilvar-map.png]]
+![[images/hochsilvar-map.png]]
 
 Hochsilvar is the imperial capital: high stone, old privilege, and bureaucracy thick enough to choke a street. It is a place where guild power is rising, court power is defensive, and “authority” changes meaning depending on which door you knock on.
 

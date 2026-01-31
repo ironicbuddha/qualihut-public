@@ -3,7 +3,7 @@ id: banco-valdieri-investigation
 title: Banco Valdieri Investigation
 type: briefing
 status: published
-quest: q-the-calderon-job
+quest: banco-valdieri-investigation
 location: hochsilvar
 ---
 

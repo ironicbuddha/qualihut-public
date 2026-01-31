@@ -15,3 +15,4 @@ Behind the banners are debts, scandals, and the constant labor of keeping a fami
 
 - [Elves](../races/elves.md) quietly bless or veto noble marriages.
 - Noble bloodlines are thinning, but coats of arms keep multiplying.
+- Some houses keep a second set of blood ledgers with titles that sound like doctrine, not romance.

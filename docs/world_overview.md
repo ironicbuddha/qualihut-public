@@ -15,11 +15,12 @@
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
-- [Leyline Blights (Ecology After Extraction)](#leyline-blights-ecology-after-extraction)  `content/environments/leyline-blights.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
+- [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
 - [Hochsilvar](#hochsilvar)  `content/locations/hochsilvar.md`
+- [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
@@ -275,29 +276,6 @@ Farmers talk about it like it has moods. A cloudy summer can thin the harvest; a
 
 ---
 
-## Leyline Blights (Ecology After Extraction)
-
-_Source: `content/environments/leyline-blights.md`_
-
-## What players would know
-
-People in the countryside don’t argue about whether magic is “real.” They argue about what it does to crops when it’s disturbed.
-
-When a place is blighted, the symptoms look mundane at first: sick soil, strange insects, animals avoiding water, bread that doesn’t rise. Then the pattern sharpens into something that feels like intent. The land starts behaving like it’s trying to say “no” in a language nobody asked to learn.
-
-### Common rumors
-
-- Blights follow “thin places” and old stones.
-- Some priests call it heresy. Some druids call it debt.
-- You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
-
-### See also
-
-- [Leyline Convergences](../magic/leyline-convergences.md)
-- [Refined Magic](../magic/refined-magic.md)
-
----
-
 ## Mountains and Passes
 
 _Source: `content/environments/mountains-and-passes.md`_
@@ -346,6 +324,33 @@ Forests are also contested memory. Shrines appear where roads don’t, and certa
 
 ---
 
+## Banco Valdieri (Bankhouse)
+
+_Source: `content/locations/banco-valdieri-bankhouse.md`_
+
+## What players would know
+
+![Banco Valdieri](images/banco-valdieri-bankhouse.png)
+
+Banco Valdieri’s bankhouse is a marble certainty in the high end of [Hochsilvar](hochsilvar.md): a civic-temple of money with broad steps, dense columns, and a façade designed to make ordinary people feel small.
+
+When something goes wrong here, the city treats it as more than a crime. It becomes a confidence crisis with barricades, clerks, and the kind of “help” that arrives with seals.
+
+### At a glance
+
+- Marble, columns, elevation: the building communicates “verdict,” not “service.”
+- Banking and politics in one place: couriers, legal reps, guild eyes.
+- After the theft: Watch perimeter, controlled entry, and the feeling that the street is being audited.
+
+### See also
+
+- [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
+- [Hochsilvar](hochsilvar.md)
+- [Niederstadt](niederstadt.md)
+- [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
+
+---
+
 ## The Central Wilds
 
 _Source: `content/locations/central-wilds.md`_
@@ -375,13 +380,13 @@ _Source: `content/locations/hochsilvar.md`_
 
 ### Illustration
 
-![[hochsilvar.png]]
+![[images/hochsilvar.png]]
 
-![[hochsilvar-gates.png]]
+![[images/hochsilvar-gates.png]]
 
-![[hochsilvar-night.png]]
+![[images/hochsilvar-night.png]]
 
-![[hochsilvar-map.png]]
+![[images/hochsilvar-map.png]]
 
 Hochsilvar is the imperial capital: high stone, old privilege, and bureaucracy thick enough to choke a street. It is a place where guild power is rising, court power is defensive, and “authority” changes meaning depending on which door you knock on.
 
@@ -408,6 +413,16 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 - [City Watch](../institutions/city-watch.md)
 - [Der Kronenschild](../institutions/der-kronenschild.md)
 - [Der Weitblick](../institutions/der-weitblick.md)
+
+---
+
+## Dwarves
+
+_Source: `content/races/dwarves.md`_
+
+## What players would know
+
+There are no dwarves on this world. Playable ancestries are limited to elf, half‑elf, human, and half-orc.
 
 ---
 

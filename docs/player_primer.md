@@ -5,14 +5,16 @@
 ## Table of Contents
 
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
-- [Leyline Blights (Ecology After Extraction)](#leyline-blights-ecology-after-extraction)  `content/environments/leyline-blights.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
+- [Animal Omen](#animal-omen)  `content/magic/animal-omen.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
+- [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
+- [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
@@ -50,29 +52,6 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
 - Death is meaningful; replacement characters enter through the same apparatus.
-
----
-
-## Leyline Blights (Ecology After Extraction)
-
-_Source: `content/environments/leyline-blights.md`_
-
-## What players would know
-
-People in the countryside don’t argue about whether magic is “real.” They argue about what it does to crops when it’s disturbed.
-
-When a place is blighted, the symptoms look mundane at first: sick soil, strange insects, animals avoiding water, bread that doesn’t rise. Then the pattern sharpens into something that feels like intent. The land starts behaving like it’s trying to say “no” in a language nobody asked to learn.
-
-### Common rumors
-
-- Blights follow “thin places” and old stones.
-- Some priests call it heresy. Some druids call it debt.
-- You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
-
-### See also
-
-- [Leyline Convergences](../magic/leyline-convergences.md)
-- [Refined Magic](../magic/refined-magic.md)
 
 ---
 
@@ -141,6 +120,23 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 ---
 
+## Animal Omen
+
+_Source: `content/magic/animal-omen.md`_
+
+## What players would know
+
+Animal Omen is a druidic practice used by rangers, hermits, and the kind of caravan guides who don’t brag about the trips that went well. At sunset, the caster listens for the land’s “answer” in animal behavior—a sign that is more riddle than report.
+
+The omen doesn’t tell you what is out there. It tells you how wrong it is to stay. A hawk hunting too low, deer moving at noon, crows gathering without a carcass—each is the world tapping the glass.
+
+### Common rumors
+
+- If no animals answer at all—no birds, no insects, no movement—don’t camp. Don’t even light a fire.
+- Some druids say the land goes silent when a Fey Road is near.
+
+---
+
 ## The Fey Roads
 
 _Source: `content/magic/fey-roads.md`_
@@ -191,6 +187,23 @@ In much of the Empire and its neighbors, refined magic is becoming a trade stand
 
 ---
 
+## Tears of the Moon
+
+_Source: `content/magic/tears-of-the-moon.md`_
+
+## What players would know
+
+Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+
+Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+
+### Common rumors
+
+- A Tear-forged blade changes subtly based on what it kills.
+- The Union has some, the Empire has more, and everyone lies about the numbers.
+
+---
+
 ## Campaign Overview
 
 _Source: `content/meta/campaign.md`_
@@ -213,6 +226,16 @@ Most people in the Empire know a few practical truths:
 - The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
 - [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
 - Magic can be refined and traded like currency, which means money now has arcane consequences.
+
+---
+
+## Dwarves
+
+_Source: `content/races/dwarves.md`_
+
+## What players would know
+
+There are no dwarves on this world. Playable ancestries are limited to elf, half‑elf, human, and half-orc.
 
 ---
 

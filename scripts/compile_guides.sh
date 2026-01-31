@@ -26,6 +26,26 @@ has_pdf_engine() {
   return 1
 }
 
+build_pandoc_resource_path() {
+  local -a paths=("$ROOT_DIR" "$ROOT_DIR/content")
+  local -a img_parents=()
+
+  while IFS= read -r -d '' img_dir; do
+    img_parents+=("${img_dir%/images}")
+  done < <(find "$ROOT_DIR/content" -type d -name images -print0 2>/dev/null || true)
+
+  if [[ ${#img_parents[@]} -gt 0 ]]; then
+    while IFS= read -r line; do
+      [[ -z "$line" ]] && continue
+      paths+=("$line")
+    done < <(printf "%s\n" "${img_parents[@]}" | awk '!seen[$0]++' | sort)
+  fi
+
+  local joined=""
+  joined="$(printf "%s:" "${paths[@]}")"
+  echo "${joined%:}"
+}
+
 extract_title() {
   local file="$1"
   python3 - <<PY
@@ -208,7 +228,9 @@ compile_manifest() {
         pdf_engine_args=(--pdf-engine=xelatex)
       fi
 
-      pandoc "$OUT_MD" -o "$OUT_PDF" "${pdf_engine_args[@]}"
+      local resource_path=""
+      resource_path="$(build_pandoc_resource_path)"
+      pandoc "$OUT_MD" -o "$OUT_PDF" --resource-path="$resource_path" "${pdf_engine_args[@]}"
       echo "Wrote: $OUT_PDF"
     else
       echo "No TeX PDF engine found; skipping PDF for $OUT_MD (install tectonic or TeX Live)"

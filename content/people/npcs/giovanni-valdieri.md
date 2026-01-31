@@ -8,6 +8,8 @@ status: published
 
 ## What players would know
 
+![Giovanni Valdieri](images/giovanni-valdieri.png)
+
 Giovanni Valdieri is the high-profile owner of **[Banco Valdieri](../../institutions/banco-valdieri.md)** in **[Hochsilvar](../../locations/hochsilvar.md)**, known for championing guild-backed promissory notes and the [Banking Guild](../../factions/banking-guild.md)’s growing role in public life.
 
 ### Common rumors
