@@ -40,6 +40,7 @@
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
+- [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
 - [The Solar Church](#the-solar-church)  `content/institutions/solar-church.md`
 - [Thieves' Guilds](#thieves-guilds)  `content/institutions/thieves-guilds.md`
@@ -61,6 +62,7 @@
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
+- [The Greenwood Accord](#the-greenwood-accord)  `content/magic/greenwood-accord.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
 - [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/magical-tattoo-ink.md`
@@ -68,7 +70,10 @@
 - [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/pattern-recall-daggers.md`
 - [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
 - [Scrying](#scrying)  `content/magic/scrying.md`
+- [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
 - [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
+- [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
+- [The Three Moons](#the-three-moons)  `content/magic/three-moons.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Banco Valdieri Investigation](#banco-valdieri-investigation)  `content/quests/q-banco-valdieri-investigation.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
@@ -442,6 +447,7 @@ Ports live on conditional knowledge: this channel is passable _this month_, at _
 ### See also
 
 - [Sea Trade Routes](../economy/sea-trade-routes.md)
+- [The Three Moons](../magic/three-moons.md)
 
 ---
 
@@ -845,6 +851,31 @@ Behind the banners are debts, scandals, and the constant labor of keeping a fami
 - [Elves](../races/elves.md) quietly bless or veto noble marriages.
 - Noble bloodlines are thinning, but coats of arms keep multiplying.
 - Some houses keep a second set of blood ledgers with titles that sound like doctrine, not romance.
+
+---
+
+## Rangers
+
+_Source: `content/institutions/rangers.md`_
+
+## What players would know
+
+Rangers are not hunters who joined the army. They are soldiers trained to survive where governance fails: where roads vanish, supply lines rot, and the map becomes a comforting lie.
+
+They’re few in number, brutally trained, and deployed when a commander needs eyes and hands in places conventional units can’t hold.
+
+Most rangers specialize in a primary environment:
+
+- **Forest**: concealment, ambush, and reading canopy movement and animal displacement.
+- **Jungle**: disease, sabotage, and intelligence work in vertical, humid terrain.
+- **Desert**: water discipline, navigation by scarcity, and long-range interdiction.
+- **Pass (Pass Wardens)**: mountain passes and hard corridors; escort and route-work where weather kills faster than blades (often an orc/half-orc specialty).
+
+### Common rumors
+
+- Rangers don’t win battles; they make battles unnecessary.
+- A ranger’s first enemy is terrain, and their second is paperwork.
+- Forest rangers and druids can read the same signs and reach opposite conclusions.
 
 ---
 
@@ -1342,6 +1373,38 @@ Most sane folk avoid them. Those who can’t—spies, desperate merchants, pilgr
 
 ---
 
+## The Greenwood Accord
+
+_Source: `content/magic/greenwood-accord.md`_
+
+## What players would know
+
+The Greenwood Accord is the name druids give to an old, practical truth: the wild is not a backdrop. It is a network of relationships—spirits, places, seasons, and debts—and people who live close to it can be accepted into that network.
+
+Those “confirmed” by the Accord do not gain a pet or a servant. They gain a spirit ally: a local presence that offers perception and warning, and withdraws when abused.
+
+### Confirmation (as told in the wilds)
+
+At a certain age—or moment of calling—a person enters a sacred forest alone with one instruction: _listen_.
+
+No weapons. No companions. No guarantee of return.
+
+If the Accord answers, the person comes back with a bond: a spirit that will sometimes guide them, sometimes refuse them, and always remember what they do to the land.
+
+### Common rumors
+
+- The spirit chooses whether to answer; “being brave” doesn’t make it say yes.
+- Break faith and the punishment isn’t lightning. It’s absence: paths close, animals stop warning you, the ally goes quiet.
+- A druid and a ranger can be bonded to the same kind of spirit and still disagree about what it wants.
+
+### See also
+
+- [Waldrun](../people/magical-creatures/waldrun.md)
+- [Rangers](../institutions/rangers.md)
+- [The Living Script](the-living-script.md)
+
+---
+
 ## Leyline Convergences
 
 _Source: `content/magic/leyline-convergences.md`_
@@ -1470,6 +1533,37 @@ Scrying is a family of divination practices used to observe a distant person or 
 
 ---
 
+## Animal Omen
+
+_Source: `content/magic/spells/animal-omen.md`_
+
+## What players would know
+
+![Animal Omen](images/animal-omen.png)
+
+Animal Omen is a druidic divination cast at **sunrise or sunset**. The caster listens for the land’s “answer” in animal behavior—a sign that is more riddle than report.
+
+The omen doesn’t tell you what is out there. It tells you how wrong it is to stay.
+
+### Spell definition
+
+- **School**: Divination (Druid)
+- **Casting time**: 1 minute (only at sunrise or sunset; once per day)
+- **Range**: 5 km radius (centered on the caster)
+- **Components**: V, S (a short chant and a stilling of breath)
+- **Duration**: Instant
+
+### How it works
+
+When cast, the DM describes one animal within range behaving in a way that breaks its normal pattern. You understand the **valence** of the omen (safe / uneasy / dangerous / wrong), not exact facts.
+
+### Common rumors
+
+- The omen animal is never the one you _want_; it’s the one the land can spare to speak through.
+- Apprentices are taught to watch for patterns, not symbols: wrong timing, wrong routes, wrong fear.
+
+---
+
 ## Tears of the Moon
 
 _Source: `content/magic/tears-of-the-moon.md`_
@@ -1484,6 +1578,56 @@ Craftsmen say it’s temperamental: it behaves differently under heavy magic, an
 
 - A Tear-forged blade changes subtly based on what it kills.
 - The Union has some, the Empire has more, and everyone lies about the numbers.
+
+---
+
+## The Living Script
+
+_Source: `content/magic/the-living-script.md`_
+
+## What players would know
+
+Some druid circles speak of _The Living Script_: the belief that the wild does not keep holy books, and that memory is safest when it is carried by a living body.
+
+Their elders bear intricate runic tattoos that record oaths taken, rites performed, groves tended, and losses endured. The markings are not decoration. They are an archive written in scar and ink.
+
+When a druid dies, their body is burned. If a story wasn’t passed on before the pyre, it is gone. That’s why some druids recruit so insistently: not to win arguments, but to keep enough living “pages” for the Script to survive.
+
+### Common rumors
+
+- Elder druids can be “read” by other druids the way priests read scripture.
+- A dead druid without a successor is called a _burned library_.
+- Some circles refuse to ink spellwork onto the same skin as the Script, calling it “smudging the record.”
+
+---
+
+## The Three Moons
+
+_Source: `content/magic/three-moons.md`_
+
+## What players would know
+
+Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
+
+Most folk don’t track the whole sky. They track what matters to them:
+
+- Sailors care which moon is pulling hardest.
+- Midwives care which moon makes blood easy or stubborn.
+- Undertakers care which moon makes memory linger.
+
+People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
+
+### Common rumors
+
+- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
+- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
+- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
+- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+
+### See also
+
+- [Elunara](../people/magical-creatures/elunara.md)
+- [The Three-Moon Sea](../environments/the-three-moon-sea.md)
 
 ---
 

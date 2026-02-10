@@ -23,6 +23,7 @@
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
+- [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
 - [The Solar Church](#the-solar-church)  `content/institutions/solar-church.md`
 - [Thieves' Guilds](#thieves-guilds)  `content/institutions/thieves-guilds.md`
@@ -408,6 +409,31 @@ Behind the banners are debts, scandals, and the constant labor of keeping a fami
 - [Elves](../races/elves.md) quietly bless or veto noble marriages.
 - Noble bloodlines are thinning, but coats of arms keep multiplying.
 - Some houses keep a second set of blood ledgers with titles that sound like doctrine, not romance.
+
+---
+
+## Rangers
+
+_Source: `content/institutions/rangers.md`_
+
+## What players would know
+
+Rangers are not hunters who joined the army. They are soldiers trained to survive where governance fails: where roads vanish, supply lines rot, and the map becomes a comforting lie.
+
+They’re few in number, brutally trained, and deployed when a commander needs eyes and hands in places conventional units can’t hold.
+
+Most rangers specialize in a primary environment:
+
+- **Forest**: concealment, ambush, and reading canopy movement and animal displacement.
+- **Jungle**: disease, sabotage, and intelligence work in vertical, humid terrain.
+- **Desert**: water discipline, navigation by scarcity, and long-range interdiction.
+- **Pass (Pass Wardens)**: mountain passes and hard corridors; escort and route-work where weather kills faster than blades (often an orc/half-orc specialty).
+
+### Common rumors
+
+- Rangers don’t win battles; they make battles unnecessary.
+- A ranger’s first enemy is terrain, and their second is paperwork.
+- Forest rangers and druids can read the same signs and reach opposite conclusions.
 
 ---
 

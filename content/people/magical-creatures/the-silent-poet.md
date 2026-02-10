@@ -2,12 +2,17 @@
 id: the-silent-poet
 title: The Silent Poet
 type: person
+kind: patron
 status: published
 ---
 
 ## What players would know
 
 The Silent Poet is spoken of in ellipsis and metaphor: a patron whose “gifts” arrive as omissions, edits, and sudden clarity. Their warlocks are known for careful words, long pauses, and the sense that they are listening to something no one else can hear.
+
+### Illustration
+
+![The Silent Poet — Sigil](images/silent-poet-sigil.png)
 
 ### Common rumors
 

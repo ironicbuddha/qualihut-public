@@ -11,14 +11,10 @@
             "id": "ff9d93a3502e904a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "briefings/world-briefing-player-teaser.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "world-briefing-player-teaser"
+              "title": "New tab"
             }
           }
         ]
@@ -183,23 +179,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff9d93a3502e904a",
+  "active": "7fe6e4514c95ff2a",
   "lastOpenFiles": [
-    "monsters/skyrider.md",
-    "magic/refined-magic.md",
-    "magic/leyline-convergences.md",
-    "environments/old-growth-forests.md",
-    "environments/mountains-and-passes.md",
-    "environments/leyline-blights.md",
-    "economy/desert-truffle.md",
-    "economy/desert-bamboo.md",
-    "briefings/half-orc-ranger-pass-warden.md",
-    "magic/fey-roads.md",
     "races/orcs.md",
-    "locations/central-wilds.md",
-    "briefings/world-briefing-player-teaser.md",
-    "locations/hochsilvar.md",
+    "races/ifrit.md",
+    "races/humans-living-in-the-human-majority-countries.md",
+    "races/humans-living-in-the-elven-empire.md",
+    "races/fey.md",
+    "races/elves.md",
+    "races/dwarves.md",
+    "races",
+    "quests/images/banco-validieri-aftermath.png",
+    "quests/images",
+    "quests/q-banco-valdieri-investigation.md",
+    "quests",
+    "people/npcs/images/giovanni-valdieri.png",
+    "people/npcs/giovanni-valdieri.md",
+    "people/npcs/images/ensio-silbermark.png",
     "people/npcs/ensio-silbermark.md",
-    "people/npcs/alarich-von-silberhain.md"
+    "people/npcs/images/althric-von-eichenwald.png",
+    "people/npcs/althric-von-eichenwald.md",
+    "people/npcs/images/alarich-von-silberhain.png",
+    "people/npcs/images",
+    "people/npcs/alarich-von-silberhain.md",
+    "people/npcs",
+    "people/magical-creatures/waldrun.md",
+    "people/magical-creatures/images/silent-poet-sigil.png",
+    "people/magical-creatures/the-silent-poet.md",
+    "people/magical-creatures/skaldren.md",
+    "people/magical-creatures/images/raccoon-fox.png",
+    "people/magical-creatures/raccoon-fox.md",
+    "people/magical-creatures/images/elurana.png",
+    "people/magical-creatures/images/elurana-iconography.png",
+    "people/magical-creatures/images",
+    "people/magical-creatures/elunara.md",
+    "people/magical-creatures/althar.md",
+    "people/magical-creatures",
+    "people",
+    "monsters/images/skyrider.png",
+    "monsters/images",
+    "monsters/skyrider.md",
+    "monsters",
+    "meta/spycraft.md",
+    "meta/ruleset-2024.md",
+    "meta/campaign.md",
+    "magic/three-moons.md",
+    "magic/the-living-script.md",
+    "magic/tears-of-the-moon.md",
+    "magic/spells/animal-omen.md"
   ]
 }
