@@ -1,16 +1,27 @@
-# Quests & Rumors
-
-> This document reflects common knowledge in the world. Rumors, myths, and errors may be present.
-
-## Table of Contents
-
-- [Banco Valdieri Investigation](#banco-valdieri-investigation)  `content/quests/q-banco-valdieri-investigation.md`
-
 ---
+id: q-banco-valdieri-investigation
+title: Banco Valdieri Investigation
+type: quest
+status: published
+location: hochsilvar
+event: royal-games
+event_phase: midweek
+factions:
 
-## Banco Valdieri Investigation
+  - city-watch
+  - banking-guild
+  - white-stag
+  - ponte-nero
+  - ventresca-associati
+  - der-kronenschild
 
-_Source: `content/quests/q-banco-valdieri-investigation.md`_
+themes:
+
+  - financial crime
+  - covert jurisdiction
+  - time distortion
+  - refined magic as currency
+---
 
 ## What the party knows (briefing version)
 
@@ -48,5 +59,3 @@ If you push on the right doors (and survive the politics), you can uncover:
 - **Paper trails**: promissory-note signet chains; custody-chain anomalies; documents that look _too_ clean to be honest.
 - **Undercity leads**: smuggling logistics; territorial tells; a name that never comes with a face.
 - **Transport constraints**: refined magic moves like fragile contraband, which creates slow routes, choke points, and opportunities for interception.
-
----

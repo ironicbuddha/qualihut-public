@@ -29,6 +29,12 @@ Two things matter more than spell lists:
 - People pray because it helps. Priests also perform sanctioned rites that sometimes produce real effects.
 - Those rites come with calendars, witnesses, and paperwork. The holy has logistics.
 
+### Mind magic (used judiciously) + wards
+
+- In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a kind of quiet assault: useful, feared, and socially expensive when discovered.
+- **Wards against mind magic are widely available**, and even cheap wards can make manipulation *noticeable*.
+- Player-safe details (what it feels like, how wards work, and what to expect in play): [Mind Magic + Wards](../magic/mind-magic.md)
+
 ### Nature and liminal magic (roads, forests, thresholds)
 
 - Druids and old practitioners treat magic like an ecology: listen, align, pay costs later.

@@ -17,14 +17,32 @@
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
+- [Shifting Oases](#shifting-oases)  `content/environments/shifting-oases.md`
+- [The Desert (Living System)](#the-desert-living-system)  `content/environments/the-desert.md`
+- [The Three-Moon Sea](#the-three-moon-sea)  `content/environments/the-three-moon-sea.md`
+- [Volcanic Faultlands](#volcanic-faultlands)  `content/environments/volcanic-faultlands.md`
 - [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
+- [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
+- [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
+- [Hochsilvar City Square Market](#hochsilvar-city-square-market)  `content/locations/hochsilvar-city-square-market.md`
 - [Hochsilvar](#hochsilvar)  `content/locations/hochsilvar.md`
+- [The Last Lantern Inn](#the-last-lantern-inn)  `content/locations/last-lantern-inn.md`
+- [La Mano Fortunata Guildhouse (The Ivory Wheel Casino)](#la-mano-fortunata-guildhouse-the-ivory-wheel-casino)  `content/locations/mano-fortunata-guildhouse.md`
+- [Avenue of Butchers (Niederstadt)](#avenue-of-butchers-niederstadt)  `content/locations/niederstadt-avenue-of-butchers.md`
+- [The Deep Market (Niederstadt)](#the-deep-market-niederstadt)  `content/locations/niederstadt-deep-market.md`
+- [The Echo Amphitheatre (Niederstadt)](#the-echo-amphitheatre-niederstadt)  `content/locations/niederstadt-echo-amphitheatre.md`
+- [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
+- [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
+- [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
+- [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
+- [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-human-majority-countries.md`
+- [Ifrit](#ifrit)  `content/races/ifrit.md`
 - [Orcs](#orcs)  `content/races/orcs.md`
 
 ---
@@ -324,6 +342,97 @@ Forests are also contested memory. Shrines appear where roads don’t, and certa
 
 ---
 
+## Shifting Oases
+
+_Source: `content/environments/shifting-oases.md`_
+
+## What players would know
+
+In the desert, an oasis is not a town. It’s an **appointment**: water that agrees to be in one place for a while.
+
+Because oases move, ownership is never comfortable. When multiple groups arrive at the same water, you get negotiation, withdrawal, or violence with rules—because the alternative is war that poisons the only thing everyone needs.
+
+### Common rumors
+
+- Some oases “shift” overnight after a tremor, leaving camps stranded with empty skins.
+- The smartest caravans arrive with witnesses, not just guards.
+
+### See also
+
+- [The Desert (Living System)](the-desert.md)
+- [The Travelers](../factions/travelers.md)
+
+---
+
+## The Desert (Living System)
+
+_Source: `content/environments/the-desert.md`_
+
+## What players would know
+
+The desert is not empty. It is unstable.
+
+Water does not “run” here; it **relocates**. Oases appear, vanish, and migrate as if the land is changing its mind. A good map is a story you can trade, not a truth you can trust.
+
+If you travel it, you learn quickly what the settled world forgets: permanence is a luxury. Routes are relationships. Waste is a crime. The desert punishes arrogance faster than violence.
+
+### What survives out there
+
+- Nomadic caravan-clans like [the Travelers](../factions/travelers.md), who treat the road as law.
+- Herds of desert reptiles (beasts of burden, blood, and survival), and the **[Skyrider](../monsters/skyrider.md)** pairs who scout above the dunes.
+- Volcanic corridors and ash valleys, including the [Eastern Passage](../locations/eastern-passage.md), where rumor insists [Ifrit](../races/ifrit.md) keep the rules.
+
+### Common rumors
+
+- The desert produces a seasonal **[desert truffle](../economy/desert-truffle.md)** that the Church quietly depends on.
+- Oases are “temporary courts”: when tribes collide, the fight has rules—or it becomes a war ([Shifting Oases](shifting-oases.md)).
+
+---
+
+## The Three-Moon Sea
+
+_Source: `content/environments/the-three-moon-sea.md`_
+
+## What players would know
+
+The sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated.
+
+Ports live on conditional knowledge: this channel is passable _this month_, at _this moonrise_, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
+
+### Common rumors
+
+- Old charts get people killed because they encourage confidence.
+- Monsters treat shipping lanes like feeding corridors.
+- Some priests can “hear” the tide the way others hear confession.
+
+### See also
+
+- [Sea Trade Routes](../economy/sea-trade-routes.md)
+
+---
+
+## Volcanic Faultlands
+
+_Source: `content/environments/volcanic-faultlands.md`_
+
+## What players would know
+
+The volcanic belt is the Empire’s reminder that the world is unfinished. Ash valleys cut trade in half. Vents open where roads used to be. Old lava tubes become smugglers’ dreams until they become tombs.
+
+Most maps treat the faultlands as “blank” not because no one has looked, but because the terrain refuses permanence. People who travel near it learn to read the sky: not for weather, but for the color of the dust.
+
+### Common rumors
+
+- Some passages only exist for a season, then collapse like a bad promise.
+- Fire-willed beings—[Ifrit](../races/ifrit.md)—treat trespass as fuel.
+
+### See also
+
+- [The Eastern Passage](../locations/eastern-passage.md)
+- [Mountains & Passes](mountains-and-passes.md)
+
+---
+
 ## Banco Valdieri (Bankhouse)
 
 _Source: `content/locations/banco-valdieri-bankhouse.md`_
@@ -332,15 +441,26 @@ _Source: `content/locations/banco-valdieri-bankhouse.md`_
 
 ![Banco Valdieri](images/banco-valdieri-bankhouse.png)
 
-Banco Valdieri’s bankhouse is a marble certainty in the high end of [Hochsilvar](hochsilvar.md): a civic-temple of money with broad steps, dense columns, and a façade designed to make ordinary people feel small.
+Banco Valdieri’s bankhouse is a marble certainty in the high end of
+[Hochsilvar](hochsilvar.md): a civic-temple of money with broad steps, dense
+columns, and a façade designed to make ordinary people feel small.
 
-When something goes wrong here, the city treats it as more than a crime. It becomes a confidence crisis with barricades, clerks, and the kind of “help” that arrives with seals.
+When something goes wrong here, the city treats it as more than a crime.
+It becomes a confidence crisis with barricades, clerks, and the kind of “help”
+that arrives with seals.
+
+![Banco Valdieri (public lobby)](images/banco-valdieri-interior-lobby-01.png)
+
+![Banco Valdieri (ground floor)](images/banco-valdieri-ground-floor-map.png)
+
+![Banco Valdieri (vault)](images/banco-valdieri-vault-map.png)
 
 ### At a glance
 
 - Marble, columns, elevation: the building communicates “verdict,” not “service.”
 - Banking and politics in one place: couriers, legal reps, guild eyes.
-- After the theft: Watch perimeter, controlled entry, and the feeling that the street is being audited.
+- After the theft: Watch perimeter, controlled entry, and the feeling that the
+  street is being audited.
 
 ### See also
 
@@ -348,6 +468,52 @@ When something goes wrong here, the city treats it as more than a crime. It beco
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
 - [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
+
+---
+
+## Banco Valdieri Quarter
+
+_Source: `content/locations/banco-valdieri-quarter.md`_
+
+## What players would know
+
+The Banco Valdieri Quarter is a wealthy slice of Hochsilvar:
+clean stone, guarded
+corners, expensive food, and shops that sell legitimacy at retail. It’s the kind
+of neighborhood where the street feels quieter because the consequences for
+being
+loud are immediate.
+
+![Banco Valdieri Quarter (district map)](images/banco-valdieri-area-map.png)
+
+### Common rumors
+
+- If you can’t afford to eat here, you can still get arrested here.
+- Everyone in the Quarter is either watched or paid to watch.
+
+---
+
+## The Broken Seal
+
+_Source: `content/locations/broken-seal-tavern.md`_
+
+## What players would know
+
+The Broken Seal is a low-rent tavern in Niederstadt: damp stone, thin stew, and a
+crowd that looks like work until you notice how carefully they watch exits.
+
+It is not a guildhouse. It’s where people who don’t trust guildhouses still need
+to meet someone who knows a route.
+
+### Common rumors
+
+- If you say the wrong name here, you’ll hear it again in someone else’s mouth.
+- There’s always a table that stays empty until it doesn’t.
+
+### See also
+
+- [Niederstadt](niederstadt.md)
+- [Thieves' Guilds](../institutions/thieves-guilds.md)
 
 ---
 
@@ -369,6 +535,26 @@ People don’t describe the Wilds as “hostile” so much as attentive. You fee
 ### See also
 
 - [Old-Growth Forests](../environments/old-growth-forests.md)
+
+---
+
+## Hochsilvar City Square Market
+
+_Source: `content/locations/hochsilvar-city-square-market.md`_
+
+## What players would know
+
+![Hochsilvar City Square Market](images/hochsilvar-city-square-market-01.png)
+
+This is Hochsilvar’s main city-square market: a loud wet market where food, candles, rope, soap, and small mercies are bought in the open air beneath Watch eyes.
+
+During **[The Royal Games](../institutions/royal-games.md)** it becomes a moving wall of bodies—chants, drunk supporters, and temporary stalls swelling the lanes until you can’t tell whether you’re being jostled by accident or assessed.
+
+### Common rumors
+
+- If you can’t find it in the Square, it doesn’t exist (yet).
+- Pickpockets work in teams, and the Watch pretends not to see until the wrong victim is chosen.
+- The best information in the city is traded over fish scales and bruised fruit.
 
 ---
 
@@ -413,6 +599,236 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 - [City Watch](../institutions/city-watch.md)
 - [Der Kronenschild](../institutions/der-kronenschild.md)
 - [Der Weitblick](../institutions/der-weitblick.md)
+- [Hochsilvar City Square Market](hochsilvar-city-square-market.md)
+
+---
+
+## The Last Lantern Inn
+
+_Source: `content/locations/last-lantern-inn.md`_
+
+## What players would know
+
+The Last Lantern Inn sits near one of Hochsilvar’s city gates, close enough to
+hear the guards calling names and close enough that the first drink after an
+inspection tastes like mercy.
+
+It attracts travelers, caravan hands, and anyone who prefers to sleep with a
+locked door between them and the road.
+
+### Common rumors
+
+- If you can’t find a guide here, you can find someone who knows a guide.
+- The stew is better on gate-days, because everyone is hungry at the same time.
+
+### See also
+
+- [Hochsilvar](hochsilvar.md)
+- [Travelers](../factions/travelers.md)
+
+---
+
+## La Mano Fortunata Guildhouse (The Ivory Wheel Casino)
+
+_Source: `content/locations/mano-fortunata-guildhouse.md`_
+
+## What players would know
+
+![The Ivory Wheel — Highrollers’ Room](images/ivory-wheel-highrollers-01.png)
+
+The Ivory Wheel is a fashionable casino in a wealthy quarter: warm lamplight,
+polished wood, discreet guards, and enough velvet to make honest people
+uncomfortable. Most patrons never see the highrollers’ rooms. Those who do don’t
+talk about what they lost there.
+
+### Public areas (what you can actually see)
+
+- **Front steps + doormen**: dress and posture are checked before coin is.
+- **Coat check / “courtesy” weapons desk**: polite lockers and receipts.
+- **Main gaming floor**: cards, dice, wheel tables; loud enough to hide a lie.
+- **Cashier / chip cage**: thick bars, sealed slips, and the feeling of a bank in miniature.
+- **Bar + small stage**: music that makes time blurry and conversations feel private.
+- **Balcony rail / upper walk**: a place to watch the room without being in it.
+- **Public sitting alcoves**: velvet benches for negotiations that pretend to be flirting.
+
+### Common rumors
+
+- The Wheel can make debts “go away” if you’re the right kind of desperate.
+- Some wins are just auditions.
+
+### See also
+
+- [La Mano Fortunata](../factions/mano-fortunata.md)
+
+---
+
+## Avenue of Butchers (Niederstadt)
+
+_Source: `content/locations/niederstadt-avenue-of-butchers.md`_
+
+## What players would know
+
+![Avenue of Butchers](images/niederstadt-avenue-of-butchers-01.png)
+
+Avenue of Butchers is Niederstadt’s meat street: a long, covered lane of hooks, smoke, salt, and knives where people buy what keeps and sells what doesn’t.
+
+They’re famous for charcuterie that travels well—sausages, smoked cuts, cured strips—food built for laborers, caravans, and anyone who wants a meal that doesn’t ask questions.
+
+### Common rumors
+
+- If you need something “kept cold” without ice, you go to the Avenue.
+- The knives here are sharper than the Watch’s questions.
+- Everybody owes somebody a favor on meat street.
+
+---
+
+## The Deep Market (Niederstadt)
+
+_Source: `content/locations/niederstadt-deep-market.md`_
+
+## What players would know
+
+The Deep Market is Niederstadt’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
+
+It’s the kind of market where you can buy a meal, a pry bar, and a lie within twenty paces.
+
+### Common rumors
+
+- You don’t haggle over price here; you haggle over what gets remembered.
+- If you see a “new” blade on a stall, someone bled for it already.
+- The safest way to buy a weapon is to buy three and leave one as a courtesy.
+
+---
+
+## The Echo Amphitheatre (Niederstadt)
+
+_Source: `content/locations/niederstadt-echo-amphitheatre.md`_
+
+## What players would know
+
+Deep in Niederstadt there’s an amphitheatre whose acoustics are unnervingly perfect: a whisper on the stone can carry like a confession, and applause can sound like a verdict.
+
+People use it for performances when they want an audience that won’t talk about it later. Others use it because it’s one of the few places below where a message can be heard exactly as spoken—no wind, no street noise, no misunderstanding.
+
+### Common rumors
+
+- If you sing the wrong song here, the city remembers it for you.
+- Some nights you can hear footsteps on the upper tiers when nobody is there.
+- It was built for speeches, not plays.
+
+---
+
+## Niederstadt
+
+_Source: `content/locations/niederstadt.md`_
+
+## What players would know
+
+![Niederstadt](images/niederstadt.png)
+
+Niederstadt is the city beneath [Hochsilvar](hochsilvar.md): aqueducts, older stone, and neighborhoods the surface insists are “temporary” despite being older than some noble houses. It is where water moves, goods move, and secrets move—especially when streets above are watched.
+
+To live topside is to pretend the undercity is an embarrassment. To live below is to know the undercity is infrastructure.
+
+### Common rumors
+
+- If you can’t move it topside, you move it below.
+- The old tunnels weren’t built for the people living there now.
+
+### See also
+
+- [La Compagnia del Ponte Nero](../factions/ponte-nero.md)
+- [Refined Magic](../magic/refined-magic.md)
+- [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
+- [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
+- [The Deep Market (Niederstadt)](niederstadt-deep-market.md)
+
+---
+
+## Plain of Giant's Cups
+
+_Source: `content/locations/plain-of-giants-cups.md`_
+
+## What players would know
+
+![Plain of Giant's Cups](images/plain-of-giants-cups.png)
+
+The Plain of Giant’s Cups is a broad, wind-combed grass plain just off a main trade route. Hundreds of squat stone “cups” (more like thick-lipped jars) stand scattered across the field with no obvious pattern.
+
+Each cup is roughly two metres tall and about four metres across. They have no inscriptions, no runes, and no clear tool marks—just stone that looks like it has always been there. Some are cracked or toppled and half-swallowed by turf; others sit improbably intact, their interiors worn smooth by rain and time.
+
+Caravans usually skirt the edge of the plain. Those who cross do it in daylight, keep fires small, and accept without comment that animals get skittish and sound feels oddly “thin” in the open grass.
+
+### Common rumors
+
+- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
+- The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
+- It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
+- After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.
+
+### See also
+
+- [Covenant of the Long Road](../factions/covenant-of-the-long-road.md)
+
+---
+
+## Ponte Nero Guildhouse (Niederstadt)
+
+_Source: `content/locations/ponte-nero-guildhouse.md`_
+
+## What players would know
+
+In Niederstadt there are “stables” that don’t smell like stables and “pilgrimage
+logistics” offices that seem to know which streets will be closed tomorrow. Most
+people only learn the name Ponte Nero when they need a route more than an answer.
+
+### Common rumors
+
+- Their grooms can move a cart through a riot without anyone drawing steel.
+- If you pay for “legitimate service,” you might get an illegitimate route anyway.
+
+---
+
+## Valdengratz
+
+_Source: `content/locations/valdengratz.md`_
+
+## What players would know
+
+Valdengratz is the big river border-city: customs halls, caravan yards, paperwork, bribes, and “lost” cargo that turns up with a different seal. It is prosperous, watched, and full of people pretending to be ordinary while counting how much the border is worth today.
+
+The border here is not only a line; it’s a market. Everyone sells something: passage, silence, legitimacy, a stamped lid.
+
+### Common rumors
+
+- Customs officers can be bought, but not always twice.
+- The border is a market as much as it is a line.
+
+---
+
+## Valdieri Family Quarters (Imperial City)
+
+_Source: `content/locations/valdieri-family-quarters.md`_
+
+## What players would know
+
+The Valdieri family keeps quarters in Hochsilvar’s Imperial City: the inner ring
+where couriers walk like they’re being watched (because they are) and the stones
+feel older than most laws.
+
+To outsiders it reads as a noble townhouse with bank money: tasteful luxury,
+polite guards, and the kind of quiet that comes from everyone knowing who can
+ruin whom.
+
+### Common rumors
+
+- A Valdieri invitation is worth more than most permits.
+- Their servants hear everything and forget it on command.
+
+### See also
+
+- [Hochsilvar](hochsilvar.md)
+- [Banco Valdieri](../institutions/banco-valdieri.md)
 
 ---
 
@@ -493,6 +909,23 @@ Imperial authority (where it exists at all) is thin. Local lords, guilds, and ca
 
 - Every province has its own petty war brewing.
 - Paper notes and guild favors matter more than crowns.
+
+---
+
+## Ifrit
+
+_Source: `content/races/ifrit.md`_
+
+## What players would know
+
+“Ifrit” is the common name for fire-willed beings associated with volcanic country and hot, thin places where stone remembers heat. People argue about whether they are spirits, elementals, demons, or something older than those categories. The argument doesn’t matter much at the edge of an ash valley.
+
+Most folk who claim to have seen an Ifrit are describing the consequences: scorched footprints that don’t match any boot, voices carried by heat shimmer, and the feeling that the air itself is deciding whether you are permitted to breathe.
+
+### Common rumors
+
+- They keep contracts better than nobles.
+- They punish clever wording by taking it literally.
 
 ---
 

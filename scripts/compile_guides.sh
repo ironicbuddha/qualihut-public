@@ -14,7 +14,7 @@ trim() { sed -E 's/^[[:space:]]+//; s/[[:space:]]+$//'; }
 slugify() {
   echo "$1" \
     | tr '[:upper:]' '[:lower:]' \
-    | sed -E 's/[^a-z0-9[:space:]-]//g; s/[[:space:]]+/-/g; s/-+/-/g; s/^-|-$//g'
+    | sed -E 's/[^a-z0-9[:space:]-]//g; s/[[:space:]]/-/g; s/^-+//; s/-+$//'
 }
 
 has_pandoc() { command -v pandoc >/dev/null 2>&1; }

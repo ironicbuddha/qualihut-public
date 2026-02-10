@@ -7,11 +7,19 @@
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
+- [Shifting Oases](#shifting-oases)  `content/environments/shifting-oases.md`
+- [The Desert (Living System)](#the-desert-living-system)  `content/environments/the-desert.md`
+- [The Three-Moon Sea](#the-three-moon-sea)  `content/environments/the-three-moon-sea.md`
+- [Volcanic Faultlands](#volcanic-faultlands)  `content/environments/volcanic-faultlands.md`
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
-- [Animal Omen](#animal-omen)  `content/magic/animal-omen.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
+- [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
+- [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/magical-tattoo-ink.md`
+- [Mind Magic + Wards](#mind-magic--wards)  `content/magic/mind-magic.md`
+- [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/pattern-recall-daggers.md`
 - [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
+- [Scrying](#scrying)  `content/magic/scrying.md`
 - [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
@@ -19,6 +27,7 @@
 - [Fey](#fey)  `content/races/fey.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-elven-empire.md`
 - [Humans](#humans)  `content/races/humans-living-in-the-human-majority-countries.md`
+- [Ifrit](#ifrit)  `content/races/ifrit.md`
 - [Orcs](#orcs)  `content/races/orcs.md`
 
 ---
@@ -103,6 +112,97 @@ Forests are also contested memory. Shrines appear where roads don’t, and certa
 
 ---
 
+## Shifting Oases
+
+_Source: `content/environments/shifting-oases.md`_
+
+## What players would know
+
+In the desert, an oasis is not a town. It’s an **appointment**: water that agrees to be in one place for a while.
+
+Because oases move, ownership is never comfortable. When multiple groups arrive at the same water, you get negotiation, withdrawal, or violence with rules—because the alternative is war that poisons the only thing everyone needs.
+
+### Common rumors
+
+- Some oases “shift” overnight after a tremor, leaving camps stranded with empty skins.
+- The smartest caravans arrive with witnesses, not just guards.
+
+### See also
+
+- [The Desert (Living System)](the-desert.md)
+- [The Travelers](../factions/travelers.md)
+
+---
+
+## The Desert (Living System)
+
+_Source: `content/environments/the-desert.md`_
+
+## What players would know
+
+The desert is not empty. It is unstable.
+
+Water does not “run” here; it **relocates**. Oases appear, vanish, and migrate as if the land is changing its mind. A good map is a story you can trade, not a truth you can trust.
+
+If you travel it, you learn quickly what the settled world forgets: permanence is a luxury. Routes are relationships. Waste is a crime. The desert punishes arrogance faster than violence.
+
+### What survives out there
+
+- Nomadic caravan-clans like [the Travelers](../factions/travelers.md), who treat the road as law.
+- Herds of desert reptiles (beasts of burden, blood, and survival), and the **[Skyrider](../monsters/skyrider.md)** pairs who scout above the dunes.
+- Volcanic corridors and ash valleys, including the [Eastern Passage](../locations/eastern-passage.md), where rumor insists [Ifrit](../races/ifrit.md) keep the rules.
+
+### Common rumors
+
+- The desert produces a seasonal **[desert truffle](../economy/desert-truffle.md)** that the Church quietly depends on.
+- Oases are “temporary courts”: when tribes collide, the fight has rules—or it becomes a war ([Shifting Oases](shifting-oases.md)).
+
+---
+
+## The Three-Moon Sea
+
+_Source: `content/environments/the-three-moon-sea.md`_
+
+## What players would know
+
+The sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated.
+
+Ports live on conditional knowledge: this channel is passable _this month_, at _this moonrise_, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
+
+### Common rumors
+
+- Old charts get people killed because they encourage confidence.
+- Monsters treat shipping lanes like feeding corridors.
+- Some priests can “hear” the tide the way others hear confession.
+
+### See also
+
+- [Sea Trade Routes](../economy/sea-trade-routes.md)
+
+---
+
+## Volcanic Faultlands
+
+_Source: `content/environments/volcanic-faultlands.md`_
+
+## What players would know
+
+The volcanic belt is the Empire’s reminder that the world is unfinished. Ash valleys cut trade in half. Vents open where roads used to be. Old lava tubes become smugglers’ dreams until they become tombs.
+
+Most maps treat the faultlands as “blank” not because no one has looked, but because the terrain refuses permanence. People who travel near it learn to read the sky: not for weather, but for the color of the dust.
+
+### Common rumors
+
+- Some passages only exist for a season, then collapse like a bad promise.
+- Fire-willed beings—[Ifrit](../races/ifrit.md)—treat trespass as fuel.
+
+### See also
+
+- [The Eastern Passage](../locations/eastern-passage.md)
+- [Mountains & Passes](mountains-and-passes.md)
+
+---
+
 ## Banking Guild
 
 _Source: `content/factions/banking-guild.md`_
@@ -120,23 +220,6 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 ---
 
-## Animal Omen
-
-_Source: `content/magic/animal-omen.md`_
-
-## What players would know
-
-Animal Omen is a druidic practice used by rangers, hermits, and the kind of caravan guides who don’t brag about the trips that went well. At sunset, the caster listens for the land’s “answer” in animal behavior—a sign that is more riddle than report.
-
-The omen doesn’t tell you what is out there. It tells you how wrong it is to stay. A hawk hunting too low, deer moving at noon, crows gathering without a carcass—each is the world tapping the glass.
-
-### Common rumors
-
-- If no animals answer at all—no birds, no insects, no movement—don’t camp. Don’t even light a fire.
-- Some druids say the land goes silent when a Fey Road is near.
-
----
-
 ## The Fey Roads
 
 _Source: `content/magic/fey-roads.md`_
@@ -151,6 +234,7 @@ Most sane folk avoid them. Those who can’t—spies, desperate merchants, pilgr
 
 - You can cross a hundred miles in a night… and lose a week you’ll never remember.
 - Gates demand payment, but the price isn’t always coin.
+- Near a gate, the air can smell like rain on dry stone, even when it hasn’t rained.
 
 ---
 
@@ -175,15 +259,110 @@ Pilgrims and opportunists alike seek these places when they “wake,” because 
 
 ---
 
+## Magic System and Spell Casting
+
+_Source: `content/magic/magic-system-and-spell-casting.md`_
+
+## What players would know
+
+In Qualihut, spellcasting is not a spoken menu—it’s a trained, procedural practice. Words, gestures, and materials are the interface used to shape finite, harvested magic into stable effects.
+
+---
+
+## Magical Tattoo Ink
+
+_Source: `content/magic/magical-tattoo-ink.md`_
+
+## What players would know
+
+Magical tattoo ink is what happens when spellcraft gets personal. Instead of carving runes into stone or binding power into rings, druids tattoo a working onto skin—lines that glow faintly under the right light and shift color when magic is near.
+
+It’s prized because it can’t be stolen as easily as a wand, and feared because it can’t be set down. Veterans sometimes carry “distressed” tattoos that behave a little differently than they did when fresh—like a scar that learned a new habit.
+
+### Common rumors
+
+- The best ink comes from rare insects and is more valuable than gold by the vial.
+- Removing a spell‑tattoo safely is a lie told by people who want your money.
+
+---
+
+## Mind Magic + Wards
+
+_Source: `content/magic/mind-magic.md`_
+
+## What players would know
+
+In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a quiet assault: useful, feared, and socially expensive when discovered.
+
+Because of that, **wards against mind magic are widely available** (from cheap amulets to serious institutional protections), with varying effectiveness.
+
+### What wards do (in plain terms)
+
+Even a cheap ward can make mind magic _noticeable_. You might still get Charmed or compelled, but you can feel the “hook” and know someone is trying to steer you.
+
+More expensive wards improve your odds of resisting (often felt as clarity, steadiness, or the ability to “push back” against a thought that isn’t yours).
+
+### Table expectations (what to expect in play)
+
+- **Out of combat:** mind magic is **always noticeable**.
+- **In combat:** you may need to make a **Wisdom check** to notice it in the moment.
+- If you’re aware but still affected, you’ll usually get a **Wisdom saving throw each round** to shake it off, with **escalating advantage** the longer you fight it.
+- Better wards also confer **advantage on Wisdom saving throws** against mind magic.
+
+### Common rumors
+
+- Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
+- Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
+
+---
+
+## Pattern Recall Daggers
+
+_Source: `content/magic/pattern-recall-daggers.md`_
+
+## What players would know
+
+These plain-looking daggers carry a subtle recall enchantment: when thrown, they always come back.
+
+### Use at the table
+
+- Use normal dagger rules.
+- When you make a thrown attack with the dagger, it returns to your hand at the end of the attack (hit or miss).
+- No attunement required.
+
+### Common rumors
+
+- “There are bureaus that issue these like uniforms.”
+- “Some blades come back warm.”
+
+---
+
 ## Refined Magic
 
 _Source: `content/magic/refined-magic.md`_
 
 ## What players would know
 
+![Refined magic (case)](images/refined-magic.png)
+
 Refined magic is magical power made portable: processed, contained, and traded. Spellcasters use it to push a casting beyond its ordinary limits or to fuel work that would otherwise be impossible. Everyone else treats it the way they treat gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
 
 In much of the Empire and its neighbors, refined magic is becoming a trade standard. Banks and caravans use it to back promissory notes and settle large transactions without hauling bulk coin. Where the [Banking Guild](../factions/banking-guild.md) is strong, it’s regulated, sealed, and audited. Where it isn’t, it moves like contraband with respectable paperwork.
+
+---
+
+## Scrying
+
+_Source: `content/magic/scrying.md`_
+
+## What players would know
+
+Scrying is a family of divination practices used to observe a distant person or place through a medium (a bowl of water, a mirror, a polished stone, smoke). Most people know it exists. Most people also know you don’t talk loudly about who can do it well.
+
+### Common rumors
+
+- The rich pay for privacy wards the way they pay for locks.
+- If you can’t be found, it’s because someone wants you unfound.
 
 ---
 
@@ -306,6 +485,23 @@ Imperial authority (where it exists at all) is thin. Local lords, guilds, and ca
 
 - Every province has its own petty war brewing.
 - Paper notes and guild favors matter more than crowns.
+
+---
+
+## Ifrit
+
+_Source: `content/races/ifrit.md`_
+
+## What players would know
+
+“Ifrit” is the common name for fire-willed beings associated with volcanic country and hot, thin places where stone remembers heat. People argue about whether they are spirits, elementals, demons, or something older than those categories. The argument doesn’t matter much at the edge of an ash valley.
+
+Most folk who claim to have seen an Ifrit are describing the consequences: scorched footprints that don’t match any boot, voices carried by heat shimmer, and the feeling that the air itself is deciding whether you are permitted to breathe.
+
+### Common rumors
+
+- They keep contracts better than nobles.
+- They punish clever wording by taking it literally.
 
 ---
 

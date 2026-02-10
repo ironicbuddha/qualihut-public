@@ -14,9 +14,18 @@ Alarich von Silberhain is [Banco Valdieri](../../institutions/banco-valdieri.md)
 
 He presents as meticulous and coldly professional, the sort of man who treats magic like accounting: every ward a ledger entry, every breach a personal insult.
 
+### At a glance
+
+- Demeanor: calm, exact, hard to impress.
+- Habits: asks for names, times, witnesses; repeats your words back at you.
+- Values (publicly): custody chain, procedure, “audit facts.”
+- What he hates: improvisation, heroics, and anything that makes a clean ledger
+  impossible.
+
 ### Common rumors
 
 - He can audit a lie the way other people audit numbers.
+- He is polite right up until the moment you try to skip a step.
 
 ### See also
 

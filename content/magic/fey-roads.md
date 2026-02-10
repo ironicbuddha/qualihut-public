@@ -15,3 +15,4 @@ Most sane folk avoid them. Those who can’t—spies, desperate merchants, pilgr
 
 - You can cross a hundred miles in a night… and lose a week you’ll never remember.
 - Gates demand payment, but the price isn’t always coin.
+- Near a gate, the air can smell like rain on dry stone, even when it hasn’t rained.

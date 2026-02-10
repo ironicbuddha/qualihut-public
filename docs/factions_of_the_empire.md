@@ -5,18 +5,21 @@
 ## Table of Contents
 
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
-- [The Covenant of the Long Road](#the-covenant-of-the-long-road)  `content/factions/covenant-of-the-long-road.md`
+- [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
 - [The Southern Union](#the-southern-union)  `content/factions/southern-union.md`
-- [White Stag](#white-stag)  `content/factions/white-stag.md`
+- [The Travelers](#the-travelers)  `content/factions/travelers.md`
 - [Banco Valdieri](#banco-valdieri)  `content/institutions/banco-valdieri.md`
 - [Church Caravans](#church-caravans)  `content/institutions/church-caravans.md`
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
+- [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
+- [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
 - [House of Warlocks (Misnomer)](#house-of-warlocks-misnomer)  `content/institutions/house-of-warlocks.md`
 - [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
+- [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
@@ -44,25 +47,30 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 ---
 
-## The Covenant of the Long Road
+## La Mano Fortunata
 
-_Source: `content/factions/covenant-of-the-long-road.md`_
+_Source: `content/factions/mano-fortunata.md`_
 
 ## What players would know
 
-In the desert, a banner doesn’t feed you. A road does. The Covenant of the Long Road is spoken of as an oath made from routes, wells, and mutual obligation—less a nation than a promise that caravans can travel without being bled dry at every crossing.
+La Mano Fortunata (“the Lucky Hand”) is spoken of as a patronage circle that
+collects around games of chance: high stakes, private rooms, and people who always
+seem to be winning at the right time. To most citizens, they’re a rumor with
+money behind it.
 
-To city ears, it sounds almost boring: water rights, safe passage, shared rules for camps and markets. To people who profit from chokepoints, it sounds like revolution in polite clothing.
+### Public footprint
+
+- The name most people recognize is **The Ivory Wheel**, a fashionable casino with discreet guards and expensive silence. (See: [`items/locations/mano-fortunata-guildhouse.md`](../locations/mano-fortunata-guildhouse.md).)
+- Their influence is felt as invitations, introductions, and “luck” that looks like coordination.
 
 ### Common rumors
 
-- A matriarch called “the Unifier” is getting tribes to speak with one voice.
-- The Covenant’s law is carried in songs that list wells like saints.
+- Their “favored” can get an appointment anywhere that takes bribes.
+- Losing to them is worse than losing money.
 
 ### See also
 
-- [The Travelers](travelers.md)
-- [The Desert (Living System)](../environments/the-desert.md)
+- [Thieves' Guilds](../institutions/thieves-guilds.md)
 
 ---
 
@@ -100,13 +108,67 @@ Union diplomats smile like merchants and argue like lawyers. In border taverns y
 
 ---
 
-## White Stag
+## The Travelers
 
-_Source: `content/factions/white-stag.md`_
+_Source: `content/factions/travelers.md`_
 
 ## What players would know
 
-Rumors persist that the Empire maintains deniable “liaison teams” for matters too politically delicate for normal arrests and normal paperwork. Sometimes they appear as helpful auditors. Sometimes as polite investigators. Sometimes as nobody at all—just a question that arrives with a seal and no return address.
+![A Traveler](images/travelers.png)
+
+People in settled lands call them “the Travelers” because it’s easier than learning the names of a dozen caravan-clans and their rules. They call themselves “the people who wander”. They move with the desert instead of against it: matriarchs bargain for water, routes, and shelter; caravans carry news like a living postal service; and their tents appear on the horizon like a mirage that decided to be practical.
+
+To outsiders, they can look like smugglers, pilgrims, traders, or refugees depending on the day. To the Travelers, those are roles, not identities. What matters is whether you respect the road: how you take water, what you leave behind, and whether you keep your word when the map stops caring.
+
+### Society on the move
+
+- **Caravan-clans, not a nation**: a tribe is a moving network of tents, herds, debts, and witnesses. Membership is a web of obligation more than blood.
+- **Matrilineal authority**: matriarchs adjudicate water rights, route access, and feuds. They don’t command armies; they command _permission_.
+- **Accounting as ethics**: water is counted, grazing is negotiated, waste is punished. In desert law, carelessness is theft.
+
+### “The Tour” (coming-of-age wandering)
+
+When a Traveler male comes of age, he is expected to leave his birth-group and travel—alone or in small bands—between tribes. This wandering is called **the Tour**. It is not exile; it is circulation.
+
+- **Arrival without arrows**: a Tourer who keeps the road-signs and approaches under the correct call is not attacked.
+- **The matriarch’s test**: the receiving matriarch sets a task. If he succeeds, he may be taken into the tribe’s web (by marriage, oath, or sponsorship). If he fails, he moves on with a story and a debt.
+- **Those who don’t find a tribe** often become the desert’s connective tissue in other forms: caravan hands, interpreters, city-runners, and “respectable” middlemen who can speak both sand and stone.
+
+### The sky-bonded
+
+Tourers bond with a **[Skyrider](../monsters/skyrider.md)**: a flying desert reptile—a gliding, heat-loving hunter used as scout, courier, and omen. In settled lands, people often use “skyrider” to mean the bonded rider, the animal, or the pair; Travelers are more precise when it matters.
+
+The bond is spoken of as **telepathic** in the way sailors speak of storms: not a metaphor, but a practical fact. A bonded pair can find each other across dunes, hold a course through dust that would blind a caravan, and sense danger before it has a shape.
+
+### Truffle harvest and sacrament rumors
+
+In church and court, the polite story is that a **[desert truffle](../economy/desert-truffle.md)**—harvested under strict seasonal constraints—is part of the [Solar Church](../institutions/solar-church.md)’s sacrament supply ([Sacrament Administration](../institutions/sacrament-administration.md)). Most people don’t know whether the Travelers are the harvesters, the guardians, or merely the ones who can move it without it spoiling.
+
+### Oases and the politics of thirst
+
+The desert’s oases are not towns. They are **appointments**—fleeting water in a landscape that refuses permanence. When multiple tribes converge on the same water, disputes turn into escalating violence or withdrawal to potential death by thirst.
+
+### The Eastern Passage and the Ifrit
+
+There is an eastern route through volcanic country—**the [Eastern Passage](../locations/eastern-passage.md)**—that outsiders call impossible. Travelers call it expensive. Stories say **[Ifrit](../races/ifrit.md)** keep it, and that caravans cross only by treaty, tribute, and the kind of promises that cannot be written down.
+
+### Common rumors
+
+- Their laws are older than the border stones, and harsher about waste than any city ordinance.
+- A Traveler caravan can guide you across the bad stretches… for a price that isn’t always coin.
+- Tourers who return with empty hands come back speaking like city clerks and sleeping like hunted animals.
+- The sky-riders can smell a well before a scout can see it.
+
+### See also
+
+- [The Desert (Living System)](../environments/the-desert.md)
+- [Shifting Oases](../environments/shifting-oases.md)
+- [Desert Truffle](../economy/desert-truffle.md)
+- [Desert Bamboo (Fast-Growth Trees)](../economy/desert-bamboo.md)
+- [Great Desert Reptiles](../monsters/great-desert-reptiles.md)
+- [Skyrider](../monsters/skyrider.md)
+- [The Eastern Passage](../locations/eastern-passage.md)
+- [Ifrit](../races/ifrit.md)
 
 ---
 
@@ -183,6 +245,23 @@ If the City Watch is local law, Kronenschild is the Crown’s cross‑jurisdicti
 
 ---
 
+## Der Sonnenmarsch
+
+_Source: `content/institutions/der-sonnenmarsch.md`_
+
+## What players would know
+
+Der Sonnenmarsch—“the Sun March”—is the Empire’s great pilgrimage season, when roads become rivers of people and faith turns into logistics. Merchants follow the pilgrims, pilgrims follow the banners, and everyone pretends the crowds are only about devotion and not about money, favors, and who gets to be seen walking close to the light.
+
+The Church speaks of it as the Golden Walk: a chance to renew oaths, witness sanctioned miracles, and put your footsteps where your prayers have been pointing all year. City officials speak of it as a scheduling nightmare. Bandits speak of it as an opportunity, until they learn how many guards feel holy that week.
+
+### Common rumors
+
+- Every Sonnenmarsch has at least one “miracle” and at least one massacre—usually the same event, depending on where you stood.
+- If the march ever truly failed, people would still walk. That’s what scares the court.
+
+---
+
 ## Der Weitblick
 
 _Source: `content/institutions/der-weitblick.md`_
@@ -215,6 +294,23 @@ Day-to-day power is local: lords, guilds, churches, mayors, caravan captains. Th
 
 ---
 
+## Die Hochkathedrale der Ewigen Flamme
+
+_Source: `content/institutions/hochkathedrale-der-ewigen-flamme.md`_
+
+## What players would know
+
+The High Cathedral of the Eternal Flame is the [Solar Church](solar-church.md)’s crown of stone and light—part temple, part court, part machine for turning doctrine into enforceable reality. Pilgrims come to pray. Nobles come to be seen praying. Everyone else comes because the Cathedral’s decisions ripple outward into taxes, marriages, pardons, and wars.
+
+Loyalists call it the Sun Crown. Common folk call it simply “the Flame,” as if naming it too fully would invite attention. Standing in its precinct feels like being watched by a beautiful idea that does not always care about people.
+
+### Common rumors
+
+- The Cathedral keeps archives that can unmake a noble house with a single page.
+- On certain feast days, the light inside falls at angles that make liars nauseous.
+
+---
+
 ## House of Warlocks (Misnomer)
 
 _Source: `content/institutions/house-of-warlocks.md`_
@@ -243,6 +339,23 @@ They are also the one house commonly associated with **warlock power**—not as 
 - Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
 - Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
 - Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
+
+---
+
+## Imperial Monasteries
+
+_Source: `content/institutions/imperial-monasteries.md`_
+
+## What players would know
+
+Imperial monasteries sit where towns don’t: on dangerous roads, near old stones, and in valleys where the wind sounds like it’s remembering something. To travelers they’re refuge—warmth, bread, a place to sleep without a knife at your throat. To officials they’re outposts, record houses, and quiet points of influence beyond city walls.
+
+Some monasteries are thriving, with gardens and disciplined hospitality. Others are half‑abandoned, still tended by a handful of stubborn monks who act like the world ending is just another chore. Either way, people speak of monasteries as places where you can ask for help… and where help always comes with a lesson.
+
+### Common rumors
+
+- Monks know which roads are “wrong” this season, even when maps insist they’re fine.
+- An abandoned monastery is never truly empty; it’s just between owners.
 
 ---
 
