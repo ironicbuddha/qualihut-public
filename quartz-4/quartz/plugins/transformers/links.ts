@@ -149,10 +149,16 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
 
                 if (!isAbsoluteUrl(node.properties.src, { httpOnly: false })) {
                   let dest = node.properties.src as RelativeURL
+                  // Media paths should remain relative to the current document.
+                  // Using "shortest" can incorrectly collapse `images/...` to `/images/...`.
+                  const mediaTransformOptions: TransformOptions = {
+                    ...transformOptions,
+                    strategy: "relative",
+                  }
                   dest = node.properties.src = transformLink(
                     file.data.slug!,
                     dest,
-                    transformOptions,
+                    mediaTransformOptions,
                   )
                   node.properties.src = dest
                 }
