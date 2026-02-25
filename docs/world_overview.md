@@ -17,7 +17,6 @@
 - [Salt Pork (Jar Trade)](#salt-pork-jar-trade)  `content/economy/salt-pork.md`
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
-- [Yage](#yage)  `content/economy/yage.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
@@ -31,6 +30,7 @@
 - [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
+- [Duvalli Vineyard](#duvalli-vineyard)  `content/locations/duvalli-vineyard.md`
 - [Hochsilvar City Square Market](#hochsilvar-city-square-market)  `content/locations/hochsilvar-city-square-market.md`
 - [Hochsilvar](#hochsilvar)  `content/locations/hochsilvar.md`
 - [The Last Lantern Inn](#the-last-lantern-inn)  `content/locations/last-lantern-inn.md`
@@ -39,7 +39,6 @@
 - [The Deep Market (Niederstadt)](#the-deep-market-niederstadt)  `content/locations/niederstadt-deep-market.md`
 - [The Echo Amphitheatre (Niederstadt)](#the-echo-amphitheatre-niederstadt)  `content/locations/niederstadt-echo-amphitheatre.md`
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
-- [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
@@ -393,36 +392,6 @@ Real routes are conditional: a certain moonrise, a certain season, a certain cap
 
 ---
 
-## Yage
-
-_Source: `content/economy/yage.md`_
-
-## What players would know
-
-### Illustration (player-safe)
-
-![Yage](images/yage.png)
-
-Yage is a controlled intoxicant made from dried, powdered black centipedes and
-stabilizing binders. In small doses it loosens thought patterns; in heavy doses
-it can scramble speech into fluent but unstable glossolalia.
-
-It appears in three social lanes:
-
-- shamanic circles (ritualized, supervised),
-- orc research contexts (instrumental, measured),
-- undercity dens (recreational and often unsafe).
-
-### Common rumors
-
-- "Yage does not give prophecy; it strips the lies you tell yourself."
-- "The first dose gives clarity. The third dose gives certainty. Certainty gets
-  people killed."
-- "Bad batches make spell phrases drift just enough to fail at the worst
-  moment."
-
----
-
 ## Yellow Grass
 
 _Source: `content/economy/yellow-grass.md`_
@@ -762,6 +731,29 @@ People don’t describe the Wilds as “hostile” so much as attentive. You fee
 
 ---
 
+## Duvalli Vineyard
+
+_Source: `content/locations/duvalli-vineyard.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Duvalli Vineyard](images/duvalli-vineyard.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+Duvalli Vineyard is spoken of as a remote wine estate supplying select merchants in Hochsilvar. Most people know it by label, not by map.
+
+Caravans that claim Duvalli origin are treated as routine trade, which makes the name useful for legitimate commerce and suspicious movement alike.
+
+### Common rumors
+
+- The vineyard’s best years correlate suspiciously well with years of border unrest.
+- Some “Duvalli” consignments never touched vines at all.
+
+---
+
 ## Hochsilvar City Square Market
 
 _Source: `content/locations/hochsilvar-city-square-market.md`_
@@ -972,33 +964,6 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 - [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
 - [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
 - [The Deep Market (Niederstadt)](niederstadt-deep-market.md)
-
----
-
-## Plain of Giant's Cups
-
-_Source: `content/locations/plain-of-giants-cups.md`_
-
-## What players would know
-
-![Plain of Giant's Cups](images/plain-of-giants-cups.png)
-
-The Plain of Giant’s Cups is a broad, wind-combed grass plain just off a main trade route. Hundreds of squat stone “cups” (more like thick-lipped jars) stand scattered across the field with no obvious pattern.
-
-Each cup is roughly two metres tall and about four metres across. They have no inscriptions, no runes, and no clear tool marks—just stone that looks like it has always been there. Some are cracked or toppled and half-swallowed by turf; others sit improbably intact, their interiors worn smooth by rain and time.
-
-Caravans usually skirt the edge of the plain. Those who cross do it in daylight, keep fires small, and accept without comment that animals get skittish and sound feels oddly “thin” in the open grass.
-
-### Common rumors
-
-- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
-- The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
-- It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
-- After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.
-
-### See also
-
-- [Covenant of the Long Road](../factions/covenant-of-the-long-road.md)
 
 ---
 

@@ -16,16 +16,38 @@
 - [Church Caravans](#church-caravans)  `content/institutions/church-caravans.md`
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
 - [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
-- [Cult of the Liminal Network](#cult-of-the-liminal-network)  `content/institutions/cult-of-the-liminal-network.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
 - [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
+- [House Bellarossa](#house-bellarossa)  `content/institutions/house-bellarossa.md`
+- [House Malvieri](#house-malvieri)  `content/institutions/house-malvieri.md`
+- [House of Sorcery (Misnomer)](#house-of-sorcery-misnomer)  `content/institutions/house-of-sorcery.md`
 - [House of Warlocks (Misnomer)](#house-of-warlocks-misnomer)  `content/institutions/house-of-warlocks.md`
+- [House Orsatti](#house-orsatti)  `content/institutions/house-orsatti.md`
+- [House Orsini](#house-orsini)  `content/institutions/house-orsini.md`
+- [House Sforzetti](#house-sforzetti)  `content/institutions/house-sforzetti.md`
+- [House Ventresca](#house-ventresca)  `content/institutions/house-ventresca.md`
+- [House Venturi](#house-venturi)  `content/institutions/house-venturi.md`
+- [House von Dornfels](#house-von-dornfels)  `content/institutions/house-von-dornfels.md`
+- [House von Eichenwald](#house-von-eichenwald)  `content/institutions/house-von-eichenwald.md`
+- [House von Eisenforst](#house-von-eisenforst)  `content/institutions/house-von-eisenforst.md`
+- [House von Falkenried](#house-von-falkenried)  `content/institutions/house-von-falkenried.md`
+- [House von Grauband](#house-von-grauband)  `content/institutions/house-von-grauband.md`
+- [House von Hartwyck](#house-von-hartwyck)  `content/institutions/house-von-hartwyck.md`
+- [House von Hirschkrone](#house-von-hirschkrone)  `content/institutions/house-von-hirschkrone.md`
+- [House von Kaltbruck](#house-von-kaltbruck)  `content/institutions/house-von-kaltbruck.md`
+- [House von Nachtquell](#house-von-nachtquell)  `content/institutions/house-von-nachtquell.md`
+- [House von Silberhain](#house-von-silberhain)  `content/institutions/house-von-silberhain.md`
+- [House von Sonnenfels](#house-von-sonnenfels)  `content/institutions/house-von-sonnenfels.md`
+- [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
+- [House von Weissdorn](#house-von-weissdorn)  `content/institutions/house-von-weissdorn.md`
+- [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Lamp Feeders (Niederstadt Utility)](#lamp-feeders-niederstadt-utility)  `content/institutions/lamp-feeders-niederstadt.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
+- [Noble House Roster (Twenty Houses)](#noble-house-roster-twenty-houses)  `content/institutions/noble-house-roster.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
@@ -350,26 +372,6 @@ In some cities, a small black droplet painted on a doorframe is enough to make a
 
 ---
 
-## Cult of the Liminal Network
-
-_Source: `content/institutions/cult-of-the-liminal-network.md`_
-
-## What players would know
-
-### Illustration (player-safe)
-
-![Cult of the Liminal Network](images/cult-of-the-liminal-network.png)
-
-The Cult of the Liminal Network gathers where borders blur: root-cellars that crack into caves, sinkholes webbed with pale fungi, and groves where the ground feels attentive. They don’t preach a god. They preach the network between—soil and sky, memory and rot, thought and breath.
-
-### Common rumors
-
-- Their initiates drink “harmless” fungal draughts and come back changed.
-- They hate prophets, but not because they hate revelation—because they distrust single witnesses.
-- If you hear branching lines scratched into stone, someone has been here.
-
----
-
 ## Der Kronenschild
 
 _Source: `content/institutions/der-kronenschild.md`_
@@ -453,6 +455,77 @@ Loyalists call it the Sun Crown. Common folk call it simply “the Flame,” as 
 
 ---
 
+## House Bellarossa
+
+_Source: `content/institutions/house-bellarossa.md`_
+
+## What players would know
+
+House Bellarossa is one of the Twenty Houses. It is most often associated with
+court spectacle patronage, reputation warfare, and scandal brokerage.
+
+They weaponize narrative, ceremony, and public mood.
+
+### Sigil (player-safe)
+
+![House Bellarossa Sigil](images/house-bellarossa-sigil.png)
+
+### Common rumors
+
+- Bellarossa can ruin a rival with applause and a rumor in the same night.
+- Their festivals are intelligence operations with better lighting.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House Malvieri
+
+_Source: `content/institutions/house-malvieri.md`_
+
+## What players would know
+
+House Malvieri is one of the Twenty Houses. It is most often associated with
+distressed-estate acquisition, quiet foreclosures, and inheritance predation.
+
+They profit most when grief and paperwork overlap.
+
+### Sigil (player-safe)
+
+![House Malvieri Sigil](images/house-malvieri-sigil.png)
+
+### Common rumors
+
+- Malvieri buys manors at condolences and sells them at weddings.
+- A Malvieri appraiser can smell panic through stone walls.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House of Sorcery (Misnomer)
+
+_Source: `content/institutions/house-of-sorcery.md`_
+
+## What players would know
+
+"House of Sorcery" is a common outsider label for
+**[House von Stillwort](house-von-stillwort.md)**.
+
+If you are looking for the canonical house entry, use
+**[House von Stillwort](house-von-stillwort.md)**.
+
+### Common rumors
+
+- People using this name are usually repeating old court gossip.
+- Anyone who says "House of Sorcery" in front of Stillwort staff gets corrected.
+
+---
+
 ## House of Warlocks (Misnomer)
 
 _Source: `content/institutions/house-of-warlocks.md`_
@@ -462,6 +535,492 @@ _Source: `content/institutions/house-of-warlocks.md`_
 “House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**.
 
 If you’re looking for the canonical entry, use **[House von Stillwort](house-von-stillwort.md)**.
+
+---
+
+## House Orsatti
+
+_Source: `content/institutions/house-orsatti.md`_
+
+## What players would know
+
+House Orsatti is one of the Twenty Houses. It is most often associated with
+cavalry studs, draft-beast breeding, and stable intelligence networks.
+
+They convert animal logistics into military and commercial foresight.
+
+### Sigil (player-safe)
+
+![House Orsatti Sigil](images/house-orsatti-sigil.png)
+
+### Common rumors
+
+- Orsatti knows who is moving troops by counting horse feed orders.
+- Their breeders can bankrupt rivals by controlling quality bloodstock.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House Orsini
+
+_Source: `content/institutions/house-orsini.md`_
+
+## What players would know
+
+House Orsini is one of the Twenty Houses. It is most often associated with
+marriage diplomacy, hostage etiquette, and salon intelligence exchanges.
+
+They specialize in elegant social coercion packaged as civility.
+
+### Sigil (player-safe)
+
+![House Orsini Sigil](images/house-orsini-sigil.png)
+
+### Common rumors
+
+- Orsini engagements settle border disputes better than treaties.
+- Their salons leak just enough truth to direct negotiations.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House Sforzetti
+
+_Source: `content/institutions/house-sforzetti.md`_
+
+## What players would know
+
+House Sforzetti is one of the Twenty Houses. It is most often associated with
+disciplined house arms, levy logistics, and coercive debt enforcement.
+
+They are a military-administrative house that monetizes order by force.
+
+### Sigil (player-safe)
+
+![House Sforzetti Sigil](images/house-sforzetti-sigil.png)
+
+### Common rumors
+
+- Sforzetti can field disciplined force before most rivals finish arguing.
+- Their debt notices arrive with quartermasters, not lawyers.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House Ventresca
+
+_Source: `content/institutions/house-ventresca.md`_
+
+## What players would know
+
+House Ventresca is one of the Twenty Houses. It is most often associated with
+maritime finance, convoy insurance, and freight leverage networks.
+
+Merchant-facing operations are often fronted by [Ventresca & Associati](../factions/ventresca-associati.md).
+
+### Sigil (player-safe)
+
+![House Ventresca Sigil](images/house-ventresca-sigil.png)
+
+### Common rumors
+
+- If Ventresca stops underwriting a route, everyone calls it cursed by noon.
+- Their insurance terms decide which cargo is considered indispensable.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House Venturi
+
+_Source: `content/institutions/house-venturi.md`_
+
+## What players would know
+
+House Venturi is one of the Twenty Houses. It is most often associated with
+wizard colleges, exam patronage, and archive funding pipelines.
+
+They are the most visible aristocratic patrons of respectable wizard institutions.
+
+### Sigil (player-safe)
+
+![House Venturi Sigil](images/house-venturi-sigil.jpg)
+
+### Common rumors
+
+- Venturi scholarships buy loyalty before students know they were purchased.
+- Their exams test obedience to method as much as magical skill.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Dornfels
+
+_Source: `content/institutions/house-von-dornfels.md`_
+
+## What players would know
+
+House von Dornfels is one of the Twenty Houses. It is most often associated with
+deep strategy cells, deniable statecraft, and pressure diplomacy.
+
+Their courtiers are known for polite language that still feels like coercion.
+
+### Sigil (player-safe)
+
+![House von Dornfels Sigil](images/house-von-dornfels-sigil.png)
+
+### Common rumors
+
+- They never threaten first; they change incentives until threats are unnecessary.
+- Every Dornfels dinner seats at least one person who should not be in the room.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Eichenwald
+
+_Source: `content/institutions/house-von-eichenwald.md`_
+
+## What players would know
+
+House von Eichenwald is one of the Twenty Houses. It is most often associated with
+procedural oversight, committee capture, and quiet compliance operations.
+
+They are strong in ministries that punish mistakes through process rather than force.
+
+### Sigil (player-safe)
+
+![House von Eichenwald Sigil](images/house-von-eichenwald-sigil.png)
+
+### Common rumors
+
+- If Eichenwald asks for more paperwork, someone is about to lose discretion.
+- Their committees never raise their voices, only their jurisdiction.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Eisenforst
+
+_Source: `content/institutions/house-von-eisenforst.md`_
+
+## What players would know
+
+House von Eisenforst is one of the Twenty Houses. It is most often associated with
+iron supply, armory contracts, and siege-material provisioning.
+
+They dominate heavy-material logistics more than battlefield command.
+
+### Sigil (player-safe)
+
+![House von Eisenforst Sigil](images/house-von-eisenforst-sigil.png)
+
+### Common rumors
+
+- Eisenforst can win a war by choosing which forges run late.
+- Their contract terms decide whether peace feels affordable.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Falkenried
+
+_Source: `content/institutions/house-von-falkenried.md`_
+
+## What players would know
+
+House von Falkenried is one of the Twenty Houses. It is most often associated with
+courier relays, signal towers, and long-distance dispatch security.
+
+They control speed and trust in overland communication systems.
+
+### Sigil (player-safe)
+
+![House von Falkenried Sigil](images/house-von-falkenried-sigil.png)
+
+### Common rumors
+
+- A Falkenried message can cross three provinces before dawn.
+- If a dispatch vanishes, Falkenried knows exactly where it vanished.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Grauband
+
+_Source: `content/institutions/house-von-grauband.md`_
+
+## What players would know
+
+House von Grauband is one of the Twenty Houses. It is most often associated with
+contract law rigs, magistrate clerks, and debt-litigation machines.
+
+They dominate legal scaffolding rather than battlefield power.
+
+### Sigil (player-safe)
+
+![House von Grauband Sigil](images/house-von-grauband-sigil.png)
+
+### Common rumors
+
+- Grauband wins cases by writing the forms opponents must use.
+- People leave Grauband hearings poorer and unsure why.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Hartwyck
+
+_Source: `content/institutions/house-von-hartwyck.md`_
+
+## What players would know
+
+House von Hartwyck is one of the Twenty Houses. It is most often associated with
+lineage medicine, heir viability assessments, and fertility politics.
+
+They turn medical authority into dynastic leverage.
+
+### Sigil (player-safe)
+
+![House von Hartwyck Sigil](images/house-von-hartwyck-sigil.jpg)
+
+### Common rumors
+
+- Hartwyck physicians can decide whether a marriage market opens or closes.
+- Their diagnoses are treated like court rulings in silk.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Hirschkrone
+
+_Source: `content/institutions/house-von-hirschkrone.md`_
+
+## What players would know
+
+House von Hirschkrone is one of the Twenty Houses. It is most often associated with
+frontier game rights, ranger patronage, and forest-border enforcement.
+
+They style themselves as wardens of the edge where law becomes weather.
+
+### Sigil (player-safe)
+
+![House von Hirschkrone Sigil](images/house-von-hirschkrone-sigil.png)
+
+### Common rumors
+
+- No major hunt runs legally without Hirschkrone signatures somewhere in the chain.
+- Their rangers know trails that maps pretend do not exist.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Kaltbruck
+
+_Source: `content/institutions/house-von-kaltbruck.md`_
+
+## What players would know
+
+House von Kaltbruck is one of the Twenty Houses. It is most often associated with
+mountain toll chains, winter granaries, and cold-route monopolies.
+
+They rule bottlenecks where geography becomes a tax instrument.
+
+### Sigil (player-safe)
+
+![House von Kaltbruck Sigil](images/house-von-kaltbruck-sigil.png)
+
+### Common rumors
+
+- When passes close, Kaltbruck decides who starves first.
+- Their toll clerks can make scarcity look like weather, not policy.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Nachtquell
+
+_Source: `content/institutions/house-von-nachtquell.md`_
+
+## What players would know
+
+House von Nachtquell is one of the Twenty Houses. It is most often associated with
+undercity waterworks, cistern access control, and tunnel logistics.
+
+They sit at the junction of infrastructure control and subterranean politics.
+
+### Sigil (player-safe)
+
+![House von Nachtquell Sigil](images/house-von-nachtquell-sigil.jpg)
+
+### Common rumors
+
+- Nachtquell can flood a district by enforcing maintenance too literally.
+- Their cistern keys are more valuable than some crowns.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Silberhain
+
+_Source: `content/institutions/house-von-silberhain.md`_
+
+## What players would know
+
+House von Silberhain is one of the Twenty Houses. It is most often associated with
+wardcraft auditing, vault-binding expertise, and magical custody protocols.
+
+They are treated as technical arbiters whenever institutions fight over magical evidence.
+
+### Sigil (player-safe)
+
+![House von Silberhain Sigil](images/house-von-silberhain-sigil.jpg)
+
+### Common rumors
+
+- Silberhain audits can ruin a bank faster than robbery.
+- If they say a seal held, everyone asks who satisfied it.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Sonnenfels
+
+_Source: `content/institutions/house-von-sonnenfels.md`_
+
+## What players would know
+
+House von Sonnenfels is one of the Twenty Houses. It is most often associated with
+imperial law theater, sacrament legitimacy, and succession arbitration.
+
+Their public identity is closely tied to [Althar](../people/magical-creatures/althar.md) and solar legal ritual.
+
+### Sigil (player-safe)
+
+![House von Sonnenfels Sigil](images/house-von-sonnenfels-sigil.png)
+
+### Common rumors
+
+- A Sonnenfels clerk can make a disputed heir look inevitable by sunset.
+- Their witnesses remember everything that helps the empire and little else.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## House von Stillwort
+
+_Source: `content/institutions/house-von-stillwort.md`_
+
+## What players would know
+
+House von Stillwort is an elven noble house known for immaculate restraint: soft voices, precise clothing, and the feeling that even their silences are practiced. In court they present as advisors, archivists, and “quiet overseers” whose influence arrives without spectacle and leaves people rearranging their lives around new procedures.
+
+They are also the one house commonly associated with **warlock power**—not as a free-for-all talent, but as a lineage-bound inheritance tied to an ancestral bargain. In the popular telling, warlock power has **manifested in their bloodline** ever since.
+
+### Sigil (player-safe)
+
+![House von Stillwort Sigil](images/house-von-stillwort-sigil.png)
+
+### Common rumors
+
+- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
+- Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
+- Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
+- Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
+
+---
+
+## House von Weissdorn
+
+_Source: `content/institutions/house-von-weissdorn.md`_
+
+## What players would know
+
+House von Weissdorn is one of the Twenty Houses. It is most often associated with
+shrine estates, moon-calendric agriculture, and ritual hosting rights.
+
+They bind agrarian timing, local devotion, and estate authority.
+
+### Sigil (player-safe)
+
+![House von Weissdorn Sigil](images/house-von-weissdorn-sigil.jpg)
+
+### Common rumors
+
+- Weissdorn almanacs can change planting behavior across provinces.
+- Their shrine festivals quietly settle local power balances.
+
+### See also
+
+- [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+
+---
+
+## Imperial Monasteries
+
+_Source: `content/institutions/imperial-monasteries.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Imperial Monasteries](images/imperial-monasteries.png)
+
+Imperial monasteries sit where towns don’t: on dangerous roads, near old stones, and in valleys where the wind sounds like it’s remembering something. To travelers they’re refuge—warmth, bread, a place to sleep without a knife at your throat. To officials they’re outposts, record houses, and quiet points of influence beyond city walls.
+
+Some monasteries are thriving, with gardens and disciplined hospitality. Others are half‑abandoned, still tended by a handful of stubborn monks who act like the world ending is just another chore. Either way, people speak of monasteries as places where you can ask for help… and where help always comes with a lesson.
+
+### Common rumors
+
+- Monks know which roads are “wrong” this season, even when maps insist they’re fine.
+- An abandoned monastery is never truly empty; it’s just between owners.
 
 ---
 
@@ -526,6 +1085,69 @@ In practice, a merchant seal can open doors a baron can’t—because the baron 
 
 - A merchant’s seal is worth more than a baron’s.
 - Merchant houses purchase minor titles to dodge tariffs.
+
+---
+
+## Noble House Roster (Twenty Houses)
+
+_Source: `content/institutions/noble-house-roster.md`_
+
+## What players would know
+
+Court clerks, card printers, and heralds often talk about the "Twenty Houses":
+the noble roster most commonly used for state ceremonies, betting decks, and
+marriage politics. Different cities argue about rank order, but the names are
+widely recognized.
+
+## The Twenty Houses (common register)
+
+1. [House von Sonnenfels](house-von-sonnenfels.md)
+2. [House von Dornfels](house-von-dornfels.md)
+3. [House von Eichenwald](house-von-eichenwald.md)
+4. [House von Hirschkrone](house-von-hirschkrone.md)
+5. [House von Stillwort](house-von-stillwort.md)
+6. [House von Silberhain](house-von-silberhain.md)
+7. [House Venturi](house-venturi.md)
+8. [House von Grauband](house-von-grauband.md)
+9. [House Ventresca](house-ventresca.md)
+10. [House Malvieri](house-malvieri.md)
+11. [House Orsini](house-orsini.md)
+12. [House Sforzetti](house-sforzetti.md)
+13. [House von Falkenried](house-von-falkenried.md)
+14. [House von Hartwyck](house-von-hartwyck.md)
+15. [House von Kaltbruck](house-von-kaltbruck.md)
+16. [House von Eisenforst](house-von-eisenforst.md)
+17. [House Bellarossa](house-bellarossa.md)
+18. [House von Nachtquell](house-von-nachtquell.md)
+19. [House Orsatti](house-orsatti.md)
+20. [House von Weissdorn](house-von-weissdorn.md)
+
+### House Sigil Grid (5 x 4)
+
+| 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- |
+| ![House von Sonnenfels Sigil](images/house-von-sonnenfels-sigil.png)<br>[House von Sonnenfels](house-von-sonnenfels.md) | ![House von Dornfels Sigil](images/house-von-dornfels-sigil.png)<br>[House von Dornfels](house-von-dornfels.md) | ![House von Eichenwald Sigil](images/house-von-eichenwald-sigil.png)<br>[House von Eichenwald](house-von-eichenwald.md) | ![House von Hirschkrone Sigil](images/house-von-hirschkrone-sigil.png)<br>[House von Hirschkrone](house-von-hirschkrone.md) | ![House von Stillwort Sigil](images/house-von-stillwort-sigil.png)<br>[House von Stillwort](house-von-stillwort.md) |
+| ![House von Silberhain Sigil](images/house-von-silberhain-sigil.jpg)<br>[House von Silberhain](house-von-silberhain.md) | ![House Venturi Sigil](images/house-venturi-sigil.jpg)<br>[House Venturi](house-venturi.md) | ![House von Grauband Sigil](images/house-von-grauband-sigil.png)<br>[House von Grauband](house-von-grauband.md) | ![House Ventresca Sigil](images/house-ventresca-sigil.png)<br>[House Ventresca](house-ventresca.md) | ![House Malvieri Sigil](images/house-malvieri-sigil.png)<br>[House Malvieri](house-malvieri.md) |
+| ![House Orsini Sigil](images/house-orsini-sigil.png)<br>[House Orsini](house-orsini.md) | ![House Sforzetti Sigil](images/house-sforzetti-sigil.png)<br>[House Sforzetti](house-sforzetti.md) | ![House von Falkenried Sigil](images/house-von-falkenried-sigil.png)<br>[House von Falkenried](house-von-falkenried.md) | ![House von Hartwyck Sigil](images/house-von-hartwyck-sigil.jpg)<br>[House von Hartwyck](house-von-hartwyck.md) | ![House von Kaltbruck Sigil](images/house-von-kaltbruck-sigil.png)<br>[House von Kaltbruck](house-von-kaltbruck.md) |
+| ![House von Eisenforst Sigil](images/house-von-eisenforst-sigil.png)<br>[House von Eisenforst](house-von-eisenforst.md) | ![House Bellarossa Sigil](images/house-bellarossa-sigil.png)<br>[House Bellarossa](house-bellarossa.md) | ![House von Nachtquell Sigil](images/house-von-nachtquell-sigil.jpg)<br>[House von Nachtquell](house-von-nachtquell.md) | ![House Orsatti Sigil](images/house-orsatti-sigil.png)<br>[House Orsatti](house-orsatti.md) | ![House von Weissdorn Sigil](images/house-von-weissdorn-sigil.jpg)<br>[House von Weissdorn](house-von-weissdorn.md) |
+
+## House alignments (court shorthand)
+
+Most courts sort 19 of the houses into two long-standing elven cultural blocs:
+
+- **Verdant houses**: usually associated with wood-elf lineage norms
+  (forest estates, stewardship rhetoric, long-cycle land politics).
+- **Umbral houses**: usually associated with dark-elf lineage norms
+  (subterranean holdings, secrecy discipline, infrastructure and covert leverage).
+
+The imperial line, **[House von Sonnenfels](house-von-sonnenfels.md)**, is treated as a separate
+sun-legitimacy line and is not counted in either bloc.
+
+### Common rumors
+
+- The "five-suit noble deck" used in gambling houses encodes these families as
+  cultural propaganda.
+- Inheritance wars are usually contract wars with better clothing.
 
 ---
 
