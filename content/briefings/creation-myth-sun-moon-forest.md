@@ -1,6 +1,6 @@
 ---
 id: creation-myth-sun-moon-forest
-title: Creation Myth: Sun, Moon, Forest (and the Fey Lord Who Chuckled)
+title: "Creation Myth: Sun, Moon, Forest (and the Fey Lord Who Chuckled)"
 type: briefing
 status: published
 ---
