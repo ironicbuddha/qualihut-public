@@ -33,7 +33,7 @@ Two things matter more than spell lists:
 
 - In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a kind of quiet assault: useful, feared, and socially expensive when discovered.
 - **Wards against mind magic are widely available**, and even cheap wards can make manipulation *noticeable*.
-- Player-safe details (what it feels like, how wards work, and what to expect in play): [Mind Magic + Wards](../magic/mind-magic.md)
+- Player-safe details (what it feels like, how wards work, and what to expect in play): [Mind Magic + Wards](../magic/spells/mind-magic.md)
 
 ### Nature and liminal magic (roads, forests, thresholds)
 

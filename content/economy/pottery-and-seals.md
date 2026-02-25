@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Pottery, Kilns, and Trade Seals](images/pottery-and-seals.png)
+
 In the Empire, clay is bureaucracy you can hold. Goods travel in stamped jars, not just because barrels are expensive, but because a seal makes a thing “real” to the law. If it fits in a vessel with the right mark, it can be taxed, insured, requisitioned, or confiscated.
 
 Market stalls keep stacks of broken lids and shards the way richer folk keep receipts—proof that you paid, proof that you were allowed to have it. Inspectors press seals, tap rims, and stare at clay like it might lie. Sometimes it does.

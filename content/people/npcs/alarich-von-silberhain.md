@@ -4,13 +4,31 @@ title: Magister Argentum Alarich von Silberhain
 type: person
 kind: npc
 status: published
+class:
+level:
+ac:
+hp:
+initiative:
+passive_perception:
+str:
+dex:
+con:
+int:
+wis:
+cha:
+skills: []
 ---
 
 ## What players would know
 
 ![Alarich von Silberhain](images/alarich-von-silberhain.png)
 
-Alarich von Silberhain is [Banco Valdieri](../../institutions/banco-valdieri.md)’s ward‑magister—formally styled **Magister Argentum**—responsible for vault bindings, ward maintenance, and the kind of quiet work that keeps confidence from becoming panic. Bank staff call him “The Abacus” (never to his face).
+Alarich von Silberhain, of
+[House von Silberhain](../../institutions/house-von-silberhain.md), is
+[Banco Valdieri](../../institutions/banco-valdieri.md)’s ward‑magister—formally
+styled **Magister Argentum**—responsible for vault bindings, ward maintenance,
+and the kind of quiet work that keeps confidence from becoming panic. Bank
+staff call him “The Abacus” (never to his face).
 
 He presents as meticulous and coldly professional, the sort of man who treats magic like accounting: every ward a ledger entry, every breach a personal insult.
 

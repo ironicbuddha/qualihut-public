@@ -58,7 +58,7 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 - [Shifting Oases](../environments/shifting-oases.md)
 - [Desert Truffle](../economy/desert-truffle.md)
 - [Desert Bamboo (Fast-Growth Trees)](../economy/desert-bamboo.md)
-- [Great Desert Reptiles](../monsters/great-desert-reptiles.md)
+- [Saurakh (Great Desert Reptiles)](../monsters/saurakh.md)
 - [Skyrider](../monsters/skyrider.md)
 - [The Eastern Passage](../locations/eastern-passage.md)
 - [Ifrit](../races/ifrit.md)

@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Saurakh](images/saurakh.png)
+
 Saurakh are the caravans’ quiet miracle: huge herbivorous reptiles built for heat, distance, and long days under a harness. A good saurakh team can haul a life’s worth of goods across bad roads without eating itself into bankruptcy. A panicked saurakh can turn a crowded street into a disaster before anyone finishes shouting.
 
 They are heat-tolerant and most active in the day in desert regions, but in high-altitude cold they become nearly motionless to conserve warmth. In temperate parts of the Empire they can be pushed into night travel under duress, though handlers consider it bad practice.

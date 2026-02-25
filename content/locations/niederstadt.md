@@ -21,7 +21,7 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 ### See also
 
 - [La Compagnia del Ponte Nero](../factions/ponte-nero.md)
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
 - [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
 - [The Deep Market (Niederstadt)](niederstadt-deep-market.md)

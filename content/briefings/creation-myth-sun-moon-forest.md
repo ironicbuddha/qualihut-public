@@ -1,6 +1,6 @@
 ---
 id: creation-myth-sun-moon-forest
-title: "Creation Myth: Sun, Moon, Forest (and the Fey Lord Who Chuckled)"
+title: Creation Myth: Sun, Moon, Forest (and the Fey Lord Who Chuckled)
 type: briefing
 status: published
 ---
@@ -72,7 +72,7 @@ The story says that laughter fell into the cracks between Sun-law, Moon-rhythm, 
 - [The Three-Moon Sea](../environments/the-three-moon-sea.md)
 - [Old-Growth Forests](../environments/old-growth-forests.md)
 - [The Fey Roads](../magic/fey-roads.md)
-- [The Three Moons](../magic/three-moons.md)
+- [The Three Moons](../environments/three-moons.md)
 - [The Solar Church](../institutions/solar-church.md)
 - [Althar](../people/magical-creatures/althar.md)
 - [Elunara](../people/magical-creatures/elunara.md)

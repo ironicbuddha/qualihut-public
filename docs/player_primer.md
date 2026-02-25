@@ -10,22 +10,23 @@
 - [Shifting Oases](#shifting-oases)  `content/environments/shifting-oases.md`
 - [The Desert (Living System)](#the-desert-living-system)  `content/environments/the-desert.md`
 - [The Three-Moon Sea](#the-three-moon-sea)  `content/environments/the-three-moon-sea.md`
+- [The Three Moons](#the-three-moons)  `content/environments/three-moons.md`
 - [Volcanic Faultlands](#volcanic-faultlands)  `content/environments/volcanic-faultlands.md`
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [The Greenwood Accord](#the-greenwood-accord)  `content/magic/greenwood-accord.md`
+- [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/items/pattern-recall-daggers.md`
+- [Refined Magic](#refined-magic)  `content/magic/items/refined-magic.md`
+- [Tears of the Moon](#tears-of-the-moon)  `content/magic/items/tears-of-the-moon.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
-- [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/magical-tattoo-ink.md`
-- [Mind Magic + Wards](#mind-magic--wards)  `content/magic/mind-magic.md`
-- [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/pattern-recall-daggers.md`
-- [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
-- [Scrying](#scrying)  `content/magic/scrying.md`
 - [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
-- [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
+- [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/spells/magical-tattoo-ink.md`
+- [Mind Magic + Wards](#mind-magic--wards)  `content/magic/spells/mind-magic.md`
+- [Scrying](#scrying)  `content/magic/spells/scrying.md`
 - [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
-- [The Three Moons](#the-three-moons)  `content/magic/three-moons.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
+- [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
@@ -182,7 +183,41 @@ Ports live on conditional knowledge: this channel is passable _this month_, at _
 ### See also
 
 - [Sea Trade Routes](../economy/sea-trade-routes.md)
-- [The Three Moons](../magic/three-moons.md)
+- [The Three Moons](three-moons.md)
+
+---
+
+## The Three Moons
+
+_Source: `content/environments/three-moons.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Three Moons (seascape)](images/three-moons-seascape.png)
+
+Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
+
+Most folk don’t track the whole sky. They track what matters to them:
+
+- Sailors care which moon is pulling hardest.
+- Midwives care which moon makes blood easy or stubborn.
+- Undertakers care which moon makes memory linger.
+
+People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
+
+### Common rumors
+
+- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
+- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
+- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
+- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+
+### See also
+
+- [Elunara](../people/magical-creatures/elunara.md)
+- [The Three-Moon Sea](the-three-moon-sea.md)
 
 ---
 
@@ -213,6 +248,10 @@ Most maps treat the faultlands as “blank” not because no one has looked, but
 _Source: `content/factions/banking-guild.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Banking Guild](images/banking-guild.png)
 
 The Banking Guild—formally **Il Consorzio della Mano Sicura**—is turning trust into infrastructure. Where old lords demanded coin, the Guild offers paper backed by vaults, seals, and a ritualized promise: your note can be redeemed, witnessed, and made real.
 
@@ -275,6 +314,62 @@ If the Accord answers, the person comes back with a bond: a spirit that will som
 
 ---
 
+## Pattern Recall Daggers
+
+_Source: `content/magic/items/pattern-recall-daggers.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Pattern Recall Daggers](images/pattern-recall-daggers.png)
+
+These plain-looking daggers carry a subtle recall enchantment: when thrown, they always come back.
+
+### Use at the table
+
+- Use normal dagger rules.
+- When you make a thrown attack with the dagger, it returns to your hand at the end of the attack (hit or miss).
+- No attunement required.
+
+### Common rumors
+
+- “There are bureaus that issue these like uniforms.”
+- “Some blades come back warm.”
+
+---
+
+## Refined Magic
+
+_Source: `content/magic/items/refined-magic.md`_
+
+## What players would know
+
+![Refined magic (case)](images/refined-magic.png)
+
+Refined magic is magical power made portable: processed, contained, and traded. Spellcasters use it to push a casting beyond its ordinary limits or to fuel work that would otherwise be impossible. Everyone else treats it the way they treat gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
+
+In much of the Empire and its neighbors, refined magic is becoming a trade standard. Banks and caravans use it to back promissory notes and settle large transactions without hauling bulk coin. Where the [Banking Guild](../../factions/banking-guild.md) is strong, it’s regulated, sealed, and audited. Where it isn’t, it moves like contraband with respectable paperwork.
+
+---
+
+## Tears of the Moon
+
+_Source: `content/magic/items/tears-of-the-moon.md`_
+
+## What players would know
+
+Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+
+Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+
+### Common rumors
+
+- A Tear-forged blade changes subtly based on what it kills.
+- The Union has some, the Empire has more, and everyone lies about the numbers.
+
+---
+
 ## Leyline Convergences
 
 _Source: `content/magic/leyline-convergences.md`_
@@ -303,103 +398,6 @@ _Source: `content/magic/magic-system-and-spell-casting.md`_
 ## What players would know
 
 In Qualihut, spellcasting is not a spoken menu—it’s a trained, procedural practice. Words, gestures, and materials are the interface used to shape finite, harvested magic into stable effects.
-
----
-
-## Magical Tattoo Ink
-
-_Source: `content/magic/magical-tattoo-ink.md`_
-
-## What players would know
-
-Magical tattoo ink is what happens when spellcraft gets personal. Instead of carving runes into stone or binding power into rings, druids tattoo a working onto skin—lines that glow faintly under the right light and shift color when magic is near.
-
-It’s prized because it can’t be stolen as easily as a wand, and feared because it can’t be set down. Veterans sometimes carry “distressed” tattoos that behave a little differently than they did when fresh—like a scar that learned a new habit.
-
-### Common rumors
-
-- The best ink comes from rare insects and is more valuable than gold by the vial.
-- Removing a spell‑tattoo safely is a lie told by people who want your money.
-
----
-
-## Mind Magic + Wards
-
-_Source: `content/magic/mind-magic.md`_
-
-## What players would know
-
-In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a quiet assault: useful, feared, and socially expensive when discovered.
-
-Because of that, **wards against mind magic are widely available** (from cheap amulets to serious institutional protections), with varying effectiveness.
-
-### What wards do (in plain terms)
-
-Even a cheap ward can make mind magic _noticeable_. You might still get Charmed or compelled, but you can feel the “hook” and know someone is trying to steer you.
-
-More expensive wards improve your odds of resisting (often felt as clarity, steadiness, or the ability to “push back” against a thought that isn’t yours).
-
-### Table expectations (what to expect in play)
-
-- **Out of combat:** mind magic is **always noticeable**.
-- **In combat:** you may need to make a **Wisdom check** to notice it in the moment.
-- If you’re aware but still affected, you’ll usually get a **Wisdom saving throw each round** to shake it off, with **escalating advantage** the longer you fight it.
-- Better wards also confer **advantage on Wisdom saving throws** against mind magic.
-
-### Common rumors
-
-- Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
-- Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
-
----
-
-## Pattern Recall Daggers
-
-_Source: `content/magic/pattern-recall-daggers.md`_
-
-## What players would know
-
-These plain-looking daggers carry a subtle recall enchantment: when thrown, they always come back.
-
-### Use at the table
-
-- Use normal dagger rules.
-- When you make a thrown attack with the dagger, it returns to your hand at the end of the attack (hit or miss).
-- No attunement required.
-
-### Common rumors
-
-- “There are bureaus that issue these like uniforms.”
-- “Some blades come back warm.”
-
----
-
-## Refined Magic
-
-_Source: `content/magic/refined-magic.md`_
-
-## What players would know
-
-![Refined magic (case)](images/refined-magic.png)
-
-Refined magic is magical power made portable: processed, contained, and traded. Spellcasters use it to push a casting beyond its ordinary limits or to fuel work that would otherwise be impossible. Everyone else treats it the way they treat gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
-
-In much of the Empire and its neighbors, refined magic is becoming a trade standard. Banks and caravans use it to back promissory notes and settle large transactions without hauling bulk coin. Where the [Banking Guild](../factions/banking-guild.md) is strong, it’s regulated, sealed, and audited. Where it isn’t, it moves like contraband with respectable paperwork.
-
----
-
-## Scrying
-
-_Source: `content/magic/scrying.md`_
-
-## What players would know
-
-Scrying is a family of divination practices used to observe a distant person or place through a medium (a bowl of water, a mirror, a polished stone, smoke). Most people know it exists. Most people also know you don’t talk loudly about who can do it well.
-
-### Common rumors
-
-- The rich pay for privacy wards the way they pay for locks.
-- If you can’t be found, it’s because someone wants you unfound.
 
 ---
 
@@ -434,20 +432,73 @@ When cast, the DM describes one animal within range behaving in a way that break
 
 ---
 
-## Tears of the Moon
+## Magical Tattoo Ink
 
-_Source: `content/magic/tears-of-the-moon.md`_
+_Source: `content/magic/spells/magical-tattoo-ink.md`_
 
 ## What players would know
 
-Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+### Illustration (player-safe)
 
-Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+![Magical tattoo ink (druid tattooing)](images/magical-tattoo-ink.png)
+
+Magical tattoo ink is what happens when spellcraft gets personal. Instead of carving runes into stone or binding power into rings, druids tattoo a working onto skin—lines that glow faintly under the right light and shift color when magic is near.
+
+It’s prized because it can’t be stolen as easily as a wand, and feared because it can’t be set down. Veterans sometimes carry “distressed” tattoos that behave a little differently than they did when fresh—like a scar that learned a new habit.
 
 ### Common rumors
 
-- A Tear-forged blade changes subtly based on what it kills.
-- The Union has some, the Empire has more, and everyone lies about the numbers.
+- The best ink comes from rare insects and is more valuable than gold by the vial.
+- Removing a spell‑tattoo safely is a lie told by people who want your money.
+
+### See also
+
+- [The Living Script](../the-living-script.md)
+
+---
+
+## Mind Magic + Wards
+
+_Source: `content/magic/spells/mind-magic.md`_
+
+## What players would know
+
+In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a quiet assault: useful, feared, and socially expensive when discovered.
+
+Because of that, **wards against mind magic are widely available** (from cheap amulets to serious institutional protections), with varying effectiveness.
+
+### What wards do (in plain terms)
+
+Even a cheap ward can make mind magic _noticeable_. You might still get Charmed or compelled, but you can feel the “hook” and know someone is trying to steer you.
+
+More expensive wards improve your odds of resisting (often felt as clarity, steadiness, or the ability to “push back” against a thought that isn’t yours).
+
+### Table expectations (what to expect in play)
+
+- **Out of combat:** mind magic is **always noticeable**.
+- **In combat:** you may need to make a **Wisdom check** to notice it in the moment.
+- If you’re aware but still affected, you’ll usually get a **Wisdom saving throw each round** to shake it off, with **escalating advantage** the longer you fight it.
+- Better wards also confer **advantage on Wisdom saving throws** against mind magic.
+
+### Common rumors
+
+- Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
+- Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
+
+---
+
+## Scrying
+
+_Source: `content/magic/spells/scrying.md`_
+
+## What players would know
+
+Scrying is a family of divination practices used to observe a distant person or place through a medium (a bowl of water, a mirror, a polished stone, smoke). Most people know it exists. Most people also know you don’t talk loudly about who can do it well.
+
+### Common rumors
+
+- The rich pay for privacy wards the way they pay for locks.
+- If you can’t be found, it’s because someone wants you unfound.
 
 ---
 
@@ -469,35 +520,9 @@ When a druid dies, their body is burned. If a story wasn’t passed on before th
 - A dead druid without a successor is called a _burned library_.
 - Some circles refuse to ink spellwork onto the same skin as the Script, calling it “smudging the record.”
 
----
-
-## The Three Moons
-
-_Source: `content/magic/three-moons.md`_
-
-## What players would know
-
-Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
-
-Most folk don’t track the whole sky. They track what matters to them:
-
-- Sailors care which moon is pulling hardest.
-- Midwives care which moon makes blood easy or stubborn.
-- Undertakers care which moon makes memory linger.
-
-People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
-
-### Common rumors
-
-- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
-- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
-- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
-- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
-
 ### See also
 
-- [Elunara](../people/magical-creatures/elunara.md)
-- [The Three-Moon Sea](../environments/the-three-moon-sea.md)
+- [Magical Tattoo Ink](spells/magical-tattoo-ink.md)
 
 ---
 
@@ -523,6 +548,23 @@ Most people in the Empire know a few practical truths:
 - The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
 - [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
 - Magic can be refined and traded like currency, which means money now has arcane consequences.
+
+---
+
+## Beast-Adjacent Symbiotes
+
+_Source: `content/races/beast-adjacent-symbiotes.md`_
+
+## What players would know
+
+In some regions, semi-domesticated predators live alongside communities in uneasy partnership. They blur the line between livestock and ally: night sentries that don’t sleep as deeply as people do, hunting partners that understand territory better than any sheriff.
+
+The relationship is practical. Food, shelter, and ritual handling in exchange for protection and teeth. It works—until it doesn’t.
+
+### Common rumors
+
+- Longhouse chiefs sleep better when a symbiote curls under the roof.
+- Some symbiotes understand commands better than militia recruits.
 
 ---
 

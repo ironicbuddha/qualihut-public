@@ -21,6 +21,10 @@ Althar is the Sun of the Empire: a god of law, witness, and the kind of “order
 
 He is treated as singular, overwhelming, and distant. People don’t talk about “asking” Althar for miracles so much as surviving the right to receive them.
 
+### Illustration
+
+![Althar — Solar Sigil](images/althar-iconography.png)
+
 ### Common rumors
 
 - The Church doesn’t control the Sun, but it controls the _interface_.

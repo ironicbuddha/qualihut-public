@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Broken Seal](images/broken-seal-tavern.png)
+
 The Broken Seal is a low-rent tavern in Niederstadt: damp stone, thin stew, and a
 crowd that looks like work until you notice how carefully they watch exits.
 

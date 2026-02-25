@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Truffle](images/desert-truffle.png)
+
 In polite church and court talk, “the desert truffle” or more ritually, “Sun-Blood” is rare, seasonal, and never discussed at full volume. It is said to grow only when the desert’s hidden water and heat happen to agree, and to spoil if handled by people who don’t know the road.
 
 Most folk will never see one. What they see instead are the consequences: caravans delayed for “calendar reasons,” church custody tightening, and the sudden seriousness of officials who pretend belief is optional.

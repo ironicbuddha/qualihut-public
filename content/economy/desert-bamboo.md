@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Bamboo (Fast-Growth Trees)](images/desert-bamboo.png)
+
 In the deep desert, there are stands of fast-growing “bamboo trees” that appear where water briefly agrees to exist. They are not forests. They are **episodes**: a sudden flare of green that becomes poles, shade ribs, tools, fuel, and then—often—vanishes as the land shifts again.
 
 Caravan folk treat these groves like a blessing and a warning. You can build a camp from them, but you can’t build _permanence_. If you try, the desert collects your effort as scrap.

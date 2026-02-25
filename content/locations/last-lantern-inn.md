@@ -7,6 +7,10 @@ status: published
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Last Lantern Inn](images/last-lantern-inn.png)
+
 The Last Lantern Inn sits near one of Hochsilvar’s city gates, close enough to
 hear the guards calling names and close enough that the first drink after an
 inspection tastes like mercy.

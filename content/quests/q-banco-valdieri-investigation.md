@@ -48,7 +48,14 @@ Identify who stole the refined magic, determine where it is headed, and recover 
 
 ### See also
 
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Royal Games](../institutions/royal-games.md)
 
+## What the party can reasonably discover
 
+If you push on the right doors (and survive the politics), you can uncover:
+
+- **Bank-scene receipts**: time distortion evidence; missing-time inconsistencies; a “rain underground” signature locals won’t stop talking about.
+- **Paper trails**: promissory-note signet chains; custody-chain anomalies; documents that look _too_ clean to be honest.
+- **Undercity leads**: smuggling logistics; territorial tells; a name that never comes with a face.
+- **Transport constraints**: refined magic moves like fragile contraband, which creates slow routes, choke points, and opportunities for interception.

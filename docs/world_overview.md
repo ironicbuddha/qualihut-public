@@ -7,22 +7,28 @@
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
 - [Desert Bamboo (Fast-Growth Trees)](#desert-bamboo-fast-growth-trees)  `content/economy/desert-bamboo.md`
 - [Desert Truffle](#desert-truffle)  `content/economy/desert-truffle.md`
+- [Distilled Elf Flower Wine](#distilled-elf-flower-wine)  `content/economy/distilled-elf-flower-wine.md`
+- [Druidic Endurance Leaf](#druidic-endurance-leaf)  `content/economy/druidic-endurance-leaf.md`
 - [Fish Farming](#fish-farming)  `content/economy/fish-farming.md`
 - [Hideleaf (Plant Leather)](#hideleaf-plant-leather)  `content/economy/hideleaf.md`
 - [Insect Spice (Borrowed Heat)](#insect-spice-borrowed-heat)  `content/economy/insect-spice.md`
+- [Pitcher Sap](#pitcher-sap)  `content/economy/pitcher-sap.md`
 - [Pottery, Kilns, and Trade Seals](#pottery-kilns-and-trade-seals)  `content/economy/pottery-and-seals.md`
 - [Salt Pork (Jar Trade)](#salt-pork-jar-trade)  `content/economy/salt-pork.md`
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
+- [Yage](#yage)  `content/economy/yage.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
 - [Shifting Oases](#shifting-oases)  `content/environments/shifting-oases.md`
 - [The Desert (Living System)](#the-desert-living-system)  `content/environments/the-desert.md`
 - [The Three-Moon Sea](#the-three-moon-sea)  `content/environments/the-three-moon-sea.md`
+- [The Three Moons](#the-three-moons)  `content/environments/three-moons.md`
 - [Volcanic Faultlands](#volcanic-faultlands)  `content/environments/volcanic-faultlands.md`
 - [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
+- [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
 - [Hochsilvar City Square Market](#hochsilvar-city-square-market)  `content/locations/hochsilvar-city-square-market.md`
@@ -35,8 +41,12 @@
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
 - [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
+- [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
+- [Vellum & Vine](#vellum--vine)  `content/locations/vellum-and-vine.md`
+- [Ventresca Guildhouse (Niederstadt)](#ventresca-guildhouse-niederstadt)  `content/locations/ventresca-guildhouse.md`
+- [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
@@ -85,6 +95,10 @@ _Source: `content/economy/desert-bamboo.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Bamboo (Fast-Growth Trees)](images/desert-bamboo.png)
+
 In the deep desert, there are stands of fast-growing “bamboo trees” that appear where water briefly agrees to exist. They are not forests. They are **episodes**: a sudden flare of green that becomes poles, shade ribs, tools, fuel, and then—often—vanishes as the land shifts again.
 
 Caravan folk treat these groves like a blessing and a warning. You can build a camp from them, but you can’t build _permanence_. If you try, the desert collects your effort as scrap.
@@ -107,6 +121,10 @@ _Source: `content/economy/desert-truffle.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Truffle](images/desert-truffle.png)
+
 In polite church and court talk, “the desert truffle” or more ritually, “Sun-Blood” is rare, seasonal, and never discussed at full volume. It is said to grow only when the desert’s hidden water and heat happen to agree, and to spoil if handled by people who don’t know the road.
 
 Most folk will never see one. What they see instead are the consequences: caravans delayed for “calendar reasons,” church custody tightening, and the sudden seriousness of officials who pretend belief is optional.
@@ -127,11 +145,69 @@ Most folk will never see one. What they see instead are the consequences: carava
 
 ---
 
+## Distilled Elf Flower Wine
+
+_Source: `content/economy/distilled-elf-flower-wine.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Distilled Elf Flower Wine](images/distilled-elf-flower-wine.png)
+
+Distilled elf flower wine is a rare, highly concentrated spirit made from elven
+flower vintages. Most people treat it as rumor: too expensive, too dangerous,
+and too specific to be ordinary tavern vice.
+
+In undercity speech, it is usually called **Dream Wine** or **Silent Clarity**.
+
+### Common rumors
+
+- A measured dose can make someone move "one heartbeat ahead" of everyone else.
+- Counterfeit bottles are more common than real ones and kill faster.
+
+### See also
+
+- [Pitcher Sap](pitcher-sap.md)
+
+---
+
+## Druidic Endurance Leaf
+
+_Source: `content/economy/druidic-endurance-leaf.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Druidic Endurance Leaf](images/druidic-endurance-leaf.png)
+
+Druidic endurance leaf is a bitter chew used by hunters, messengers, field
+laborers, and caravan walkers to push through long effort without collapsing.
+It is practical, unglamorous, and common in rural exchange.
+
+Street names include **Longwalk**, **Stonebite**, and **Workleaf**.
+
+### Common rumors
+
+- City people mock leaf-chewers until they need one on the road.
+- Good leaf smells grassy and sharp; bad leaf smells sweet and wrong.
+
+### See also
+
+- [Distilled Elf Flower Wine](distilled-elf-flower-wine.md)
+
+---
+
 ## Fish Farming
 
 _Source: `content/economy/fish-farming.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Fish Farming](images/fish-farming.png)
 
 In river deltas, monastery ponds, and sheltered coastal pens, fish are raised the way grain is raised: patiently, in rows and fences you can’t see until you’re already trespassing. In lean years, fish keeps cities fed without the same public blood-and-ritual politics as herd slaughter.
 
@@ -149,6 +225,10 @@ If you want to understand who holds power in a “quiet” town, don’t count s
 _Source: `content/economy/hideleaf.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Hideleaf (Plant Leather)](images/hideleaf.png)
 
 Hideleaf is “peasant leather”: thick green leaves cured until they’re tough enough for boots, aprons, and work coats. New hideleaf smells like limewater and bark tea, and it creases like stubborn paper until it learns your stride.
 
@@ -171,6 +251,10 @@ _Source: `content/economy/insect-spice.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Insect Spice (Borrowed Heat)](images/insect-spice.png)
+
 “Spice” in many markets isn’t a far-off flower or a noble’s imported powder—it’s insect heat: dried, crushed compounds taken from things that sting, bite, or burn predators for a living. Cooks call it borrowed heat; priests call it a test of the body’s honesty.
 
 Most households keep mild blends for preservation and parasite-killing. The truly fierce powders—slow-bloom reds, sharp green flashes, black pepper that makes your ears ring—are status, dare, and sometimes medicine. Spice sellers are part gourmand, part apothecary, and they’ll watch you taste like they’re reading a confession.
@@ -182,11 +266,42 @@ Most households keep mild blends for preservation and parasite-killing. The trul
 
 ---
 
+## Pitcher Sap
+
+_Source: `content/economy/pitcher-sap.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Pitcher Sap](images/pitcher-sap.png)
+
+Pitcher sap is a jungle-harvested intoxicant resin traded in tiny vials and
+leaf wraps. It is prized for confidence and feared for the same reason.
+
+Street names include **Green Joy**, **Cupblood**, and **Laughing Resin**.
+
+### Common rumors
+
+- A strong batch makes fear feel optional.
+- Most people who boast about handling sap are lying or dead.
+
+### See also
+
+- [Distilled Elf Flower Wine](distilled-elf-flower-wine.md)
+- [Earth-Wound](../locations/earth-wound.md)
+
+---
+
 ## Pottery, Kilns, and Trade Seals
 
 _Source: `content/economy/pottery-and-seals.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Pottery, Kilns, and Trade Seals](images/pottery-and-seals.png)
 
 In the Empire, clay is bureaucracy you can hold. Goods travel in stamped jars, not just because barrels are expensive, but because a seal makes a thing “real” to the law. If it fits in a vessel with the right mark, it can be taxed, insured, requisitioned, or confiscated.
 
@@ -204,6 +319,10 @@ Market stalls keep stacks of broken lids and shards the way richer folk keep rec
 _Source: `content/economy/salt-pork.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Salt Pork (Jar Trade)](images/salt-pork.png)
 
 Salt pork travels in sealed clay jars: a food, a trade good, and—quietly—a unit of account. People don’t just buy “pork”; they buy “two jars of winter cut,” and the seal on the lid matters as much as the meat inside.
 
@@ -227,6 +346,10 @@ Jars are honest in a cruel way. A broken jar is loss you can’t talk your way o
 _Source: `content/economy/saurakh.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Saurakh](images/saurakh.png)
 
 Saurakh are the caravans’ quiet miracle: huge herbivorous reptiles built for heat, distance, and long days under a harness. A good saurakh team can haul a life’s worth of goods across bad roads without eating itself into bankruptcy. A panicked saurakh can turn a crowded street into a disaster before anyone finishes shouting.
 
@@ -270,11 +393,45 @@ Real routes are conditional: a certain moonrise, a certain season, a certain cap
 
 ---
 
+## Yage
+
+_Source: `content/economy/yage.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Yage](images/yage.png)
+
+Yage is a controlled intoxicant made from dried, powdered black centipedes and
+stabilizing binders. In small doses it loosens thought patterns; in heavy doses
+it can scramble speech into fluent but unstable glossolalia.
+
+It appears in three social lanes:
+
+- shamanic circles (ritualized, supervised),
+- orc research contexts (instrumental, measured),
+- undercity dens (recreational and often unsafe).
+
+### Common rumors
+
+- "Yage does not give prophecy; it strips the lies you tell yourself."
+- "The first dose gives clarity. The third dose gives certainty. Certainty gets
+  people killed."
+- "Bad batches make spell phrases drift just enough to fail at the worst
+  moment."
+
+---
+
 ## Yellow Grass
 
 _Source: `content/economy/yellow-grass.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Yellow Grass](images/yellow-grass.png)
 
 Yellow grass is the staple that keeps bellies full and borders worth fighting over. It bakes into pale bread, ferments into common beer, and hardens into travel rations that don’t rot as quickly as older grains. Where yellow grass grows well, people multiply; where it fails, politics turns sharp.
 
@@ -408,7 +565,41 @@ Ports live on conditional knowledge: this channel is passable _this month_, at _
 ### See also
 
 - [Sea Trade Routes](../economy/sea-trade-routes.md)
-- [The Three Moons](../magic/three-moons.md)
+- [The Three Moons](three-moons.md)
+
+---
+
+## The Three Moons
+
+_Source: `content/environments/three-moons.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Three Moons (seascape)](images/three-moons-seascape.png)
+
+Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
+
+Most folk don’t track the whole sky. They track what matters to them:
+
+- Sailors care which moon is pulling hardest.
+- Midwives care which moon makes blood easy or stubborn.
+- Undertakers care which moon makes memory linger.
+
+People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
+
+### Common rumors
+
+- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
+- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
+- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
+- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+
+### See also
+
+- [Elunara](../people/magical-creatures/elunara.md)
+- [The Three-Moon Sea](the-three-moon-sea.md)
 
 ---
 
@@ -494,11 +685,43 @@ loud are immediate.
 
 ---
 
+## The Brass Buckler
+
+_Source: `content/locations/brass-buckler.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Brass Buckler](images/brass-buckler.png)
+
+The Brass Buckler is a City Watch watering hole: cheap beer, hard benches, and a
+roomful of tired people trying to forget the city for an hour without admitting
+they can’t.
+
+It sits close enough to Watch foot traffic that the regulars don’t bother hiding
+their badges—only their opinions.
+
+### Common rumors
+
+- If you want a permit expedited, you drink here first.
+- Fights are rare, because everyone is armed and everyone is employed.
+
+### See also
+
+- [City Watch](../institutions/city-watch.md)
+
+---
+
 ## The Broken Seal
 
 _Source: `content/locations/broken-seal-tavern.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![The Broken Seal](images/broken-seal-tavern.png)
 
 The Broken Seal is a low-rent tavern in Niederstadt: damp stone, thin stew, and a
 crowd that looks like work until you notice how carefully they watch exits.
@@ -610,6 +833,10 @@ _Source: `content/locations/last-lantern-inn.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Last Lantern Inn](images/last-lantern-inn.png)
+
 The Last Lantern Inn sits near one of Hochsilvar’s city gates, close enough to
 hear the guards calling names and close enough that the first drink after an
 inspection tastes like mercy.
@@ -689,6 +916,8 @@ _Source: `content/locations/niederstadt-deep-market.md`_
 
 ## What players would know
 
+![The Deep Market (Niederstadt)](images/niederstadt-deep-market.png)
+
 The Deep Market is Niederstadt’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
 
 It’s the kind of market where you can buy a meal, a pry bar, and a lie within twenty paces.
@@ -739,7 +968,7 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 ### See also
 
 - [La Compagnia del Ponte Nero](../factions/ponte-nero.md)
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
 - [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
 - [The Deep Market (Niederstadt)](niederstadt-deep-market.md)
@@ -779,6 +1008,8 @@ _Source: `content/locations/ponte-nero-guildhouse.md`_
 
 ## What players would know
 
+![Ponte Nero Guildhouse Yard](images/ponte-nero-guildhouse.png)
+
 In Niederstadt there are “stables” that don’t smell like stables and “pilgrimage
 logistics” offices that seem to know which streets will be closed tomorrow. Most
 people only learn the name Ponte Nero when they need a route more than an answer.
@@ -790,11 +1021,35 @@ people only learn the name Ponte Nero when they need a route more than an answer
 
 ---
 
+## The Rusted Hook
+
+_Source: `content/locations/rusted-hook-tavern.md`_
+
+## What players would know
+
+### Illustrations (player-safe)
+
+![The Rusted Hook (usual night)](images/rusted-hook-tavern.png)
+![The Rusted Hook (post-blast cleanup)](images/rusted-hook-tavern-post-blast-01.png)
+
+The Rusted Hook is a dive bar in the roughest stretch of Niederstadt: cheap
+ale, bad air, and enough noise to bury a confession. People come here when they
+need a room that asks no questions and a crowd that minds its own survival.
+
+### Common rumors
+
+- The Hook rents upstairs rooms by the hour, no names required.
+- If the Watch comes here, it means someone important bled.
+
+---
+
 ## Valdengratz
 
 _Source: `content/locations/valdengratz.md`_
 
 ## What players would know
+
+![Valdengratz (aerial border crossing)](images/valdengratz.png)
 
 Valdengratz is the big river border-city: customs halls, caravan yards, paperwork, bribes, and “lost” cargo that turns up with a different seal. It is prosperous, watched, and full of people pretending to be ordinary while counting how much the border is worth today.
 
@@ -830,6 +1085,68 @@ ruin whom.
 
 - [Hochsilvar](hochsilvar.md)
 - [Banco Valdieri](../institutions/banco-valdieri.md)
+
+---
+
+## Vellum & Vine
+
+_Source: `content/locations/vellum-and-vine.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Vellum & Vine](images/vellum-and-vine.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+Vellum & Vine is a polished wine merchant and tasting room in Hochsilvar’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
+
+Locals treat it as respectable commerce. People who work investigations treat it as a place where courier traffic and client lists matter as much as the wine.
+
+### Common rumors
+
+- If a crate leaves Vellum & Vine without a visible seal, someone powerful already approved it.
+- You can buy rare vintages here, but the real product is introductions.
+
+---
+
+## Ventresca Guildhouse (Niederstadt)
+
+_Source: `content/locations/ventresca-guildhouse.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Ventresca Guildhouse (Niederstadt)](images/ventresca-guildhouse.png)
+
+Niederstadt has offices that don’t advertise: basements where ink dries fast, where
+your name matters more than your face, and where a stamped receipt can make
+contraband look like cargo. If you don’t know where to knock, you’ll never find
+them.
+
+### Common rumors
+
+- Some “trade firms” keep their best ledgers below ground.
+- Paper can cross borders more easily than people.
+
+---
+
+## Beast-Adjacent Symbiotes
+
+_Source: `content/races/beast-adjacent-symbiotes.md`_
+
+## What players would know
+
+In some regions, semi-domesticated predators live alongside communities in uneasy partnership. They blur the line between livestock and ally: night sentries that don’t sleep as deeply as people do, hunting partners that understand territory better than any sheriff.
+
+The relationship is practical. Food, shelter, and ritual handling in exchange for protection and teeth. It works—until it doesn’t.
+
+### Common rumors
+
+- Longhouse chiefs sleep better when a symbiote curls under the roof.
+- Some symbiotes understand commands better than militia recruits.
 
 ---
 

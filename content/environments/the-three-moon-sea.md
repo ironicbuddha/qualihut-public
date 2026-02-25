@@ -20,4 +20,4 @@ Ports live on conditional knowledge: this channel is passable _this month_, at _
 ### See also
 
 - [Sea Trade Routes](../economy/sea-trade-routes.md)
-- [The Three Moons](../magic/three-moons.md)
+- [The Three Moons](three-moons.md)

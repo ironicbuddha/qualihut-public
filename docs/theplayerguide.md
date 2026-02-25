@@ -7,37 +7,46 @@
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
 - [Desert Bamboo (Fast-Growth Trees)](#desert-bamboo-fast-growth-trees)  `content/economy/desert-bamboo.md`
 - [Desert Truffle](#desert-truffle)  `content/economy/desert-truffle.md`
+- [Distilled Elf Flower Wine](#distilled-elf-flower-wine)  `content/economy/distilled-elf-flower-wine.md`
+- [Druidic Endurance Leaf](#druidic-endurance-leaf)  `content/economy/druidic-endurance-leaf.md`
 - [Fish Farming](#fish-farming)  `content/economy/fish-farming.md`
 - [Hideleaf (Plant Leather)](#hideleaf-plant-leather)  `content/economy/hideleaf.md`
 - [Insect Spice (Borrowed Heat)](#insect-spice-borrowed-heat)  `content/economy/insect-spice.md`
+- [Pitcher Sap](#pitcher-sap)  `content/economy/pitcher-sap.md`
 - [Pottery, Kilns, and Trade Seals](#pottery-kilns-and-trade-seals)  `content/economy/pottery-and-seals.md`
 - [Salt Pork (Jar Trade)](#salt-pork-jar-trade)  `content/economy/salt-pork.md`
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
+- [Yage](#yage)  `content/economy/yage.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
 - [Shifting Oases](#shifting-oases)  `content/environments/shifting-oases.md`
 - [The Desert (Living System)](#the-desert-living-system)  `content/environments/the-desert.md`
 - [The Three-Moon Sea](#the-three-moon-sea)  `content/environments/the-three-moon-sea.md`
+- [The Three Moons](#the-three-moons)  `content/environments/three-moons.md`
 - [Volcanic Faultlands](#volcanic-faultlands)  `content/environments/volcanic-faultlands.md`
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
+- [Brazen Pike Company](#brazen-pike-company)  `content/factions/brazen-pike-company.md`
+- [La Compagnia del Gesso Bianco](#la-compagnia-del-gesso-bianco)  `content/factions/gesso-bianco.md`
 - [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
 - [The Southern Union](#the-southern-union)  `content/factions/southern-union.md`
 - [The Travelers](#the-travelers)  `content/factions/travelers.md`
 - [Banco Valdieri](#banco-valdieri)  `content/institutions/banco-valdieri.md`
+- [The Broadbarrel Caravan](#the-broadbarrel-caravan)  `content/institutions/broadbarrel-caravan.md`
 - [Church Caravans](#church-caravans)  `content/institutions/church-caravans.md`
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
+- [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
+- [Cult of the Liminal Network](#cult-of-the-liminal-network)  `content/institutions/cult-of-the-liminal-network.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
 - [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
 - [House of Warlocks (Misnomer)](#house-of-warlocks-misnomer)  `content/institutions/house-of-warlocks.md`
-- [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
-- [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
+- [Lamp Feeders (Niederstadt Utility)](#lamp-feeders-niederstadt-utility)  `content/institutions/lamp-feeders-niederstadt.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
@@ -47,6 +56,7 @@
 - [The Witnessed Cut (Ritual Slaughter)](#the-witnessed-cut-ritual-slaughter)  `content/institutions/witnessed-cut.md`
 - [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
+- [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
 - [Hochsilvar City Square Market](#hochsilvar-city-square-market)  `content/locations/hochsilvar-city-square-market.md`
@@ -59,23 +69,26 @@
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
 - [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
+- [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
+- [Vellum & Vine](#vellum--vine)  `content/locations/vellum-and-vine.md`
+- [Ventresca Guildhouse (Niederstadt)](#ventresca-guildhouse-niederstadt)  `content/locations/ventresca-guildhouse.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [The Greenwood Accord](#the-greenwood-accord)  `content/magic/greenwood-accord.md`
+- [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/items/pattern-recall-daggers.md`
+- [Refined Magic](#refined-magic)  `content/magic/items/refined-magic.md`
+- [Tears of the Moon](#tears-of-the-moon)  `content/magic/items/tears-of-the-moon.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
-- [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/magical-tattoo-ink.md`
-- [Mind Magic + Wards](#mind-magic--wards)  `content/magic/mind-magic.md`
-- [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/pattern-recall-daggers.md`
-- [Refined Magic](#refined-magic)  `content/magic/refined-magic.md`
-- [Scrying](#scrying)  `content/magic/scrying.md`
 - [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
-- [Tears of the Moon](#tears-of-the-moon)  `content/magic/tears-of-the-moon.md`
+- [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/spells/magical-tattoo-ink.md`
+- [Mind Magic + Wards](#mind-magic--wards)  `content/magic/spells/mind-magic.md`
+- [Scrying](#scrying)  `content/magic/spells/scrying.md`
 - [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
-- [The Three Moons](#the-three-moons)  `content/magic/three-moons.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Banco Valdieri Investigation](#banco-valdieri-investigation)  `content/quests/q-banco-valdieri-investigation.md`
+- [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
 - [Fey](#fey)  `content/races/fey.md`
@@ -124,6 +137,10 @@ _Source: `content/economy/desert-bamboo.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Bamboo (Fast-Growth Trees)](images/desert-bamboo.png)
+
 In the deep desert, there are stands of fast-growing “bamboo trees” that appear where water briefly agrees to exist. They are not forests. They are **episodes**: a sudden flare of green that becomes poles, shade ribs, tools, fuel, and then—often—vanishes as the land shifts again.
 
 Caravan folk treat these groves like a blessing and a warning. You can build a camp from them, but you can’t build _permanence_. If you try, the desert collects your effort as scrap.
@@ -146,6 +163,10 @@ _Source: `content/economy/desert-truffle.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Desert Truffle](images/desert-truffle.png)
+
 In polite church and court talk, “the desert truffle” or more ritually, “Sun-Blood” is rare, seasonal, and never discussed at full volume. It is said to grow only when the desert’s hidden water and heat happen to agree, and to spoil if handled by people who don’t know the road.
 
 Most folk will never see one. What they see instead are the consequences: caravans delayed for “calendar reasons,” church custody tightening, and the sudden seriousness of officials who pretend belief is optional.
@@ -166,11 +187,69 @@ Most folk will never see one. What they see instead are the consequences: carava
 
 ---
 
+## Distilled Elf Flower Wine
+
+_Source: `content/economy/distilled-elf-flower-wine.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Distilled Elf Flower Wine](images/distilled-elf-flower-wine.png)
+
+Distilled elf flower wine is a rare, highly concentrated spirit made from elven
+flower vintages. Most people treat it as rumor: too expensive, too dangerous,
+and too specific to be ordinary tavern vice.
+
+In undercity speech, it is usually called **Dream Wine** or **Silent Clarity**.
+
+### Common rumors
+
+- A measured dose can make someone move "one heartbeat ahead" of everyone else.
+- Counterfeit bottles are more common than real ones and kill faster.
+
+### See also
+
+- [Pitcher Sap](pitcher-sap.md)
+
+---
+
+## Druidic Endurance Leaf
+
+_Source: `content/economy/druidic-endurance-leaf.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Druidic Endurance Leaf](images/druidic-endurance-leaf.png)
+
+Druidic endurance leaf is a bitter chew used by hunters, messengers, field
+laborers, and caravan walkers to push through long effort without collapsing.
+It is practical, unglamorous, and common in rural exchange.
+
+Street names include **Longwalk**, **Stonebite**, and **Workleaf**.
+
+### Common rumors
+
+- City people mock leaf-chewers until they need one on the road.
+- Good leaf smells grassy and sharp; bad leaf smells sweet and wrong.
+
+### See also
+
+- [Distilled Elf Flower Wine](distilled-elf-flower-wine.md)
+
+---
+
 ## Fish Farming
 
 _Source: `content/economy/fish-farming.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Fish Farming](images/fish-farming.png)
 
 In river deltas, monastery ponds, and sheltered coastal pens, fish are raised the way grain is raised: patiently, in rows and fences you can’t see until you’re already trespassing. In lean years, fish keeps cities fed without the same public blood-and-ritual politics as herd slaughter.
 
@@ -188,6 +267,10 @@ If you want to understand who holds power in a “quiet” town, don’t count s
 _Source: `content/economy/hideleaf.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Hideleaf (Plant Leather)](images/hideleaf.png)
 
 Hideleaf is “peasant leather”: thick green leaves cured until they’re tough enough for boots, aprons, and work coats. New hideleaf smells like limewater and bark tea, and it creases like stubborn paper until it learns your stride.
 
@@ -210,6 +293,10 @@ _Source: `content/economy/insect-spice.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Insect Spice (Borrowed Heat)](images/insect-spice.png)
+
 “Spice” in many markets isn’t a far-off flower or a noble’s imported powder—it’s insect heat: dried, crushed compounds taken from things that sting, bite, or burn predators for a living. Cooks call it borrowed heat; priests call it a test of the body’s honesty.
 
 Most households keep mild blends for preservation and parasite-killing. The truly fierce powders—slow-bloom reds, sharp green flashes, black pepper that makes your ears ring—are status, dare, and sometimes medicine. Spice sellers are part gourmand, part apothecary, and they’ll watch you taste like they’re reading a confession.
@@ -221,11 +308,42 @@ Most households keep mild blends for preservation and parasite-killing. The trul
 
 ---
 
+## Pitcher Sap
+
+_Source: `content/economy/pitcher-sap.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Pitcher Sap](images/pitcher-sap.png)
+
+Pitcher sap is a jungle-harvested intoxicant resin traded in tiny vials and
+leaf wraps. It is prized for confidence and feared for the same reason.
+
+Street names include **Green Joy**, **Cupblood**, and **Laughing Resin**.
+
+### Common rumors
+
+- A strong batch makes fear feel optional.
+- Most people who boast about handling sap are lying or dead.
+
+### See also
+
+- [Distilled Elf Flower Wine](distilled-elf-flower-wine.md)
+- [Earth-Wound](../locations/earth-wound.md)
+
+---
+
 ## Pottery, Kilns, and Trade Seals
 
 _Source: `content/economy/pottery-and-seals.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Pottery, Kilns, and Trade Seals](images/pottery-and-seals.png)
 
 In the Empire, clay is bureaucracy you can hold. Goods travel in stamped jars, not just because barrels are expensive, but because a seal makes a thing “real” to the law. If it fits in a vessel with the right mark, it can be taxed, insured, requisitioned, or confiscated.
 
@@ -243,6 +361,10 @@ Market stalls keep stacks of broken lids and shards the way richer folk keep rec
 _Source: `content/economy/salt-pork.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Salt Pork (Jar Trade)](images/salt-pork.png)
 
 Salt pork travels in sealed clay jars: a food, a trade good, and—quietly—a unit of account. People don’t just buy “pork”; they buy “two jars of winter cut,” and the seal on the lid matters as much as the meat inside.
 
@@ -266,6 +388,10 @@ Jars are honest in a cruel way. A broken jar is loss you can’t talk your way o
 _Source: `content/economy/saurakh.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Saurakh](images/saurakh.png)
 
 Saurakh are the caravans’ quiet miracle: huge herbivorous reptiles built for heat, distance, and long days under a harness. A good saurakh team can haul a life’s worth of goods across bad roads without eating itself into bankruptcy. A panicked saurakh can turn a crowded street into a disaster before anyone finishes shouting.
 
@@ -309,11 +435,45 @@ Real routes are conditional: a certain moonrise, a certain season, a certain cap
 
 ---
 
+## Yage
+
+_Source: `content/economy/yage.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Yage](images/yage.png)
+
+Yage is a controlled intoxicant made from dried, powdered black centipedes and
+stabilizing binders. In small doses it loosens thought patterns; in heavy doses
+it can scramble speech into fluent but unstable glossolalia.
+
+It appears in three social lanes:
+
+- shamanic circles (ritualized, supervised),
+- orc research contexts (instrumental, measured),
+- undercity dens (recreational and often unsafe).
+
+### Common rumors
+
+- "Yage does not give prophecy; it strips the lies you tell yourself."
+- "The first dose gives clarity. The third dose gives certainty. Certainty gets
+  people killed."
+- "Bad batches make spell phrases drift just enough to fail at the worst
+  moment."
+
+---
+
 ## Yellow Grass
 
 _Source: `content/economy/yellow-grass.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Yellow Grass](images/yellow-grass.png)
 
 Yellow grass is the staple that keeps bellies full and borders worth fighting over. It bakes into pale bread, ferments into common beer, and hardens into travel rations that don’t rot as quickly as older grains. Where yellow grass grows well, people multiply; where it fails, politics turns sharp.
 
@@ -447,7 +607,41 @@ Ports live on conditional knowledge: this channel is passable _this month_, at _
 ### See also
 
 - [Sea Trade Routes](../economy/sea-trade-routes.md)
-- [The Three Moons](../magic/three-moons.md)
+- [The Three Moons](three-moons.md)
+
+---
+
+## The Three Moons
+
+_Source: `content/environments/three-moons.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Three Moons (seascape)](images/three-moons-seascape.png)
+
+Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
+
+Most folk don’t track the whole sky. They track what matters to them:
+
+- Sailors care which moon is pulling hardest.
+- Midwives care which moon makes blood easy or stubborn.
+- Undertakers care which moon makes memory linger.
+
+People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
+
+### Common rumors
+
+- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
+- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
+- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
+- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+
+### See also
+
+- [Elunara](../people/magical-creatures/elunara.md)
+- [The Three-Moon Sea](the-three-moon-sea.md)
 
 ---
 
@@ -479,6 +673,10 @@ _Source: `content/factions/banking-guild.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Banking Guild](images/banking-guild.png)
+
 The Banking Guild—formally **Il Consorzio della Mano Sicura**—is turning trust into infrastructure. Where old lords demanded coin, the Guild offers paper backed by vaults, seals, and a ritualized promise: your note can be redeemed, witnessed, and made real.
 
 In cities with strong guild presence, promissory notes start to behave like a trade standard. Merchants stop weighing coin and start weighing reputation. In places without it, the notes are still just paper—until someone with a ledger and a militia decides they aren’t.
@@ -487,6 +685,58 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 - Guild vaults hold unusual reserves.
 - Debtors sometimes vanish into “administrative disputes.”
+
+---
+
+## Brazen Pike Company
+
+_Source: `content/factions/brazen-pike-company.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Brazen Pike Company](images/brazen-pike-company.png)
+
+The Brazen Pike Company is a contract mercenary outfit that sells disciplined
+escort work: caravan protection, checkpoint muscle, debt-collection security,
+and short-term gate control when local militias are stretched thin.
+
+They are known for clear rates, written witness logs, and not drinking while on
+watch.
+
+### Common rumors
+
+- If the Brazen Pike banner is on a caravan, trouble usually finds softer prey.
+- Their quartermasters ask more questions than their captains.
+
+---
+
+## La Compagnia del Gesso Bianco
+
+_Source: `content/factions/gesso-bianco.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![La Compagnia del Gesso Bianco](images/gesso-bianco.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+La Compagnia del Gesso Bianco is a thieves' guild known for jobs that avoid
+blood: burglary, pickpocketing, and fraud done with timing and paperwork instead
+of open violence. They are associated with chalk marks on doorframes and market
+posts, though no one agrees what the symbols actually mean.
+
+In crowded districts, they are blamed for "clean losses": coin pouches gone
+without cut straps, lockboxes opened without broken hinges, and debt records
+that change hands before the ink is dry.
+
+### Common rumors
+
+- They case neighborhoods by posing as copyists, clerks, and tally-runners.
+- If Gesso Bianco steals from you, you'll notice three days later, not three seconds later.
 
 ---
 
@@ -523,6 +773,10 @@ _Source: `content/factions/ponte-nero.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![La Compagnia del Ponte Nero](images/ponte-nero.png)
+
 La Compagnia del Ponte Nero is what you hire when you need movement more than you need explanations. Publicly they’re pilgrimage-season logistics: stables, transport-animal exchange, guides who can thread a caravan through crowds without bloodshed.
 
 They have a reputation for quiet competence—the kind that makes officials uneasy. Ponte Nero people look like ordinary workers until you watch them solve a problem in three gestures and one glance.
@@ -539,6 +793,10 @@ They have a reputation for quiet competence—the kind that makes officials unea
 _Source: `content/factions/southern-union.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![The Southern Union](images/southern-union.png)
 
 The Southern Union is a cluster of nations bound together by treaty and trade—close enough in strength to the Empire that open war would be ruinous for everyone, and therefore threatened constantly in speeches nobody intends to honor.
 
@@ -608,7 +866,7 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 - [Shifting Oases](../environments/shifting-oases.md)
 - [Desert Truffle](../economy/desert-truffle.md)
 - [Desert Bamboo (Fast-Growth Trees)](../economy/desert-bamboo.md)
-- [Great Desert Reptiles](../monsters/great-desert-reptiles.md)
+- [Saurakh (Great Desert Reptiles)](../monsters/saurakh.md)
 - [Skyrider](../monsters/skyrider.md)
 - [The Eastern Passage](../locations/eastern-passage.md)
 - [Ifrit](../races/ifrit.md)
@@ -620,6 +878,10 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 _Source: `content/institutions/banco-valdieri.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Banco Valdieri](images/banco-valdieri.png)
 
 Banco Valdieri is one of [Hochsilvar](../locations/hochsilvar.md)’s marble-faced certainties: reputable, wealthy, and guarded like a minor palace. It sits close to the [Banking Guild](../factions/banking-guild.md)’s promissory-note experiment, where paper promises are backed by refined magic and the public is asked to believe the ledgers.
 
@@ -634,6 +896,30 @@ If you want to know how much power a bank has, don’t look at its coin—look a
 
 - [Magister Argentum Alarich von Silberhain](../people/npcs/alarich-von-silberhain.md)
 - [Giovanni Valdieri](../people/npcs/giovanni-valdieri.md)
+
+---
+
+## The Broadbarrel Caravan
+
+_Source: `content/institutions/broadbarrel-caravan.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Broadbarrel Caravan](images/broadbarrel-caravan.png)
+
+The Broadbarrel Caravan is a slow, heavy staple convoy: salt pork jars, ale
+kegs, and yellow-grass sacks hauled in bulk under strict schedules.
+
+It is run by [Henrik Volmar](../people/npcs/henrik-volmar.md) and currently
+travels with hired [Brazen Pike Company](../factions/brazen-pike-company.md)
+security.
+
+### Common rumors
+
+- If you need food moved through bad country, Broadbarrel usually delivers.
+- Their guard contract is expensive enough to scare off petty trouble.
 
 ---
 
@@ -660,6 +946,10 @@ _Source: `content/institutions/city-watch.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![City Watch](images/city-watch.png)
+
 City Watch patrols keep order the way a tired person keeps a room clean: by deciding what mess is “normal.” They’re underpaid, stretched thin, and often more local than lawful—loyal to districts, captains, and survival.
 
 Watch captains spend as much time balancing guild pressure against magistrate orders as they do chasing criminals. The result is uneven enforcement that looks like corruption to outsiders and looks like “not getting everyone killed” to the people doing the work.
@@ -668,6 +958,47 @@ Watch captains spend as much time balancing guild pressure against magistrate or
 
 - A guild coin buys faster justice than a badge.
 - City watch units and guild enforcers skirmish after dark.
+
+---
+
+## The Cult of Ink
+
+_Source: `content/institutions/cult-of-ink.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Cult of Ink](images/cult-of-ink.png)
+
+The Cult of Ink is spoken of in the same voice people use for plague and debt: low, practical, and a little superstitious. They are contract killers—allegedly neutral, allegedly precise, and allegedly bound by written terms so strict they will not “improvise mercy” even if begged.
+
+In some cities, a small black droplet painted on a doorframe is enough to make a landlord suddenly decide to be reasonable. In others, it’s just a joke thieves tell each other. Either way, most people agree on one thing: if the Cult has your name in ink, the law won’t save you—only a better contract will.
+
+### Common rumors
+
+- They don’t take sides, only clauses.
+- Their tattoos are not decoration; they’re vows you can’t wash off.
+
+---
+
+## Cult of the Liminal Network
+
+_Source: `content/institutions/cult-of-the-liminal-network.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Cult of the Liminal Network](images/cult-of-the-liminal-network.png)
+
+The Cult of the Liminal Network gathers where borders blur: root-cellars that crack into caves, sinkholes webbed with pale fungi, and groves where the ground feels attentive. They don’t preach a god. They preach the network between—soil and sky, memory and rot, thought and breath.
+
+### Common rumors
+
+- Their initiates drink “harmless” fungal draughts and come back changed.
+- They hate prophets, but not because they hate revelation—because they distrust single witnesses.
+- If you hear branching lines scratched into stone, someone has been here.
 
 ---
 
@@ -766,42 +1097,6 @@ If you’re looking for the canonical entry, use **[House von Stillwort](house-v
 
 ---
 
-## House von Stillwort
-
-_Source: `content/institutions/house-von-stillwort.md`_
-
-## What players would know
-
-House von Stillwort is an elven noble house known for immaculate restraint: soft voices, precise clothing, and the feeling that even their silences are practiced. In court they present as advisors, archivists, and “quiet overseers” whose influence arrives without spectacle and leaves people rearranging their lives around new procedures.
-
-They are also the one house commonly associated with **warlock power**—not as a free-for-all talent, but as a lineage-bound inheritance tied to an ancestral bargain. In the popular telling, warlock power has **manifested in their bloodline** ever since.
-
-### Common rumors
-
-- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
-- Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
-- Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
-- Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
-
----
-
-## Imperial Monasteries
-
-_Source: `content/institutions/imperial-monasteries.md`_
-
-## What players would know
-
-Imperial monasteries sit where towns don’t: on dangerous roads, near old stones, and in valleys where the wind sounds like it’s remembering something. To travelers they’re refuge—warmth, bread, a place to sleep without a knife at your throat. To officials they’re outposts, record houses, and quiet points of influence beyond city walls.
-
-Some monasteries are thriving, with gardens and disciplined hospitality. Others are half‑abandoned, still tended by a handful of stubborn monks who act like the world ending is just another chore. Either way, people speak of monasteries as places where you can ask for help… and where help always comes with a lesson.
-
-### Common rumors
-
-- Monks know which roads are “wrong” this season, even when maps insist they’re fine.
-- An abandoned monastery is never truly empty; it’s just between owners.
-
----
-
 ## Intelligence Bureaus
 
 _Source: `content/institutions/intelligence-bureaus.md`_
@@ -816,6 +1111,36 @@ Most people can’t name the bureaus, only the symptoms: a rival’s caravan “
 
 - Assassins travel with caravans.
 - Magistrates hire thieves’ guilds for deniable jobs.
+
+---
+
+## Lamp Feeders (Niederstadt Utility)
+
+_Source: `content/institutions/lamp-feeders-niederstadt.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Lamp Feeders (Niederstadt Utility)](images/lamp-feeders-niederstadt.png)
+
+The Lamp Feeders are Niederstadt's municipal lighting crews. They maintain
+caged bioluminescent beetles that light tunnels, stairs, and market approaches
+through the undercity night.
+
+Most residents barely notice them until a lane goes dim, a mugging spike
+starts, or a district complains that "the lamps feel wrong."
+
+### Common rumors
+
+- Rich lanes get brighter cages and fresher feed.
+- A feeder can read tunnel trouble by glow color before anyone files a report.
+- Smashing a lamp cage is stupid; culling quietly is how professionals make
+  darkness.
+
+### See also
+
+- [Nieder Lamp Beetle](../monsters/nieder-lamp-beetle.md)
 
 ---
 
@@ -885,13 +1210,16 @@ _Source: `content/institutions/royal-games.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Royal Games](images/royal-games.png)
+
 The Royal Games are a solstice week when the capital forgets it is a city and remembers it is a crowd. Teams from villages, wards, docks, monasteries, and mining hollows all pour in for matches that are half sport and half civic ritual. Betting flows like wine, and the streets feel one spark away from riot in both directions—joy and violence sharing a spine.
 
 Everyone knows the “rules” that matter: the ball is blessed but never enchanted, nobles sponsor quietly and dress plainly at the final, and the monarch must attend. In taverns, people say the Games are the only time the Empire tells the truth about itself: what it loves, what it hates, and how quickly it will trample anyone in the way.
 
 ### Common rumors
 
-- Every intelligence service runs operations during the Games because the crowd covers everything.
 - A curse laid in the stands can spread through chants faster than fire.
 
 ---
@@ -1016,11 +1344,43 @@ loud are immediate.
 
 ---
 
+## The Brass Buckler
+
+_Source: `content/locations/brass-buckler.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Brass Buckler](images/brass-buckler.png)
+
+The Brass Buckler is a City Watch watering hole: cheap beer, hard benches, and a
+roomful of tired people trying to forget the city for an hour without admitting
+they can’t.
+
+It sits close enough to Watch foot traffic that the regulars don’t bother hiding
+their badges—only their opinions.
+
+### Common rumors
+
+- If you want a permit expedited, you drink here first.
+- Fights are rare, because everyone is armed and everyone is employed.
+
+### See also
+
+- [City Watch](../institutions/city-watch.md)
+
+---
+
 ## The Broken Seal
 
 _Source: `content/locations/broken-seal-tavern.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![The Broken Seal](images/broken-seal-tavern.png)
 
 The Broken Seal is a low-rent tavern in Niederstadt: damp stone, thin stew, and a
 crowd that looks like work until you notice how carefully they watch exits.
@@ -1132,6 +1492,10 @@ _Source: `content/locations/last-lantern-inn.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Last Lantern Inn](images/last-lantern-inn.png)
+
 The Last Lantern Inn sits near one of Hochsilvar’s city gates, close enough to
 hear the guards calling names and close enough that the first drink after an
 inspection tastes like mercy.
@@ -1211,6 +1575,8 @@ _Source: `content/locations/niederstadt-deep-market.md`_
 
 ## What players would know
 
+![The Deep Market (Niederstadt)](images/niederstadt-deep-market.png)
+
 The Deep Market is Niederstadt’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
 
 It’s the kind of market where you can buy a meal, a pry bar, and a lie within twenty paces.
@@ -1261,7 +1627,7 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 ### See also
 
 - [La Compagnia del Ponte Nero](../factions/ponte-nero.md)
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
 - [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
 - [The Deep Market (Niederstadt)](niederstadt-deep-market.md)
@@ -1301,6 +1667,8 @@ _Source: `content/locations/ponte-nero-guildhouse.md`_
 
 ## What players would know
 
+![Ponte Nero Guildhouse Yard](images/ponte-nero-guildhouse.png)
+
 In Niederstadt there are “stables” that don’t smell like stables and “pilgrimage
 logistics” offices that seem to know which streets will be closed tomorrow. Most
 people only learn the name Ponte Nero when they need a route more than an answer.
@@ -1312,11 +1680,35 @@ people only learn the name Ponte Nero when they need a route more than an answer
 
 ---
 
+## The Rusted Hook
+
+_Source: `content/locations/rusted-hook-tavern.md`_
+
+## What players would know
+
+### Illustrations (player-safe)
+
+![The Rusted Hook (usual night)](images/rusted-hook-tavern.png)
+![The Rusted Hook (post-blast cleanup)](images/rusted-hook-tavern-post-blast-01.png)
+
+The Rusted Hook is a dive bar in the roughest stretch of Niederstadt: cheap
+ale, bad air, and enough noise to bury a confession. People come here when they
+need a room that asks no questions and a crowd that minds its own survival.
+
+### Common rumors
+
+- The Hook rents upstairs rooms by the hour, no names required.
+- If the Watch comes here, it means someone important bled.
+
+---
+
 ## Valdengratz
 
 _Source: `content/locations/valdengratz.md`_
 
 ## What players would know
+
+![Valdengratz (aerial border crossing)](images/valdengratz.png)
 
 Valdengratz is the big river border-city: customs halls, caravan yards, paperwork, bribes, and “lost” cargo that turns up with a different seal. It is prosperous, watched, and full of people pretending to be ordinary while counting how much the border is worth today.
 
@@ -1352,6 +1744,51 @@ ruin whom.
 
 - [Hochsilvar](hochsilvar.md)
 - [Banco Valdieri](../institutions/banco-valdieri.md)
+
+---
+
+## Vellum & Vine
+
+_Source: `content/locations/vellum-and-vine.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Vellum & Vine](images/vellum-and-vine.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+Vellum & Vine is a polished wine merchant and tasting room in Hochsilvar’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
+
+Locals treat it as respectable commerce. People who work investigations treat it as a place where courier traffic and client lists matter as much as the wine.
+
+### Common rumors
+
+- If a crate leaves Vellum & Vine without a visible seal, someone powerful already approved it.
+- You can buy rare vintages here, but the real product is introductions.
+
+---
+
+## Ventresca Guildhouse (Niederstadt)
+
+_Source: `content/locations/ventresca-guildhouse.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Ventresca Guildhouse (Niederstadt)](images/ventresca-guildhouse.png)
+
+Niederstadt has offices that don’t advertise: basements where ink dries fast, where
+your name matters more than your face, and where a stamped receipt can make
+contraband look like cargo. If you don’t know where to knock, you’ll never find
+them.
+
+### Common rumors
+
+- Some “trade firms” keep their best ledgers below ground.
+- Paper can cross borders more easily than people.
 
 ---
 
@@ -1405,6 +1842,62 @@ If the Accord answers, the person comes back with a bond: a spirit that will som
 
 ---
 
+## Pattern Recall Daggers
+
+_Source: `content/magic/items/pattern-recall-daggers.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Pattern Recall Daggers](images/pattern-recall-daggers.png)
+
+These plain-looking daggers carry a subtle recall enchantment: when thrown, they always come back.
+
+### Use at the table
+
+- Use normal dagger rules.
+- When you make a thrown attack with the dagger, it returns to your hand at the end of the attack (hit or miss).
+- No attunement required.
+
+### Common rumors
+
+- “There are bureaus that issue these like uniforms.”
+- “Some blades come back warm.”
+
+---
+
+## Refined Magic
+
+_Source: `content/magic/items/refined-magic.md`_
+
+## What players would know
+
+![Refined magic (case)](images/refined-magic.png)
+
+Refined magic is magical power made portable: processed, contained, and traded. Spellcasters use it to push a casting beyond its ordinary limits or to fuel work that would otherwise be impossible. Everyone else treats it the way they treat gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
+
+In much of the Empire and its neighbors, refined magic is becoming a trade standard. Banks and caravans use it to back promissory notes and settle large transactions without hauling bulk coin. Where the [Banking Guild](../../factions/banking-guild.md) is strong, it’s regulated, sealed, and audited. Where it isn’t, it moves like contraband with respectable paperwork.
+
+---
+
+## Tears of the Moon
+
+_Source: `content/magic/items/tears-of-the-moon.md`_
+
+## What players would know
+
+Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+
+Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+
+### Common rumors
+
+- A Tear-forged blade changes subtly based on what it kills.
+- The Union has some, the Empire has more, and everyone lies about the numbers.
+
+---
+
 ## Leyline Convergences
 
 _Source: `content/magic/leyline-convergences.md`_
@@ -1433,103 +1926,6 @@ _Source: `content/magic/magic-system-and-spell-casting.md`_
 ## What players would know
 
 In Qualihut, spellcasting is not a spoken menu—it’s a trained, procedural practice. Words, gestures, and materials are the interface used to shape finite, harvested magic into stable effects.
-
----
-
-## Magical Tattoo Ink
-
-_Source: `content/magic/magical-tattoo-ink.md`_
-
-## What players would know
-
-Magical tattoo ink is what happens when spellcraft gets personal. Instead of carving runes into stone or binding power into rings, druids tattoo a working onto skin—lines that glow faintly under the right light and shift color when magic is near.
-
-It’s prized because it can’t be stolen as easily as a wand, and feared because it can’t be set down. Veterans sometimes carry “distressed” tattoos that behave a little differently than they did when fresh—like a scar that learned a new habit.
-
-### Common rumors
-
-- The best ink comes from rare insects and is more valuable than gold by the vial.
-- Removing a spell‑tattoo safely is a lie told by people who want your money.
-
----
-
-## Mind Magic + Wards
-
-_Source: `content/magic/mind-magic.md`_
-
-## What players would know
-
-In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a quiet assault: useful, feared, and socially expensive when discovered.
-
-Because of that, **wards against mind magic are widely available** (from cheap amulets to serious institutional protections), with varying effectiveness.
-
-### What wards do (in plain terms)
-
-Even a cheap ward can make mind magic _noticeable_. You might still get Charmed or compelled, but you can feel the “hook” and know someone is trying to steer you.
-
-More expensive wards improve your odds of resisting (often felt as clarity, steadiness, or the ability to “push back” against a thought that isn’t yours).
-
-### Table expectations (what to expect in play)
-
-- **Out of combat:** mind magic is **always noticeable**.
-- **In combat:** you may need to make a **Wisdom check** to notice it in the moment.
-- If you’re aware but still affected, you’ll usually get a **Wisdom saving throw each round** to shake it off, with **escalating advantage** the longer you fight it.
-- Better wards also confer **advantage on Wisdom saving throws** against mind magic.
-
-### Common rumors
-
-- Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
-- Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
-
----
-
-## Pattern Recall Daggers
-
-_Source: `content/magic/pattern-recall-daggers.md`_
-
-## What players would know
-
-These plain-looking daggers carry a subtle recall enchantment: when thrown, they always come back.
-
-### Use at the table
-
-- Use normal dagger rules.
-- When you make a thrown attack with the dagger, it returns to your hand at the end of the attack (hit or miss).
-- No attunement required.
-
-### Common rumors
-
-- “There are bureaus that issue these like uniforms.”
-- “Some blades come back warm.”
-
----
-
-## Refined Magic
-
-_Source: `content/magic/refined-magic.md`_
-
-## What players would know
-
-![Refined magic (case)](images/refined-magic.png)
-
-Refined magic is magical power made portable: processed, contained, and traded. Spellcasters use it to push a casting beyond its ordinary limits or to fuel work that would otherwise be impossible. Everyone else treats it the way they treat gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
-
-In much of the Empire and its neighbors, refined magic is becoming a trade standard. Banks and caravans use it to back promissory notes and settle large transactions without hauling bulk coin. Where the [Banking Guild](../factions/banking-guild.md) is strong, it’s regulated, sealed, and audited. Where it isn’t, it moves like contraband with respectable paperwork.
-
----
-
-## Scrying
-
-_Source: `content/magic/scrying.md`_
-
-## What players would know
-
-Scrying is a family of divination practices used to observe a distant person or place through a medium (a bowl of water, a mirror, a polished stone, smoke). Most people know it exists. Most people also know you don’t talk loudly about who can do it well.
-
-### Common rumors
-
-- The rich pay for privacy wards the way they pay for locks.
-- If you can’t be found, it’s because someone wants you unfound.
 
 ---
 
@@ -1564,20 +1960,73 @@ When cast, the DM describes one animal within range behaving in a way that break
 
 ---
 
-## Tears of the Moon
+## Magical Tattoo Ink
 
-_Source: `content/magic/tears-of-the-moon.md`_
+_Source: `content/magic/spells/magical-tattoo-ink.md`_
 
 ## What players would know
 
-Tears of the Moon is a rare, prized metal—so light and strong that folk tales insist it “remembers being light.” It shows up in heirloom blades, ceremonial armor, and relic tools, usually with enough paperwork and guards to make you wonder whether the item is precious or simply politically dangerous.
+### Illustration (player-safe)
 
-Craftsmen say it’s temperamental: it behaves differently under heavy magic, and it seems to “learn” from how it’s used. That makes it a dream for enchanters and a nightmare for anyone who wants predictable weapons.
+![Magical tattoo ink (druid tattooing)](images/magical-tattoo-ink.png)
+
+Magical tattoo ink is what happens when spellcraft gets personal. Instead of carving runes into stone or binding power into rings, druids tattoo a working onto skin—lines that glow faintly under the right light and shift color when magic is near.
+
+It’s prized because it can’t be stolen as easily as a wand, and feared because it can’t be set down. Veterans sometimes carry “distressed” tattoos that behave a little differently than they did when fresh—like a scar that learned a new habit.
 
 ### Common rumors
 
-- A Tear-forged blade changes subtly based on what it kills.
-- The Union has some, the Empire has more, and everyone lies about the numbers.
+- The best ink comes from rare insects and is more valuable than gold by the vial.
+- Removing a spell‑tattoo safely is a lie told by people who want your money.
+
+### See also
+
+- [The Living Script](../the-living-script.md)
+
+---
+
+## Mind Magic + Wards
+
+_Source: `content/magic/spells/mind-magic.md`_
+
+## What players would know
+
+In the Empire, “mind magic” (charms, compulsions, emotional manipulation) is treated like a quiet assault: useful, feared, and socially expensive when discovered.
+
+Because of that, **wards against mind magic are widely available** (from cheap amulets to serious institutional protections), with varying effectiveness.
+
+### What wards do (in plain terms)
+
+Even a cheap ward can make mind magic _noticeable_. You might still get Charmed or compelled, but you can feel the “hook” and know someone is trying to steer you.
+
+More expensive wards improve your odds of resisting (often felt as clarity, steadiness, or the ability to “push back” against a thought that isn’t yours).
+
+### Table expectations (what to expect in play)
+
+- **Out of combat:** mind magic is **always noticeable**.
+- **In combat:** you may need to make a **Wisdom check** to notice it in the moment.
+- If you’re aware but still affected, you’ll usually get a **Wisdom saving throw each round** to shake it off, with **escalating advantage** the longer you fight it.
+- Better wards also confer **advantage on Wisdom saving throws** against mind magic.
+
+### Common rumors
+
+- Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
+- Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
+
+---
+
+## Scrying
+
+_Source: `content/magic/spells/scrying.md`_
+
+## What players would know
+
+Scrying is a family of divination practices used to observe a distant person or place through a medium (a bowl of water, a mirror, a polished stone, smoke). Most people know it exists. Most people also know you don’t talk loudly about who can do it well.
+
+### Common rumors
+
+- The rich pay for privacy wards the way they pay for locks.
+- If you can’t be found, it’s because someone wants you unfound.
 
 ---
 
@@ -1599,35 +2048,9 @@ When a druid dies, their body is burned. If a story wasn’t passed on before th
 - A dead druid without a successor is called a _burned library_.
 - Some circles refuse to ink spellwork onto the same skin as the Script, calling it “smudging the record.”
 
----
-
-## The Three Moons
-
-_Source: `content/magic/three-moons.md`_
-
-## What players would know
-
-Qualihut has three moons, and the world behaves like it knows that. Tides argue. Sleep is not uniform. Magic has “good nights” and “bad nights” the way weather has fronts.
-
-Most folk don’t track the whole sky. They track what matters to them:
-
-- Sailors care which moon is pulling hardest.
-- Midwives care which moon makes blood easy or stubborn.
-- Undertakers care which moon makes memory linger.
-
-People argue about calendars, but agree on one thing: when the moons align strangely, the world gets _soft_ in ways you can’t litigate.
-
-### Common rumors
-
-- One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
-- Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
-- Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
-- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
-
 ### See also
 
-- [Elunara](../people/magical-creatures/elunara.md)
-- [The Three-Moon Sea](../environments/the-three-moon-sea.md)
+- [Magical Tattoo Ink](spells/magical-tattoo-ink.md)
 
 ---
 
@@ -1685,7 +2108,7 @@ Identify who stole the refined magic, determine where it is headed, and recover 
 
 ### See also
 
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Royal Games](../institutions/royal-games.md)
 
 ## What the party can reasonably discover
@@ -1696,6 +2119,23 @@ If you push on the right doors (and survive the politics), you can uncover:
 - **Paper trails**: promissory-note signet chains; custody-chain anomalies; documents that look _too_ clean to be honest.
 - **Undercity leads**: smuggling logistics; territorial tells; a name that never comes with a face.
 - **Transport constraints**: refined magic moves like fragile contraband, which creates slow routes, choke points, and opportunities for interception.
+
+---
+
+## Beast-Adjacent Symbiotes
+
+_Source: `content/races/beast-adjacent-symbiotes.md`_
+
+## What players would know
+
+In some regions, semi-domesticated predators live alongside communities in uneasy partnership. They blur the line between livestock and ally: night sentries that don’t sleep as deeply as people do, hunting partners that understand territory better than any sheriff.
+
+The relationship is practical. Food, shelter, and ritual handling in exchange for protection and teeth. It works—until it doesn’t.
+
+### Common rumors
+
+- Longhouse chiefs sleep better when a symbiote curls under the roof.
+- Some symbiotes understand commands better than militia recruits.
 
 ---
 

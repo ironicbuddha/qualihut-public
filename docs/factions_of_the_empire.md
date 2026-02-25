@@ -5,22 +5,26 @@
 ## Table of Contents
 
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
+- [Brazen Pike Company](#brazen-pike-company)  `content/factions/brazen-pike-company.md`
+- [La Compagnia del Gesso Bianco](#la-compagnia-del-gesso-bianco)  `content/factions/gesso-bianco.md`
 - [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
 - [The Southern Union](#the-southern-union)  `content/factions/southern-union.md`
 - [The Travelers](#the-travelers)  `content/factions/travelers.md`
 - [Banco Valdieri](#banco-valdieri)  `content/institutions/banco-valdieri.md`
+- [The Broadbarrel Caravan](#the-broadbarrel-caravan)  `content/institutions/broadbarrel-caravan.md`
 - [Church Caravans](#church-caravans)  `content/institutions/church-caravans.md`
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
+- [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
+- [Cult of the Liminal Network](#cult-of-the-liminal-network)  `content/institutions/cult-of-the-liminal-network.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
 - [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
 - [House of Warlocks (Misnomer)](#house-of-warlocks-misnomer)  `content/institutions/house-of-warlocks.md`
-- [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
-- [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
+- [Lamp Feeders (Niederstadt Utility)](#lamp-feeders-niederstadt-utility)  `content/institutions/lamp-feeders-niederstadt.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
@@ -37,6 +41,10 @@ _Source: `content/factions/banking-guild.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Banking Guild](images/banking-guild.png)
+
 The Banking Guild—formally **Il Consorzio della Mano Sicura**—is turning trust into infrastructure. Where old lords demanded coin, the Guild offers paper backed by vaults, seals, and a ritualized promise: your note can be redeemed, witnessed, and made real.
 
 In cities with strong guild presence, promissory notes start to behave like a trade standard. Merchants stop weighing coin and start weighing reputation. In places without it, the notes are still just paper—until someone with a ledger and a militia decides they aren’t.
@@ -45,6 +53,58 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 - Guild vaults hold unusual reserves.
 - Debtors sometimes vanish into “administrative disputes.”
+
+---
+
+## Brazen Pike Company
+
+_Source: `content/factions/brazen-pike-company.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Brazen Pike Company](images/brazen-pike-company.png)
+
+The Brazen Pike Company is a contract mercenary outfit that sells disciplined
+escort work: caravan protection, checkpoint muscle, debt-collection security,
+and short-term gate control when local militias are stretched thin.
+
+They are known for clear rates, written witness logs, and not drinking while on
+watch.
+
+### Common rumors
+
+- If the Brazen Pike banner is on a caravan, trouble usually finds softer prey.
+- Their quartermasters ask more questions than their captains.
+
+---
+
+## La Compagnia del Gesso Bianco
+
+_Source: `content/factions/gesso-bianco.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![La Compagnia del Gesso Bianco](images/gesso-bianco.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+La Compagnia del Gesso Bianco is a thieves' guild known for jobs that avoid
+blood: burglary, pickpocketing, and fraud done with timing and paperwork instead
+of open violence. They are associated with chalk marks on doorframes and market
+posts, though no one agrees what the symbols actually mean.
+
+In crowded districts, they are blamed for "clean losses": coin pouches gone
+without cut straps, lockboxes opened without broken hinges, and debt records
+that change hands before the ink is dry.
+
+### Common rumors
+
+- They case neighborhoods by posing as copyists, clerks, and tally-runners.
+- If Gesso Bianco steals from you, you'll notice three days later, not three seconds later.
 
 ---
 
@@ -81,6 +141,10 @@ _Source: `content/factions/ponte-nero.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![La Compagnia del Ponte Nero](images/ponte-nero.png)
+
 La Compagnia del Ponte Nero is what you hire when you need movement more than you need explanations. Publicly they’re pilgrimage-season logistics: stables, transport-animal exchange, guides who can thread a caravan through crowds without bloodshed.
 
 They have a reputation for quiet competence—the kind that makes officials uneasy. Ponte Nero people look like ordinary workers until you watch them solve a problem in three gestures and one glance.
@@ -97,6 +161,10 @@ They have a reputation for quiet competence—the kind that makes officials unea
 _Source: `content/factions/southern-union.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![The Southern Union](images/southern-union.png)
 
 The Southern Union is a cluster of nations bound together by treaty and trade—close enough in strength to the Empire that open war would be ruinous for everyone, and therefore threatened constantly in speeches nobody intends to honor.
 
@@ -166,7 +234,7 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 - [Shifting Oases](../environments/shifting-oases.md)
 - [Desert Truffle](../economy/desert-truffle.md)
 - [Desert Bamboo (Fast-Growth Trees)](../economy/desert-bamboo.md)
-- [Great Desert Reptiles](../monsters/great-desert-reptiles.md)
+- [Saurakh (Great Desert Reptiles)](../monsters/saurakh.md)
 - [Skyrider](../monsters/skyrider.md)
 - [The Eastern Passage](../locations/eastern-passage.md)
 - [Ifrit](../races/ifrit.md)
@@ -178,6 +246,10 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 _Source: `content/institutions/banco-valdieri.md`_
 
 ## What players would know
+
+### Illustration (player-safe)
+
+![Banco Valdieri](images/banco-valdieri.png)
 
 Banco Valdieri is one of [Hochsilvar](../locations/hochsilvar.md)’s marble-faced certainties: reputable, wealthy, and guarded like a minor palace. It sits close to the [Banking Guild](../factions/banking-guild.md)’s promissory-note experiment, where paper promises are backed by refined magic and the public is asked to believe the ledgers.
 
@@ -192,6 +264,30 @@ If you want to know how much power a bank has, don’t look at its coin—look a
 
 - [Magister Argentum Alarich von Silberhain](../people/npcs/alarich-von-silberhain.md)
 - [Giovanni Valdieri](../people/npcs/giovanni-valdieri.md)
+
+---
+
+## The Broadbarrel Caravan
+
+_Source: `content/institutions/broadbarrel-caravan.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Broadbarrel Caravan](images/broadbarrel-caravan.png)
+
+The Broadbarrel Caravan is a slow, heavy staple convoy: salt pork jars, ale
+kegs, and yellow-grass sacks hauled in bulk under strict schedules.
+
+It is run by [Henrik Volmar](../people/npcs/henrik-volmar.md) and currently
+travels with hired [Brazen Pike Company](../factions/brazen-pike-company.md)
+security.
+
+### Common rumors
+
+- If you need food moved through bad country, Broadbarrel usually delivers.
+- Their guard contract is expensive enough to scare off petty trouble.
 
 ---
 
@@ -218,6 +314,10 @@ _Source: `content/institutions/city-watch.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![City Watch](images/city-watch.png)
+
 City Watch patrols keep order the way a tired person keeps a room clean: by deciding what mess is “normal.” They’re underpaid, stretched thin, and often more local than lawful—loyal to districts, captains, and survival.
 
 Watch captains spend as much time balancing guild pressure against magistrate orders as they do chasing criminals. The result is uneven enforcement that looks like corruption to outsiders and looks like “not getting everyone killed” to the people doing the work.
@@ -226,6 +326,47 @@ Watch captains spend as much time balancing guild pressure against magistrate or
 
 - A guild coin buys faster justice than a badge.
 - City watch units and guild enforcers skirmish after dark.
+
+---
+
+## The Cult of Ink
+
+_Source: `content/institutions/cult-of-ink.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![The Cult of Ink](images/cult-of-ink.png)
+
+The Cult of Ink is spoken of in the same voice people use for plague and debt: low, practical, and a little superstitious. They are contract killers—allegedly neutral, allegedly precise, and allegedly bound by written terms so strict they will not “improvise mercy” even if begged.
+
+In some cities, a small black droplet painted on a doorframe is enough to make a landlord suddenly decide to be reasonable. In others, it’s just a joke thieves tell each other. Either way, most people agree on one thing: if the Cult has your name in ink, the law won’t save you—only a better contract will.
+
+### Common rumors
+
+- They don’t take sides, only clauses.
+- Their tattoos are not decoration; they’re vows you can’t wash off.
+
+---
+
+## Cult of the Liminal Network
+
+_Source: `content/institutions/cult-of-the-liminal-network.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Cult of the Liminal Network](images/cult-of-the-liminal-network.png)
+
+The Cult of the Liminal Network gathers where borders blur: root-cellars that crack into caves, sinkholes webbed with pale fungi, and groves where the ground feels attentive. They don’t preach a god. They preach the network between—soil and sky, memory and rot, thought and breath.
+
+### Common rumors
+
+- Their initiates drink “harmless” fungal draughts and come back changed.
+- They hate prophets, but not because they hate revelation—because they distrust single witnesses.
+- If you hear branching lines scratched into stone, someone has been here.
 
 ---
 
@@ -324,42 +465,6 @@ If you’re looking for the canonical entry, use **[House von Stillwort](house-v
 
 ---
 
-## House von Stillwort
-
-_Source: `content/institutions/house-von-stillwort.md`_
-
-## What players would know
-
-House von Stillwort is an elven noble house known for immaculate restraint: soft voices, precise clothing, and the feeling that even their silences are practiced. In court they present as advisors, archivists, and “quiet overseers” whose influence arrives without spectacle and leaves people rearranging their lives around new procedures.
-
-They are also the one house commonly associated with **warlock power**—not as a free-for-all talent, but as a lineage-bound inheritance tied to an ancestral bargain. In the popular telling, warlock power has **manifested in their bloodline** ever since.
-
-### Common rumors
-
-- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
-- Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
-- Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
-- Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
-
----
-
-## Imperial Monasteries
-
-_Source: `content/institutions/imperial-monasteries.md`_
-
-## What players would know
-
-Imperial monasteries sit where towns don’t: on dangerous roads, near old stones, and in valleys where the wind sounds like it’s remembering something. To travelers they’re refuge—warmth, bread, a place to sleep without a knife at your throat. To officials they’re outposts, record houses, and quiet points of influence beyond city walls.
-
-Some monasteries are thriving, with gardens and disciplined hospitality. Others are half‑abandoned, still tended by a handful of stubborn monks who act like the world ending is just another chore. Either way, people speak of monasteries as places where you can ask for help… and where help always comes with a lesson.
-
-### Common rumors
-
-- Monks know which roads are “wrong” this season, even when maps insist they’re fine.
-- An abandoned monastery is never truly empty; it’s just between owners.
-
----
-
 ## Intelligence Bureaus
 
 _Source: `content/institutions/intelligence-bureaus.md`_
@@ -374,6 +479,36 @@ Most people can’t name the bureaus, only the symptoms: a rival’s caravan “
 
 - Assassins travel with caravans.
 - Magistrates hire thieves’ guilds for deniable jobs.
+
+---
+
+## Lamp Feeders (Niederstadt Utility)
+
+_Source: `content/institutions/lamp-feeders-niederstadt.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Lamp Feeders (Niederstadt Utility)](images/lamp-feeders-niederstadt.png)
+
+The Lamp Feeders are Niederstadt's municipal lighting crews. They maintain
+caged bioluminescent beetles that light tunnels, stairs, and market approaches
+through the undercity night.
+
+Most residents barely notice them until a lane goes dim, a mugging spike
+starts, or a district complains that "the lamps feel wrong."
+
+### Common rumors
+
+- Rich lanes get brighter cages and fresher feed.
+- A feeder can read tunnel trouble by glow color before anyone files a report.
+- Smashing a lamp cage is stupid; culling quietly is how professionals make
+  darkness.
+
+### See also
+
+- [Nieder Lamp Beetle](../monsters/nieder-lamp-beetle.md)
 
 ---
 
@@ -443,13 +578,16 @@ _Source: `content/institutions/royal-games.md`_
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![The Royal Games](images/royal-games.png)
+
 The Royal Games are a solstice week when the capital forgets it is a city and remembers it is a crowd. Teams from villages, wards, docks, monasteries, and mining hollows all pour in for matches that are half sport and half civic ritual. Betting flows like wine, and the streets feel one spark away from riot in both directions—joy and violence sharing a spine.
 
 Everyone knows the “rules” that matter: the ball is blessed but never enchanted, nobles sponsor quietly and dress plainly at the final, and the monarch must attend. In taverns, people say the Games are the only time the Empire tells the truth about itself: what it loves, what it hates, and how quickly it will trample anyone in the way.
 
 ### Common rumors
 
-- Every intelligence service runs operations during the Games because the crowd covers everything.
 - A curse laid in the stands can spread through chants faster than fire.
 
 ---

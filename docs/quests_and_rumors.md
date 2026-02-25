@@ -37,7 +37,7 @@ Identify who stole the refined magic, determine where it is headed, and recover 
 
 ### See also
 
-- [Refined Magic](../magic/refined-magic.md)
+- [Refined Magic](../magic/items/refined-magic.md)
 - [The Royal Games](../institutions/royal-games.md)
 
 ## What the party can reasonably discover

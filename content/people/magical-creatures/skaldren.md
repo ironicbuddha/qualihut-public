@@ -17,6 +17,11 @@ aliases:
 
 ## What players would know
 
+### Illustration (player-safe)
+
+![Skaldren](images/skaldren.png)
+![Skaldren — Iconography](images/skaldren-iconography.png)
+
 Skaldren is the Underworld: the god of endings, memory, and what remains after the cycle closes. He isn’t framed as evil. He’s framed as inevitable.
 
 People invoke Skaldren in funerary rites, in confessions, and in the quiet language of debt: the sense that some things are “kept” even when no living witness remains.

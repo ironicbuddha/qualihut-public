@@ -18,3 +18,7 @@ When a druid dies, their body is burned. If a story wasn’t passed on before th
 - Elder druids can be “read” by other druids the way priests read scripture.
 - A dead druid without a successor is called a _burned library_.
 - Some circles refuse to ink spellwork onto the same skin as the Script, calling it “smudging the record.”
+
+### See also
+
+- [Magical Tattoo Ink](spells/magical-tattoo-ink.md)
