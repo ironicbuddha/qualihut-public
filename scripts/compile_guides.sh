@@ -26,6 +26,13 @@ has_pdf_engine() {
   return 1
 }
 
+should_build_pdf() {
+  case "${COMPILE_PDF:-0}" in
+    1|true|TRUE|yes|YES) return 0 ;;
+    *) return 1 ;;
+  esac
+}
+
 build_pandoc_resource_path() {
   local -a paths=("$ROOT_DIR" "$ROOT_DIR/content")
   local -a img_parents=()
@@ -217,6 +224,10 @@ compile_manifest() {
   done
 
   echo "Wrote: $OUT_MD"
+  if ! should_build_pdf; then
+    echo "Skipping PDF for $OUT_MD (set COMPILE_PDF=1 to enable)"
+    return 0
+  fi
   if has_pandoc; then
     if has_pdf_engine; then
       local pdf_engine_args=()
