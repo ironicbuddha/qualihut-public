@@ -35,6 +35,10 @@ Mordecai Orichalcum is a tall trans woman wizard and the proprietor of **Glass &
 
 She does business from behind a heavy counter, backed by a tall glass case packed with potions, scroll tubes, and a riot of other small magic items that all come with receipts, warnings, and an optional lecture.
 
+### See also
+
+- [Glass & Moth](../../locations/glass-and-moth.md)
+
 ### At a glance
 
 - Demeanor: dry, precise, surprisingly kind if you read the fine print.
