@@ -2,22 +2,6 @@
 id: pietro-sarto
 title: Pietro Sarto
 type: person
-kind: npc
-status: published
-ancestry: half-elf
-class:
-level:
-ac:
-hp:
-initiative:
-passive_perception:
-str:
-dex:
-con:
-int:
-wis:
-cha:
-skills: []
 ---
 
 ## What players would know
@@ -35,4 +19,4 @@ and wary of anyone who asks questions like a magistrate.
 ### Common rumors
 
 - He “sees everything” because he is always carrying something from one place to
-  another.
+another.

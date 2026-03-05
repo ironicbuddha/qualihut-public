@@ -2,26 +2,6 @@
 id: toliver-brune
 title: Toliver “Tolly” Brune
 type: person
-kind: npc
-status: published
-class:
-level:
-ac:
-hp:
-initiative:
-passive_perception:
-str:
-dex:
-con:
-int:
-wis:
-cha:
-skills: []
-roles:
-  - street vendor
-tags:
-  - royal-games
-  - comedy-relief
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: niederstadt
 title: Niederstadt
 type: location
-status: published
 ---
 
 ## What players would know

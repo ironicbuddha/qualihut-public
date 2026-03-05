@@ -2,7 +2,6 @@
 id: gesso-bianco
 title: La Compagnia del Gesso Bianco
 type: faction
-status: published
 ---
 
 ## What players would know

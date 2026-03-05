@@ -2,7 +2,6 @@
 id: house-of-sorcery
 title: House of Sorcery (Misnomer)
 type: institution
-status: published
 ---
 
 ## What players would know

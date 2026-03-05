@@ -2,17 +2,6 @@
 id: althar
 title: Althar
 type: person
-kind: deity
-status: published
-domains:
-  - law
-  - witness
-  - empire
-  - linear-time
-aliases:
-  - The Sun
-  - The High Sun
-  - Althar the Witness
 ---
 
 ## What players would know

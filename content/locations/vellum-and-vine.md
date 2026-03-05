@@ -2,7 +2,6 @@
 id: vellum-and-vine
 title: Vellum & Vine
 type: location
-status: published
 ---
 
 ## What players would know

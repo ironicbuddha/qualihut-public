@@ -2,7 +2,6 @@
 id: druidic-endurance-leaf
 title: Druidic Endurance Leaf
 type: economy
-status: published
 ---
 
 ## What players would know

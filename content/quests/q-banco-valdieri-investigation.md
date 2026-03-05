@@ -2,25 +2,6 @@
 id: q-banco-valdieri-investigation
 title: Banco Valdieri Investigation
 type: quest
-status: published
-location: hochsilvar
-event: royal-games
-event_phase: midweek
-factions:
-
-  - city-watch
-  - banking-guild
-  - white-stag
-  - ponte-nero
-  - ventresca-associati
-  - der-kronenschild
-
-themes:
-
-  - financial crime
-  - covert jurisdiction
-  - time distortion
-  - refined magic as currency
 ---
 
 ## What the party knows (briefing version)
@@ -50,6 +31,7 @@ Identify who stole the refined magic, determine where it is headed, and recover 
 
 - [Refined Magic](../magic/items/refined-magic.md)
 - [The Royal Games](../institutions/royal-games.md)
+
 
 ## What the party can reasonably discover
 

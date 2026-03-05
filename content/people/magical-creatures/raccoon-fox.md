@@ -2,18 +2,6 @@
 id: raccoon-fox
 title: Raccoon Fox (Forest Spirit)
 type: person
-kind: spirit
-status: published
-domains:
-  - thresholds
-  - cunning
-  - reuse
-  - luck
-  - locks
-aliases:
-  - Brownmask
-  - The Jazz-Handed Fox
-  - The Lock-Licker
 ---
 
 ## What players would know

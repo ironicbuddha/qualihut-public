@@ -2,7 +2,6 @@
 id: niederstadt-deep-market
 title: The Deep Market (Niederstadt)
 type: location
-status: published
 ---
 
 ## What players would know

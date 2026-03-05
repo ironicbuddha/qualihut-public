@@ -2,7 +2,6 @@
 id: saurakh
 title: Saurakh
 type: economy
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: hochkathedrale-der-ewigen-flamme
 title: Die Hochkathedrale der Ewigen Flamme
 type: institution
-status: published
 ---
 
 ## What players would know

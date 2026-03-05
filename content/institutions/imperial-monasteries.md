@@ -2,7 +2,6 @@
 id: imperial-monasteries
 title: Imperial Monasteries
 type: institution
-status: published
 ---
 
 ## What players would know

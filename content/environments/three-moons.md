@@ -2,7 +2,6 @@
 id: three-moons
 title: The Three Moons
 type: environment
-status: published
 ---
 
 ## What players would know

@@ -2,17 +2,6 @@
 id: caernlach
 title: Caernlach
 type: person
-kind: fey-sovereign
-status: published
-domains:
-  - attention
-  - thresholds
-  - time-distortion
-  - improvisation
-aliases:
-  - The Fey King
-  - The Chuckling King
-  - The Fey Lord Who Chuckled
 ---
 
 ## What players would know

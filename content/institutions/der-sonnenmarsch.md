@@ -2,7 +2,6 @@
 id: der-sonnenmarsch
 title: Der Sonnenmarsch
 type: institution
-status: published
 ---
 
 ## What players would know

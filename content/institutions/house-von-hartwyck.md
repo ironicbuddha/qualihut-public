@@ -2,7 +2,6 @@
 id: house-von-hartwyck
 title: House von Hartwyck
 type: institution
-status: published
 ---
 
 ## What players would know

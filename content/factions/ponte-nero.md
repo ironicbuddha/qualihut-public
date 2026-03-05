@@ -2,7 +2,6 @@
 id: ponte-nero
 title: La Compagnia del Ponte Nero
 type: faction
-status: published
 ---
 
 ## What players would know

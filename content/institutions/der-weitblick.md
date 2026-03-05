@@ -2,7 +2,6 @@
 id: der-weitblick
 title: Der Weitblick
 type: institution
-status: published
 ---
 
 ## What players would know

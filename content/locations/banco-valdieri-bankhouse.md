@@ -2,7 +2,6 @@
 id: banco-valdieri-bankhouse
 title: Banco Valdieri (Bankhouse)
 type: location
-status: published
 ---
 
 ## What players would know

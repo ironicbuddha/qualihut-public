@@ -2,18 +2,6 @@
 id: elunara
 title: Elunara
 type: person
-kind: deity
-status: published
-domains:
-  - cycles
-  - fertility
-  - witchcraft
-  - return
-  - moons
-aliases:
-  - The Threefold Moon
-  - The Three Moons
-  - The Three Mother
 ---
 
 ## What players would know

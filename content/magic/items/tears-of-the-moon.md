@@ -2,7 +2,6 @@
 id: tears-of-the-moon
 title: Tears of the Moon
 type: magic
-status: published
 ---
 
 ## What players would know

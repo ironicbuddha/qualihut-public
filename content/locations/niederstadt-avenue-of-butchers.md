@@ -2,7 +2,6 @@
 id: niederstadt-avenue-of-butchers
 title: Avenue of Butchers (Niederstadt)
 type: location
-status: published
 ---
 
 ## What players would know

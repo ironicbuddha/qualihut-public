@@ -2,7 +2,6 @@
 id: humans
 title: Humans
 type: race
-status: published
 ---
 
 ## What players would know

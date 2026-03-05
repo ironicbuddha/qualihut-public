@@ -2,7 +2,6 @@
 id: dwarves
 title: Dwarves
 type: race
-status: published
 ---
 
 ## What players would know

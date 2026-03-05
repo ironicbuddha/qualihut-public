@@ -2,7 +2,6 @@
 id: house-von-eisenforst
 title: House von Eisenforst
 type: institution
-status: published
 ---
 
 ## What players would know

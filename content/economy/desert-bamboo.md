@@ -2,7 +2,6 @@
 id: desert-bamboo
 title: Desert Bamboo (Fast-Growth Trees)
 type: economy
-status: published
 ---
 
 ## What players would know

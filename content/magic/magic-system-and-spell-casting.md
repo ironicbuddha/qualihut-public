@@ -2,7 +2,6 @@
 id: magic-system-and-spell-casting
 title: Magic System and Spell Casting
 type: magic
-status: published
 ---
 
 ## What players would know

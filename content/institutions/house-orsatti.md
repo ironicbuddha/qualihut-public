@@ -2,7 +2,6 @@
 id: house-orsatti
 title: House Orsatti
 type: institution
-status: published
 ---
 
 ## What players would know

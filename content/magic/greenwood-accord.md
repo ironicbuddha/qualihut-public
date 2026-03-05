@@ -2,7 +2,6 @@
 id: greenwood-accord
 title: The Greenwood Accord
 type: magic
-status: published
 ---
 
 ## What players would know

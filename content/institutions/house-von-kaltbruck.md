@@ -2,7 +2,6 @@
 id: house-von-kaltbruck
 title: House von Kaltbruck
 type: institution
-status: published
 ---
 
 ## What players would know

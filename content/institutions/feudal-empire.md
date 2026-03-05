@@ -2,7 +2,6 @@
 id: feudal-empire
 title: Feudal Empire
 type: institution
-status: published
 ---
 
 ## What players would know

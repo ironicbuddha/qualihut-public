@@ -2,7 +2,6 @@
 id: house-bellarossa
 title: House Bellarossa
 type: institution
-status: published
 ---
 
 ## What players would know

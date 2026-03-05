@@ -2,18 +2,6 @@
 id: cougar-mountain-lion
 title: Cougar (Mountain Lion)
 type: monster
-status: published
-ac: 13
-hp: 22 (4d8 + 4)
-attacks:
-  - Bite
-  - Claw
-  - Pounce
-magic: []
-challenge: 1 (200 XP)
-size: Medium
-creature: Beast
-alignment: Unaligned
 ---
 
 ## What players would know

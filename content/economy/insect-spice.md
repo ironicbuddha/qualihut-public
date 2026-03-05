@@ -2,7 +2,6 @@
 id: insect-spice
 title: Insect Spice (Borrowed Heat)
 type: economy
-status: published
 ---
 
 ## What players would know

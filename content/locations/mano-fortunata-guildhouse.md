@@ -2,7 +2,6 @@
 id: mano-fortunata-guildhouse
 title: La Mano Fortunata Guildhouse (The Ivory Wheel Casino)
 type: location
-status: published
 ---
 
 ## What players would know

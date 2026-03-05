@@ -2,7 +2,6 @@
 id: witnessed-cut
 title: The Witnessed Cut (Ritual Slaughter)
 type: institution
-status: published
 ---
 
 ## What players would know

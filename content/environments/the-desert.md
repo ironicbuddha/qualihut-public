@@ -2,7 +2,6 @@
 id: the-desert
 title: The Desert (Living System)
 type: environment
-status: published
 ---
 
 ## What players would know

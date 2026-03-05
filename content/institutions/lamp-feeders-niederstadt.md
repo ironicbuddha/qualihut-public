@@ -2,7 +2,6 @@
 id: lamp-feeders-niederstadt
 title: Lamp Feeders (Niederstadt Utility)
 type: institution
-status: published
 ---
 
 ## What players would know

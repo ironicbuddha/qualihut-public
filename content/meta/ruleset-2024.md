@@ -2,7 +2,6 @@
 id: ruleset-2024
 title: Ruleset (2024) + PC Restrictions
 type: meta
-status: published
 ---
 
 ## What players would know

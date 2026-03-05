@@ -2,7 +2,6 @@
 id: broken-seal-tavern
 title: The Broken Seal
 type: location
-status: published
 ---
 
 ## What players would know

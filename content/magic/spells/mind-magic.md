@@ -2,7 +2,6 @@
 id: mind-magic
 title: Mind Magic + Wards
 type: magic
-status: published
 ---
 
 ## What players would know

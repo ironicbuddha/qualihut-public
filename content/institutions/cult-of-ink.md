@@ -2,7 +2,6 @@
 id: cult-of-ink
 title: The Cult of Ink
 type: institution
-status: published
 ---
 
 ## What players would know

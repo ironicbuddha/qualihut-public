@@ -2,13 +2,6 @@
 id: saurakh
 title: Saurakh
 type: monster
-status: published
-aliases:
-  - Great Desert Reptiles
-ac:
-hp:
-attacks: []
-magic: []
 ---
 
 ## What players would know

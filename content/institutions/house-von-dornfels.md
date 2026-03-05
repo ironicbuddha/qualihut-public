@@ -2,7 +2,6 @@
 id: house-von-dornfels
 title: House von Dornfels
 type: institution
-status: published
 ---
 
 ## What players would know

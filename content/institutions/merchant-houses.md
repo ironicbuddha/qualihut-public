@@ -2,7 +2,6 @@
 id: merchant-houses
 title: Merchant Houses
 type: institution
-status: published
 ---
 
 ## What players would know

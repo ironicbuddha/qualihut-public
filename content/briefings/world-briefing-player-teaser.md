@@ -2,7 +2,6 @@
 id: world-briefing-player-teaser
 title: World Briefing (Player Teaser)
 type: briefing
-status: published
 ---
 
 ## Qualihut: A World Briefing (Player-Safe)
@@ -27,7 +26,7 @@ To spellcasters, refined magic is fuel: a way to push a casting beyond ordinary 
 
 In Qualihut, travel is never “routine.” It is a decision you make with your life.
 
-The Three-Moon Sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated. Old charts get people killed because they encourage confidence. Monsters treat shipping lanes like feeding corridors. Ports survive on conditional knowledge: this channel is passable *this month*, at *this moonrise*, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
+The Three-Moon Sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated. Old charts get people killed because they encourage confidence. Monsters treat shipping lanes like feeding corridors. Ports survive on conditional knowledge: this channel is passable _this month_, at _this moonrise_, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
 
 Inland, old-growth forests are not wilderness so much as politics. Wood is scarce where it matters, and logging is trouble—legal trouble, religious trouble, and sometimes the kind of trouble that has no paperwork. Shrines appear where roads don’t, and certain groves are treated like borders: you can cross them, but only if you accept that you are being noticed.
 

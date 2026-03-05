@@ -2,7 +2,6 @@
 id: mano-fortunata
 title: La Mano Fortunata
 type: faction
-status: published
 ---
 
 ## What players would know

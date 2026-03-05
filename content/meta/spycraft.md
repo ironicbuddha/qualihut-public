@@ -2,7 +2,6 @@
 id: spycraft
 title: Spycraft
 type: meta
-status: published
 ---
 
 ## What players would know

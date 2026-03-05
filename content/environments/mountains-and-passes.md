@@ -2,7 +2,6 @@
 id: mountains-and-passes
 title: Mountains and Passes
 type: environment
-status: published
 ---
 
 ## What players would know

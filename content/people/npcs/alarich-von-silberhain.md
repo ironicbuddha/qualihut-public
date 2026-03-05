@@ -2,21 +2,6 @@
 id: alarich-von-silberhain
 title: Magister Argentum Alarich von Silberhain
 type: person
-kind: npc
-status: published
-class:
-level:
-ac:
-hp:
-initiative:
-passive_perception:
-str:
-dex:
-con:
-int:
-wis:
-cha:
-skills: []
 ---
 
 ## What players would know

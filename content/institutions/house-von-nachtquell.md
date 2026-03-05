@@ -2,7 +2,6 @@
 id: house-von-nachtquell
 title: House von Nachtquell
 type: institution
-status: published
 ---
 
 ## What players would know

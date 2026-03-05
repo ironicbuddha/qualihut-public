@@ -2,7 +2,6 @@
 id: the-living-script
 title: The Living Script
 type: magic
-status: published
 ---
 
 ## What players would know

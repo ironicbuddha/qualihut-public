@@ -2,7 +2,6 @@
 id: valdengratz
 title: Valdengratz
 type: location
-status: published
 ---
 
 ## What players would know

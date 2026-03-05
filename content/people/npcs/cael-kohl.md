@@ -2,32 +2,6 @@
 id: cael-kohl
 title: Cael Köhl
 type: person
-kind: npc
-status: published
-class: Rogue
-level: 4
-ac: 14
-hp: 27
-initiative: "+4"
-passive_perception: 15
-str: 10
-dex: 18
-con: 12
-int: 14
-wis: 13
-cha: 16
-skills:
-  - Deception
-  - Insight
-  - Investigation
-  - Perception
-  - Persuasion
-  - Sleight of Hand
-  - Stealth
-aliases:
-  - Cale
-  - Cale (Niederstadt)
-  - Cale Undercity Informant
 ---
 
 ## What players would know

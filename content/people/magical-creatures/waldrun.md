@@ -2,18 +2,6 @@
 id: waldrun
 title: Waldrun
 type: person
-kind: deity
-status: published
-domains:
-  - borders
-  - wild-law
-  - becoming
-  - ecology
-aliases:
-  - The Forest
-  - The Stag
-  - The Laughing Root
-  - The Rabbit
 ---
 
 ## What players would know

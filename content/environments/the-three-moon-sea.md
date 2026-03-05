@@ -2,7 +2,6 @@
 id: the-three-moon-sea
 title: The Three-Moon Sea
 type: environment
-status: published
 ---
 
 ## What players would know

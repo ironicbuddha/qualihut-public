@@ -2,7 +2,6 @@
 id: orcs
 title: Orcs
 type: race
-status: published
 ---
 
 ## What players would know

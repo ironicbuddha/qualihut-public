@@ -2,7 +2,6 @@
 id: house-von-weissdorn
 title: House von Weissdorn
 type: institution
-status: published
 ---
 
 ## What players would know

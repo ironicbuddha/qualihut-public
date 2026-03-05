@@ -2,7 +2,6 @@
 id: travelers
 title: The Travelers
 type: faction
-status: published
 ---
 
 ## What players would know

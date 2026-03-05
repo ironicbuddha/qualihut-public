@@ -2,7 +2,6 @@
 id: desert-truffle
 title: Desert Truffle
 type: economy
-status: published
 ---
 
 ## What players would know

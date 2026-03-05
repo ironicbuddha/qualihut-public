@@ -2,7 +2,6 @@
 id: brazen-pike-company
 title: Brazen Pike Company
 type: faction
-status: published
 ---
 
 ## What players would know

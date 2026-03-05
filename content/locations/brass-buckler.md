@@ -2,7 +2,6 @@
 id: brass-buckler
 title: The Brass Buckler
 type: location
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: house-of-warlocks
 title: House of Warlocks (Misnomer)
 type: institution
-status: published
 ---
 
 ## What players would know

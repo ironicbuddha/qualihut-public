@@ -2,7 +2,6 @@
 id: solar-church
 title: The Solar Church
 type: institution
-status: published
 ---
 
 ## What players would know

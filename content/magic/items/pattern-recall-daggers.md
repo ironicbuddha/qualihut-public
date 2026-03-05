@@ -2,7 +2,6 @@
 id: pattern-recall-daggers
 title: Pattern Recall Daggers
 type: item
-status: published
 ---
 
 ## What players would know

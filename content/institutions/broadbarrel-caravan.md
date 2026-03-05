@@ -2,7 +2,6 @@
 id: broadbarrel-caravan
 title: The Broadbarrel Caravan
 type: location
-status: published
 ---
 
 ## What players would know

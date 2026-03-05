@@ -2,7 +2,6 @@
 id: hideleaf
 title: Hideleaf (Plant Leather)
 type: economy
-status: published
 ---
 
 ## What players would know

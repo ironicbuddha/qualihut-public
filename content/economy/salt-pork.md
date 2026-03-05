@@ -2,7 +2,6 @@
 id: salt-pork
 title: Salt Pork (Jar Trade)
 type: economy
-status: published
 ---
 
 ## What players would know

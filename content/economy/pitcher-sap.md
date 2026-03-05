@@ -2,7 +2,6 @@
 id: pitcher-sap
 title: Pitcher Sap
 type: economy
-status: published
 ---
 
 ## What players would know

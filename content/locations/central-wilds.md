@@ -2,7 +2,6 @@
 id: central-wilds
 title: The Central Wilds
 type: location
-status: published
 ---
 
 ## What players would know

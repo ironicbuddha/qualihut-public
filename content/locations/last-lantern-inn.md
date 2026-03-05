@@ -2,7 +2,6 @@
 id: last-lantern-inn
 title: The Last Lantern Inn
 type: location
-status: published
 ---
 
 ## What players would know

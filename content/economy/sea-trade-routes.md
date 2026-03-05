@@ -2,7 +2,6 @@
 id: sea-trade-routes
 title: Sea Trade Routes
 type: economy
-status: published
 ---
 
 ## What players would know

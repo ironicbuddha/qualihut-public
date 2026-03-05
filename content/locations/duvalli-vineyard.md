@@ -2,7 +2,6 @@
 id: duvalli-vineyard
 title: Duvalli Vineyard
 type: location
-status: published
 ---
 
 ## What players would know

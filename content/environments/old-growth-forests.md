@@ -2,7 +2,6 @@
 id: old-growth-forests
 title: Old-Growth Forests
 type: environment
-status: published
 ---
 
 ## What players would know

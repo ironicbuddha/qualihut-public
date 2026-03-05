@@ -2,7 +2,6 @@
 id: house-von-grauband
 title: House von Grauband
 type: institution
-status: published
 ---
 
 ## What players would know

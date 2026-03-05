@@ -2,7 +2,6 @@
 id: house-sforzetti
 title: House Sforzetti
 type: institution
-status: published
 ---
 
 ## What players would know

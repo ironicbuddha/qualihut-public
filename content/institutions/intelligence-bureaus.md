@@ -2,7 +2,6 @@
 id: intelligence-bureaus
 title: Intelligence Bureaus
 type: institution
-status: published
 ---
 
 ## What players would know

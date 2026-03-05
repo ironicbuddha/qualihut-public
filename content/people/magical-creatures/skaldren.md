@@ -2,17 +2,6 @@
 id: skaldren
 title: Skaldren
 type: person
-kind: deity
-status: published
-domains:
-  - endings
-  - memory
-  - jurisdiction
-  - receipts
-aliases:
-  - The Underworld
-  - The Receipt
-  - The Past Tense
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: ifrit
 title: Ifrit
 type: race
-status: published
 ---
 
 ## What players would know

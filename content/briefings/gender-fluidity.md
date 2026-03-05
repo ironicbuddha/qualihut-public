@@ -2,7 +2,6 @@
 id: gender-fluidity
 title: "Gender, Orientation, and Shamans"
 type: briefing
-status: published
 ---
 
 ## Gender and orientation (player-safe)
@@ -18,4 +17,4 @@ Many spirit negotiators and rural ritual specialists (often called "shamans" in 
 ### At the table
 
 - Gender and orientation are not a "gotcha," a joke axis, or a stigma engine in this campaign.
-- If you want a personal arc about identity, it is welcome, but it will be framed as *your character's life*, not as society's default cruelty.
+- If you want a personal arc about identity, it is welcome, but it will be framed as _your character's life_, not as society's default cruelty.

@@ -2,7 +2,6 @@
 id: druid-briefing-player
 title: Druid Briefing (Player)
 type: briefing
-status: published
 ---
 
 ## Player briefing: Druids in Qualihut (player-safe)

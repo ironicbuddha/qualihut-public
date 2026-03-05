@@ -2,7 +2,6 @@
 id: fey
 title: Fey
 type: race
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: house-von-hirschkrone
 title: House von Hirschkrone
 type: institution
-status: published
 ---
 
 ## What players would know

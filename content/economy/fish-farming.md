@@ -2,7 +2,6 @@
 id: fish-farming
 title: Fish Farming
 type: economy
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: hochsilvar-city-square-market
 title: Hochsilvar City Square Market
 type: location
-status: published
 ---
 
 ## What players would know

@@ -2,11 +2,6 @@
 id: nieder-lamp-beetle
 title: Nieder Lamp Beetle
 type: monster
-kind: utility-fauna
-status: published
-aliases:
-  - Cage Lantern Beetle
-  - Tunnel Lamp Bug
 ---
 
 ## What players would know

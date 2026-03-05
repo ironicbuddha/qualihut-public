@@ -2,7 +2,6 @@
 id: pottery-and-seals
 title: Pottery, Kilns, and Trade Seals
 type: economy
-status: published
 ---
 
 ## What players would know

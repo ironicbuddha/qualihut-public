@@ -2,7 +2,6 @@
 id: leyline-convergences
 title: Leyline Convergences
 type: magic
-status: published
 ---
 
 ## What players would know

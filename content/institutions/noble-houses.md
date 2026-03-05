@@ -2,7 +2,6 @@
 id: noble-houses
 title: Noble Houses
 type: institution
-status: published
 ---
 
 ## What players would know

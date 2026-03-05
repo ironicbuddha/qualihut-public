@@ -2,7 +2,6 @@
 id: rangers
 title: Rangers
 type: institution
-status: published
 ---
 
 ## What players would know

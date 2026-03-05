@@ -2,7 +2,6 @@
 id: glass-and-moth
 title: "Glass & Moth"
 type: location
-status: published
 ---
 
 ## What players would know

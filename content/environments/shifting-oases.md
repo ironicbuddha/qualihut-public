@@ -2,7 +2,6 @@
 id: shifting-oases
 title: Shifting Oases
 type: environment
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: house-malvieri
 title: House Malvieri
 type: institution
-status: published
 ---
 
 ## What players would know

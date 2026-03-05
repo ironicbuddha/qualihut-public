@@ -2,8 +2,6 @@
 id: the-silent-poet
 title: The Silent Poet
 type: person
-kind: patron
-status: published
 ---
 
 ## What players would know

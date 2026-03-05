@@ -2,7 +2,6 @@
 id: fey-roads
 title: The Fey Roads
 type: magic
-status: published
 ---
 
 ## What players would know

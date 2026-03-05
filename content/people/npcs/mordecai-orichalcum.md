@@ -2,27 +2,6 @@
 id: mordecai-orichalcum
 title: "Mordecai Orichalcum"
 type: person
-kind: npc
-status: published
-class: Wizard
-affiliation: Glass & Moth
-level: 6
-ac: 12
-hp: 33
-initiative: "+1"
-passive_perception: 12
-str: 10
-dex: 12
-con: 12
-int: 18
-wis: 13
-cha: 14
-skills: []
-roles:
-  - magic shop proprietor
-tags:
-  - hochsilvar
-  - magic-shop
 ---
 
 ## What players would know

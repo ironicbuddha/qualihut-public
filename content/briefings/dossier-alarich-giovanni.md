@@ -2,7 +2,6 @@
 id: dossier-alarich-giovanni
 title: Redacted Dossier — Banco Valdieri Principals
 type: handout
-status: published
 ---
 
 ## Redacted Dossier (Distribution: Joint Task Force / Kronenschild auspices)
@@ -14,11 +13,11 @@ status: published
 
 ### Subject A — Giovanni Valdieri (Bank Owner)
 
-**Summary assessment:** *Mostly harmless.* Dangerous only in the way influential people become dangerous when frightened.
+**Summary assessment:** _Mostly harmless._ Dangerous only in the way influential people become dangerous when frightened.
 
 > Background: ████████████████████████████████████████████  
 > Court access: ██████████████████████████████████  
-> Noted associations: ████████████████████  ████████████████  
+> Noted associations: ████████████████████ ████████████████  
 > Prior incidents: ████████████████████████████████████████████
 
 **Observed behavior (sanitized):**
@@ -33,12 +32,12 @@ status: published
 
 ### Subject B — Magister Argentum Alarich von Silberhain (Ward Custodian)
 
-**Summary assessment:** *Mostly harmless.* A procedural specialist with a bruised ego and a ledger-brain.
+**Summary assessment:** _Mostly harmless._ A procedural specialist with a bruised ego and a ledger-brain.
 
 > Background: ████████████████████████████████████████████  
-> Training: ███████████████  ██████████████████████████  
+> Training: ███████████████ ██████████████████████████  
 > Access: █████████████████████████████████████████████  
-> Known contacts: ████████████████████  ████████████████
+> Known contacts: ████████████████████ ████████████████
 
 **Observed behavior (sanitized):**
 

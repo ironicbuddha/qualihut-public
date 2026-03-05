@@ -2,7 +2,6 @@
 id: play-contract
 title: Play Contract + Working Agreements
 type: briefing
-status: published
 ---
 
 ## Play contract (player-safe)

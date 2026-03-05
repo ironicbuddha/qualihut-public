@@ -2,7 +2,6 @@
 id: southern-union
 title: The Southern Union
 type: faction
-status: published
 ---
 
 ## What players would know

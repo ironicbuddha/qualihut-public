@@ -2,7 +2,6 @@
 id: magical-tattoo-ink
 title: Magical Tattoo Ink
 type: magic
-status: published
 ---
 
 ## What players would know

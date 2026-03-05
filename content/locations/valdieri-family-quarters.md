@@ -2,7 +2,6 @@
 id: valdieri-family-quarters
 title: Valdieri Family Quarters (Imperial City)
 type: location
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: elves
 title: Elves
 type: race
-status: published
 ---
 
 ## What players would know

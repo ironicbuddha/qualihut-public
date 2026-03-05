@@ -2,7 +2,6 @@
 id: der-kronenschild
 title: Der Kronenschild
 type: institution
-status: published
 ---
 
 ## What players would know

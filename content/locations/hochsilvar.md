@@ -2,7 +2,6 @@
 id: hochsilvar
 title: Hochsilvar
 type: location
-status: published
 ---
 
 ## What players would know

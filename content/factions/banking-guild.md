@@ -2,7 +2,6 @@
 id: banking-guild
 title: Banking Guild
 type: faction
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: niederstadt-echo-amphitheatre
 title: The Echo Amphitheatre (Niederstadt)
 type: location
-status: published
 ---
 
 ## What players would know

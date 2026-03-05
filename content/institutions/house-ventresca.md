@@ -2,7 +2,6 @@
 id: house-ventresca
 title: House Ventresca
 type: institution
-status: published
 ---
 
 ## What players would know

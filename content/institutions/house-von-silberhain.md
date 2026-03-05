@@ -2,7 +2,6 @@
 id: house-von-silberhain
 title: House von Silberhain
 type: institution
-status: published
 ---
 
 ## What players would know

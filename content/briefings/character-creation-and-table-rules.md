@@ -2,7 +2,6 @@
 id: character-creation-and-table-rules
 title: Character Creation + Table Rules
 type: briefing
-status: published
 ---
 
 ## Character creation (player-safe)

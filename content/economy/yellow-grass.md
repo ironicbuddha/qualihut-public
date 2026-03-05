@@ -2,7 +2,6 @@
 id: yellow-grass
 title: Yellow Grass
 type: economy
-status: published
 ---
 
 ## What players would know

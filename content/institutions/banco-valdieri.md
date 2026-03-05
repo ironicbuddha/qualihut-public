@@ -2,7 +2,6 @@
 id: banco-valdieri
 title: Banco Valdieri
 type: institution
-status: published
 ---
 
 ## What players would know

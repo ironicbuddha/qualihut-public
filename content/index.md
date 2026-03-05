@@ -2,7 +2,6 @@
 id: player-home
 title: "Qualihut Player Vault"
 type: meta
-status: published
 ---
 
 ## Welcome to Qualihut

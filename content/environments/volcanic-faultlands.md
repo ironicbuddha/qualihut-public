@@ -2,7 +2,6 @@
 id: volcanic-faultlands
 title: Volcanic Faultlands
 type: environment
-status: published
 ---
 
 ## What players would know

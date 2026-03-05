@@ -2,7 +2,6 @@
 id: refined-magic
 title: Refined Magic
 type: magic
-status: published
 ---
 
 ## What players would know

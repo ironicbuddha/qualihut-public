@@ -2,7 +2,6 @@
 id: rusted-hook-tavern
 title: The Rusted Hook
 type: location
-status: published
 ---
 
 ## What players would know

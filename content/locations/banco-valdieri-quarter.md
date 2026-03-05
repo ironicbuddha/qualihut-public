@@ -2,7 +2,6 @@
 id: banco-valdieri-quarter
 title: Banco Valdieri Quarter
 type: location
-status: published
 ---
 
 ## What players would know

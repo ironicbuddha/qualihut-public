@@ -2,7 +2,6 @@
 id: ventresca-guildhouse
 title: Ventresca Guildhouse (Niederstadt)
 type: location
-status: published
 ---
 
 ## What players would know

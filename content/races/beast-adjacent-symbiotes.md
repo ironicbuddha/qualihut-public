@@ -2,7 +2,6 @@
 id: beast-adjacent-symbiotes
 title: Beast-Adjacent Symbiotes
 type: race
-status: published
 ---
 
 ## What players would know

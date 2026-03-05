@@ -2,7 +2,6 @@
 id: royal-games
 title: The Royal Games
 type: institution
-status: published
 ---
 
 ## What players would know

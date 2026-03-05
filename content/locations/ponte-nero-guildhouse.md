@@ -2,7 +2,6 @@
 id: ponte-nero-guildhouse
 title: Ponte Nero Guildhouse (Niederstadt)
 type: location
-status: published
 ---
 
 ## What players would know

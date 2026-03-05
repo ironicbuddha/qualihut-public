@@ -2,7 +2,6 @@
 id: church-caravans
 title: Church Caravans
 type: institution
-status: published
 ---
 
 ## What players would know

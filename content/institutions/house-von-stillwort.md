@@ -2,7 +2,6 @@
 id: house-von-stillwort
 title: House von Stillwort
 type: institution
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: city-watch
 title: City Watch
 type: institution
-status: published
 ---
 
 ## What players would know

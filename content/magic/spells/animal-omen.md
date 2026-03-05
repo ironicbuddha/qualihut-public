@@ -2,7 +2,6 @@
 id: animal-omen
 title: Animal Omen
 type: spell
-status: published
 ---
 
 ## What players would know

@@ -2,7 +2,6 @@
 id: distilled-elf-flower-wine
 title: Distilled Elf Flower Wine
 type: economy
-status: published
 ---
 
 ## What players would know

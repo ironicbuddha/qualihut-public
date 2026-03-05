@@ -2,7 +2,6 @@
 id: house-von-eichenwald
 title: House von Eichenwald
 type: institution
-status: published
 ---
 
 ## What players would know

@@ -2,9 +2,6 @@
 id: banco-valdieri-investigation
 title: Banco Valdieri Investigation
 type: briefing
-status: published
-quest: banco-valdieri-investigation
-location: hochsilvar
 ---
 
 ## Briefing: [Banco Valdieri](../institutions/banco-valdieri.md) Investigation

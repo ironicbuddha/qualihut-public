@@ -2,7 +2,6 @@
 id: house-venturi
 title: House Venturi
 type: institution
-status: published
 ---
 
 ## What players would know

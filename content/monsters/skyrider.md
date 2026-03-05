@@ -2,11 +2,6 @@
 id: skyrider
 title: Skyrider
 type: monster
-status: published
-ac:
-hp:
-attacks: []
-magic: []
 ---
 
 ## What players would know

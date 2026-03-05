@@ -2,7 +2,6 @@
 id: thieves-guilds
 title: Thieves' Guilds
 type: institution
-status: published
 ---
 
 ## What players would know
