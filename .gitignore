@@ -7,3 +7,10 @@ site/
 .tmp-tectonic/
 .tectonic-cache/
 docs/*.pdf
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
