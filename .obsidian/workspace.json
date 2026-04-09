@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "0f6e1403985e3696",
+    "type": "split",
+    "children": [
+      {
+        "id": "280604debb2bdb94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24571a9b84fa627",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd262c863d50bc44",
+    "type": "split",
+    "children": [
+      {
+        "id": "83ab8e9466c1b94d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9654db4770f17c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd3666201124fd51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57634d64d067ce83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e1448186ae1d747",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb73ac74446368c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1da912c66e63a465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "22a1dbb383f9eeca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "609f88cc9ceeaf2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4dd1a5c39afb7cce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f36e85475fc56fd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b24571a9b84fa627",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-02-01.md",
+    "Untitled",
+    "people/magical-creatures/images/silent-poet-sigil.png",
+    "people/magical-creatures/images/raccoon-fox.png",
+    "locations/images/plain-of-giants-cups.png",
+    "people/magical-creatures/images/elurana.png",
+    "monsters/images/skyrider.png",
+    "magic/images/refined-magic.png",
+    "locations/images/hochsilvar-city-square-market-01.png",
+    "quests/images/banco-validieri-aftermath.png",
+    "locations/images/banco-valdieri-bankhouse.png",
+    "locations/images/niederstadt.png",
+    "briefings/world-briefing-player-teaser.md",
+    "briefings/character-creation-and-table-rules.md",
+    "factions/travelers.md",
+    "briefings/creation-myth-sun-moon-forest.md",
+    "briefings/banco-valdieri-investigation.md",
+    "briefings/dossier-alarich-giovanni.md",
+    "_world_state.md",
+    "briefings/magic-briefing-player.md",
+    "locations/hochsilvar.md",
+    "quests/q-banco-valdieri-investigation.md",
+    "briefings/play-contract.md",
+    "people/magical-creatures/raccoon-fox.md",
+    "institutions/witnessed-cut.md",
+    "locations/plain-of-giants-cups.md",
+    "magic/mind-magic.md",
+    "magic/greenwood-accord.md",
+    "locations/mano-fortunata-guildhouse.md",
+    "races/orcs.md",
+    "people/magical-creatures/waldrun.md",
+    "locations/banco-valdieri-bankhouse.md",
+    "economy/saurakh.md",
+    "magic/three-moons.md",
+    "environments/the-desert.md",
+    "people/npcs/ensio-silbermark.md",
+    "Untitled.base",
+    "people/magical-creatures/images",
+    "people/magical-creatures",
+    "magic/spells/images",
+    "people/npcs/images",
+    "locations/images",
+    "monsters/images",
+    "factions/images",
+    "quests/images"
+  ]
+}

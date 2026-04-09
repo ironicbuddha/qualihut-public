@@ -2,14 +2,21 @@
 id: waldrun
 title: Waldrun
 type: person
+kind: deity
+status: published
+domains:
+  - borders
+  - wild-law
+  - becoming
+  - ecology
+aliases:
+  - The Forest
+  - The Stag
+  - The Laughing Root
+  - The Rabbit
 ---
 
 ## What players would know
-
-### Illustration (player-safe)
-
-![Waldrun](images/waldrun.png)
-![Waldrun — Iconography](images/waldrun-iconography.png)
 
 Waldrun is the Forest: the god of borders, wild law, and things that grow without permission. Where Althar’s worship is administered, Waldrun’s is practiced: groves, taboos, animal signs, and the quiet certainty that the land does not care who owns it.
 
@@ -25,17 +32,8 @@ Druidic tradition teaches that mortals can only perceive Waldrun through masks�
 - Forest oaths don’t care about crowns. They care about witnesses and seasons.
 - Druids don’t call this god “good.” They call him _alive_.
 
-### Common sign of recognition
-
-People who honor Waldrun sometimes offer a small salute called the
-`rabbit-sign`: the first two fingers crooked like a pair of ears, starting
-curved inward near the chest and then gestured gently outward.
-
-It is less a prayer than an acknowledgment:
-the land sees, and is seen back.
-
 ### See also
 
 - [Raccoon Fox (Forest Spirit)](raccoon-fox.md)
 - [Creation Myth: Sun, Moon, Forest](../../briefings/creation-myth-sun-moon-forest.md)
-- [Magical Tattoo Ink](../../magic/spells/magical-tattoo-ink.md)
+- [Magical Tattoo Ink](../../magic/magical-tattoo-ink.md)

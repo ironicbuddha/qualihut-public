@@ -2,6 +2,7 @@
 id: mano-fortunata
 title: La Mano Fortunata
 type: faction
+status: published
 ---
 
 ## What players would know
@@ -13,7 +14,7 @@ money behind it.
 
 ### Public footprint
 
-- The name most people recognize is **The Ivory Wheel**, a fashionable casino with discreet guards and expensive silence. (See: [La Mano Fortunata Guildhouse (The Ivory Wheel Casino)](../locations/mano-fortunata-guildhouse.md).)
+- The name most people recognize is **The Ivory Wheel**, a fashionable casino with discreet guards and expensive silence. (See: [`items/locations/mano-fortunata-guildhouse.md`](../locations/mano-fortunata-guildhouse.md).)
 - Their influence is felt as invitations, introductions, and “luck” that looks like coordination.
 
 ### Common rumors
