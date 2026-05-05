@@ -18,3 +18,4 @@ Union diplomats smile like merchants and argue like lawyers. In border taverns y
 
 - “Union coin spends anywhere” (and Union promises spend twice).
 - If a monastery burns in the wilds, someone in the south will call it “self‑determination.”
+

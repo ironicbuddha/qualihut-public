@@ -23,3 +23,4 @@ They weaponize narrative, ceremony, and public mood.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+

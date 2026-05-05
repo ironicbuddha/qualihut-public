@@ -14,3 +14,4 @@ Loyalists call it the Sun Crown. Common folk call it simply “the Flame,” as 
 
 - The Cathedral keeps archives that can unmake a noble house with a single page.
 - On certain feast days, the light inside falls at angles that make liars nauseous.
+

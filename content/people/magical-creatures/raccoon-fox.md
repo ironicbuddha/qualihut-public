@@ -38,3 +38,4 @@ The ritual is a short one:
 - [Waldrun](waldrun.md)
 - [The Greenwood Accord](../../magic/greenwood-accord.md)
 - [The Silent Poet](the-silent-poet.md)
+

@@ -60,3 +60,4 @@ sun-legitimacy line and is not counted in either bloc.
 - The "five-suit noble deck" used in gambling houses encodes these families as
   cultural propaganda.
 - Inheritance wars are usually contract wars with better clothing.
+

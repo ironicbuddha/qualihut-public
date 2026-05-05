@@ -23,3 +23,4 @@ They bind agrarian timing, local devotion, and estate authority.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
+

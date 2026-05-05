@@ -20,3 +20,4 @@ He is spoken of as connected to a vineyard outside the city, and as someone who 
 
 - Duvalli’s best vintages are never on the menu; they are “for known names only.”
 - His courier network is cleaner than most guild routes, but only on paper.
+

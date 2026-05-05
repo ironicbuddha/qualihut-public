@@ -29,3 +29,4 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
 - Death is meaningful; replacement characters enter through the same apparatus.
+

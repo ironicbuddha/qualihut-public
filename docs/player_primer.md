@@ -17,14 +17,27 @@
 - [The Greenwood Accord](#the-greenwood-accord)  `content/magic/greenwood-accord.md`
 - [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/items/pattern-recall-daggers.md`
 - [Refined Magic](#refined-magic)  `content/magic/items/refined-magic.md`
+- [Seven-League Boots](#seven-league-boots)  `content/magic/items/seven-league-boots.md`
 - [Tears of the Moon](#tears-of-the-moon)  `content/magic/items/tears-of-the-moon.md`
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
+- [Magical Blights](#magical-blights)  `content/magic/magical-blights.md`
+- [Red Sun Rites](#red-sun-rites)  `content/magic/red-sun-rites.md`
 - [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
+- [Counterspell](#counterspell)  `content/magic/spells/counterspell.md`
+- [Eldritch Blast](#eldritch-blast)  `content/magic/spells/eldritch-blast.md`
+- [Expeditious Retreat](#expeditious-retreat)  `content/magic/spells/expeditious-retreat.md`
+- [Hunger of Hadar](#hunger-of-hadar)  `content/magic/spells/hunger-of-hadar.md`
 - [Magical Tattoo Ink](#magical-tattoo-ink)  `content/magic/spells/magical-tattoo-ink.md`
 - [Mind Magic + Wards](#mind-magic--wards)  `content/magic/spells/mind-magic.md`
+- [Misty Step](#misty-step)  `content/magic/spells/misty-step.md`
+- [Phantom Steed](#phantom-steed)  `content/magic/spells/phantom-steed.md`
 - [Scrying](#scrying)  `content/magic/spells/scrying.md`
+- [Shadow of Moil](#shadow-of-moil)  `content/magic/spells/shadow-of-moil.md`
+- [Shatter](#shatter)  `content/magic/spells/shatter.md`
+- [The Ledger](#the-ledger)  `content/magic/the-ledger.md`
 - [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
+- ["Thin Crossings"](#thin-crossings)  `content/magic/thin-crossings.md`
 - [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
@@ -353,6 +366,23 @@ In much of the Empire and its neighbors, refined magic is becoming a trade stand
 
 ---
 
+## Seven-League Boots
+
+_Source: `content/magic/items/seven-league-boots.md`_
+
+## What players would know
+
+Seven-League Boots are rare travel relics built for impossible pace: black
+leather with silver runic seamwork, favored by couriers, scouts, and anyone who
+expects to survive by not being where trouble lands.
+
+### Common rumors
+
+- They can turn one stride into a whole street.
+- They always demand a price in fatigue, blood, or luck.
+
+---
+
 ## Tears of the Moon
 
 _Source: `content/magic/items/tears-of-the-moon.md`_
@@ -401,6 +431,39 @@ In Qualihut, spellcasting is not a spoken menu—it’s a trained, procedural pr
 
 ---
 
+## Magical Blights
+
+_Source: `content/magic/magical-blights.md`_
+
+## What players would know
+
+“Magical blight” is a polite phrase for land that has stopped behaving like land.
+
+### Common rumors
+
+- It starts like bad harvests and sick wells, then sharpens into patterns that feel like intent.
+- You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
+- Animals avoid certain paths and waters long before people admit something is wrong.
+
+---
+
+## Red Sun Rites
+
+_Source: `content/magic/red-sun-rites.md`_
+
+## What players would know
+
+“Red Sun” is the name people give to a cluster of forbidden rites: blood‑heavy magic that treats life like fuel and death like a technicality. Most taverns have a story about an outlying hamlet where graves wouldn’t stay quiet, and most of those stories end with someone whispering the same warning: don’t let them take your blood, and don’t let them take your name.
+
+Authorities frame Red Sun rites as heresy and criminality. [Elves](../races/elves.md) frame them as obscenity. Common folk frame them as the kind of power a desperate person reaches for right before everything gets worse.
+
+### Common rumors
+
+- Red Sun cultists keep ledgers of souls the way banks keep ledgers of coin.
+- A “cheap resurrection” is usually a trap wearing a friendly face.
+
+---
+
 ## Animal Omen
 
 _Source: `content/magic/spells/animal-omen.md`_
@@ -429,6 +492,133 @@ When cast, the DM describes one animal within range behaving in a way that break
 
 - The omen animal is never the one you _want_; it’s the one the land can spare to speak through.
 - Apprentices are taught to watch for patterns, not symbols: wrong timing, wrong routes, wrong fear.
+
+---
+
+## Counterspell
+
+_Source: `content/magic/spells/counterspell.md`_
+
+## What players would know
+
+`Counterspell` is the fast interruption spell for shutting down enemy casting.
+
+### Spell definition
+
+- **Level / school**: 3rd-level abjuration (legacy 2014 profile)
+- **Casting time**: 1 reaction, taken when a creature you see within 60 feet casts a spell
+- **Range**: 60 feet
+- **Components**: S
+- **Duration**: Instantaneous
+
+### How it works
+
+- If the triggering spell is 3rd level or lower, it fails automatically.
+- If the triggering spell is 4th level or higher, make a spellcasting ability check.
+- The check DC is `10 + spell level`.
+- On success, the triggering spell fails.
+- If you cast `counterspell` using a higher-level slot, you auto-stop spells at that slot level or lower.
+
+### Common rumors
+
+- Good arcanists save this for control magic, not raw damage spells.
+- Duelists call it "winning before initiative finishes."
+
+---
+
+## Eldritch Blast
+
+_Source: `content/magic/spells/eldritch-blast.md`_
+
+## What players would know
+
+`Eldritch Blast` is a force-beam cantrip used for steady ranged pressure.
+
+### Spell definition
+
+- **Level / school**: Cantrip, evocation (legacy 2014 profile)
+- **Casting time**: 1 action
+- **Range**: 120 feet
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+### How it works
+
+- Make a ranged spell attack.
+- On a hit, the target takes `1d10` force damage.
+- At character level 5, you fire two beams.
+- At character level 11, you fire three beams.
+- At character level 17, you fire four beams.
+- You can direct beams at one target or split them across multiple targets in range.
+
+### Common rumors
+
+- Warlocks who do not miss with this spell are usually frighteningly disciplined.
+- Most street mages know the beam, but few can sustain it under pressure.
+
+---
+
+## Expeditious Retreat
+
+_Source: `content/magic/spells/expeditious-retreat.md`_
+
+## What players would know
+
+`Expeditious Retreat` is a rapid-mobility spell that trades flashy teleporting
+for sustained speed and clean repositioning.
+
+### Spell definition
+
+- **Level / school**: 1st-level transmutation
+- **Casting time**: 1 bonus action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: Concentration, up to 10 minutes
+
+### How it works
+
+- When you cast it, you can immediately take the Dash action as a bonus action.
+- On each of your turns while it lasts, you can take Dash again as a bonus action.
+- In practice: strong lane-crossing, disengage routes, and pursuit pressure
+  without teleport magic.
+
+### Common rumors
+
+- Some mercenary mages call this "combat sprint doctrine."
+- It looks mundane until you realize no one can keep up.
+
+---
+
+## Hunger of Hadar
+
+_Source: `content/magic/spells/hunger-of-hadar.md`_
+
+## What players would know
+
+`Hunger of Hadar` opens a zone of void-darkness that blinds, slows, and harms creatures inside it.
+
+### Spell definition
+
+- **Level / school**: 3rd-level conjuration (legacy 2014 profile)
+- **Casting time**: 1 action
+- **Range**: 150 feet
+- **Components**: V, S, M (a pickled octopus tentacle)
+- **Duration**: Concentration, up to 1 minute
+
+### How it works
+
+- Creates a 20-foot-radius sphere of magical blackness.
+- No light can illuminate the area.
+- Creatures fully inside are blinded.
+- The area is difficult terrain.
+- A creature that starts its turn in the area takes `2d6` cold damage.
+- A creature that ends its turn in the area must make a Dexterity save.
+- On a failed save, that creature takes `2d6` acid damage.
+
+### Common rumors
+
+- Survivors remember the whispers more than the pain.
+- Veterans treat this spell as a no-go zone, not a damage spell.
 
 ---
 
@@ -487,6 +677,67 @@ More expensive wards improve your odds of resisting (often felt as clarity, stea
 
 ---
 
+## Misty Step
+
+_Source: `content/magic/spells/misty-step.md`_
+
+## What players would know
+
+`Misty Step` is a short-range combat teleport used for immediate repositioning.
+
+### Spell definition
+
+- **Level / school**: 2nd-level conjuration
+- **Casting time**: 1 bonus action
+- **Range**: Self
+- **Components**: V
+- **Duration**: Instantaneous
+
+### How it works
+
+- You teleport up to 30 feet.
+- Destination must be an unoccupied space you can see.
+- Common use cases: break grapples, cross gaps, bypass blockers, and exit threatened squares.
+
+### Common rumors
+
+- People who can cast this rarely stay cornered for long.
+- In city fighting, one clean misty step can end a pursuit.
+
+---
+
+## Phantom Steed
+
+_Source: `content/magic/spells/phantom-steed.md`_
+
+## What players would know
+
+`Phantom Steed` summons a fast quasi-real mount for overland movement and getaway play.
+
+### Spell definition
+
+- **Level / school**: 3rd-level illusion (ritual)
+- **Casting time**: 1 minute
+- **Range**: 30 feet
+- **Components**: V, S
+- **Duration**: 1 hour
+
+### How it works
+
+- A Large horselike mount appears in an unoccupied space.
+- A chosen rider can use it as a mount for the spell duration.
+- It uses riding horse stats with speed `100 feet`.
+- Travel pace is roughly 10 miles per hour (or 13 at fast pace).
+- If the steed takes any damage, the spell ends.
+- When the spell ends naturally, the steed fades and gives about 1 minute to dismount.
+
+### Common rumors
+
+- The rider arrives exhausted, but far ahead of pursuers.
+- Experienced bounty hunters target the mount first.
+
+---
+
 ## Scrying
 
 _Source: `content/magic/spells/scrying.md`_
@@ -499,6 +750,86 @@ Scrying is a family of divination practices used to observe a distant person or 
 
 - The rich pay for privacy wards the way they pay for locks.
 - If you can’t be found, it’s because someone wants you unfound.
+
+---
+
+## Shadow of Moil
+
+_Source: `content/magic/spells/shadow-of-moil.md`_
+
+## What players would know
+
+`Shadow of Moil` wraps the caster in predatory shadow, making them harder to target and dangerous to strike.
+
+### Spell definition
+
+- **Level / school**: 4th-level necromancy
+- **Casting time**: 1 action
+- **Range**: Self
+- **Components**: V, S, M (an undead eyeball encased in a gem worth at least 150 gp)
+- **Duration**: Concentration, up to 1 minute
+
+### How it works
+
+- Flame-like shadows wreath the caster.
+- The caster becomes heavily obscured to others.
+- Dim light within 10 feet becomes darkness.
+- Bright light within 10 feet becomes dim light.
+- The caster gains resistance to radiant damage.
+- A creature within 10 feet that hits the caster with an attack takes `2d8` necrotic damage.
+
+### Common rumors
+
+- Fighters who rush this caster without a plan get punished for it.
+- Torches and lantern lines collapse around the shadow shell.
+
+---
+
+## Shatter
+
+_Source: `content/magic/spells/shatter.md`_
+
+## What players would know
+
+`Shatter` is a loud area burst that punishes clustered targets and fragile cargo.
+
+### Spell definition
+
+- **Level / school**: 2nd-level evocation
+- **Casting time**: 1 action
+- **Range**: 60 feet
+- **Components**: V, S, M (a chip of mica)
+- **Duration**: Instantaneous
+
+### How it works
+
+- Choose a point in range.
+- Creatures in a 10-foot-radius sphere make a Constitution save.
+- On a failed save, a creature takes `3d8` thunder damage.
+- On a successful save, a creature takes half damage.
+- Creatures made of inorganic material have disadvantage on the save.
+- Nonmagical unattended objects in the area also take the damage.
+- At higher slot levels, damage increases by `1d8` per level above 2nd.
+
+### Common rumors
+
+- Smugglers fear this spell more than fire when cargo is brittle.
+- The sound often draws witnesses long before guards arrive.
+
+---
+
+## The Ledger
+
+_Source: `content/magic/the-ledger.md`_
+
+## What players would know
+
+Smugglers and clerks whisper about “The Ledger” as if it were a place. They say some borders have a shadow version of themselves—a quiet copy where names, debts, and crossings are recorded whether you consent or not.
+
+### Common rumors
+
+- If you cross the wrong way, the Ledger remembers even when witnesses don’t.
+- Some people “erase themselves” from it. Those people never use the same name twice.
 
 ---
 
@@ -523,6 +854,34 @@ When a druid dies, their body is burned. If a story wasn’t passed on before th
 ### See also
 
 - [Magical Tattoo Ink](spells/magical-tattoo-ink.md)
+
+---
+
+## "Thin Crossings"
+
+_Source: `content/magic/thin-crossings.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Thin Crossings](images/thin-crossings.png)
+
+In old Marcher speech, a thin crossing is a place where bridges, fords, grove
+edges, and old boundary stones feel closer to something listening. Most people
+treat the term as folklore, caution, or a reason not to sing grief alone after
+dark.
+
+### Common rumors
+
+- Do not make vows at a thin crossing unless you mean them.
+- Most hear only echo. A rare few hear something answer.
+
+### See also
+
+- [The River Marches](../locations/river-marches.md)
+- [Statesboro](../locations/statesboro.md)
+- [Bob Johnson](../people/npcs/bob-johnson.md)
 
 ---
 

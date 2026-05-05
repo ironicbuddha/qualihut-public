@@ -18,3 +18,4 @@ In cities with strong guild presence, promissory notes start to behave like a tr
 
 - Guild vaults hold unusual reserves.
 - Debtors sometimes vanish into “administrative disputes.”
+

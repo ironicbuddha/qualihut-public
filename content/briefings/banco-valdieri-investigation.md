@@ -60,3 +60,4 @@ You are expected to:
 - Keep your cover clean. You are here as the Crown’s domestic stability partner, not as an independent power.
 - Avoid unnecessary violence. Avoid public scenes. Avoid creating martyrs.
 - If you must break a rule to obtain a lead, be prepared to explain the political cost.
+

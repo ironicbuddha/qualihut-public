@@ -40,3 +40,4 @@ This campaign runs best when everyone shares expectations about tone, teamwork, 
 ### Safety & boundaries
 
 The setting includes political cruelty, scarcity pressure, and moral compromise. We set clear boundaries in session zero and play within them.
+

@@ -22,3 +22,4 @@ Most people in the Empire know a few practical truths:
 - The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
 - [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
 - Magic can be refined and traded like currency, which means money now has arcane consequences.
+

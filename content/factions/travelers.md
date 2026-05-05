@@ -61,3 +61,4 @@ There is an eastern route through volcanic country—**the [Eastern Passage](../
 - [Skyrider](../monsters/skyrider.md)
 - [The Eastern Passage](../locations/eastern-passage.md)
 - [Ifrit](../races/ifrit.md)
+

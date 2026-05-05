@@ -41,3 +41,4 @@ If you push on the right doors (and survive the politics), you can uncover:
 - **Paper trails**: promissory-note signet chains; custody-chain anomalies; documents that look _too_ clean to be honest.
 - **Undercity leads**: smuggling logistics; territorial tells; a name that never comes with a face.
 - **Transport constraints**: refined magic moves like fragile contraband, which creates slow routes, choke points, and opportunities for interception.
+

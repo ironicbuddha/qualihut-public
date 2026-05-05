@@ -5,6 +5,8 @@
 ## Table of Contents
 
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
+- [Economy Index](#economy-index)  `content/economy/_index.md`
+- ["Crossing Board"](#crossing-board)  `content/economy/crossing-board.md`
 - [Desert Bamboo (Fast-Growth Trees)](#desert-bamboo-fast-growth-trees)  `content/economy/desert-bamboo.md`
 - [Desert Truffle](#desert-truffle)  `content/economy/desert-truffle.md`
 - [Distilled Elf Flower Wine](#distilled-elf-flower-wine)  `content/economy/distilled-elf-flower-wine.md`
@@ -12,11 +14,14 @@
 - [Fish Farming](#fish-farming)  `content/economy/fish-farming.md`
 - [Hideleaf (Plant Leather)](#hideleaf-plant-leather)  `content/economy/hideleaf.md`
 - [Insect Spice (Borrowed Heat)](#insect-spice-borrowed-heat)  `content/economy/insect-spice.md`
+- ["Marsh-Dyed Textiles"](#marsh-dyed-textiles)  `content/economy/marsh-dyed-textiles.md`
 - [Pitcher Sap](#pitcher-sap)  `content/economy/pitcher-sap.md`
 - [Pottery, Kilns, and Trade Seals](#pottery-kilns-and-trade-seals)  `content/economy/pottery-and-seals.md`
 - [Salt Pork (Jar Trade)](#salt-pork-jar-trade)  `content/economy/salt-pork.md`
 - [Saurakh](#saurakh)  `content/economy/saurakh.md`
 - [Sea Trade Routes](#sea-trade-routes)  `content/economy/sea-trade-routes.md`
+- ["Snake-Blood Wine"](#snake-blood-wine)  `content/economy/snake-blood-wine.md`
+- [Yage](#yage)  `content/economy/yage.md`
 - [Yellow Grass](#yellow-grass)  `content/economy/yellow-grass.md`
 - [Mountains and Passes](#mountains-and-passes)  `content/environments/mountains-and-passes.md`
 - [Old-Growth Forests](#old-growth-forests)  `content/environments/old-growth-forests.md`
@@ -29,19 +34,28 @@
 - [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
 - [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
+- ["Casa dei Tre Spilli Guildhouse (Niederstadt)"](#casa-dei-tre-spilli-guildhouse-niederstadt)  `content/locations/casa-dei-tre-spilli-guildhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
 - [Duvalli Vineyard](#duvalli-vineyard)  `content/locations/duvalli-vineyard.md`
+- [The Earth Wound](#the-earth-wound)  `content/locations/earth-wound.md`
+- [The Eastern Passage](#the-eastern-passage)  `content/locations/eastern-passage.md`
 - ["Glass & Moth"](#glass--moth)  `content/locations/glass-and-moth.md`
+- ["Guard Central Station"](#guard-central-station)  `content/locations/guard-central-station.md`
 - [Hochsilvar City Square Market](#hochsilvar-city-square-market)  `content/locations/hochsilvar-city-square-market.md`
 - [Hochsilvar](#hochsilvar)  `content/locations/hochsilvar.md`
+- [Lanternbreak Clearing](#lanternbreak-clearing)  `content/locations/lanternbreak-clearing.md`
 - [The Last Lantern Inn](#the-last-lantern-inn)  `content/locations/last-lantern-inn.md`
 - [La Mano Fortunata Guildhouse (The Ivory Wheel Casino)](#la-mano-fortunata-guildhouse-the-ivory-wheel-casino)  `content/locations/mano-fortunata-guildhouse.md`
 - [Avenue of Butchers (Niederstadt)](#avenue-of-butchers-niederstadt)  `content/locations/niederstadt-avenue-of-butchers.md`
+- [Niederstadt Crossroads Hold-Up](#niederstadt-crossroads-hold-up)  `content/locations/niederstadt-crossroads-hold-up.md`
 - [The Deep Market (Niederstadt)](#the-deep-market-niederstadt)  `content/locations/niederstadt-deep-market.md`
 - [The Echo Amphitheatre (Niederstadt)](#the-echo-amphitheatre-niederstadt)  `content/locations/niederstadt-echo-amphitheatre.md`
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
+- [Pinewake Village](#pinewake-village)  `content/locations/pinewake-village.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
+- ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
+- ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
 - [Vellum & Vine](#vellum--vine)  `content/locations/vellum-and-vine.md`
@@ -86,6 +100,41 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
 - Death is meaningful; replacement characters enter through the same apparatus.
+
+---
+
+## Economy Index
+
+_Source: `content/economy/_index.md`_
+
+---
+
+## "Crossing Board"
+
+_Source: `content/economy/crossing-board.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Crossing Board](images/crossing-board.png)
+
+The crossing board is a low, slide-played string instrument associated with
+[Statesboro](../locations/statesboro.md) and the wider
+[River Marches](../locations/river-marches.md). Played across the knees with a
+bone, glass, or stone slide, it produces gliding notes court musicians often
+call mournful and Marchers call truthful.
+
+### Common rumors
+
+- A good crossing board can make a room feel haunted without ever getting loud.
+- Capital musicians keep trying to copy it and sanding all the danger off.
+
+### See also
+
+- [Statesboro](../locations/statesboro.md)
+- [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
+- [Thin Crossings](../magic/thin-crossings.md)
 
 ---
 
@@ -266,6 +315,33 @@ Most households keep mild blends for preservation and parasite-killing. The trul
 
 ---
 
+## "Marsh-Dyed Textiles"
+
+_Source: `content/economy/marsh-dyed-textiles.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Marsh-Dyed Textiles](images/marsh-dyed-textiles.png)
+
+Marsh-dyed textiles are one of the best-known exports of
+[The River Marches](../locations/river-marches.md): supple river-silk and
+reed-cloth worked into garments and bolts whose muted colors shift like wet
+stone, old bronze, moss, or storm water depending on the light.
+
+### Common rumors
+
+- Courtiers wear Marcher cloth and pretend not to notice where it comes from.
+- The best patterns mean something; cheap copies only look expensive.
+
+### See also
+
+- [The River Marches](../locations/river-marches.md)
+- [Statesboro](../locations/statesboro.md)
+
+---
+
 ## Pitcher Sap
 
 _Source: `content/economy/pitcher-sap.md`_
@@ -289,7 +365,6 @@ Street names include **Green Joy**, **Cupblood**, and **Laughing Resin**.
 ### See also
 
 - [Distilled Elf Flower Wine](distilled-elf-flower-wine.md)
-- [Earth-Wound](../locations/earth-wound.md)
 
 ---
 
@@ -390,6 +465,63 @@ Real routes are conditional: a certain moonrise, a certain season, a certain cap
 
 - [The Fey Roads](../magic/fey-roads.md)
 - [The Three-Moon Sea](../environments/the-three-moon-sea.md)
+
+---
+
+## "Snake-Blood Wine"
+
+_Source: `content/economy/snake-blood-wine.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Snake-Blood Wine](images/snake-blood-wine.png)
+
+Snake-blood wine is a Marcher frontier custom: strong wine or grain spirit
+dosed with fresh snake blood, sometimes as dare, sometimes as medicine,
+sometimes as ritual bravado. The Empire calls it barbaric; plenty of imperial
+fools still try it in private.
+
+### Common rumors
+
+- The real stuff is taken hot, not bottled.
+- Half the Marches call it heritage. The other half call it boys showing off.
+
+### See also
+
+- [The River Marches](../locations/river-marches.md)
+- [Statesboro](../locations/statesboro.md)
+
+---
+
+## Yage
+
+_Source: `content/economy/yage.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Yage](images/yage.png)
+
+Yage is a controlled intoxicant made from dried, powdered black centipedes and
+stabilizing binders. In small doses it loosens thought patterns; in heavy doses
+it can scramble speech into fluent but unstable glossolalia.
+
+It appears in three social lanes:
+
+- shamanic circles (ritualized, supervised),
+- orc research contexts (instrumental, measured),
+- undercity dens (recreational and often unsafe).
+
+### Common rumors
+
+- "Yage does not give prophecy; it strips the lies you tell yourself."
+- "The first dose gives clarity. The third dose gives certainty. Certainty gets
+  people killed."
+- "Bad batches make spell phrases drift just enough to fail at the worst
+moment."
 
 ---
 
@@ -711,6 +843,30 @@ to meet someone who knows a route.
 
 ---
 
+## "Casa dei Tre Spilli Guildhouse (Niederstadt)"
+
+_Source: `content/locations/casa-dei-tre-spilli-guildhouse.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Casa dei Tre Spilli Guildhouse (Niederstadt)](images/casa-dei-tre-spilli-guildhouse.png)
+
+Casa dei Tre Spilli is one of those Niederstadt houses that pretends to be
+three businesses at once: alterations, private rooms, and quiet company. The
+front looks harmless enough. The side stair looks like it has heard
+confessions. Locals often shorten it to
+[Tre Silli (Niederstadt)](tre-silli.md) when they do not want to sound either
+formal or precise.
+
+### Common rumors
+
+- If you need a hem fixed and don't ask questions, they are quick.
+- If you need privacy and do ask questions, they charge extra.
+
+---
+
 ## The Central Wilds
 
 _Source: `content/locations/central-wilds.md`_
@@ -755,6 +911,44 @@ Caravans that claim Duvalli origin are treated as routine trade, which makes the
 
 ---
 
+## The Earth Wound
+
+_Source: `content/locations/earth-wound.md`_
+
+## What players would know
+
+The Earth Wound is a rupture in the deep places—an open scar in stone that locals avoid the way they avoid plague houses. Sometimes it exhales damp wind that smells like thunder. Sometimes it’s quiet for months. Then something crawls out that does not belong on any sensible map.
+
+Delvers who return talk about it like a living thing: not a mine, not a dungeon, but a place that rearranges itself and produces danger without warning or pattern. Most people agree on the practical rule: you don’t go there for curiosity. You go there because something you can’t ignore is already coming out.
+
+### Common rumors
+
+- The Wound “answers” greed: the more you take, the worse what follows you home.
+- Old priests mark the calendar, but the Wound doesn’t care about seasons.
+
+---
+
+## The Eastern Passage
+
+_Source: `content/locations/eastern-passage.md`_
+
+## What players would know
+
+The Eastern Passage is the volcanic route that “doesn’t exist” in polite maps: a broken chain of ash valleys, cooled lava tubes, and choke bridges where the wind smells like metal and old heat.
+
+Settled folk call it impassable. Route people call it _priced_. Caravans that survive it do so with strict taboos, careful timing, and agreements made with things that do not care about imperial seals.
+
+### Common rumors
+
+- Fire spirits guard the way and treat trespass like kindling.
+- Travelers can cross where armies can’t—because they don’t march, they negotiate.
+
+### See also
+
+- [Volcanic Faultlands](../environments/volcanic-faultlands.md)
+
+---
+
 ## "Glass & Moth"
 
 _Source: `content/locations/glass-and-moth.md`_
@@ -789,6 +983,31 @@ Key:
 - If you touch the wrong jar without asking, you forget what you meant to buy.
 - Nothing in the front racks is truly dangerous. The dangerous things are behind the curtain.
 - The staff can tell who has handled refined magic recently, just by the residue it leaves in your habits.
+
+---
+
+## "Guard Central Station"
+
+_Source: `content/locations/guard-central-station.md`_
+
+## What players would know
+
+### See also
+
+- [Captain Ensio Silbermark](../people/npcs/ensio-silbermark.md)
+
+### Illustration (player-safe)
+
+![Guard Central Station](images/guard-central-station.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+Short, clean player-safe description.
+
+### Common rumors
+
+- Rumor 1
+- Rumor 2
 
 ---
 
@@ -857,6 +1076,26 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 
 ---
 
+## Lanternbreak Clearing
+
+_Source: `content/locations/lanternbreak-clearing.md`_
+
+## What players would know
+
+Lanternbreak Clearing is a long-used caravan camp on the Valdengratz route: a
+broad open patch in sparse timber where wagons can circle, fires can be seen,
+and sentries can watch every approach.
+
+It is called "Lanternbreak" because most caravans halt here before nightfall,
+then push on at first light.
+
+### Common rumors
+
+- If you need to find a convoy without asking questions, wait at Lanternbreak.
+- Ten miles ahead, the forest thickens hard enough to swallow tracks and men.
+
+---
+
 ## The Last Lantern Inn
 
 _Source: `content/locations/last-lantern-inn.md`_
@@ -874,15 +1113,40 @@ inspection tastes like mercy.
 It attracts travelers, caravan hands, and anyone who prefers to sleep with a
 locked door between them and the road.
 
+This week, town criers and fresh posters around the gate district are pushing a
+special attraction: **Bob Johnson and Boy Willie Brown, the legendary pair from
+[Statesboro](statesboro.md)**, playing evening sets of road-laments, lost-love
+songs, and crossroads ballads.
+
+One crier version making the rounds:
+
+> Two nights only at the Last Lantern! Bob Johnson and Boy Willie Brown of
+> Statesboro! Songs for the loves you lost and the roads that remember you!
+
+One poster version pasted up near porter stalls:
+
+> THE STATESBORO PAIR
+> BOB JOHNSON & BOY WILLIE BROWN
+> AT THE LAST LANTERN
+> TWO NIGHTS ONLY
+
 ### Common rumors
 
 - If you can’t find a guide here, you can find someone who knows a guide.
 - The stew is better on gate-days, because everyone is hungry at the same time.
+- The musicians from Statesboro can make a room go quiet without raising their
+  voices.
 
 ### See also
 
 - [Hochsilvar](hochsilvar.md)
+- [Statesboro](statesboro.md)
+- [The River Marches](river-marches.md)
+- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
+- [Statesboro Songbook](../meta/statesboro-songbook.md)
 - [Travelers](../factions/travelers.md)
+- [Bob Johnson](../people/npcs/bob-johnson.md)
+- [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
 
 ---
 
@@ -937,6 +1201,28 @@ They’re famous for charcuterie that travels well—sausages, smoked cuts, cure
 - If you need something “kept cold” without ice, you go to the Avenue.
 - The knives here are sharper than the Watch’s questions.
 - Everybody owes somebody a favor on meat street.
+
+---
+
+## Niederstadt Crossroads Hold-Up
+
+_Source: `content/locations/niederstadt-crossroads-hold-up.md`_
+
+## What players would know
+
+A known mugger spot in Niederstadt where tunnel lanes cross near a rough
+limestone chamber. Most locals avoid it unless they have numbers or local
+protection.
+
+This lane is notorious for "curated darkness": someone often tampers with
+undercity lamp cages to create alternating dim and bright patches before an
+ambush.
+
+### Common rumors
+
+- Two new guild idiots keep trying to rob people there and failing upward.
+- The echoes in that chamber make every threat sound bigger than it is.
+- If the lamps look like a dim-bright pattern, someone planned violence.
 
 ---
 
@@ -1005,6 +1291,26 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 
 ---
 
+## Pinewake Village
+
+_Source: `content/locations/pinewake-village.md`_
+
+## What players would know
+
+Pinewake Village is the kind of road settlement caravans remember for practical
+reasons: hot food, clean-ish straw, drinkable beer, and a yard big enough to
+turn wagons without swearing at each other for an hour.
+
+It sits where the timber thins just enough for farming to resume badly:
+barley, onions, a little goat cheese, and more mud than dignity in wet weather.
+
+### Common rumors
+
+- Pinewake beer tastes better the colder the night gets.
+- If a convoy misses Pinewake, someone on it is either rich or in trouble.
+
+---
+
 ## Ponte Nero Guildhouse (Niederstadt)
 
 _Source: `content/locations/ponte-nero-guildhouse.md`_
@@ -1043,6 +1349,61 @@ need a room that asks no questions and a crowd that minds its own survival.
 
 - The Hook rents upstairs rooms by the hour, no names required.
 - If the Watch comes here, it means someone important bled.
+
+---
+
+## "Statesboro"
+
+_Source: `content/locations/statesboro.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Statesboro](images/statesboro.png)
+
+Statesboro is a road-and-river town in [The River Marches](river-marches.md),
+known for musicians, ferry songs, quay gossip, and a local style more likely to
+make imperial listeners frown than dance correctly. Its dialect is thick, its
+craft goods travel farther than many of its people do, and anyone from the
+Marches tends to light up when they hear the name.
+
+### Common rumors
+
+- A proper Statesboro song says more in one bent note than a court ballad says
+  in three verses.
+- If you want the real story of a district, ask who sings it in Statesboro.
+
+### See also
+
+- [The River Marches](river-marches.md)
+- [The Last Lantern Inn](last-lantern-inn.md)
+- [Crossing Board](../economy/crossing-board.md)
+- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
+- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Bob Johnson](../people/npcs/bob-johnson.md)
+- [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
+
+---
+
+## "Tre Silli (Niederstadt)"
+
+_Source: `content/locations/tre-silli.md`_
+
+## What players would know
+
+Tre Silli is the quick Niederstadt street-name people use for the shabby house
+of rooms, stitching, and discreet business tied to
+[Casa dei Tre Spilli Guildhouse (Niederstadt)](casa-dei-tre-spilli-guildhouse.md).
+People say it casually when they want to sound local and vaguely when they do
+not want to sound specific.
+
+### Common rumors
+
+- If someone says they were "at Tre Silli," they may mean the house, the lane,
+  or the people attached to it.
+- The place sells privacy badly enough to feel cheap and well enough to stay in
+  business.
 
 ---
 

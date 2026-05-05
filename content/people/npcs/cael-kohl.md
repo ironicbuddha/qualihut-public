@@ -25,3 +25,4 @@ wants to be reachable.
 - She can point you toward Gesso Bianco "chalk work" if your ask stays non-violent.
 - Cael can identify which “pilgrimage logistics” jobs are real and which are covers.
 - She never discusses sensitive routes in the same room twice.
+

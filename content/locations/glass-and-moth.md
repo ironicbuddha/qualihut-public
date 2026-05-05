@@ -34,3 +34,4 @@ Key:
 - If you touch the wrong jar without asking, you forget what you meant to buy.
 - Nothing in the front racks is truly dangerous. The dangerous things are behind the curtain.
 - The staff can tell who has handled refined magic recently, just by the residue it leaves in your habits.
+

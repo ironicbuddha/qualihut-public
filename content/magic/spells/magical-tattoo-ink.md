@@ -22,3 +22,4 @@ It’s prized because it can’t be stolen as easily as a wand, and feared becau
 ### See also
 
 - [The Living Script](../the-living-script.md)
+

@@ -14,3 +14,4 @@ The Church speaks of it as the Golden Walk: a chance to renew oaths, witness san
 
 - Every Sonnenmarsch has at least one “miracle” and at least one massacre—usually the same event, depending on where you stood.
 - If the march ever truly failed, people would still walk. That’s what scares the court.
+

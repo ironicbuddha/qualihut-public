@@ -42,3 +42,4 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 - [Der Kronenschild](../institutions/der-kronenschild.md)
 - [Der Weitblick](../institutions/der-weitblick.md)
 - [Hochsilvar City Square Market](hochsilvar-city-square-market.md)
+

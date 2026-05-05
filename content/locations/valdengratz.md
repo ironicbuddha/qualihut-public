@@ -16,3 +16,4 @@ The border here is not only a line; it’s a market. Everyone sells something: p
 
 - Customs officers can be bought, but not always twice.
 - The border is a market as much as it is a line.
+

@@ -14,3 +14,4 @@ Craftsmen say it’s temperamental: it behaves differently under heavy magic, an
 
 - A Tear-forged blade changes subtly based on what it kills.
 - The Union has some, the Empire has more, and everyone lies about the numbers.
+

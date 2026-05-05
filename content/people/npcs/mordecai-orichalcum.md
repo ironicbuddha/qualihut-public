@@ -29,3 +29,4 @@ She does business from behind a heavy counter, backed by a tall glass case packe
 - She can tell a cut potion by smell from across the counter.
 - If you try to steal from her, you forget what you came in for.
 - She keeps one shelf in her display case empty, like it is waiting for something to come home.
+

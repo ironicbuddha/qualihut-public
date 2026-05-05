@@ -24,3 +24,4 @@ Jars are honest in a cruel way. A broken jar is loss you can’t talk your way o
 - [Pottery, Kilns, and Trade Seals](pottery-and-seals.md)
 - [Banking Guild](../factions/banking-guild.md)
 - [City Watch](../institutions/city-watch.md)
+

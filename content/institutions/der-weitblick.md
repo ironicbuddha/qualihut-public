@@ -12,3 +12,4 @@ Der Weitblick is the Empire’s “long-view” bureaucracy: offices of maps, tr
 
 - They don’t start wars; they just make sure the timing is convenient.
 - If your name is in their files, you’ll never see the page.
+

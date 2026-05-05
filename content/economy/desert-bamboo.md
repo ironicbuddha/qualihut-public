@@ -23,3 +23,4 @@ Caravan folk treat these groves like a blessing and a warning. You can build a c
 
 - [The Desert (Living System)](../environments/the-desert.md)
 - [Desert Truffle](desert-truffle.md)
+

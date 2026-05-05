@@ -6,6 +6,8 @@
 
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
 - [Brazen Pike Company](#brazen-pike-company)  `content/factions/brazen-pike-company.md`
+- ["La Casa dei Tre Spilli"](#la-casa-dei-tre-spilli)  `content/factions/casa-dei-tre-spilli.md`
+- [The Covenant of the Long Road](#the-covenant-of-the-long-road)  `content/factions/covenant-of-the-long-road.md`
 - [La Compagnia del Gesso Bianco](#la-compagnia-del-gesso-bianco)  `content/factions/gesso-bianco.md`
 - [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
@@ -15,10 +17,12 @@
 - [The Broadbarrel Caravan](#the-broadbarrel-caravan)  `content/institutions/broadbarrel-caravan.md`
 - [Church Caravans](#church-caravans)  `content/institutions/church-caravans.md`
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
+- [Convergence Directorate](#convergence-directorate)  `content/institutions/convergence-directorate.md`
 - [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
+- [Doctrine of Concord](#doctrine-of-concord)  `content/institutions/doctrine-of-concord.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
 - [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
 - [House Bellarossa](#house-bellarossa)  `content/institutions/house-bellarossa.md`
@@ -46,11 +50,15 @@
 - [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
 - [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Lamp Feeders (Niederstadt Utility)](#lamp-feeders-niederstadt-utility)  `content/institutions/lamp-feeders-niederstadt.md`
+- [Lineage Stewardship](#lineage-stewardship)  `content/institutions/lineage-stewardship.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
 - [Noble House Roster (Twenty Houses)](#noble-house-roster-twenty-houses)  `content/institutions/noble-house-roster.md`
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
+- [Office of Subcity Conveyance](#office-of-subcity-conveyance)  `content/institutions/office-of-subcity-conveyance.md`
+- [Order of Transcendent Light](#order-of-transcendent-light)  `content/institutions/order-of-transcendent-light.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
+- [Sacrament Administration](#sacrament-administration)  `content/institutions/sacrament-administration.md`
 - [The Solar Church](#the-solar-church)  `content/institutions/solar-church.md`
 - [Thieves' Guilds](#thieves-guilds)  `content/institutions/thieves-guilds.md`
 - [The Witnessed Cut (Ritual Slaughter)](#the-witnessed-cut-ritual-slaughter)  `content/institutions/witnessed-cut.md`
@@ -102,6 +110,52 @@ watch.
 
 ---
 
+## "La Casa dei Tre Spilli"
+
+_Source: `content/factions/casa-dei-tre-spilli.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![La Casa dei Tre Spilli](images/casa-dei-tre-spilli.png)
+
+<!-- Replace with a player-safe image path next to this .md. -->
+
+La Casa dei Tre Spilli is a small Niederstadt thieves' guild wrapped in a
+respectable-enough front: mending, discreet rooms, and staff who know when not to
+remember faces. It is not rich enough to be elegant or brutal enough to be famous,
+which is exactly why certain kinds of business like it.
+
+### Common rumors
+
+- If someone asks for the "third pin," they are not talking about tailoring.
+- The House rents privacy by the hour and silence by the favor.
+
+---
+
+## The Covenant of the Long Road
+
+_Source: `content/factions/covenant-of-the-long-road.md`_
+
+## What players would know
+
+In the desert, a banner doesn’t feed you. A road does. The Covenant of the Long Road is spoken of as an oath made from routes, wells, and mutual obligation—less a nation than a promise that caravans can travel without being bled dry at every crossing.
+
+To city ears, it sounds almost boring: water rights, safe passage, shared rules for camps and markets. To people who profit from chokepoints, it sounds like revolution in polite clothing.
+
+### Common rumors
+
+- A matriarch called “the Unifier” is getting tribes to speak with one voice.
+- The Covenant’s law is carried in songs that list wells like saints.
+
+### See also
+
+- [The Travelers](travelers.md)
+- [The Desert (Living System)](../environments/the-desert.md)
+
+---
+
 ## La Compagnia del Gesso Bianco
 
 _Source: `content/factions/gesso-bianco.md`_
@@ -143,7 +197,7 @@ money behind it.
 
 ### Public footprint
 
-- The name most people recognize is **The Ivory Wheel**, a fashionable casino with discreet guards and expensive silence. (See: [`items/locations/mano-fortunata-guildhouse.md`](../locations/mano-fortunata-guildhouse.md).)
+- The name most people recognize is **The Ivory Wheel**, a fashionable casino with discreet guards and expensive silence. (See: [La Mano Fortunata Guildhouse (The Ivory Wheel Casino)](../locations/mano-fortunata-guildhouse.md).)
 - Their influence is felt as invitations, introductions, and “luck” that looks like coordination.
 
 ### Common rumors
@@ -351,6 +405,32 @@ Watch captains spend as much time balancing guild pressure against magistrate or
 
 ---
 
+## Convergence Directorate
+
+_Source: `content/institutions/convergence-directorate.md`_
+
+## What players would know
+
+The Convergence Directorate is a high-level imperial arcane standards office
+formed to restore magical reliability during periods of instability.
+
+Publicly, it audits spell protocols, ward geometry, and cross-city calibration
+rules.
+
+### Common rumors
+
+- Directorate mages can make five cities cast from one rulebook.
+- Their methods lower accident rates and raise political panic at the same
+  time.
+- Their best people are calm, precise, and increasingly hard to surprise.
+
+### See also
+
+- [The Phage](../magic/the-phage.md)
+- [The Phage Investigation](../quests/q-phage-investigation.md)
+
+---
+
 ## The Cult of Ink
 
 _Source: `content/institutions/cult-of-ink.md`_
@@ -418,6 +498,33 @@ Der Weitblick is the Empire’s “long-view” bureaucracy: offices of maps, tr
 
 - They don’t start wars; they just make sure the timing is convenient.
 - If your name is in their files, you’ll never see the page.
+
+---
+
+## Doctrine of Concord
+
+_Source: `content/institutions/doctrine-of-concord.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Doctrine of Concord](images/doctrine-of-concord.png)
+
+The Doctrine of Concord is the Empire's preferred language for explaining
+itself: harmony through proper station, disciplined conduct, and competent
+administration. Magistrates, clerks, and reformers cite it when they want power
+to sound moral rather than merely strong.
+
+### Common rumors
+
+- Every frontier insult sounds gentler once somebody wraps it in Concord.
+- A clerk quoting Concord usually means your petition is about to become
+  paperwork.
+
+### See also
+
+- [The River Marches](../locations/river-marches.md)
 
 ---
 
@@ -1071,6 +1178,23 @@ starts, or a district complains that "the lamps feel wrong."
 
 ---
 
+## Lineage Stewardship
+
+_Source: `content/institutions/lineage-stewardship.md`_
+
+## What players would know
+
+Elven noble houses treat family like a long project. Lineage stewards are the people who keep that project on track: genealogists, match‑brokers, physicians, and quiet advisors who talk about “harmony” the way generals talk about supply.
+
+In polite company, stewardship is framed as care—preventing scandal, preserving health, arranging alliances. In rougher company, it’s framed as control. Human courtiers whisper about ledgers that track bloodlines across centuries and about children “sent away” to cloisters for reasons nobody will state plainly.
+
+### Common rumors
+
+- Some houses can predict a child’s temperament the way farmers predict weather.
+- A steward’s smile means you are being measured for a life you didn’t choose.
+
+---
+
 ## Merchant Houses
 
 _Source: `content/institutions/merchant-houses.md`_
@@ -1169,6 +1293,52 @@ Behind the banners are debts, scandals, and the constant labor of keeping a fami
 
 ---
 
+## Office of Subcity Conveyance
+
+_Source: `content/institutions/office-of-subcity-conveyance.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Office of Subcity Conveyance](images/office-of-subcity-conveyance.png)
+
+The Office of Subcity Conveyance is the Niederstadt-facing authority over ramps,
+freight declarations, tunnel closures, and the paperwork that decides whether a
+load is delayed, inspected, or allowed to vanish below. Most people only deal
+with it when a wagon is missing, a manifest is wrong, or a clerk decides the
+underside of the city is suddenly unsafe.
+
+### Common rumors
+
+- If the lower ramps are closed on paper, they are closed whether or not the
+  stones agree.
+- A cart can disappear below without moving an inch if the wrong clerk starts
+  correcting the manifest.
+
+---
+
+## Order of Transcendent Light
+
+_Source: `content/institutions/order-of-transcendent-light.md`_
+
+## What players would know
+
+### Illustration (player-safe)
+
+![Order of Transcendent Light](images/order-of-transcendent-light.png)
+
+The Order of Transcendent Light is a [Solar Church](solar-church.md) order that worries about the parts of holiness that don’t fit neatly into sermons: leyline health, ritual balance, and the slow problems that take decades to become disasters. They travel often, speak softly, and are fond of advice that sounds like inconvenience until you ignore it and something breaks.
+
+Most people only hear about the Order when something is wrong—an orchard blooms out of season, a shrine goes “bright,” a village’s dreams turn sour. Then an unassuming priest arrives, looks at the land like a doctor looks at a fever, and asks the kind of questions that make a mayor sweat.
+
+### Common rumors
+
+- They can tell when a place is “thin” just by standing still.
+- They refuse armed escorts not out of pride, but out of superstition.
+
+---
+
 ## Rangers
 
 _Source: `content/institutions/rangers.md`_
@@ -1211,6 +1381,23 @@ Everyone knows the “rules” that matter: the ball is blessed but never enchan
 ### Common rumors
 
 - A curse laid in the stands can spread through chants faster than fire.
+
+---
+
+## Sacrament Administration
+
+_Source: `content/institutions/sacrament-administration.md`_
+
+## What players would know
+
+The [Solar Church](solar-church.md) treats sacrament as more than devotion. It is a controlled substance, a ritual catalyst, and a legitimacy symbol—distributed through formal channels with seals, witnesses, and strict calendars. In the countryside that looks like wafers and feast days. In the capital it looks like ledgers, armed escorts, and arguments that never mention the word “shortage.”
+
+Most people don’t know what sacrament is made from, only that it arrives by caravan, disappears into church custody, and reappears as ceremonies that keep society feeling “held together.” When rumors of disruption spread, nobles grow pious in public and desperate in private.
+
+### Common rumors
+
+- A missing crate of sacrament causes more panic than a missing crate of coin.
+- Some border towns have seen church caravans linger for days, as if waiting for the right omens to cross.
 
 ---
 

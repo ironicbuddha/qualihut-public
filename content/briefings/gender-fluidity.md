@@ -18,3 +18,4 @@ Many spirit negotiators and rural ritual specialists (often called "shamans" in 
 
 - Gender and orientation are not a "gotcha," a joke axis, or a stigma engine in this campaign.
 - If you want a personal arc about identity, it is welcome, but it will be framed as _your character's life_, not as society's default cruelty.
+

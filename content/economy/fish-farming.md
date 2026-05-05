@@ -18,3 +18,4 @@ If you want to understand who holds power in a “quiet” town, don’t count s
 
 - Monasteries can “bless” a pond so the fish breed true, even in bad water.
 - Some guilds would rather pay bandits than pay a canal inspector.
+

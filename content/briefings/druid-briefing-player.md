@@ -48,3 +48,4 @@ Not every tattoo is “Script.” Some tattoos are spellcraft: a working bound t
 
 - [Creation Myth: Sun, Moon, Forest](creation-myth-sun-moon-forest.md)
 - [The Three-Moon Sea](../environments/the-three-moon-sea.md)
+

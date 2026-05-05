@@ -25,3 +25,4 @@ Farmers talk about it like it has moods. A cloudy summer can thin the harvest; a
 - [Insect Spice (Borrowed Heat)](insect-spice.md)
 - [Church Caravans](../institutions/church-caravans.md)
 - [Sacrament Administration](../institutions/sacrament-administration.md)
+

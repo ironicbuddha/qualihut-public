@@ -14,3 +14,4 @@ They travel with procedures as much as with cargo—inventories recited like pra
 
 - Some caravans carry sacrament stock under double seals, and the seals are counted twice a day.
 - A caravan’s “paperwork wagon” is more heavily guarded than its gold.
+

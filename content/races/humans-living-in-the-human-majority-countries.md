@@ -14,3 +14,4 @@ Imperial authority (where it exists at all) is thin. Local lords, guilds, and ca
 
 - Every province has its own petty war brewing.
 - Paper notes and guild favors matter more than crowns.
+

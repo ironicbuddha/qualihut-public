@@ -24,3 +24,4 @@ People invoke Skaldren in funerary rites, in confessions, and in the quiet langu
 ### See also
 
 - [Creation Myth: Sun, Moon, Forest](../../briefings/creation-myth-sun-moon-forest.md)
+

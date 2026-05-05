@@ -14,3 +14,4 @@ Cougars are silent mountain predators: fast over broken ground, difficult to tra
 
 - If a cougar disappears uphill, it is not retreating; it is repositioning.
 - Hunters say the first sign is not a roar but a missing person.
+

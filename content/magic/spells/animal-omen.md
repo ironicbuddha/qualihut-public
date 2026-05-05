@@ -28,3 +28,4 @@ When cast, the DM describes one animal within range behaving in a way that break
 
 - The omen animal is never the one you _want_; it’s the one the land can spare to speak through.
 - Apprentices are taught to watch for patterns, not symbols: wrong timing, wrong routes, wrong fear.
+

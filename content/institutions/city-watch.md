@@ -18,3 +18,4 @@ Watch captains spend as much time balancing guild pressure against magistrate or
 
 - A guild coin buys faster justice than a badge.
 - City watch units and guild enforcers skirmish after dark.
+

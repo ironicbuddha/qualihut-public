@@ -17,3 +17,4 @@ Everyone knows the “rules” that matter: the ball is blessed but never enchan
 ### Common rumors
 
 - A curse laid in the stands can spread through chants faster than fire.
+

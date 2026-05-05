@@ -18,3 +18,4 @@ The Silent Poet is spoken of in ellipsis and metaphor: a patron whose “gifts�
 - They favor elven warlocks, especially those trained to carry secrets without flinching.
 - Most people believe their warlocks come from one noble lineage: **[House von Stillwort](../../institutions/house-von-stillwort.md)**.
 - Sailors and coastal witches sometimes claim the Poet is “sea-silence”: not an author who redacts, but a depth that drowns words.
+

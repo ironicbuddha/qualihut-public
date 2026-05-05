@@ -14,3 +14,4 @@ In practice, a merchant seal can open doors a baron can’t—because the baron 
 
 - A merchant’s seal is worth more than a baron’s.
 - Merchant houses purchase minor titles to dodge tariffs.
+
