@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [World State (Canonical Bullets)](#world-state-canonical-bullets)  `content/_world_state.md`
-- [Economy Index](#economy-index)  `content/economy/_index.md`
 - ["Crossing Board"](#crossing-board)  `content/economy/crossing-board.md`
 - [Desert Bamboo (Fast-Growth Trees)](#desert-bamboo-fast-growth-trees)  `content/economy/desert-bamboo.md`
 - [Desert Truffle](#desert-truffle)  `content/economy/desert-truffle.md`
@@ -100,12 +99,6 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
 - Death is meaningful; replacement characters enter through the same apparatus.
-
----
-
-## Economy Index
-
-_Source: `content/economy/_index.md`_
 
 ---
 

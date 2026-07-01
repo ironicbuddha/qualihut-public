@@ -8,7 +8,7 @@ type: session-recap
 
 The investigation left Hochsilvar behind and turned into an embedded road job.
 
-## Read-Aloud Recap
+## Recap
 
 You briefed your handler on what you had learned: the vault breach relied on
 living Valdieri blood, Branka was tied to the road lane, and Broadbarrel was

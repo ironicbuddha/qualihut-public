@@ -15,6 +15,7 @@
 - [Banking Guild](#banking-guild)  `content/factions/banking-guild.md`
 - [The Fey Roads](#the-fey-roads)  `content/magic/fey-roads.md`
 - [The Greenwood Accord](#the-greenwood-accord)  `content/magic/greenwood-accord.md`
+- ["Old Thunder Horn"](#old-thunder-horn)  `content/magic/items/old-thunder-horn.md`
 - [Pattern Recall Daggers](#pattern-recall-daggers)  `content/magic/items/pattern-recall-daggers.md`
 - [Refined Magic](#refined-magic)  `content/magic/items/refined-magic.md`
 - [Seven-League Boots](#seven-league-boots)  `content/magic/items/seven-league-boots.md`
@@ -324,6 +325,23 @@ If the Accord answers, the person comes back with a bond: a spirit that will som
 - [Waldrun](../people/magical-creatures/waldrun.md)
 - [Rangers](../institutions/rangers.md)
 - [The Living Script](the-living-script.md)
+
+---
+
+## "Old Thunder Horn"
+
+_Source: `content/magic/items/old-thunder-horn.md`_
+
+## What players would know
+
+The Old Thunder Horn is the kind of relic most caravan guards hope is only a
+road story: a cracked horn capped with fossil tooth and old bronze, said to
+call something huge and ancient out of mud, rain, and remembered hunger.
+
+### Common rumors
+
+- It does not make a beast obedient. It makes the world briefly remember one.
+- Pack reptiles hate its sound before they know why.
 
 ---
 
