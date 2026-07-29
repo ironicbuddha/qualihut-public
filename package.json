@@ -1,0 +1,30 @@
+{
+  "name": "qualihut-public",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "npm run prepare:assets && astro build && npm run test:content-contract",
+    "prepare:assets": "tsx scripts/copy-content-assets.ts",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "tsx --test tests/**/*.test.ts",
+    "test:content-contract": "tsx scripts/verify-content-contract.ts"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^5.13.5",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

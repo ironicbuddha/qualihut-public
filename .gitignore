@@ -7,6 +7,10 @@ site/
 .tmp-tectonic/
 .tectonic-cache/
 docs/*.pdf
+dist/
+node_modules/
+public/media/
+.astro/
 
 # macOS
 .AppleDouble

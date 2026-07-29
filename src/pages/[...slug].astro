@@ -1,0 +1,26 @@
+---
+import CampaignLayout from "../layouts/CampaignLayout.astro"
+import { getCampaignRecords, routeSegments } from "../lib/content"
+import { getTableOfContents, renderMarkdown } from "../lib/markdown"
+
+export function getStaticPaths() {
+  return getCampaignRecords().map((record) => {
+    const segments = routeSegments(record.sourcePath)
+    return { params: { slug: segments.length === 0 ? undefined : segments.join("/") }, props: { record } }
+  })
+}
+
+const { record } = Astro.props
+const rendered = renderMarkdown(record.body, record.sourcePath)
+const headings = getTableOfContents(record.body)
+---
+
+<CampaignLayout title={record.data.title} isHome={record.sourcePath === "index.md"}>
+  <div class="reading-shell">
+    {headings.length > 0 && <nav class="page-toc" aria-label="On this page"><p>On this page</p><ol>{headings.map((heading) => <li data-level={heading.level}><a href={`#${heading.id}`}>{heading.text}</a></li>)}</ol></nav>}
+    <article>
+      <h1>{record.data.title}</h1>
+      <Fragment set:html={rendered} />
+    </article>
+  </div>
+</CampaignLayout>

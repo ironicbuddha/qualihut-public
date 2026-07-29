@@ -1,0 +1,71 @@
+---
+interface Props {
+  title: string
+  isHome?: boolean
+}
+
+const { title, isHome = false } = Astro.props
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="Player-safe campaign notes for Qualihut." />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>{isHome ? "Qualihut" : `${title} · Qualihut`}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/" class="wordmark">Qualihut</a>
+      <span>Player Information Access</span>
+    </header>
+    <main class:list={["campaign-page", { "campaign-index": isHome }]}>
+      <slot />
+      {isHome && <nav class="reference-footer" aria-label="Player-safe reference"><a href="/_world_state/">World Snapshot</a><a href="/briefings/world-briefing-player-teaser/">Player Briefing</a><a href="/people/npcs/branka-voss/">People and NPCs</a><a href="/factions/banking-guild/">Factions and institutions</a><a href="/locations/hochsilvar/">Places</a><a href="/magic/magic-system-and-spell-casting/">Magic and rules</a></nav>}
+    </main>
+    <footer>
+      <a href="/">Campaign Index</a>
+      <span>Player-safe campaign notes</span>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root { color: #20251d; background: #f6f2e9; font-family: Georgia, "Times New Roman", serif; line-height: 1.65; }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  .site-header, footer { display: flex; justify-content: space-between; gap: 1rem; max-width: 74rem; margin: auto; padding: 1.25rem 2rem; color: #53614a; font: 0.82rem/1.2 system-ui, sans-serif; letter-spacing: 0.06em; text-transform: uppercase; }
+  .wordmark { color: #20251d; font: 700 1.1rem/1 Georgia, serif; letter-spacing: 0.03em; text-decoration: none; text-transform: none; }
+  .campaign-page { max-width: 74rem; margin: 2.5rem auto 5rem; padding: 0 2rem; }
+  article { max-width: 54rem; }
+  .reading-shell { display: grid; grid-template-columns: minmax(10rem, 13rem) minmax(0, 54rem); gap: clamp(2rem, 6vw, 5rem); }
+  .campaign-index .reading-shell { grid-template-columns: minmax(10rem, 13rem) minmax(0, 1fr); }
+  .page-toc { position: sticky; top: 1.25rem; align-self: start; padding-top: 0.5rem; font: 0.82rem/1.4 system-ui, sans-serif; }
+  .page-toc p { margin: 0 0 0.5rem; color: #53614a; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+  .page-toc ol { margin: 0; padding: 0; list-style: none; }
+  .page-toc li { margin: 0.35rem 0; }
+  .page-toc li[data-level="3"] { padding-left: 0.75rem; }
+  .page-toc a { text-decoration: none; }
+  .reference-footer { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin-top: 5rem; border: 1px solid #cfd3c4; background: #cfd3c4; }
+  .reference-footer a { display: block; padding: 1.25rem; background: #ebe8de; color: #24311f; font-family: system-ui, sans-serif; font-size: 0.88rem; font-weight: 650; text-decoration: none; }
+  .reference-footer a:hover { background: #dfe5d6; }
+  h1, h2, h3, h4 { color: #24311f; line-height: 1.15; scroll-margin-top: 1rem; }
+  h1 { font-size: clamp(2.8rem, 8vw, 5.5rem); margin: 0 0 2rem; }
+  h2 { font-size: clamp(1.7rem, 4vw, 2.4rem); margin: 3.5rem 0 1rem; padding-top: 0.25rem; border-top: 1px solid #cfd3c4; }
+  h3 { font-size: 1.3rem; margin-top: 2.25rem; }
+  a { color: #465f38; text-underline-offset: 0.15em; }
+  a:hover { color: #20251d; }
+  p, li { max-width: 72ch; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.94rem; }
+  th, td { padding: 0.65rem; vertical-align: top; border-bottom: 1px solid #d9dacd; text-align: left; }
+  th { color: #465f38; font-family: system-ui, sans-serif; font-size: 0.75rem; letter-spacing: 0.04em; text-transform: uppercase; }
+  img { display: block; max-width: 100%; height: auto; margin: 1.5rem 0; border: 1px solid #d9dacd; }
+  blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #94a481; color: #53614a; }
+  code { font-size: 0.9em; }
+  pre { overflow-x: auto; padding: 1rem; background: #eae6dc; }
+  .header-anchor { margin-left: 0.4rem; color: #839074; text-decoration: none; }
+  footer { border-top: 1px solid #d9dacd; }
+  @media (max-width: 42rem) { .site-header, footer { padding: 1rem 1.25rem; } .site-header span { display: none; } .campaign-page { margin-top: 1.5rem; padding: 0 1.25rem; } .reading-shell { display: block; } .page-toc { position: static; margin-bottom: 2rem; padding: 1rem; background: #ebe8de; } .reference-footer { grid-template-columns: 1fr; margin-top: 3rem; } h1 { font-size: 2.8rem; } table { display: block; overflow-x: auto; } }
+</style>
