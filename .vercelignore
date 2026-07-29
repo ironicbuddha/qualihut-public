@@ -1,0 +1,13 @@
+# Generated local outputs; Vercel rebuilds the Astro site from source.
+dist/
+public/media/
+node_modules/
+
+# The legacy Quartz/GitHub Pages build is not part of the Astro deployment.
+quartz-4/public/
+quartz-4/quartz/.quartz-cache/
+quartz-4/tsconfig.tsbuildinfo
+
+# Local agent/session artifacts.
+.handoff/
+docs/research/
