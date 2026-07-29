@@ -1,0 +1,64 @@
+{
+  "images": [
+    {
+      "asset": "economy/images/crossing-board.png",
+      "alt": "Crossing Board",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: a low wooden slide-played string instrument resting across a musician's knees on a River Marches ferry dock at dusk; bone and glass slides, weathered wood, river mist, quiet mournful atmosphere, no people in focus, no text, no watermark."
+    },
+    {
+      "asset": "economy/images/marsh-dyed-textiles.png",
+      "alt": "Marsh-Dyed Textiles",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: folded river-silk and reed-cloth bolts in muted wet-stone, old-bronze, moss, and storm-water dyes on a market table; subtle shifting colour in marsh light, craft-focused, no text, no watermark."
+    },
+    {
+      "asset": "economy/images/snake-blood-wine.png",
+      "alt": "Snake-Blood Wine",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: an earthen cup and dark red bottle of Marcher frontier snake-blood wine on a rough tavern table, coiled snake motif carved into the cup, candlelight, ritual bravado without gore, no text, no watermark."
+    },
+    {
+      "asset": "factions/images/casa-dei-tre-spilli.png",
+      "alt": "La Casa dei Tre Spilli",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: an unassuming Niederstadt tailoring shop front with a discreet side stair, three small pins in the window, warm mending-room light and shadowed private rooms implied beyond; modest, secretive, no text, no watermark."
+    },
+    {
+      "asset": "institutions/images/doctrine-of-concord.png",
+      "alt": "Doctrine of Concord",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: an imperial magistrate's desk with carefully ordered petitions, wax seals, balanced scales, and a sunlit civic hall beyond; authority presented as harmony and administration, restrained palette, no readable text, no watermark."
+    },
+    {
+      "asset": "institutions/images/office-of-subcity-conveyance.png",
+      "alt": "Office of Subcity Conveyance",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: a Niederstadt freight office above descending stone ramps, manifests and stamped crates in the foreground, lantern-lit tunnels and a halted wagon below; bureaucratic tension, no readable text, no watermark."
+    },
+    {
+      "asset": "locations/images/statesboro.png",
+      "alt": "Statesboro",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: Statesboro, a lively road-and-river Marcher town with ferry quay, weathered timber buildings, musicians tuning instruments, market craft goods, and river mist; warm, local, music-rich atmosphere, no text, no watermark."
+    },
+    {
+      "asset": "magic/images/thin-crossings.png",
+      "alt": "Thin Crossings",
+      "prompt": "Player-safe fantasy editorial illustration, 16:9 landscape: an old stone bridge at a ford beside grove-edge boundary stones at blue dusk; faint uncanny light and listening stillness, folklore rather than overt horror, no people, no text, no watermark."
+    },
+    {
+      "asset": "people/npcs/images/ariette-marot.png",
+      "alt": "Ariette Marot",
+      "prompt": "Player-safe fantasy character portrait, 4:5 vertical: Ariette Marot, a poised Marcher-born broker of cloth and presentation in a capital salon, wearing carefully chosen marsh-coloured textiles and assessing a room with practical intelligence; elegant but not aristocratic, no text, no watermark."
+    },
+    {
+      "asset": "people/npcs/images/caspar-renn.png",
+      "alt": "Caspar Renn",
+      "prompt": "Player-safe fantasy character portrait, 4:5 vertical: Caspar Renn, a polished capital arranger and lecturer with sheet music and a restrained expression, dressed for a respectable salon, admiring regional art from a careful distance; no readable text, no watermark."
+    },
+    {
+      "asset": "people/npcs/images/doc-benway.png",
+      "alt": "Doc Benway",
+      "prompt": "Player-safe fantasy character portrait, 4:5 vertical: Doc Benway, an unsentimental competent undercity patch-doctor in a practical lamplit clinic, rolled sleeves, medical satchel, splints and clean tools, weary direct gaze; no gore, no text, no watermark."
+    },
+    {
+      "asset": "people/npcs/images/sabine-korber.png",
+      "alt": "Sabine Korber",
+      "prompt": "Player-safe fantasy character portrait, 4:5 vertical: Sabine Korber, an elegant capital hostess in an intimate candlelit salon, composed smile, musicians and minor officials softly out of focus behind her, polished social authority, no text, no watermark."
+    }
+  ]
+}

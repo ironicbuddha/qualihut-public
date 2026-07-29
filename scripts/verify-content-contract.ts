@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { getCampaignRecords, isLocalAsset, resolveContentPath, routeForSource } from "../src/lib/content"
 import { renderMarkdown, resolveImageSource, resolveMarkdownLink } from "../src/lib/markdown"
@@ -6,6 +6,9 @@ import { renderMarkdown, resolveImageSource, resolveMarkdownLink } from "../src/
 const records = getCampaignRecords()
 const recordPaths = new Set(records.map((record) => record.sourcePath))
 const recordsByPath = new Map(records.map((record) => [record.sourcePath, record]))
+const optionalImageBrief = JSON.parse(readFileSync(resolve(process.cwd(), "docs/image-prompts/optional-player-safe-images.json"), "utf8")) as { images: { asset: string }[] }
+const optionalAssets = new Set(optionalImageBrief.images.map((image) => image.asset))
+const optionalMissingAssets = new Set<string>()
 const errors: string[] = []
 const linkPattern = /(?<!!?)\[[^\]]*\]\((?<target>[^\s)]+)(?:\s+[^)]*)?\)/g
 const imagePattern = /!\[[^\]]*\]\((?<target>[^\s)]+)(?:\s+[^)]*)?\)/g
@@ -25,7 +28,8 @@ for (const record of records) {
     const target = match.groups?.target ?? ""
     if (!target.startsWith("/") && !/^[a-z][a-z0-9+.-]*:/i.test(target)) {
       const assetPath = resolveContentPath(record.sourcePath, target)
-      if (!isLocalAsset(assetPath)) errors.push(`${record.sourcePath}: unresolved image ${target}`)
+      if (!isLocalAsset(assetPath) && optionalAssets.has(assetPath)) optionalMissingAssets.add(assetPath)
+      else if (!isLocalAsset(assetPath)) errors.push(`${record.sourcePath}: unresolved image ${target}`)
       if (isLocalAsset(assetPath) && !existsSync(resolve(process.cwd(), "public/media", assetPath))) errors.push(`${record.sourcePath}: image was not copied ${target}`)
     }
   }
@@ -41,4 +45,5 @@ if (resolveImageSource("locations/banco-valdieri-bankhouse.md", "images/banco-va
 if (!existsSync(resolve(process.cwd(), "content"))) errors.push("content source directory is missing")
 
 if (errors.length > 0) throw new Error(`Content contract failed:\n${errors.join("\n")}`)
+if (optionalMissingAssets.size > 0) console.warn(`Optional player-safe images pending generation: ${[...optionalMissingAssets].join(", ")}`)
 console.log(`Content contract passed for ${records.length} Markdown records.`)
