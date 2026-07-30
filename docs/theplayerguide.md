@@ -46,6 +46,7 @@
 - [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
+- [Spycraft](#spycraft)  `content/institutions/der-weitblick-spycraft.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Doctrine of Concord](#doctrine-of-concord)  `content/institutions/doctrine-of-concord.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
@@ -81,6 +82,7 @@
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
 - [Office of Subcity Conveyance](#office-of-subcity-conveyance)  `content/institutions/office-of-subcity-conveyance.md`
 - [Order of Transcendent Light](#order-of-transcendent-light)  `content/institutions/order-of-transcendent-light.md`
+- ["Pikes and Swords"](#pikes-and-swords)  `content/institutions/pikes-and-swords.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
 - [Sacrament Administration](#sacrament-administration)  `content/institutions/sacrament-administration.md`
@@ -109,8 +111,10 @@
 - [The Echo Amphitheatre (Niederstadt)](#the-echo-amphitheatre-niederstadt)  `content/locations/niederstadt-echo-amphitheatre.md`
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
 - [Pinewake Village](#pinewake-village)  `content/locations/pinewake-village.md`
+- [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
+- ["Sankt Orn's Rest"](#sankt-orns-rest)  `content/locations/sankt-orns-rest.md`
 - ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
 - ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
@@ -127,6 +131,7 @@
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
 - [Magical Blights](#magical-blights)  `content/magic/magical-blights.md`
+- ["Nature Spirits vs Fey"](#nature-spirits-vs-fey)  `content/magic/nature-spirits-vs-fey.md`
 - [Red Sun Rites](#red-sun-rites)  `content/magic/red-sun-rites.md`
 - [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
 - [Counterspell](#counterspell)  `content/magic/spells/counterspell.md`
@@ -143,8 +148,6 @@
 - [The Ledger](#the-ledger)  `content/magic/the-ledger.md`
 - [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
 - ["Thin Crossings"](#thin-crossings)  `content/magic/thin-crossings.md`
-- [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
-- [Banco Valdieri Investigation](#banco-valdieri-investigation)  `content/quests/q-banco-valdieri-investigation.md`
 - [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
@@ -1227,6 +1230,16 @@ The Church speaks of it as the Golden Walk: a chance to renew oaths, witness san
 
 ---
 
+## Spycraft
+
+_Source: `content/institutions/der-weitblick-spycraft.md`_
+
+## What players would know
+
+Spies exist in court and in the street: people who move information instead of goods. In this campaign, "spycraft" is the practical vocabulary for infiltration, tradecraft, and narrative control.
+
+---
+
 ## Der Weitblick
 
 _Source: `content/institutions/der-weitblick.md`_
@@ -2080,6 +2093,30 @@ Most people only hear about the Order when something is wrong—an orchard bloom
 
 ---
 
+## "Pikes and Swords"
+
+_Source: `content/institutions/pikes-and-swords.md`_
+
+## What players would know
+
+Pikes and Swords is a common road-and-barracks board game: cheap to make, easy
+to wager on, and just structured enough for people to pretend it teaches
+discipline. It is played on a checkered board with two kinds of pieces per
+side, usually carved as long-shafted pikes and short-bladed swords.
+
+Most people know the folk version, not the same version.
+Every tavern, caravan, and garrison has small rule drift, but the core idea is
+stable: pikes hold, swords break, and nobody wins by rushing alone.
+
+### Common rumors
+
+- Caravan guards say you can tell what kind of officer someone is by how early
+  they throw away their swords.
+- Teamsters claim the best players are not the bold ones but the ones who know
+  when to let a lane look weak.
+
+---
+
 ## Rangers
 
 _Source: `content/institutions/rangers.md`_
@@ -2617,8 +2654,8 @@ One poster version pasted up near porter stalls:
 - [Hochsilvar](hochsilvar.md)
 - [Statesboro](statesboro.md)
 - [The River Marches](river-marches.md)
-- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
-- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
+- [Statesboro Songbook](statesboro-songbook.md)
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
@@ -2786,6 +2823,33 @@ barley, onions, a little goat cheese, and more mud than dignity in wet weather.
 
 ---
 
+## Plain of Giant's Cups
+
+_Source: `content/locations/plain-of-giants-cups.md`_
+
+## What players would know
+
+![Plain of Giant's Cups](images/plain-of-giants-cups.png)
+
+The Plain of Giant’s Cups is a broad, wind-combed grass plain just off a main trade route. Hundreds of squat stone “cups” (more like thick-lipped jars) stand scattered across the field with no obvious pattern.
+
+Each cup is roughly two metres tall and about four metres across. They have no inscriptions, no runes, and no clear tool marks—just stone that looks like it has always been there. Some are cracked or toppled and half-swallowed by turf; others sit improbably intact, their interiors worn smooth by rain and time.
+
+Caravans usually skirt the edge of the plain. Those who cross do it in daylight, keep fires small, and accept without comment that animals get skittish and sound feels oddly “thin” in the open grass.
+
+### Common rumors
+
+- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
+- The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
+- It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
+- After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.
+
+### See also
+
+- [Covenant of the Long Road](../factions/covenant-of-the-long-road.md)
+
+---
+
 ## Ponte Nero Guildhouse (Niederstadt)
 
 _Source: `content/locations/ponte-nero-guildhouse.md`_
@@ -2827,6 +2891,46 @@ need a room that asks no questions and a crowd that minds its own survival.
 
 ---
 
+## "Sankt Orn's Rest"
+
+_Source: `content/locations/sankt-orns-rest.md`_
+
+## What players would know
+
+Sankt Orn's Rest is a road town where caravans can add carts, repair wagons,
+lodge witnessed messages, and enter the Solar Church's custody system before
+the final approach to Valdengratz.
+
+The town grew around an older travelers' commons. Arriving crews still
+contribute food, labor, or spare tack to a common store, touch the worn
+roadstone at its center, and accept an obligation to aid stranded travelers.
+The Church teaches that these are the duties of Saint Orn.
+
+Before using the town's services, arrivals are expected to touch the roadstone
+and visit the **kirk**, the small local church in the Solar Court. There they
+make a modest offering and receive blessings for travelers, animals, and
+wagons. Refusal is lawful, but it places a traveler outside the town's
+reciprocal protection.
+
+### Views of Sankt Orn's Rest
+
+![Sankt Orn's Rest settlement map](images/sankt-orns-rest-map.png)
+
+![Sankt Orn's Rest kirk](images/sankt-orns-rest-kirk.png)
+
+![Sankt Orn's Rest market](images/sankt-orns-rest-market.png)
+
+### Common rumors
+
+- A service at Sankt Orn's Rest is rarely free, even when no coin changes
+  hands; someone records who asked for it.
+- The Commons Bench and Solar provost can each delay a wagon, but neither likes
+  explaining to the other why.
+- Drivers touch the old roadstone before a dangerous leg and argue afterward
+  about whether the custom is holy, pagan, or merely sensible.
+
+---
+
 ## "Statesboro"
 
 _Source: `content/locations/statesboro.md`_
@@ -2854,8 +2958,8 @@ Marches tends to light up when they hear the name.
 - [The River Marches](river-marches.md)
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
-- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
+- [Statesboro Songbook](statesboro-songbook.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
 
@@ -3156,6 +3260,18 @@ _Source: `content/magic/magical-blights.md`_
 - It starts like bad harvests and sick wells, then sharpens into patterns that feel like intent.
 - You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
 - Animals avoid certain paths and waters long before people admit something is wrong.
+
+---
+
+## "Nature Spirits vs Fey"
+
+_Source: `content/magic/nature-spirits-vs-fey.md`_
+
+## What players would know
+
+Druids in Qualihut distinguish **place-bound nature spirits** (immanent,
+ecosystem-born persons) from the **Fey** (extrinsic visitors with different
+protocols). Mixing the two is a reliable way to misdiagnose a problem.
 
 ---
 
@@ -3594,75 +3710,6 @@ dark.
 - [The River Marches](../locations/river-marches.md)
 - [Statesboro](../locations/statesboro.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
-
----
-
-## Campaign Overview
-
-_Source: `content/meta/campaign.md`_
-
-## What this campaign is
-
-This campaign lives in a high-magic feudal empire where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
-
-### Tone & themes
-
-- wonder and dread
-- political absurdity
-- scarcity and trade
-- secrets with consequences
-
-### What characters might know
-
-Most people in the Empire know a few practical truths:
-
-- The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
-- [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
-- Magic can be refined and traded like currency, which means money now has arcane consequences.
-
----
-
-## Banco Valdieri Investigation
-
-_Source: `content/quests/q-banco-valdieri-investigation.md`_
-
-## What the party knows (briefing version)
-
-A high-profile robbery has struck **[Banco Valdieri](../institutions/banco-valdieri.md)** in **[Hochsilvar](../locations/hochsilvar.md)**, threatening public confidence in the new promissory-note system.
-
-It happens **midway through** the capital’s solstice week festival, **[The Royal Games](../institutions/royal-games.md)**: the city is crowded, tempers are short, and everyone with a warrant or a knife is using the noise as cover.
-
-The [City Watch](../institutions/city-watch.md) has sealed the scene under a three-day magical quarantine, and the [Banking Guild](../factions/banking-guild.md) is demanding results loudly enough that even honest clerks can hear it.
-
-You are assigned to a Joint Task Force: City Watch investigators and the Crown-authorized domestic intelligence arm operating across the feudal states.
-
-![Banco Valdieri aftermath](images/banco-validieri-aftermath.png)
-
-### Known facts
-
-- The vault shows signs of unusual arcane interference.
-- The bank is under Guard quarantine while forensic wizards examine the scene.
-- The Royal Games crowd turns every street into an argument, and every empty bed into a commodity.
-- The breach occurred at **noon on the solstice**—an auspicious hour in Solar Church calendars.
-
-### Objective (as given)
-
-Identify who stole the refined magic, determine where it is headed, and recover it if possible.
-
-### See also
-
-- [Refined Magic](../magic/items/refined-magic.md)
-- [The Royal Games](../institutions/royal-games.md)
-
-
-## What the party can reasonably discover
-
-If you push on the right doors (and survive the politics), you can uncover:
-
-- **Bank-scene receipts**: time distortion evidence; missing-time inconsistencies; a “rain underground” signature locals won’t stop talking about.
-- **Paper trails**: promissory-note signet chains; custody-chain anomalies; documents that look _too_ clean to be honest.
-- **Undercity leads**: smuggling logistics; territorial tells; a name that never comes with a face.
-- **Transport constraints**: refined magic moves like fragile contraband, which creates slow routes, choke points, and opportunities for interception.
 
 ---
 

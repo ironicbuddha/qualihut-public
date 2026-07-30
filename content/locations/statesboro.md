@@ -27,8 +27,8 @@ Marches tends to light up when they hear the name.
 - [The River Marches](river-marches.md)
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
-- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
+- [Statesboro Songbook](statesboro-songbook.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
 

@@ -21,6 +21,7 @@
 - [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
 - [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
+- [Spycraft](#spycraft)  `content/institutions/der-weitblick-spycraft.md`
 - [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Doctrine of Concord](#doctrine-of-concord)  `content/institutions/doctrine-of-concord.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
@@ -56,6 +57,7 @@
 - [Noble Houses](#noble-houses)  `content/institutions/noble-houses.md`
 - [Office of Subcity Conveyance](#office-of-subcity-conveyance)  `content/institutions/office-of-subcity-conveyance.md`
 - [Order of Transcendent Light](#order-of-transcendent-light)  `content/institutions/order-of-transcendent-light.md`
+- ["Pikes and Swords"](#pikes-and-swords)  `content/institutions/pikes-and-swords.md`
 - [Rangers](#rangers)  `content/institutions/rangers.md`
 - [The Royal Games](#the-royal-games)  `content/institutions/royal-games.md`
 - [Sacrament Administration](#sacrament-administration)  `content/institutions/sacrament-administration.md`
@@ -483,6 +485,16 @@ The Church speaks of it as the Golden Walk: a chance to renew oaths, witness san
 
 - Every Sonnenmarsch has at least one “miracle” and at least one massacre—usually the same event, depending on where you stood.
 - If the march ever truly failed, people would still walk. That’s what scares the court.
+
+---
+
+## Spycraft
+
+_Source: `content/institutions/der-weitblick-spycraft.md`_
+
+## What players would know
+
+Spies exist in court and in the street: people who move information instead of goods. In this campaign, "spycraft" is the practical vocabulary for infiltration, tradecraft, and narrative control.
 
 ---
 
@@ -1336,6 +1348,30 @@ Most people only hear about the Order when something is wrong—an orchard bloom
 
 - They can tell when a place is “thin” just by standing still.
 - They refuse armed escorts not out of pride, but out of superstition.
+
+---
+
+## "Pikes and Swords"
+
+_Source: `content/institutions/pikes-and-swords.md`_
+
+## What players would know
+
+Pikes and Swords is a common road-and-barracks board game: cheap to make, easy
+to wager on, and just structured enough for people to pretend it teaches
+discipline. It is played on a checkered board with two kinds of pieces per
+side, usually carved as long-shafted pikes and short-bladed swords.
+
+Most people know the folk version, not the same version.
+Every tavern, caravan, and garrison has small rule drift, but the core idea is
+stable: pikes hold, swords break, and nobody wins by rushing alone.
+
+### Common rumors
+
+- Caravan guards say you can tell what kind of officer someone is by how early
+  they throw away their swords.
+- Teamsters claim the best players are not the bold ones but the ones who know
+  when to let a lane look weak.
 
 ---
 

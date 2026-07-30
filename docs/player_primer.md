@@ -23,6 +23,7 @@
 - [Leyline Convergences](#leyline-convergences)  `content/magic/leyline-convergences.md`
 - [Magic System and Spell Casting](#magic-system-and-spell-casting)  `content/magic/magic-system-and-spell-casting.md`
 - [Magical Blights](#magical-blights)  `content/magic/magical-blights.md`
+- ["Nature Spirits vs Fey"](#nature-spirits-vs-fey)  `content/magic/nature-spirits-vs-fey.md`
 - [Red Sun Rites](#red-sun-rites)  `content/magic/red-sun-rites.md`
 - [Animal Omen](#animal-omen)  `content/magic/spells/animal-omen.md`
 - [Counterspell](#counterspell)  `content/magic/spells/counterspell.md`
@@ -39,7 +40,6 @@
 - [The Ledger](#the-ledger)  `content/magic/the-ledger.md`
 - [The Living Script](#the-living-script)  `content/magic/the-living-script.md`
 - ["Thin Crossings"](#thin-crossings)  `content/magic/thin-crossings.md`
-- [Campaign Overview](#campaign-overview)  `content/meta/campaign.md`
 - [Beast-Adjacent Symbiotes](#beast-adjacent-symbiotes)  `content/races/beast-adjacent-symbiotes.md`
 - [Dwarves](#dwarves)  `content/races/dwarves.md`
 - [Elves](#elves)  `content/races/elves.md`
@@ -462,6 +462,18 @@ _Source: `content/magic/magical-blights.md`_
 - It starts like bad harvests and sick wells, then sharpens into patterns that feel like intent.
 - You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
 - Animals avoid certain paths and waters long before people admit something is wrong.
+
+---
+
+## "Nature Spirits vs Fey"
+
+_Source: `content/magic/nature-spirits-vs-fey.md`_
+
+## What players would know
+
+Druids in Qualihut distinguish **place-bound nature spirits** (immanent,
+ecosystem-born persons) from the **Fey** (extrinsic visitors with different
+protocols). Mixing the two is a reliable way to misdiagnose a problem.
 
 ---
 
@@ -900,31 +912,6 @@ dark.
 - [The River Marches](../locations/river-marches.md)
 - [Statesboro](../locations/statesboro.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
-
----
-
-## Campaign Overview
-
-_Source: `content/meta/campaign.md`_
-
-## What this campaign is
-
-This campaign lives in a high-magic feudal empire where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
-
-### Tone & themes
-
-- wonder and dread
-- political absurdity
-- scarcity and trade
-- secrets with consequences
-
-### What characters might know
-
-Most people in the Empire know a few practical truths:
-
-- The sea is dangerous ([the Three-Moon Sea](../environments/the-three-moon-sea.md) makes tides strange; monsters treat lanes as feeding corridors).
-- [Old-growth forests](../environments/old-growth-forests.md) are protected and politically guarded; wood is scarce and logging is trouble.
-- Magic can be refined and traded like currency, which means money now has arcane consequences.
 
 ---
 

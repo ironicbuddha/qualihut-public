@@ -1,61 +1,15 @@
 ---
 id: player-home
-title: "Campaign Index"
+title: "Qualihut Player Vault"
 type: meta
 ---
 
-## Campaign Index
+## Welcome to Qualihut
 
-This is the curated route for **Player Information Access**: the player-safe
-campaign context, active leads, recaps, and reference material you can use at
-the table.
+This is the player-safe vault for the campaign setting: world context, active
+leads, key places, and public-facing factions and institutions.
 
-## Current Campaign Context
-
-**Freshness:** This snapshot reflects [Session 4: Broadbarrel Road](meta/session-summaries/session-4-player-recap-2026-04-08-broadbarrel-road.md)
-on **2026-04-08**, the newest published player recap.
-
-The investigation has left Hochsilvar and become an embedded road job. The
-party is travelling with the [Broadbarrel Caravan](institutions/broadbarrel-caravan.md)
-under a believable traveler cover, watching how the caravan moves and how
-[Branka Voss](people/npcs/branka-voss.md)'s escort protects it. Broadbarrel
-remains the strongest live lead in the Banco Valdieri investigation.
-
-### Key people
-
-- [Ishtar](people/pcs/Niki/ishtar-sheet.md) joined the party as a covert road
-  operative before the Broadbarrel pursuit.
-- [Velka Dorr](people/npcs/velka-dorr.md) was the party's first contact on the
-  Broadbarrel road.
-- [Henrik Volmar](people/npcs/henrik-volmar.md) admitted the party to his
-  caravan as paying travelers.
-- [Branka Voss](people/npcs/branka-voss.md) commands the Brazen Pike escort
-  attached to Broadbarrel.
-
-### Key places
-
-- [Hochsilvar](locations/hochsilvar.md) is behind the party; it is where the
-  Banco Valdieri investigation began.
-- [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md) is the
-  party's current route into the road-side of the case.
-- [Valdengratz](locations/valdengratz.md) is the likely customs choke point
-  ahead.
-
-## Open Threads and Leads
-
-- Work out which cargo cluster actually matters.
-- Watch whether Branka favors a particular wagon or section of the train.
-- Learn the camp routine, wagon order, and weak points without being read too
-  early.
-- Decide when embedded observation stops being enough and pressure has to
-  escalate.
-
-## Recent recaps
-
-- [Session 4: Broadbarrel Road (2026-04-08)](meta/session-summaries/session-4-player-recap-2026-04-08-broadbarrel-road.md)
-- [Session 3: Hochsilvar (2026-04-06)](meta/session-summaries/session-3-player-recap-2026-04-06-hochsilvar.md)
-- [Session 2: Hochsilvar (2026-03-11)](meta/session-summaries/session-2-player-recap-2026-03-11-hochsilvar.md)
-- [Session 1: Hochsilvar (2026-02-11)](meta/session-summaries/session-1-player-recap-2026-02-11-hochsilvar.md)
+Use this page as the table start page and fast-recall surface.
 
 ## Start here
 
@@ -63,6 +17,35 @@ remains the strongest live lead in the Banco Valdieri investigation.
 - [World Briefing (Player Teaser)](briefings/world-briefing-player-teaser.md)
 - [Character Creation + Table Rules](briefings/character-creation-and-table-rules.md)
 - [Play Contract + Working Agreements](briefings/play-contract.md)
+- [Session 3 Recap: Hochsilvar](meta/sessions/session-3/recap-player.md)
+- [Session 4 Recap: Broadbarrel Road](meta/sessions/session-4/recap-player.md)
+
+## Current table reference
+
+If a name goes missing at the table, start with the current thread.
+
+### People you have dealt with
+
+- [Ishtar](people/pcs/Niki/ishtar-sheet.md) - the party's new covert road operative
+- [Velka Dorr](people/npcs/velka-dorr.md) - Brazen Pike scout and the first Broadbarrel contact on the road
+- [Henrik Volmar](people/npcs/henrik-volmar.md) - Broadbarrel caravan master who admitted the party under traveler cover
+- [Branka Voss](people/npcs/branka-voss.md) - half-orc commander of the Brazen Pike escort
+- [Serak Thorn](people/npcs/serak-thorn.md) - Branka's lieutenant and formation disciplinarian
+- [Rex Flavus](people/npcs/rex-flavus.md) - paperwork clerk who pointed the investigation toward Broadbarrel
+- [Pietro Sarto](people/npcs/pietro-sarto.md) - servant-side Valdieri contact in Hochsilvar
+
+### Places currently in play
+
+- [Hochsilvar](locations/hochsilvar.md) - imperial capital where the investigation opened
+- [Tre Silli](locations/tre-silli.md) - Niederstadt street-name tied to the blood-side handoff
+- [Casa dei Tre Spilli Guildhouse](locations/casa-dei-tre-spilli-guildhouse.md) - the actual guildhouse behind the Tre Silli name
+- [Valdengratz](locations/valdengratz.md) - border city and likely customs choke point ahead
+
+### Groups and moving parts
+
+- [Banco Valdieri Investigation](quests/q-banco-valdieri-investigation.md) - the core investigation thread
+- [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md) - the convoy the party is now traveling with
+- [Brazen Pike Company](factions/brazen-pike-company.md) - the disciplined mercenary escort attached to Broadbarrel
 
 ## Player-Safe Reference Tables
 
@@ -240,3 +223,4 @@ entry.
 - [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md)
 - [Branka Voss](people/npcs/branka-voss.md)
 - [Valdengratz](locations/valdengratz.md)
+
