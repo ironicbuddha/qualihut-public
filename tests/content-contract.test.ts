@@ -34,5 +34,5 @@ test("derives in-page navigation IDs from the same Markdown parser", () => {
 })
 
 test("includes every source record", () => {
-  assert.equal(getCampaignRecords().length, 232)
+  assert.equal(getCampaignRecords().length, 236)
 })
