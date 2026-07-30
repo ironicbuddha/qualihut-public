@@ -51,8 +51,10 @@
 - [The Echo Amphitheatre (Niederstadt)](#the-echo-amphitheatre-niederstadt)  `content/locations/niederstadt-echo-amphitheatre.md`
 - [Niederstadt](#niederstadt)  `content/locations/niederstadt.md`
 - [Pinewake Village](#pinewake-village)  `content/locations/pinewake-village.md`
+- [Plain of Giant's Cups](#plain-of-giants-cups)  `content/locations/plain-of-giants-cups.md`
 - [Ponte Nero Guildhouse (Niederstadt)](#ponte-nero-guildhouse-niederstadt)  `content/locations/ponte-nero-guildhouse.md`
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
+- ["Sankt Orn's Rest"](#sankt-orns-rest)  `content/locations/sankt-orns-rest.md`
 - ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
 - ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
@@ -1135,8 +1137,8 @@ One poster version pasted up near porter stalls:
 - [Hochsilvar](hochsilvar.md)
 - [Statesboro](statesboro.md)
 - [The River Marches](river-marches.md)
-- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
-- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
+- [Statesboro Songbook](statesboro-songbook.md)
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
@@ -1304,6 +1306,33 @@ barley, onions, a little goat cheese, and more mud than dignity in wet weather.
 
 ---
 
+## Plain of Giant's Cups
+
+_Source: `content/locations/plain-of-giants-cups.md`_
+
+## What players would know
+
+![Plain of Giant's Cups](images/plain-of-giants-cups.png)
+
+The Plain of Giant’s Cups is a broad, wind-combed grass plain just off a main trade route. Hundreds of squat stone “cups” (more like thick-lipped jars) stand scattered across the field with no obvious pattern.
+
+Each cup is roughly two metres tall and about four metres across. They have no inscriptions, no runes, and no clear tool marks—just stone that looks like it has always been there. Some are cracked or toppled and half-swallowed by turf; others sit improbably intact, their interiors worn smooth by rain and time.
+
+Caravans usually skirt the edge of the plain. Those who cross do it in daylight, keep fires small, and accept without comment that animals get skittish and sound feels oddly “thin” in the open grass.
+
+### Common rumors
+
+- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
+- The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
+- It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
+- After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.
+
+### See also
+
+- [Covenant of the Long Road](../factions/covenant-of-the-long-road.md)
+
+---
+
 ## Ponte Nero Guildhouse (Niederstadt)
 
 _Source: `content/locations/ponte-nero-guildhouse.md`_
@@ -1345,6 +1374,46 @@ need a room that asks no questions and a crowd that minds its own survival.
 
 ---
 
+## "Sankt Orn's Rest"
+
+_Source: `content/locations/sankt-orns-rest.md`_
+
+## What players would know
+
+Sankt Orn's Rest is a road town where caravans can add carts, repair wagons,
+lodge witnessed messages, and enter the Solar Church's custody system before
+the final approach to Valdengratz.
+
+The town grew around an older travelers' commons. Arriving crews still
+contribute food, labor, or spare tack to a common store, touch the worn
+roadstone at its center, and accept an obligation to aid stranded travelers.
+The Church teaches that these are the duties of Saint Orn.
+
+Before using the town's services, arrivals are expected to touch the roadstone
+and visit the **kirk**, the small local church in the Solar Court. There they
+make a modest offering and receive blessings for travelers, animals, and
+wagons. Refusal is lawful, but it places a traveler outside the town's
+reciprocal protection.
+
+### Views of Sankt Orn's Rest
+
+![Sankt Orn's Rest settlement map](images/sankt-orns-rest-map.png)
+
+![Sankt Orn's Rest kirk](images/sankt-orns-rest-kirk.png)
+
+![Sankt Orn's Rest market](images/sankt-orns-rest-market.png)
+
+### Common rumors
+
+- A service at Sankt Orn's Rest is rarely free, even when no coin changes
+  hands; someone records who asked for it.
+- The Commons Bench and Solar provost can each delay a wagon, but neither likes
+  explaining to the other why.
+- Drivers touch the old roadstone before a dangerous leg and argue afterward
+  about whether the custom is holy, pagan, or merely sensible.
+
+---
+
 ## "Statesboro"
 
 _Source: `content/locations/statesboro.md`_
@@ -1372,8 +1441,8 @@ Marches tends to light up when they hear the name.
 - [The River Marches](river-marches.md)
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](../meta/statesboro-dance-and-performance.md)
-- [Statesboro Songbook](../meta/statesboro-songbook.md)
+- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
+- [Statesboro Songbook](statesboro-songbook.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
 
