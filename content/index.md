@@ -17,8 +17,15 @@ Use this page as the table start page and fast-recall surface.
 - [World Briefing (Player Teaser)](briefings/world-briefing-player-teaser.md)
 - [Character Creation + Table Rules](briefings/character-creation-and-table-rules.md)
 - [Play Contract + Working Agreements](briefings/play-contract.md)
+
+## Session recaps
+
+- [Session 1 Recap: Hochsilvar](meta/sessions/session-1/recap-player.md)
+- [Session 2 Recap: Hochsilvar](meta/sessions/session-2/recap-player.md)
 - [Session 3 Recap: Hochsilvar](meta/sessions/session-3/recap-player.md)
 - [Session 4 Recap: Broadbarrel Road](meta/sessions/session-4/recap-player.md)
+- [Session 5 Recap: Dawn Saurakh Raid](meta/sessions/session-5/recap-player.md)
+- [Session 6 Recap: Broadbarrel Cache](meta/sessions/session-6/recap-player.md)
 
 ## Current table reference
 
@@ -223,4 +230,3 @@ entry.
 - [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md)
 - [Branka Voss](people/npcs/branka-voss.md)
 - [Valdengratz](locations/valdengratz.md)
-
