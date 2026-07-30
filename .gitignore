@@ -11,6 +11,7 @@ dist/
 node_modules/
 public/media/
 .astro/
+.handoff/
 
 # macOS
 .AppleDouble
