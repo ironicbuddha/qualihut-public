@@ -24,4 +24,3 @@ Caravans usually skirt the edge of the plain. Those who cross do it in daylight,
 ### See also
 
 - [Covenant of the Long Road](../factions/covenant-of-the-long-road.md)
-

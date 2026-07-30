@@ -9,4 +9,3 @@ type: meta
 Druids in Qualihut distinguish **place-bound nature spirits** (immanent,
 ecosystem-born persons) from the **Fey** (extrinsic visitors with different
 protocols). Mixing the two is a reliable way to misdiagnose a problem.
-

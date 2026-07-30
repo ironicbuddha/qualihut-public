@@ -13,4 +13,3 @@ They fill the gaps official power leaves behind: moving goods when roads close, 
 ### Common rumors
 
 - Rival guilds run shadow courts to settle disputes.
-

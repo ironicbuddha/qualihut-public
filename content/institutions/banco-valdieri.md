@@ -23,4 +23,3 @@ If you want to know how much power a bank has, don’t look at its coin—look a
 
 - [Magister Argentum Alarich von Silberhain](../people/npcs/alarich-von-silberhain.md)
 - [Giovanni Valdieri](../people/npcs/giovanni-valdieri.md)
-

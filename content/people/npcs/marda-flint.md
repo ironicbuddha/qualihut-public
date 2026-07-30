@@ -13,4 +13,3 @@ of someone already counting what will go missing if strangers get too close.
 
 - If something is stolen from a Brazen Pike camp, Marda notices before the camp
   owner does.
-

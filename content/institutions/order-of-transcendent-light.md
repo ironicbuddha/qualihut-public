@@ -18,4 +18,3 @@ Most people only hear about the Order when something is wrong—an orchard bloom
 
 - They can tell when a place is “thin” just by standing still.
 - They refuse armed escorts not out of pride, but out of superstition.
-

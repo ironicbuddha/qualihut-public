@@ -43,4 +43,3 @@ Two things matter more than spell lists:
 
 - If a situation feels neat, someone is lying—or someone else already paid the cost.
 - Magic solves problems and creates second-order problems immediately.
-

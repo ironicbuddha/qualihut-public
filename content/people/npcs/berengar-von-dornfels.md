@@ -11,4 +11,3 @@ Arch-Strategist Berengar von Dornfels, of
 high-ranking imperial strategist whose influence is felt more often than it is
 seen. People speak his name the way they speak of winter: as something that
 arrives on schedule and makes everyone behave differently.
-

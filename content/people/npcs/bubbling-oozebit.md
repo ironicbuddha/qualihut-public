@@ -14,4 +14,3 @@ Bubbling Oozebit is a wiry alley-rogue in Niederstadt with nervous hands and a g
 
 - He can’t stop talking once he starts.
 - He’s survived things he doesn’t understand by running early.
-

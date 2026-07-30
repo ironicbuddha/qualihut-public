@@ -23,4 +23,3 @@ They style themselves as wardens of the edge where law becomes weather.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

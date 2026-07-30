@@ -14,4 +14,3 @@ Authorities frame Red Sun rites as heresy and criminality. [Elves](../races/elve
 
 - Red Sun cultists keep ledgers of souls the way banks keep ledgers of coin.
 - A “cheap resurrection” is usually a trap wearing a friendly face.
-

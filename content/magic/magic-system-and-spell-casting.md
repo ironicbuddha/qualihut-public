@@ -7,4 +7,3 @@ type: magic
 ## What players would know
 
 In Qualihut, spellcasting is not a spoken menu—it’s a trained, procedural practice. Words, gestures, and materials are the interface used to shape finite, harvested magic into stable effects.
-

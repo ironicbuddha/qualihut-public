@@ -21,4 +21,3 @@ which is exactly why certain kinds of business like it.
 
 - If someone asks for the "third pin," they are not talking about tailoring.
 - The House rents privacy by the hour and silence by the favor.
-

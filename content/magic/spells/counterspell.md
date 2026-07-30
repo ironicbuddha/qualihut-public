@@ -28,4 +28,3 @@ type: spell
 
 - Good arcanists save this for control magic, not raw damage spells.
 - Duelists call it "winning before initiative finishes."
-

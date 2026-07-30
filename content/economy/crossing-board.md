@@ -26,4 +26,3 @@ call mournful and Marchers call truthful.
 - [Statesboro](../locations/statesboro.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
 - [Thin Crossings](../magic/thin-crossings.md)
-

@@ -51,4 +51,3 @@ One poster version pasted up near porter stalls:
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
-

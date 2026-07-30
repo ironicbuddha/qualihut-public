@@ -20,4 +20,3 @@ In politics, orcs are often the Empire’s most reliable bridge to the places wh
 - Orc bosses keep books better than nobles.
 - If you need to cross a mountain pass without dying of weather, you hire an orc guide… and you don’t argue about their rules.
 - Some imperial agents travel with openly seconded orc liaisons—because the Empire is learning it can’t buy certain kinds of access with coin alone.
-

@@ -14,4 +14,3 @@ call something huge and ancient out of mud, rain, and remembered hunger.
 
 - It does not make a beast obedient. It makes the world briefly remember one.
 - Pack reptiles hate its sound before they know why.
-

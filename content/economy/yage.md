@@ -27,4 +27,3 @@ It appears in three social lanes:
   people killed."
 - "Bad batches make spell phrases drift just enough to fail at the worst
 moment."
-

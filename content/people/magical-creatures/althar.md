@@ -25,4 +25,3 @@ He is treated as singular, overwhelming, and distant. People don’t talk about 
 - [The Solar Church](../../institutions/solar-church.md)
 - [Sacrament Administration](../../institutions/sacrament-administration.md)
 - [Creation Myth: Sun, Moon, Forest](../../briefings/creation-myth-sun-moon-forest.md)
-

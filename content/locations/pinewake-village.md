@@ -17,4 +17,3 @@ barley, onions, a little goat cheese, and more mud than dignity in wet weather.
 
 - Pinewake beer tastes better the colder the night gets.
 - If a convoy misses Pinewake, someone on it is either rich or in trouble.
-

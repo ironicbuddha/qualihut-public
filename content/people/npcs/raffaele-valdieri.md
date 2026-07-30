@@ -16,4 +16,3 @@ Raffaele Valdieri is a minor Valdieri cousin: the kind of family member who gets
 
 - He’s always one bad decision away from being cut off.
 - He disappears for weeks, then returns with new clothes and no explanation.
-

@@ -14,4 +14,3 @@ In polite company, stewardship is framed as care—preventing scandal, preservin
 
 - Some houses can predict a child’s temperament the way farmers predict weather.
 - A steward’s smile means you are being measured for a life you didn’t choose.
-

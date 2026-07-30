@@ -16,4 +16,3 @@ If you are looking for the canonical house entry, use
 
 - People using this name are usually repeating old court gossip.
 - Anyone who says "House of Sorcery" in front of Stillwort staff gets corrected.
-

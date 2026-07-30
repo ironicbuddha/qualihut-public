@@ -15,4 +15,3 @@ People use it for performances when they want an audience that won’t talk abou
 - If you sing the wrong song here, the city remembers it for you.
 - Some nights you can hear footsteps on the upper tiers when nobody is there.
 - It was built for speeches, not plays.
-

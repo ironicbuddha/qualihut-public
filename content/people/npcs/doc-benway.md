@@ -20,4 +20,3 @@ more lives than he has ruined, though no one agrees on the ratio.
 - Benway tells you the price before he tells you the chances.
 - If Benway says someone is already dead, he usually means the paperwork has not
   caught up yet.
-

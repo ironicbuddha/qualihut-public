@@ -19,4 +19,3 @@ Most maps treat the faultlands as “blank” not because no one has looked, but
 
 - [The Eastern Passage](../locations/eastern-passage.md)
 - [Mountains & Passes](mountains-and-passes.md)
-

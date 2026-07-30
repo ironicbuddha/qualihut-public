@@ -13,4 +13,3 @@ when to close the shutters.
 ### Common rumors
 
 - Irena always knows who came in last night and who left at dawn.
-

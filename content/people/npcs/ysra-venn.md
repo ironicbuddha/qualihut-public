@@ -12,4 +12,3 @@ someone has already checked the roof, the lock, and the alley behind them.
 ### Common rumors
 
 - If Ysra was seen clearly, she either wanted that or didn't mind it.
-

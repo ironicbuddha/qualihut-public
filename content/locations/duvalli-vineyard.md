@@ -20,4 +20,3 @@ Caravans that claim Duvalli origin are treated as routine trade, which makes the
 
 - The vineyard’s best years correlate suspiciously well with years of border unrest.
 - Some “Duvalli” consignments never touched vines at all.
-

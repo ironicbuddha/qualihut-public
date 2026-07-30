@@ -12,4 +12,3 @@ its bad idea in reserve.
 ### Common rumors
 
 - Kord is calm until he isn't, and the delay is the dangerous part.
-

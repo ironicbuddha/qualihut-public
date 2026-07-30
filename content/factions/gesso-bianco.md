@@ -25,4 +25,3 @@ that change hands before the ink is dry.
 
 - They case neighborhoods by posing as copyists, clerks, and tally-runners.
 - If Gesso Bianco steals from you, you'll notice three days later, not three seconds later.
-

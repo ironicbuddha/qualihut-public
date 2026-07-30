@@ -14,4 +14,3 @@ Most people can’t name the bureaus, only the symptoms: a rival’s caravan “
 
 - Assassins travel with caravans.
 - Magistrates hire thieves’ guilds for deniable jobs.
-

@@ -18,4 +18,3 @@ Market stalls keep stacks of broken lids and shards the way richer folk keep rec
 
 - A forged kiln-stamp buys you entry to the city… until someone checks the year mark.
 - Wars are won by kilns and clerks as often as by knights.
-

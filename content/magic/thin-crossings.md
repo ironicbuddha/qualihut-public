@@ -25,4 +25,3 @@ dark.
 - [The River Marches](../locations/river-marches.md)
 - [Statesboro](../locations/statesboro.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
-

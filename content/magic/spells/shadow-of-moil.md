@@ -29,4 +29,3 @@ type: spell
 
 - Fighters who rush this caster without a plan get punished for it.
 - Torches and lantern lines collapse around the shadow shell.
-

@@ -13,4 +13,3 @@ symbol of doctrine, continuity, and the promise that the Empire’s rituals stil
 mean what they used to mean.
 
 He is the face people imagine when they think of official faith: immaculate robes, measured speech, and an authority that feels older than the argument you’re trying to have.
-

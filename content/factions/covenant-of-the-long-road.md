@@ -19,4 +19,3 @@ To city ears, it sounds almost boring: water rights, safe passage, shared rules 
 
 - [The Travelers](travelers.md)
 - [The Desert (Living System)](../environments/the-desert.md)
-

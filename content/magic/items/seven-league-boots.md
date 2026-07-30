@@ -14,4 +14,3 @@ expects to survive by not being where trouble lands.
 
 - They can turn one stride into a whole street.
 - They always demand a price in fatigue, blood, or luck.
-

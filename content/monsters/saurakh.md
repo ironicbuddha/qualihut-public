@@ -24,4 +24,3 @@ Caravans follow their routes the way towns follow rivers. When a herd changes it
 
 - [Desert Bamboo (Fast-Growth Trees)](../economy/desert-bamboo.md)
 - [The Travelers](../factions/travelers.md)
-

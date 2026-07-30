@@ -29,4 +29,3 @@ type: spell
 
 - Warlocks who do not miss with this spell are usually frighteningly disciplined.
 - Most street mages know the beam, but few can sustain it under pressure.
-

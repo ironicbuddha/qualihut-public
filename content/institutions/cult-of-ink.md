@@ -18,4 +18,3 @@ In some cities, a small black droplet painted on a doorframe is enough to make a
 
 - They don’t take sides, only clauses.
 - Their tattoos are not decoration; they’re vows you can’t wash off.
-

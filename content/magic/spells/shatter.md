@@ -30,4 +30,3 @@ type: spell
 
 - Smugglers fear this spell more than fire when cargo is brittle.
 - The sound often draws witnesses long before guards arrive.
-

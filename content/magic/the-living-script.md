@@ -21,4 +21,3 @@ When a druid dies, their body is burned. If a story wasn’t passed on before th
 ### See also
 
 - [Magical Tattoo Ink](spells/magical-tattoo-ink.md)
-

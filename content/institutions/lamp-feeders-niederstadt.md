@@ -27,4 +27,3 @@ starts, or a district complains that "the lamps feel wrong."
 ### See also
 
 - [Nieder Lamp Beetle](../monsters/nieder-lamp-beetle.md)
-

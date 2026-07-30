@@ -54,4 +54,3 @@ type: handout
 > …subject A insists on ███████████ confidence.  
 > …subject B insists wards were ████████████ not broken.  
 > …recommendation remains: keep it clean. keep it quiet. keep it moving…”
-

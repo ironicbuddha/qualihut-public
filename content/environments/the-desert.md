@@ -22,4 +22,3 @@ If you travel it, you learn quickly what the settled world forgets: permanence i
 
 - The desert produces a seasonal **[desert truffle](../economy/desert-truffle.md)** that the Church quietly depends on.
 - Oases are “temporary courts”: when tribes collide, the fight has rules—or it becomes a war ([Shifting Oases](shifting-oases.md)).
-

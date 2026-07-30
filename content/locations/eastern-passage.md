@@ -18,4 +18,3 @@ Settled folk call it impassable. Route people call it _priced_. Caravans that su
 ### See also
 
 - [Volcanic Faultlands](../environments/volcanic-faultlands.md)
-

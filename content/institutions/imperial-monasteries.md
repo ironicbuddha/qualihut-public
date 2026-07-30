@@ -18,4 +18,3 @@ Some monasteries are thriving, with gardens and disciplined hospitality. Others 
 
 - Monks know which roads are “wrong” this season, even when maps insist they’re fine.
 - An abandoned monastery is never truly empty; it’s just between owners.
-

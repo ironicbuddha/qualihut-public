@@ -16,4 +16,3 @@ Elves commonly live **up to ~1500 years**. That long horizon shapes everything: 
 
 - Elvish bloodwardens quietly veto marriages.
 - Elves hoard the oldest maps and songs.
-

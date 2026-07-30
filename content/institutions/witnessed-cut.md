@@ -24,4 +24,3 @@ In cities, the [Solar Church](solar-church.md) often oversees or blesses the pra
 - [Salt Pork (Jar Trade)](../economy/salt-pork.md)
 - [The Solar Church](solar-church.md)
 - [Red Sun Rites](../magic/red-sun-rites.md)
-

@@ -31,4 +31,3 @@ Marches tends to light up when they hear the name.
 - [Statesboro Songbook](statesboro-songbook.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
-

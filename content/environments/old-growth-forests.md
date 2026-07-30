@@ -21,4 +21,3 @@ Forests are also contested memory. Shrines appear where roads don’t, and certa
 
 - [Pottery, Kilns, and Trade Seals](../economy/pottery-and-seals.md)
 - [Salt Pork (Jar Trade)](../economy/salt-pork.md)
-

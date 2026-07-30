@@ -18,4 +18,3 @@ Most households keep mild blends for preservation and parasite-killing. The trul
 
 - The best spice comes from insects that only feed on yellow grass during the height of summer.
 - Some “spice” isn’t heat at all—just a joy that makes you forget the hour.
-

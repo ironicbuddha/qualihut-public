@@ -19,4 +19,3 @@ without ever sounding as if he would trust the people who made it.
 
 - If Caspar writes a tune down, it stops frightening the city.
 - He can hear a song once and tell you which parts civilization will not permit.
-

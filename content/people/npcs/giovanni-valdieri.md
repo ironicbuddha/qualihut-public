@@ -19,4 +19,3 @@ Giovanni Valdieri is the high-profile owner of **[Banco Valdieri](../../institut
 
 - [Banking Guild](../../factions/banking-guild.md)
 - [Banco Valdieri](../../institutions/banco-valdieri.md)
-

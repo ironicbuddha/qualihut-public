@@ -20,4 +20,3 @@ way a clerk remembers debts.
 
 - [Valdieri Family Quarters (Imperial City)](../../locations/valdieri-family-quarters.md)
 - [Giovanni Valdieri](giovanni-valdieri.md)
-

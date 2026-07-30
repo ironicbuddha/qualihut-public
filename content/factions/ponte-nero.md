@@ -18,4 +18,3 @@ They have a reputation for quiet competence—the kind that makes officials unea
 
 - They can “find a route” when roads close.
 - Their ledgers are cleaner than their work.
-

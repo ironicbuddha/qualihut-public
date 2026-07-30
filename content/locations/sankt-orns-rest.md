@@ -37,4 +37,3 @@ reciprocal protection.
   explaining to the other why.
 - Drivers touch the old roadstone before a dangerous leg and argue afterward
   about whether the custom is holy, pagan, or merely sensible.
-

@@ -39,4 +39,3 @@ the land sees, and is seen back.
 - [Raccoon Fox (Forest Spirit)](raccoon-fox.md)
 - [Creation Myth: Sun, Moon, Forest](../../briefings/creation-myth-sun-moon-forest.md)
 - [Magical Tattoo Ink](../../magic/spells/magical-tattoo-ink.md)
-

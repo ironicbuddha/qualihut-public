@@ -84,4 +84,3 @@ the city.
 - Meet Rex at **Pitch 33 around noon near Tully's store**.
 - Decide whether to follow up with Pietro at the Lost Lantern.
 - Keep pressure on the forged reassignment and what it means for the bank job.
-

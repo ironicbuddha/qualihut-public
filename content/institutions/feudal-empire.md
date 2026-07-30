@@ -14,4 +14,3 @@ Day-to-day power is local: lords, guilds, churches, mayors, caravan captains. Th
 
 - The Throne is weaker than the caravans.
 - Provincial keeps follow the emperor only when convenient.
-

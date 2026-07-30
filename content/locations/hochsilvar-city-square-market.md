@@ -17,4 +17,3 @@ During **[The Royal Games](../institutions/royal-games.md)** it becomes a moving
 - If you can’t find it in the Square, it doesn’t exist (yet).
 - Pickpockets work in teams, and the Watch pretends not to see until the wrong victim is chosen.
 - The best information in the city is traded over fish scales and bruised fruit.
-

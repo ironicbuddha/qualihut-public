@@ -21,4 +21,3 @@ city can admire without feeling threatened.
 - If Sabine praises your "natural force," she is about to remove whatever made
   you dangerous.
 - An invitation from Sabine can mean opportunity, inspection, or both.
-

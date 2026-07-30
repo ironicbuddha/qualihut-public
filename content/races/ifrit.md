@@ -14,4 +14,3 @@ Most folk who claim to have seen an Ifrit are describing the consequences: scorc
 
 - They keep contracts better than nobles.
 - They punish clever wording by taking it literally.
-

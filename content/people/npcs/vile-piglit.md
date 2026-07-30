@@ -14,4 +14,3 @@ Vile Piglit is a back-alley “rogue” in Niederstadt with an oversized swagger
 
 - He practices threats in a mirror.
 - He’s “connected,” but only in the way a stray dog is connected to a street.
-

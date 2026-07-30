@@ -13,4 +13,3 @@ looks more like a tired scholar than a battlefield problem.
 
 - Tamas is dangerous only if you forget how much trouble a practical wizard can
   cause.
-

@@ -12,4 +12,3 @@ Smugglers and clerks whisper about “The Ledger” as if it were a place. They 
 
 - If you cross the wrong way, the Ledger remembers even when witnesses don’t.
 - Some people “erase themselves” from it. Those people never use the same name twice.
-

@@ -28,4 +28,3 @@ for sustained speed and clean repositioning.
 
 - Some mercenary mages call this "combat sprint doctrine."
 - It looks mundane until you realize no one can keep up.
-

@@ -12,4 +12,3 @@ and a deliberate, controlled demeanor.
 - Class / level: Ranger 1
 - Species / background: Human / Soldier
 - Core feel from the sheet: strong, accurate, and disciplined rather than flashy
-

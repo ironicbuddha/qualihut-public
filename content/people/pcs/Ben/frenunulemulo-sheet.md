@@ -13,4 +13,3 @@ divine beings, and an explicit connection to **The Silent Poet**.
 - Species / background: Half-Elf / Custom Background
 - Core feel from the sheet: persuasive, observant, and built for social pressure
   more than physical confrontation
-

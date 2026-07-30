@@ -82,4 +82,3 @@ Pick 2–3:
 - [World Briefing (Player Teaser)](world-briefing-player-teaser.md)
 - [World State (Canonical Bullets)](../_world_state.md)
 - [Magic Briefing (Player)](magic-briefing-player.md)
-

@@ -19,4 +19,3 @@ loud are immediate.
 
 - If you can’t afford to eat here, you can still get arrested here.
 - Everyone in the Quarter is either watched or paid to watch.
-

@@ -18,4 +18,3 @@ has quickly settled into the role of covert road operative.
 - Species / lineage / background: Elf / Wood Elf / Acolyte
 - Core feel from the sheet: observant infiltrator built for stealth, sleight of
   hand, persuasion, and careful positioning
-

@@ -14,4 +14,3 @@ The relationship is practical. Food, shelter, and ritual handling in exchange fo
 
 - Longhouse chiefs sleep better when a symbiote curls under the roof.
 - Some symbiotes understand commands better than militia recruits.
-

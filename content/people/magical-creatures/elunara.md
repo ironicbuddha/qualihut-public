@@ -27,4 +27,3 @@ Most people don’t claim to “worship” Elunara so much as _live inside_ her 
 - [Creation Myth: Sun, Moon, Forest](../../briefings/creation-myth-sun-moon-forest.md)
 - [Tears of the Moon](../../magic/items/tears-of-the-moon.md)
 - [The Three Moons](../../environments/three-moons.md)
-

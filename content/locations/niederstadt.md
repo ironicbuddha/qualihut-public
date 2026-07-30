@@ -24,4 +24,3 @@ To live topside is to pretend the undercity is an embarrassment. To live below i
 - [The Echo Amphitheatre (Niederstadt)](niederstadt-echo-amphitheatre.md)
 - [Avenue of Butchers (Niederstadt)](niederstadt-avenue-of-butchers.md)
 - [The Deep Market (Niederstadt)](niederstadt-deep-market.md)
-

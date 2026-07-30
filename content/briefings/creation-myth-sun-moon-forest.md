@@ -77,4 +77,3 @@ The story says that laughter fell into the cracks between Sun-law, Moon-rhythm, 
 - [Elunara](../people/magical-creatures/elunara.md)
 - [Waldrun](../people/magical-creatures/waldrun.md)
 - [Skaldren](../people/magical-creatures/skaldren.md)
-

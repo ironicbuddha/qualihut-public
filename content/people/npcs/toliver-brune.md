@@ -28,4 +28,3 @@ Tolly insists this is a mark of integrity. When pressed, he produces a small led
 
 - If you eat his food before a big bet, your luck turns “honest” (for good or ill).
 - Nobody has ever caught him lying; he only speaks in _legal shapes_ of truth.
-

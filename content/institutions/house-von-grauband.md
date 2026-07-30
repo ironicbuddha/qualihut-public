@@ -23,4 +23,3 @@ They dominate legal scaffolding rather than battlefield power.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

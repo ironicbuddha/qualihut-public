@@ -14,4 +14,3 @@ Imperial authority is thin, so local lords, guilds, mayors, and caravans negotia
 
 - Every province is controlled by one of the elven noble houses and has its own petty war brewing usually with neighboring provinces over some imagined slight or old grudge or contested resources, access to trade routes and so on the way petty neighbours usually feud.
 - Paper notes and guild favors matter more than crowns.
-

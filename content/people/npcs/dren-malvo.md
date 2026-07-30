@@ -13,4 +13,3 @@ eyes level, no interest in speaking twice.
 
 - Dren is where the conversation ends if people keep walking after being told
   not to.
-

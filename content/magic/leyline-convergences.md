@@ -18,4 +18,3 @@ Pilgrims and opportunists alike seek these places when they “wake,” because 
 ### See also
 
 - [Leyline Blights (Ecology After Extraction)](../environments/leyline-blights.md)
-

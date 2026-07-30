@@ -33,4 +33,3 @@ He presents as meticulous and coldly professional, the sort of man who treats ma
 ### See also
 
 - [Banco Valdieri](../../institutions/banco-valdieri.md)
-

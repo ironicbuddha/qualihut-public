@@ -23,4 +23,3 @@ Merchant-facing operations are often fronted by [Ventresca & Associati](../facti
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

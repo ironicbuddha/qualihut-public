@@ -26,4 +26,3 @@ He is one of the party's servant-side contacts on the Valdieri thread.
 
 - He “sees everything” because he is always carrying something from one place to
 another.
-

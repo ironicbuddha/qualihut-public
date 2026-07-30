@@ -16,4 +16,3 @@ Arnhold Vaelric, known as the **Warden of Thorns**, is a half-elf warlord who co
 ### See also
 
 - [Fey Roads](../../magic/fey-roads.md)
-

@@ -21,4 +21,3 @@ security.
 
 - If you need food moved through bad country, Broadbarrel usually delivers.
 - Their guard contract is expensive enough to scare off petty trouble.
-

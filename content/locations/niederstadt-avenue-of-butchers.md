@@ -17,4 +17,3 @@ They’re famous for charcuterie that travels well—sausages, smoked cuts, cure
 - If you need something “kept cold” without ice, you go to the Avenue.
 - The knives here are sharper than the Watch’s questions.
 - Everybody owes somebody a favor on meat street.
-

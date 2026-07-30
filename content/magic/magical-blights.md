@@ -13,4 +13,3 @@ type: item
 - It starts like bad harvests and sick wells, then sharpens into patterns that feel like intent.
 - You can’t heal a blight by throwing more magic at it; that only teaches it new shapes.
 - Animals avoid certain paths and waters long before people admit something is wrong.
-

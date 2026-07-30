@@ -56,4 +56,3 @@ Broadbarrel now looks like the strongest live lead.
 - **Brazen Pike** is guarding **Broadbarrel**
 - Branka is taking unusual care with the cargo
 - The city has eyes: kids, runners, and rooftop couriers
-

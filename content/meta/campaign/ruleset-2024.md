@@ -19,4 +19,3 @@ If you’re excited about a character option that feels “weird,” bring it ea
 
 - **No Fey contact PCs** (Fey traditions exist in-world, but they’re NPC-facing; Fey-touched PC options are excluded).
 - **No College of Valor PCs** (if you want a “marching-song” vibe, talk to the GM about a Lore/Dance reskin instead).
-

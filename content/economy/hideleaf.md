@@ -22,4 +22,3 @@ In the countryside it’s a blessing—shoes without slaughter. In cities it’s
 ### See also
 
 - [The Central Wilds](../locations/central-wilds.md)
-

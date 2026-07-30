@@ -14,4 +14,3 @@ If the City Watch is local law, Kronenschild is the Crown’s cross‑jurisdicti
 
 - They apologize while ruining your life.
 - If they “ask questions,” the verdict has already been filed.
-

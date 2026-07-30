@@ -31,4 +31,3 @@ talk about what they lost there.
 ### See also
 
 - [La Mano Fortunata](../factions/mano-fortunata.md)
-

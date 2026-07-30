@@ -19,4 +19,3 @@ ambush.
 - Two new guild idiots keep trying to rob people there and failing upward.
 - The echoes in that chamber make every threat sound bigger than it is.
 - If the lamps look like a dim-bright pattern, someone planned violence.
-

@@ -27,4 +27,3 @@ More expensive wards improve your odds of resisting (often felt as clarity, stea
 
 - Cheap wards feel like a pressure behind the eyes, a wrongness in the mouth, or a sudden certainty that doesn’t belong.
 - Courts and guilds quietly encourage wards: not because they’re kind, but because scandals are expensive.
-

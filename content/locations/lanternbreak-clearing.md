@@ -17,4 +17,3 @@ then push on at first light.
 
 - If you need to find a convoy without asking questions, wait at Lanternbreak.
 - Ten miles ahead, the forest thickens hard enough to swallow tracks and men.
-

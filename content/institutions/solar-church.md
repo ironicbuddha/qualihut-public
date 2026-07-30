@@ -14,4 +14,3 @@ The Church’s power is not only in prayer, but in administration. It blesses co
 
 - The gods answer, but not always on the schedule priests promise.
 - When a prophet refuses the Church’s authority, it’s not heresy—it’s a crack in the whole machine.
-

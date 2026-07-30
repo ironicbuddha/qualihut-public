@@ -20,4 +20,3 @@ asks the questions she’s permitted to ask.
 
 - She doesn’t talk about her home grove.
 - She trusts procedures more than promises.
-

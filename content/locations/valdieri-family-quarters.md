@@ -23,4 +23,3 @@ ruin whom.
 
 - [Hochsilvar](hochsilvar.md)
 - [Banco Valdieri](../institutions/banco-valdieri.md)
-

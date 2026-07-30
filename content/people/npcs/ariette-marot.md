@@ -21,4 +21,3 @@ finish their first drink.
 - Ariette charges more to preserve a provincial touch than to remove one.
 - She can tell who is really from the Marches by how they hold a cup and where
   they go quiet in a song.
-

@@ -21,4 +21,3 @@ stable: pikes hold, swords break, and nobody wins by rushing alone.
   they throw away their swords.
 - Teamsters claim the best players are not the bold ones but the ones who know
   when to let a lane look weak.
-

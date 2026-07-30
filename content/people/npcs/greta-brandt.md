@@ -14,4 +14,3 @@ her problem.
 ### Common rumors
 
 - Greta can get a message to a captain faster than a runner can.
-

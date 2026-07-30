@@ -14,4 +14,3 @@ Delvers who return talk about it like a living thing: not a mine, not a dungeon,
 
 - The Wound “answers” greed: the more you take, the worse what follows you home.
 - Old priests mark the calendar, but the Wound doesn’t care about seasons.
-

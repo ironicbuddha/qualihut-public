@@ -24,4 +24,3 @@ fools still try it in private.
 
 - [The River Marches](../locations/river-marches.md)
 - [Statesboro](../locations/statesboro.md)
-

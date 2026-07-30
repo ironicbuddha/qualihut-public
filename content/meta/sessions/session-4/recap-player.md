@@ -63,4 +63,3 @@ how carefully Branka's people controlled the road.
   early.
 - Decide when embedded observation stops being enough and pressure has to
   escalate.
-

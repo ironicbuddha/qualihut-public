@@ -16,4 +16,3 @@ In settled lands, “skyrider” is used sloppily to mean the animal, the bonded
 
 - You don’t tame a skyrider; you bargain with one.
 - Bonded pairs can “feel” each other through storms and dunes.
-

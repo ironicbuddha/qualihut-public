@@ -24,4 +24,3 @@ true, or the part of the story that helps sell wine.
 - Bob once played a midnight crossroads and came back better than he had any
   right to be.
 - One verse in every set feels uncomfortably personal to somebody in the room.
-

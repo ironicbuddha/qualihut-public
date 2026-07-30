@@ -14,4 +14,3 @@ professional interest.
 
 - Henrik can look at a locked crate and tell you whether it was built to keep
   thieves out or buyers honest.
-

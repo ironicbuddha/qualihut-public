@@ -19,4 +19,3 @@ need a room that asks no questions and a crowd that minds its own survival.
 
 - The Hook rents upstairs rooms by the hour, no names required.
 - If the Watch comes here, it means someone important bled.
-

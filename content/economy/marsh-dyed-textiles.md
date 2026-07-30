@@ -24,4 +24,3 @@ stone, old bronze, moss, or storm water depending on the light.
 
 - [The River Marches](../locations/river-marches.md)
 - [Statesboro](../locations/statesboro.md)
-

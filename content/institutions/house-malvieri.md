@@ -23,4 +23,3 @@ They profit most when grief and paperwork overlap.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

@@ -22,4 +22,3 @@ Most rangers specialize in a primary environment:
 - Rangers don’t win battles; they make battles unnecessary.
 - A ranger’s first enemy is terrain, and their second is paperwork.
 - Forest rangers and druids can read the same signs and reach opposite conclusions.
-

@@ -23,4 +23,3 @@ They rule bottlenecks where geography becomes a tax instrument.
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

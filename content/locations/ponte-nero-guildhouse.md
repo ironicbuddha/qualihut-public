@@ -16,4 +16,3 @@ people only learn the name Ponte Nero when they need a route more than an answer
 
 - Their grooms can move a cart through a riot without anyone drawing steel.
 - If you pay for “legitimate service,” you might get an illegitimate route anyway.
-

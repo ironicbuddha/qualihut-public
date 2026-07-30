@@ -22,4 +22,3 @@ underside of the city is suddenly unsafe.
   stones agree.
 - A cart can disappear below without moving an inch if the wrong clerk starts
   correcting the manifest.
-

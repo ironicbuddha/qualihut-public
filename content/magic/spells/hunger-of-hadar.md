@@ -30,4 +30,3 @@ type: spell
 
 - Survivors remember the whispers more than the pain.
 - Veterans treat this spell as a no-go zone, not a damage spell.
-

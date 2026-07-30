@@ -19,4 +19,3 @@ hard evidence.
 
 - Needle never sells one buyer's name to another buyer.
 - If she smiles before naming a price, the price is about to hurt.
-

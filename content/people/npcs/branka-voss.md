@@ -24,4 +24,3 @@ She is the officer currently commanding the Brazen Pike escort attached to
 - Branka does "night stabilization" jobs for people with more coin than honesty.
 - If Branka says the road is unsafe, she means for everyone else.
 - She can leave a killing zone "in seven strides" before anyone draws a bead.
-

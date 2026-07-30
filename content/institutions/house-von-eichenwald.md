@@ -23,4 +23,3 @@ They are strong in ministries that punish mistakes through process rather than f
 ### See also
 
 - [Noble House Roster (Twenty Houses)](noble-house-roster.md)
-

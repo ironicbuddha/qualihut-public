@@ -12,4 +12,3 @@ Scrying is a family of divination practices used to observe a distant person or 
 
 - The rich pay for privacy wards the way they pay for locks.
 - If you can’t be found, it’s because someone wants you unfound.
-

@@ -26,4 +26,3 @@ type: spell
 
 - People who can cast this rarely stay cornered for long.
 - In city fighting, one clean misty step can end a pursuit.
-

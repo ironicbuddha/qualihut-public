@@ -19,4 +19,3 @@ Because oases move, ownership is never comfortable. When multiple groups arrive 
 
 - [The Desert (Living System)](the-desert.md)
 - [The Travelers](../factions/travelers.md)
-

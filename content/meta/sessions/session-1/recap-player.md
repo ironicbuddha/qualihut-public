@@ -37,4 +37,3 @@ crowded city infrastructure rather than brute force alone.
 - Pressure-check transport and freight movement networks tied to the escape
   route.
 - Continue validating the VIP-list and merchant-name thread from bank records.
-

@@ -22,4 +22,3 @@ These plain-looking daggers carry a subtle recall enchantment: when thrown, they
 
 - “There are bureaus that issue these like uniforms.”
 - “Some blades come back warm.”
-

@@ -95,6 +95,7 @@
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - ["Casa dei Tre Spilli Guildhouse (Niederstadt)"](#casa-dei-tre-spilli-guildhouse-niederstadt)  `content/locations/casa-dei-tre-spilli-guildhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
+- ["Distant Burning Monastery"](#distant-burning-monastery)  `content/locations/distant-burning-monastery.md`
 - [Duvalli Vineyard](#duvalli-vineyard)  `content/locations/duvalli-vineyard.md`
 - [The Earth Wound](#the-earth-wound)  `content/locations/earth-wound.md`
 - [The Eastern Passage](#the-eastern-passage)  `content/locations/eastern-passage.md`
@@ -2397,6 +2398,29 @@ People don’t describe the Wilds as “hostile” so much as attentive. You fee
 ### See also
 
 - [Old-Growth Forests](../environments/old-growth-forests.md)
+
+---
+
+## "Distant Burning Monastery"
+
+_Source: `content/locations/distant-burning-monastery.md`_
+
+## What players would know
+
+From the high ground above the Plain of Giant's Cups, a dark smoke column can
+be seen rising from a remote monastery on the far mountain. The place is
+roughly 100 km away: near enough for the smoke to make the day feel wrong, too
+far away for anyone on the road to say what is burning or who started it.
+
+![Distant Burning Monastery](images/distant-monastry-burning.png)
+
+Travelers watch the column until cloud or night takes it. No alarm reaches the
+plain; only the sight remains, and the uneasy question of whether to turn
+toward it.
+
+### See also
+
+- [Plain of Giant's Cups](plain-of-giants-cups.md)
 
 ---
 

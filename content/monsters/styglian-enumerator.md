@@ -29,4 +29,3 @@ worried that the universe has been misfiled.
   disputed boundary marker.
 - They become distressed by tricks, concealment, and games where the visible
   number remains correct while the hidden truth changes.
-

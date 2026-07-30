@@ -22,4 +22,3 @@ Short, clean player-safe description.
 
 - Rumor 1
 - Rumor 2
-

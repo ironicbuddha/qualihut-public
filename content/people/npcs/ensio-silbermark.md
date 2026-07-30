@@ -29,4 +29,3 @@ Captain Ensio Silbermark is a cooperative, professional City Watch officer in [H
 - [City Watch](../../institutions/city-watch.md)
 - [Guard Central Station](../../locations/guard-central-station.md)
 - [Banco Valdieri Investigation](../../briefings/banco-valdieri-investigation.md)
-

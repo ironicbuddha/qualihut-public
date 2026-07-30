@@ -35,4 +35,3 @@ that arrives with seals.
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
 - [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
-

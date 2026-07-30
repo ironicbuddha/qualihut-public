@@ -23,4 +23,3 @@ rules.
 
 - [The Phage](../magic/the-phage.md)
 - [The Phage Investigation](../quests/q-phage-investigation.md)
-

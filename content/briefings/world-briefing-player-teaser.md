@@ -119,4 +119,3 @@ The setting has political cruelty, scarcity pressure, and moral compromise. We�
 - Anything else (rare ancestries, unusual origins) is opt-in with table agreement so it fits the tone and doesn’t spoil mysteries.
 
 If you’re looking for a setting where wonder has teeth, where politics is personal, where magic has consequences, and where every shortcut charges interest, you’ve found it.
-

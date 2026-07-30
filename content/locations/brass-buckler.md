@@ -25,4 +25,3 @@ their badges—only their opinions.
 ### See also
 
 - [City Watch](../institutions/city-watch.md)
-

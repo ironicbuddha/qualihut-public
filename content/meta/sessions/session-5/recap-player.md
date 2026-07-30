@@ -110,4 +110,3 @@ a concealed way.
 - Handle Bianca's death and what it means for Gash, the party, and the mission.
 - Use the caravan delay before Branka and Wilhelm regain full control of the
   situation.
-

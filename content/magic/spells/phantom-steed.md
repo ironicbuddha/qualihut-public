@@ -29,4 +29,3 @@ type: spell
 
 - The rider arrives exhausted, but far ahead of pursuers.
 - Experienced bounty hunters target the mount first.
-

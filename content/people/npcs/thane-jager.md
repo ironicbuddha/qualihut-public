@@ -19,4 +19,3 @@ objective somehow complete and half the room too unsettled to ask how.
 
 - If Jäger accepted the contract, the job was already worse than anyone said.
 - Thane outlived too many teams to be lucky alone.
-

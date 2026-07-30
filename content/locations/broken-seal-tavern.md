@@ -25,4 +25,3 @@ to meet someone who knows a route.
 
 - [Niederstadt](niederstadt.md)
 - [Thieves' Guilds](../institutions/thieves-guilds.md)
-

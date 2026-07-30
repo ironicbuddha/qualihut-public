@@ -13,4 +13,3 @@ field utility.
 - Class / level: Druid 3
 - Species / background: Human / Farmer
 - Core feel from the sheet: durable, high-Wisdom, and built to shift forms under pressure
-

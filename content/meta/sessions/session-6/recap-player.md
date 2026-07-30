@@ -133,4 +133,3 @@ chance that Branka notices the pattern.
 - Find out whether the remaining stolen refined magic is elsewhere in the
   caravan, on another route, or already split into another chain.
 - Keep Jessa from connecting the party to the missing boxes.
-

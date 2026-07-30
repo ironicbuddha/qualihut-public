@@ -23,4 +23,3 @@ seems to prefer it.
 
 - Willie never jokes about crossroads after dark.
 - If Bob is the legend, Willie is the reason the legend stays alive.
-

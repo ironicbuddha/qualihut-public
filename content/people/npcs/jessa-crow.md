@@ -13,4 +13,3 @@ least.
 
 - If a city has kids, lookouts, or drunks for rent, Jessa can usually find
   them.
-

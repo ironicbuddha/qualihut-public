@@ -14,4 +14,3 @@ report.
 ### Common rumors
 
 - Köhler is “reliable,” which in the Watch means he’s been disappointed often and didn’t quit.
-
