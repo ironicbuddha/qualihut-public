@@ -26,32 +26,30 @@ Use this page as the table start page and fast-recall surface.
 - [Session 4 Recap: Broadbarrel Road](meta/sessions/session-4/recap-player.md)
 - [Session 5 Recap: Dawn Saurakh Raid](meta/sessions/session-5/recap-player.md)
 - [Session 6 Recap: Broadbarrel Cache](meta/sessions/session-6/recap-player.md)
+- [Session 7 Recap: The Empty Wagons](meta/sessions/session-7/recap-player.md)
 
 ## Current Campaign Context
 
-The party has moved from suspecting the Broadbarrel Caravan to interfering
-with a concealed cargo chain running through it. The evidence began with a
-ledger taken after the raid: coded references to `wet balance`, `southern
-adjustment`, and `quiet jars`, a route toward Valdengratz, and the same wagon
-listed against several cargo references. When the party examined an edited
-blank in that ledger, it revealed the name
-[Esteban Caldera](people/npcs/esteban-caldera.md). The meaning of the name is
-still unknown, but it is now the clearest personal lead in the investigation.
+The party has moved from interfering with a concealed Broadbarrel cargo chain
+to trying to understand when that cargo left the wagons. At Sankt Orn's Rest,
+the shock-braced compartments the party reached were empty. The suspicious
+wagons are still identifiable, and selected wagon positions showed unusual
+plant growth, but no physical trail revealed who moved the suspected cases or
+when the transfer happened.
 
-The caravan's ordinary freight is not the whole story. Around ten wagons have
-extra shock bracing and hidden compartments beneath the driver's seat. Some of
-those compartments are magically warded; when one was tested, Branka and Serak
-reacted immediately. The party has found and removed suspected cache boxes,
-then buried them away from the caravan rather than opening them in camp. The
-boxes found so far are only a fraction of the refined magic stolen from Banco
-Valdieri, so the rest of the chain remains unaccounted for.
+The strongest explanations remain theories. The cargo may have moved during
+ordinary confusion, been hidden nearby for later reloading, affected the ground
+through concentrated magic, or crossed an unseen window involving Fey Roads or
+distorted time. None of those possibilities has been proved. The buried cases
+from the previous stop also remain unopened and unconfirmed.
 
-This has made time the immediate pressure. The caravan is nearly ready to move
-again, while Branka's side is protecting the compartments and looking for signs
-of interference. Marda has been pushed away from the records work she should
-control, and Jessa has been assigned to watch her. The party's next stop,
-Sankt Orn's Rest, offers a chance to send Althric a secure message about the
-buried cache before the route reaches Valdengratz.
+The party has put information into motion to compensate. Fren sent one coded,
+sealed report toward Althric's office with recovery details for the buried
+cases and another toward the Valdengratz station with grounds for an inspection
+and a warning about the warded compartments. Branka detected an attempted
+covert entry into her room and is now more alert, while Jessa has seen Aurelia
+spending time with Marda. The caravan is preparing to leave Sankt Orn's Rest
+for the next leg toward Valdengratz.
 
 ### People currently relevant
 
@@ -65,31 +63,37 @@ buried cache before the route reaches Valdengratz.
   [Serak Thorn](people/npcs/serak-thorn.md) - escort leaders protecting the
   hidden compartments and responding to their wards.
 - [Jessa Crow](people/npcs/jessa-crow.md) - assigned to watch Marda and keep
-  her away from sensitive matters.
-- [Magister Lio Greven](people/npcs/lio-greven.md) - the arithmancer brought
-  in to recount cargo after the raid.
+  her away from sensitive matters; she has now seen Aurelia cultivating that
+  relationship.
+- [Lord Althric von Eichenwald](people/npcs/althric-von-eichenwald.md) - the
+  recipient of the party's coded recovery report about the buried cases.
 
 ### Places and forces in play
 
 - [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md) - the
-  partially exposed cargo route carrying the hidden compartments.
-- [Sankt Orn's Rest](locations/sankt-orns-rest.md) - the next stop and the
-  party's chance to send a secure message about the buried cache.
+  partially exposed cargo route whose inspected hidden compartments are now
+  empty.
+- [Sankt Orn's Rest](locations/sankt-orns-rest.md) - the town where the party
+  sent both reports and found the missing handoff window.
 - [Valdengratz](locations/valdengratz.md) - the named handoff point in the
-  ledger.
+  ledger and the next place where allies may attempt an inspection.
 - [Brazen Pike Company](factions/brazen-pike-company.md) - the escort
   controlling access to the suspicious wagons.
 
 ### Open Threads and Leads
 
-- Decide whether to send Althric a secure message from Sankt Orn's Rest.
-- Decide how many more cache boxes can be removed before Branka reacts.
-- Work out whether Marda can be used, protected, or turned.
+- Reach Valdengratz and coordinate with the warned station.
+- Learn whether Althric's people recovered the buried suspected cases.
+- Determine when the inspected Broadbarrel compartments were emptied.
+- Watch the marked wagons and any cargo that is repeatedly moved or unusually
+  guarded.
+- Work out whether the unusual plant growth is evidence, coincidence, or a
+  magical consequence.
+- Protect Marda or learn more from her without giving Jessa a cleaner link.
 - Learn who Esteban Caldera is and what he has to do with the Valdengratz
   handoff.
-- Find out whether the remaining refined magic is elsewhere in the caravan,
-  on another route, or already split into another chain.
-- Keep Jessa from connecting the party to the missing boxes.
+- Keep the attempted entry into Branka's room from becoming attributable to
+  the party.
 
 <!-- GENERATED_REFERENCE_TABLES_START -->
 ## Player-Safe Reference Tables
