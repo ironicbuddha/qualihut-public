@@ -1,0 +1,17 @@
+---
+import type { Breadcrumb } from "../lib/navigation"
+
+interface Props {
+  links: readonly Breadcrumb[]
+  currentLabel: string
+}
+
+const { links, currentLabel } = Astro.props
+---
+
+<nav class="folder-context" aria-label="Folder Context">
+  <ol>
+    {links.map((link) => <li><a href={link.href}>{link.label}</a></li>)}
+    <li><span aria-current="page">{currentLabel}</span></li>
+  </ol>
+</nav>

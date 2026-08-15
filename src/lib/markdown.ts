@@ -30,7 +30,10 @@ export function resolveImageSource(sourcePath: string, target: string): string {
 }
 
 function createMarkdown(sourcePath?: string): MarkdownIt {
-  const markdown = new MarkdownIt({ html: false, linkify: true, typographer: true }).use(anchor, { slugify: headingId, permalink: anchor.permalink.ariaHidden({ placement: "after" }) })
+  const markdown = new MarkdownIt({ html: false, linkify: true, typographer: true }).use(anchor, {
+    slugify: headingId,
+    permalink: anchor.permalink.ariaHidden({ placement: "after", renderAttrs: () => ({ tabindex: -1 }) }),
+  })
   if (sourcePath) {
     const originalLink = markdown.renderer.rules.link_open
     markdown.renderer.rules.link_open = (tokens, index, options, environment, self) => {

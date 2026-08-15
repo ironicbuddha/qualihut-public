@@ -1,0 +1,18 @@
+---
+import type { PresentedItemLink } from "../lib/navigation"
+
+interface Props {
+  items: readonly PresentedItemLink[]
+}
+
+const { items } = Astro.props
+---
+
+<ul class="item-ledger">
+  {items.map((item) => (
+    <li data-item-entry data-initial={item.initial}>
+      <span class="item-type">{item.typeLabel}</span>
+      <div><a href={item.route}>{item.title}</a><p>{item.teaser}</p></div>
+    </li>
+  ))}
+</ul>

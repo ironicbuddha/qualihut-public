@@ -39,7 +39,7 @@ const { title, isHome = false } = Astro.props
   .site-header, footer { display: flex; justify-content: space-between; gap: 1rem; max-width: 74rem; margin: auto; padding: 1.25rem 2rem; color: #53614a; font: 0.82rem/1.2 system-ui, sans-serif; letter-spacing: 0.06em; text-transform: uppercase; }
   .wordmark { color: #20251d; font: 700 1.1rem/1 Georgia, serif; letter-spacing: 0.03em; text-decoration: none; text-transform: none; }
   .campaign-page { max-width: 74rem; margin: 2.5rem auto 5rem; padding: 0 2rem; }
-  article { max-width: 54rem; }
+  article { min-width: 0; max-width: 54rem; overflow-x: clip; }
   .reading-shell { display: grid; grid-template-columns: minmax(10rem, 13rem) minmax(0, 54rem); gap: clamp(2rem, 6vw, 5rem); }
   .campaign-index .reading-shell { grid-template-columns: minmax(10rem, 13rem) minmax(0, 1fr); }
   .page-toc { position: sticky; top: 1.25rem; align-self: start; padding-top: 0.5rem; font: 0.82rem/1.4 system-ui, sans-serif; }
@@ -66,6 +66,34 @@ const { title, isHome = false } = Astro.props
   code { font-size: 0.9em; }
   pre { overflow-x: auto; padding: 1rem; background: #eae6dc; }
   .header-anchor { margin-left: 0.4rem; color: #839074; text-decoration: none; }
+  a:focus-visible { outline: 3px solid #6f7f55; outline-offset: 3px; }
+  .folder-index { max-width: 64rem; }
+  .folder-context { max-width: 100%; margin: 0 0 1.25rem; overflow-x: auto; color: #66705f; font: 0.76rem/1.4 system-ui, sans-serif; scrollbar-width: thin; }
+  .folder-context ol { display: flex; width: max-content; min-width: 100%; margin: 0; padding: 0 0 0.35rem; list-style: none; white-space: nowrap; }
+  .folder-context li { display: flex; align-items: center; }
+  .folder-context li + li::before { content: "/"; padding: 0 0.55rem; color: #9aa08f; }
+  .folder-context a { color: #53614a; }
+  .folder-context [aria-current="page"] { color: #20251d; font-weight: 650; }
+  .folder-index-metadata { margin: 0 0 0.55rem; color: #66705f; font: 700 0.72rem/1.4 system-ui, sans-serif; letter-spacing: 0.07em; text-transform: uppercase; }
+  .navigation-ledger { margin-top: 3.5rem; }
+  .navigation-ledger h2 { margin-top: 3rem; }
+  .ledger-group + .ledger-group { margin-top: 3.5rem; }
+  .folder-ledger, .item-ledger { margin: 0; padding: 0; border-top: 1px solid #cfd3c4; list-style: none; }
+  .folder-ledger li, .item-ledger li { max-width: none; border-bottom: 1px solid #d9dacd; }
+  .folder-ledger a { display: flex; align-items: baseline; justify-content: space-between; gap: 1.5rem; padding: 1rem 0.25rem; color: #24311f; text-decoration: none; }
+  .folder-ledger a:hover .folder-entry-label { text-decoration: underline; text-underline-offset: 0.15em; }
+  .folder-entry-label { font-size: 1.1rem; font-weight: 700; }
+  .folder-entry-count { flex: none; color: #66705f; font: 0.76rem/1.4 system-ui, sans-serif; }
+  .item-ledger li { display: grid; grid-template-columns: minmax(7.5rem, 9rem) minmax(0, 1fr); gap: 1.25rem; padding: 1.15rem 0.25rem; }
+  .item-type { padding-top: 0.2rem; color: #66705f; font: 700 0.7rem/1.35 system-ui, sans-serif; letter-spacing: 0.05em; text-transform: uppercase; }
+  .item-ledger a { color: #24311f; font-size: 1.05rem; font-weight: 700; }
+  .item-ledger p { margin: 0.3rem 0 0; color: #53614a; font-size: 0.93rem; line-height: 1.5; overflow-wrap: anywhere; }
+  .initial-jumps { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: -0.25rem 0 1.25rem; font: 700 0.78rem/1 system-ui, sans-serif; }
+  .initial-jumps a { min-width: 2rem; padding: 0.55rem 0.45rem; border: 1px solid #cfd3c4; text-align: center; text-decoration: none; }
+  .initial-jumps a:hover { background: #e4e7dc; }
+  .initial-group { margin-top: 2.25rem; }
+  .initial-group h3 { margin: 0 0 0.6rem; color: #66705f; font: 700 0.78rem/1.3 system-ui, sans-serif; letter-spacing: 0.08em; text-transform: uppercase; scroll-margin-top: 1rem; }
+  .root-browse { padding-top: 0.25rem; }
   footer { border-top: 1px solid #d9dacd; }
-  @media (max-width: 42rem) { .site-header, footer { padding: 1rem 1.25rem; } .site-header span { display: none; } .campaign-page { margin-top: 1.5rem; padding: 0 1.25rem; } .reading-shell { display: block; } .page-toc { position: static; margin-bottom: 2rem; padding: 1rem; background: #ebe8de; } .reference-footer { grid-template-columns: 1fr; margin-top: 3rem; } h1 { font-size: 2.8rem; } table { display: block; overflow-x: auto; } }
+  @media (max-width: 42rem) { .site-header, footer { padding: 1rem 1.25rem; } .site-header span { display: none; } .campaign-page { margin-top: 1.5rem; padding: 0 1.25rem; } .reading-shell { display: block; } .page-toc { position: static; margin-bottom: 2rem; padding: 1rem; background: #ebe8de; } .reference-footer { grid-template-columns: 1fr; margin-top: 3rem; } h1 { font-size: 2.8rem; } table { display: block; max-width: 100%; overflow-x: auto; } table > thead, table > tbody { display: table; width: max-content; min-width: 100%; } .folder-ledger a { gap: 1rem; } .item-ledger li { display: block; } .item-type { display: block; margin-bottom: 0.35rem; padding: 0; } }
 </style>

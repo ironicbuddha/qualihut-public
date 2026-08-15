@@ -1,26 +1,43 @@
 ---
 import CampaignLayout from "../layouts/CampaignLayout.astro"
-import { getCampaignRecords, routeSegments } from "../lib/content"
+import FolderContext from "../components/FolderContext.astro"
+import NavigationLedger from "../components/NavigationLedger.astro"
+import { getCampaignRecords } from "../lib/content"
 import { getTableOfContents, renderMarkdown } from "../lib/markdown"
+import { deriveNavigation, enumerateRoutePages, presentNavigation } from "../lib/navigation"
 
 export function getStaticPaths() {
-  return getCampaignRecords().map((record) => {
-    const segments = routeSegments(record.sourcePath)
-    return { params: { slug: segments.length === 0 ? undefined : segments.join("/") }, props: { record } }
+  const tree = deriveNavigation(getCampaignRecords())
+  return enumerateRoutePages(tree, presentNavigation(tree)).map((page) => {
+    const slug = page.route === "/" ? undefined : page.route.slice(1, -1)
+    return { params: { slug }, props: { page } }
   })
 }
 
-const { record } = Astro.props
-const rendered = renderMarkdown(record.body, record.sourcePath)
-const headings = getTableOfContents(record.body)
+const { page } = Astro.props
+const record = page.kind === "campaign-index-page" ? page.record : page.kind === "item-page" ? page.item.record : null
+const rendered = record ? renderMarkdown(record.body, record.sourcePath) : ""
+const headings = record ? getTableOfContents(record.body) : []
+const title = page.kind === "folder-page" ? page.folder.label : record!.data.title
 ---
 
-<CampaignLayout title={record.data.title} isHome={record.sourcePath === "index.md"}>
-  <div class="reading-shell">
-    {headings.length > 0 && <nav class="page-toc" aria-label="On this page"><p>On this page</p><ol>{headings.map((heading) => <li data-level={heading.level}><a href={`#${heading.id}`}>{heading.text}</a></li>)}</ol></nav>}
-    <article>
-      <h1>{record.data.title}</h1>
-      <Fragment set:html={rendered} />
+<CampaignLayout title={title} isHome={page.kind === "campaign-index-page"}>
+  {page.kind === "folder-page" ? (
+    <article class="folder-index">
+      <FolderContext links={page.folderContext} currentLabel={page.folder.label} />
+      <p class="folder-index-metadata">{page.folder.metadata}</p>
+      <h1>{page.folder.label}</h1>
+      <NavigationLedger listing={page.folder} jumpInitials={page.folder.jumpInitials} />
     </article>
-  </div>
+  ) : (
+    <div class="reading-shell">
+      {headings.length > 0 && <nav class="page-toc" aria-label="On this page"><p>On this page</p><ol>{headings.map((heading) => <li data-level={heading.level}><a href={`#${heading.id}`}>{heading.text}</a></li>)}</ol></nav>}
+      <article>
+        {page.kind === "item-page" && <FolderContext links={page.folderContext} currentLabel={record!.data.title} />}
+        <h1>{record!.data.title}</h1>
+        <Fragment set:html={rendered} />
+        {page.kind === "campaign-index-page" && <NavigationLedger listing={page.browse} isRoot />}
+      </article>
+    </div>
+  )}
 </CampaignLayout>

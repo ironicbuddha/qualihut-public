@@ -2,6 +2,7 @@ import assert from "node:assert/strict"
 import test from "node:test"
 import { getCampaignRecords, routeForSource } from "../src/lib/content"
 import { getTableOfContents, renderMarkdown, resolveImageSource, resolveMarkdownLink } from "../src/lib/markdown"
+import { deriveNavigation, enumerateRoutePages, presentNavigation } from "../src/lib/navigation"
 
 test("maps the authored Campaign Index to the root", () => {
   assert.equal(routeForSource("index.md"), "/")
@@ -33,6 +34,13 @@ test("derives in-page navigation IDs from the same Markdown parser", () => {
   ])
 })
 
-test("includes every source record", () => {
-  assert.equal(getCampaignRecords().length, 236)
+test("emits the live corpus as one page per item plus every derived folder", () => {
+  const records = getCampaignRecords()
+  const tree = deriveNavigation(records)
+  const pages = enumerateRoutePages(tree, presentNavigation(tree))
+  const expectedRoutes = new Set([...records.map((record) => routeForSource(record.sourcePath)), ...[...tree.folders.values()].map((folder) => folder.route)])
+
+  assert.deepEqual(new Set(pages.map((page) => page.route)), expectedRoutes)
+  assert.equal(pages.length, expectedRoutes.size)
+  assert.equal(pages.filter((page) => page.route === "/").length, 1)
 })

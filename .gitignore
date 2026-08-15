@@ -12,6 +12,8 @@ node_modules/
 public/media/
 .astro/
 .handoff/
+.playwright-cli/
+output/playwright/
 
 # macOS
 .AppleDouble

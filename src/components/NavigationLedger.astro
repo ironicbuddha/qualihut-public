@@ -1,0 +1,57 @@
+---
+import type { PresentedFolderListing } from "../lib/navigation"
+import ItemLedger from "./ItemLedger.astro"
+
+interface Props {
+  listing: PresentedFolderListing
+  jumpInitials?: readonly string[]
+  isRoot?: boolean
+}
+
+const { listing, jumpInitials = [], isRoot = false } = Astro.props
+const itemCount = (count: number) => `${count} ${count === 1 ? "item" : "items"}`
+const initialId = (initial: string) => (initial === "#" ? "initial-other" : `initial-${initial.toLocaleLowerCase("en")}`)
+const initialName = (initial: string) => (initial === "#" ? "Other initials" : initial)
+const groupedItems = jumpInitials.map((initial) => ({ initial, items: listing.childItems.filter((item) => item.initial === initial) }))
+---
+
+<section class:list={["navigation-ledger", { "root-browse": isRoot }]} aria-labelledby={isRoot ? "browse-campaign-notes" : undefined}>
+  {isRoot && <h2 id="browse-campaign-notes">Browse campaign notes</h2>}
+
+  {listing.childFolders.length > 0 && (
+    <section class="ledger-group" aria-labelledby={isRoot ? undefined : "continue-browsing"}>
+      {!isRoot && <h2 id="continue-browsing">Continue browsing</h2>}
+      <ul class="folder-ledger">
+        {listing.childFolders.map((folder) => (
+          <li data-folder-entry>
+            <a href={folder.route}>
+              <span class="folder-entry-label">{folder.label}</span>
+              <span class="folder-entry-count">{itemCount(folder.descendantItemCount)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
+
+  {listing.childItems.length > 0 && (
+    <section class="ledger-group" aria-labelledby={isRoot ? undefined : "in-this-folder"}>
+      {!isRoot && <h2 id="in-this-folder">In this folder</h2>}
+      {jumpInitials.length > 0 && (
+        <nav class="initial-jumps" aria-label="Jump to initial">
+          {jumpInitials.map((initial) => <a href={`#${initialId(initial)}`} aria-label={initialName(initial)}>{initial}</a>)}
+        </nav>
+      )}
+      {groupedItems.length > 0 ? (
+        groupedItems.map((group) => (
+          <section class="initial-group" aria-labelledby={initialId(group.initial)}>
+            <h3 id={initialId(group.initial)}>{initialName(group.initial)}</h3>
+            <ItemLedger items={group.items} />
+          </section>
+        ))
+      ) : (
+        <ItemLedger items={listing.childItems} />
+      )}
+    </section>
+  )}
+</section>
