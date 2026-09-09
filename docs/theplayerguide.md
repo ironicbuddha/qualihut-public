@@ -44,10 +44,8 @@
 - [City Watch](#city-watch)  `content/institutions/city-watch.md`
 - [Convergence Directorate](#convergence-directorate)  `content/institutions/convergence-directorate.md`
 - [The Cult of Ink](#the-cult-of-ink)  `content/institutions/cult-of-ink.md`
-- [Der Kronenschild](#der-kronenschild)  `content/institutions/der-kronenschild.md`
 - [Der Sonnenmarsch](#der-sonnenmarsch)  `content/institutions/der-sonnenmarsch.md`
 - [Spycraft](#spycraft)  `content/institutions/der-weitblick-spycraft.md`
-- [Der Weitblick](#der-weitblick)  `content/institutions/der-weitblick.md`
 - [Doctrine of Concord](#doctrine-of-concord)  `content/institutions/doctrine-of-concord.md`
 - [Feudal Empire](#feudal-empire)  `content/institutions/feudal-empire.md`
 - [Die Hochkathedrale der Ewigen Flamme](#die-hochkathedrale-der-ewigen-flamme)  `content/institutions/hochkathedrale-der-ewigen-flamme.md`
@@ -74,7 +72,6 @@
 - [House von Stillwort](#house-von-stillwort)  `content/institutions/house-von-stillwort.md`
 - [House von Weissdorn](#house-von-weissdorn)  `content/institutions/house-von-weissdorn.md`
 - [Imperial Monasteries](#imperial-monasteries)  `content/institutions/imperial-monasteries.md`
-- [Intelligence Bureaus](#intelligence-bureaus)  `content/institutions/intelligence-bureaus.md`
 - [Lamp Feeders (Niederstadt Utility)](#lamp-feeders-niederstadt-utility)  `content/institutions/lamp-feeders-niederstadt.md`
 - [Lineage Stewardship](#lineage-stewardship)  `content/institutions/lineage-stewardship.md`
 - [Merchant Houses](#merchant-houses)  `content/institutions/merchant-houses.md`
@@ -1197,23 +1194,6 @@ In some cities, a small black droplet painted on a doorframe is enough to make a
 
 ---
 
-## Der Kronenschild
-
-_Source: `content/institutions/der-kronenschild.md`_
-
-## What players would know
-
-Der Kronenschild is the Empire’s internal continuity apparatus: the people who show up when a situation stops being a crime and becomes a threat to “harmony.” Officially they preserve stability and prevent sedition. Unofficially, they are famous for consequences delivered with impeccable manners.
-
-If the City Watch is local law, Kronenschild is the Crown’s cross‑jurisdiction bureau: the seal that lets someone investigate across feudal boundaries and treat “a case” as a state problem.
-
-### Common rumors
-
-- They apologize while ruining your life.
-- If they “ask questions,” the verdict has already been filed.
-
----
-
 ## Der Sonnenmarsch
 
 _Source: `content/institutions/der-sonnenmarsch.md`_
@@ -1238,21 +1218,6 @@ _Source: `content/institutions/der-weitblick-spycraft.md`_
 ## What players would know
 
 Spies exist in court and in the street: people who move information instead of goods. In this campaign, "spycraft" is the practical vocabulary for infiltration, tradecraft, and narrative control.
-
----
-
-## Der Weitblick
-
-_Source: `content/institutions/der-weitblick.md`_
-
-## What players would know
-
-Der Weitblick is the Empire’s “long-view” bureaucracy: offices of maps, trade reports, diplomatic notes, and threat assessments. Their public work is deliberately dull. When an institution insists it is only paper, people assume—often correctly—that the paper is the weapon.
-
-### Common rumors
-
-- They don’t start wars; they just make sure the timing is convenient.
-- If your name is in their files, you’ll never see the page.
 
 ---
 
@@ -1883,23 +1848,6 @@ Some monasteries are thriving, with gardens and disciplined hospitality. Others 
 
 - Monks know which roads are “wrong” this season, even when maps insist they’re fine.
 - An abandoned monastery is never truly empty; it’s just between owners.
-
----
-
-## Intelligence Bureaus
-
-_Source: `content/institutions/intelligence-bureaus.md`_
-
-## What players would know
-
-Every power center keeps spies. Politics isn’t only speeches and votes; it’s sabotage, rumor campaigns, coerced witnesses, and disappearances politely attributed to bandits.
-
-Most people can’t name the bureaus, only the symptoms: a rival’s caravan “misroutes,” a scandal breaks at the perfect time, a clerk loses the only copy of a document that mattered.
-
-### Common rumors
-
-- Assassins travel with caravans.
-- Magistrates hire thieves’ guilds for deniable jobs.
 
 ---
 
