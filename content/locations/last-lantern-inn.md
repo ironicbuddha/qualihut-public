@@ -45,9 +45,9 @@ One poster version pasted up near porter stalls:
 
 - [Hochsilvar](hochsilvar.md)
 - [Statesboro](statesboro.md)
-- [The River Marches](river-marches.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- The River Marches
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)

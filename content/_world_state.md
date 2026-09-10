@@ -24,7 +24,7 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 
 ## Campaign Frame (Player-Facing)
 
-- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy ([Der Weitblick](institutions/der-weitblick.md)) and its cut-outs.
+- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy (Der Weitblick) and its cut-outs.
 - Expect covert work, leverage, and bureaucracy: maps, ledgers, favors, and deniable violence.
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.

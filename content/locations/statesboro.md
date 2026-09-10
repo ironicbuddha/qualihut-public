@@ -10,7 +10,7 @@ type: location
 
 ![Statesboro](images/statesboro.png)
 
-Statesboro is a road-and-river town in [The River Marches](river-marches.md),
+Statesboro is a road-and-river town in The River Marches,
 known for musicians, ferry songs, quay gossip, and a local style more likely to
 make imperial listeners frown than dance correctly. Its dialect is thick, its
 craft goods travel farther than many of its people do, and anyone from the
@@ -24,10 +24,10 @@ Marches tends to light up when they hear the name.
 
 ### See also
 
-- [The River Marches](river-marches.md)
+- The River Marches
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)

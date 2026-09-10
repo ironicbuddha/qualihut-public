@@ -9,7 +9,7 @@ type: institution
 House Ventresca is one of the Twenty Houses. It is most often associated with
 maritime finance, convoy insurance, and freight leverage networks.
 
-Merchant-facing operations are often fronted by [Ventresca & Associati](../factions/ventresca-associati.md).
+Merchant-facing operations are often fronted by Ventresca & Associati.
 
 ### Sigil (player-safe)
 

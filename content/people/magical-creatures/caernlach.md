@@ -19,4 +19,4 @@ When systems become too elegant—rituals too perfect, plans too clean, bargains
 ### See also
 
 - [The Fey Roads](../../magic/fey-roads.md)
-- [The Midsummer Revel](../../quests/q-fey-court-midsummer-revel.md)
+- The Midsummer Revel

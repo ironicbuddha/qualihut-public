@@ -36,9 +36,9 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 ### See also
 
 - [Banking Guild](../factions/banking-guild.md)
-- [White Stag](../factions/white-stag.md)
+- White Stag
 - [Banco Valdieri](../institutions/banco-valdieri.md)
 - [City Watch](../institutions/city-watch.md)
-- [Der Kronenschild](../institutions/der-kronenschild.md)
-- [Der Weitblick](../institutions/der-weitblick.md)
+- Der Kronenschild
+- Der Weitblick
 - [Hochsilvar City Square Market](hochsilvar-city-square-market.md)

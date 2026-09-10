@@ -22,5 +22,5 @@ fools still try it in private.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)

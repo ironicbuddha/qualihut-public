@@ -25,7 +25,7 @@ This matter is politically sensitive. The Banking Guild is demanding results. Th
 You are assigned to a **Joint Task Force** comprised of:
 
 - **[Hochsilvar](../locations/hochsilvar.md) City Watch** (scene control, arrests, public order)
-- **[Der Kronenschild](../institutions/der-kronenschild.md)** (domestic intelligence arm; authorized by agreement with the Crown to operate across the feudal states)
+- **Der Kronenschild** (domestic intelligence arm; authorized by agreement with the Crown to operate across the feudal states)
 
 You are expected to:
 

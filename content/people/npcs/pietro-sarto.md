@@ -16,7 +16,7 @@ are allowed to use. He is a young half-elf, around sixteen, with white hair,
 blue eyes, and the start of a wispy beard. He is polite to anyone in good cloth
 and wary of anyone who asks questions like a magistrate. He is from
 [Statesboro](../../locations/statesboro.md) in
-[The River Marches](../../locations/river-marches.md), which is why any talk of
+The River Marches, which is why any talk of
 Bob Johnson and Boy Willie Brown gets through his professional composure faster
 than most things do.
 

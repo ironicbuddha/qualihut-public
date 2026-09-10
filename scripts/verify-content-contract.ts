@@ -10,7 +10,7 @@ const optionalImageBrief = JSON.parse(readFileSync(resolve(process.cwd(), "docs/
 const optionalAssets = new Set(optionalImageBrief.images.map((image) => image.asset))
 const optionalMissingAssets = new Set<string>()
 const errors: string[] = []
-const linkPattern = /(?<!!?)\[[^\]]*\]\((?<target>[^\s)]+)(?:\s+[^)]*)?\)/g
+const linkPattern = /(?<!!)\[[^\]]*\]\((?<target>[^\s)]+)(?:\s+[^)]*)?\)/g
 const imagePattern = /!\[[^\]]*\]\((?<target>[^\s)]+)(?:\s+[^)]*)?\)/g
 
 for (const record of records) {
