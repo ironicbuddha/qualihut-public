@@ -11,7 +11,7 @@ type: economy
 ![Marsh-Dyed Textiles](images/marsh-dyed-textiles.png)
 
 Marsh-dyed textiles are one of the best-known exports of
-[The River Marches](../locations/river-marches.md): supple river-silk and
+The River Marches: supple river-silk and
 reed-cloth worked into garments and bolts whose muted colors shift like wet
 stone, old bronze, moss, or storm water depending on the light.
 
@@ -22,5 +22,5 @@ stone, old bronze, moss, or storm water depending on the light.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)

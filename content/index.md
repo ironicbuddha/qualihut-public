@@ -20,6 +20,7 @@ Use this page as the table start page and fast-recall surface.
 
 ## Session recaps
 
+<!-- GENERATED_SESSION_RECAPS_START -->
 - [Session 1 Recap: Hochsilvar](meta/sessions/session-1/recap-player.md)
 - [Session 2 Recap: Hochsilvar](meta/sessions/session-2/recap-player.md)
 - [Session 3 Recap: Hochsilvar](meta/sessions/session-3/recap-player.md)
@@ -29,6 +30,8 @@ Use this page as the table start page and fast-recall surface.
 - [Session 7 Recap: The Empty Wagons](meta/sessions/session-7/recap-player.md)
 - [Session 8 Recap: Blood in the Trees](meta/sessions/session-8/recap-player.md)
 - [Session 9 Recap: Bringing Nela Back](meta/sessions/session-9/recap-player.md)
+- [Session 10 Recap: Bloodroot Return and Customs](meta/sessions/session-10/recap-player.md)
+<!-- GENERATED_SESSION_RECAPS_END -->
 
 ## Current Campaign Context
 
@@ -142,7 +145,7 @@ These quick reminders are generated from published items' PUBLIC blocks. Update 
 | [Needle Sava](people/npcs/needle-sava.md) | Needle Sava is a gossip-runner and rumor broker in Niederstadt who appears wherever people are paying to know things quietly. She works tavern edges and shrine lanes rather than guild halls, and sells introductions more often than hard evidence. |
 | [Ollo Krev](people/npcs/ollo-krev.md) | Ollo Krev is the sort of compact mercenary who makes doorways feel smaller. |
 | [Oskar Damm](people/npcs/oskar-damm.md) | Oskar Damm runs The Broken Seal in Niederstadt. He looks like a man who never gets surprised twice: plain clothes, plain speech, and eyes that do the counting before the coins hit the table. |
-| [Pietro Sarto](people/npcs/pietro-sarto.md) | Pietro Sarto is a stable boy and runner at the Valdieri family quarters in Hochsilvar’s Imperial City. He knows tack, schedules, and which doors servants are allowed to use. He is a young half-elf, around sixteen, with white hair, blue eyes, and the start of a wispy beard. He is polite to anyone in good cloth and wary of anyone who asks questions like a magistrate. He is from [Statesboro](locations/statesboro.md) in [The River Marches](locations/river-marches.md), which is why any talk of Bob Johnson and Boy Willie Brown gets through his professional composure faster than most things do. |
+| [Pietro Sarto](people/npcs/pietro-sarto.md) | Pietro Sarto is a stable boy and runner at the Valdieri family quarters in Hochsilvar’s Imperial City. He knows tack, schedules, and which doors servants are allowed to use. He is a young half-elf, around sixteen, with white hair, blue eyes, and the start of a wispy beard. He is polite to anyone in good cloth and wary of anyone who asks questions like a magistrate. He is from [Statesboro](locations/statesboro.md) in The River Marches, which is why any talk of Bob Johnson and Boy Willie Brown gets through his professional composure faster than most things do. |
 | [Raffaele Valdieri](people/npcs/raffaele-valdieri.md) | Raffaele Valdieri is a minor Valdieri cousin: the kind of family member who gets invited to dinners for appearances and quietly managed the rest of the time. In Hochsilvar’s rumor economy, he’s “the problem relative” with expensive tastes and unreliable judgment. |
 | [Rex Flavus](people/npcs/rex-flavus.md) | Rex Flavus is a Ponte Nero routing clerk who works the night shift around animal-exchange paperwork and delivery sequencing. He has a reputation for keeping his hands clean while everyone else gets dirty. |
 | [Sabine Korber](people/npcs/sabine-korber.md) | Sabine Korber is a capital hostess known for elegant small-room evenings where musicians, minor officials, ambitious young nobles, and carefully selected provincials are made to seem as if they belong in the same moral weather. She has a reputation for "discovering" rough talent and presenting it in a way the city can admire without feeling threatened. |
@@ -183,7 +186,7 @@ These quick reminders are generated from published items' PUBLIC blocks. Update 
 | [House Bellarossa](institutions/house-bellarossa.md) | House Bellarossa is one of the Twenty Houses. It is most often associated with court spectacle patronage, reputation warfare, and scandal brokerage. |
 | [House Malvieri](institutions/house-malvieri.md) | House Malvieri is one of the Twenty Houses. It is most often associated with distressed-estate acquisition, quiet foreclosures, and inheritance predation. |
 | [House of Sorcery (Misnomer)](institutions/house-of-sorcery.md) | "House of Sorcery" is a common outsider label for **[House von Stillwort](institutions/house-von-stillwort.md)**. |
-| [House of Warlocks (Misnomer)](institutions/house-of-warlocks.md) | “House of Warlocks” is a common outsider label for **[House von Stillwort](institutions/house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **[The Silent Poet](people/magical-creatures/the-silent-poet.md)**. |
+| [House of Warlocks (Misnomer)](institutions/house-of-warlocks.md) | “House of Warlocks” is a common outsider label for **[House von Stillwort](institutions/house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **The Silent Poet**. |
 | [House Orsatti](institutions/house-orsatti.md) | House Orsatti is one of the Twenty Houses. It is most often associated with cavalry studs, draft-beast breeding, and stable intelligence networks. |
 | [House Orsini](institutions/house-orsini.md) | House Orsini is one of the Twenty Houses. It is most often associated with marriage diplomacy, hostage etiquette, and salon intelligence exchanges. |
 | [House Sforzetti](institutions/house-sforzetti.md) | House Sforzetti is one of the Twenty Houses. It is most often associated with disciplined house arms, levy logistics, and coercive debt enforcement. |
@@ -243,7 +246,7 @@ These quick reminders are generated from published items' PUBLIC blocks. Update 
 | [Plain of Giant's Cups](locations/plain-of-giants-cups.md) | The Plain of Giant’s Cups is a broad, wind-combed grass plain just off a main trade route. Hundreds of squat stone “cups” (more like thick-lipped jars) stand scattered across the field with no obvious pattern. |
 | [Ponte Nero Guildhouse (Niederstadt)](locations/ponte-nero-guildhouse.md) | In Niederstadt there are “stables” that don’t smell like stables and “pilgrimage logistics” offices that seem to know which streets will be closed tomorrow. Most people only learn the name Ponte Nero when they need a route more than an answer. |
 | [Sankt Orn's Rest](locations/sankt-orns-rest.md) | Sankt Orn's Rest is a road town where caravans can add carts, repair wagons, lodge witnessed messages, and enter the Solar Church's custody system before the final approach to Valdengratz. |
-| [Statesboro](locations/statesboro.md) | Statesboro is a road-and-river town in [The River Marches](locations/river-marches.md), known for musicians, ferry songs, quay gossip, and a local style more likely to make imperial listeners frown than dance correctly. Its dialect is thick, its craft goods travel farther than many of its people do, and anyone from the Marches tends to light up when they hear the name. |
+| [Statesboro](locations/statesboro.md) | Statesboro is a road-and-river town in The River Marches, known for musicians, ferry songs, quay gossip, and a local style more likely to make imperial listeners frown than dance correctly. Its dialect is thick, its craft goods travel farther than many of its people do, and anyone from the Marches tends to light up when they hear the name. |
 | [The Brass Buckler](locations/brass-buckler.md) | The Brass Buckler is a City Watch watering hole: cheap beer, hard benches, and a roomful of tired people trying to forget the city for an hour without admitting they can’t. |
 | [The Broken Seal](locations/broken-seal-tavern.md) | The Broken Seal is a low-rent tavern in Niederstadt: damp stone, thin stew, and a crowd that looks like work until you notice how carefully they watch exits. |
 | [The Central Wilds](locations/central-wilds.md) | The Central Wilds are the Empire’s interior that never quite stayed conquered. Past the last toll gate and the last inn where the beer tastes normal, roads thin into suggestions. Maps disagree. Old stone markers turn up in the wrong places. A traveler can walk the same ridge twice and swear it wasn’t there the first time. |
@@ -268,5 +271,5 @@ These quick reminders are generated from published items' PUBLIC blocks. Update 
 - [Institutions](institutions/feudal-empire.md)
 - [Magic](magic/magic-system-and-spell-casting.md)
 - [People](people/npcs/branka-voss.md)
-- [Quests](quests/q-banco-valdieri-investigation.md)
+- Quests
 - [Races](races/humans-living-in-the-elven-empire.md)

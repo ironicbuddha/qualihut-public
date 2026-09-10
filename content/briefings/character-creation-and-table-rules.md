@@ -25,7 +25,7 @@ Any class can work here; what matters is where your power comes from and what it
 - Clerics/paladins: faith is real, but institutions have pressure and politics.
 - Wizards/“trained mages”: entangled with gatekeeping, custody chains, and markets.
 - Sorcerers: talent and bloodline attention (good and bad).
-- Warlocks: **restricted**—by default, warlock PCs must have a credible tie to **[House von Stillwort](../institutions/house-von-stillwort.md)** and its patron, **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**.
+- Warlocks: **restricted**—by default, warlock PCs must have a credible tie to **[House von Stillwort](../institutions/house-von-stillwort.md)** and its patron, **The Silent Poet**.
 - Rogues/bards/rangers: thrive in a world of borders, leverage, and dangerous travel.
 
 ### Subclass notes (current)

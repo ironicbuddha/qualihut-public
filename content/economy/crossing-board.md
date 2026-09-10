@@ -12,7 +12,7 @@ type: economy
 
 The crossing board is a low, slide-played string instrument associated with
 [Statesboro](../locations/statesboro.md) and the wider
-[River Marches](../locations/river-marches.md). Played across the knees with a
+River Marches. Played across the knees with a
 bone, glass, or stone slide, it produces gliding notes court musicians often
 call mournful and Marchers call truthful.
 
