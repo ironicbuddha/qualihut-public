@@ -8,7 +8,7 @@ type: location
 
 Glass & Moth is a licensed curios and ingredients shop in Hochsilvar's wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
 
-The proprietor is [Mordecai Orichalcum](../people/npcs/mordecai-orichalcum.md).
+The proprietor is Mordecai Orichalcum.
 
 ### View from the front door
 

@@ -12,6 +12,7 @@
 - [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
 - [The Southern Union](#the-southern-union)  `content/factions/southern-union.md`
+- ["The Third Key"](#the-third-key)  `content/factions/third-key.md`
 - [The Travelers](#the-travelers)  `content/factions/travelers.md`
 - [Banco Valdieri](#banco-valdieri)  `content/institutions/banco-valdieri.md`
 - [The Broadbarrel Caravan](#the-broadbarrel-caravan)  `content/institutions/broadbarrel-caravan.md`
@@ -252,6 +253,25 @@ Union diplomats smile like merchants and argue like lawyers. In border taverns y
 
 ---
 
+## "The Third Key"
+
+_Source: `content/factions/third-key.md`_
+
+## What players would know
+
+The Third Key is a Valdengratz thieves' guild. It is known less for street
+robbery than for access: rooms opened without damage, cargo moved between
+official counts, and introductions made before a person realizes they need one.
+
+### Common rumors
+
+- A Third Key runner can tell whether a lock was opened, copied, or replaced.
+- They do not ask whether a client is innocent; they ask who will come looking.
+- Their members dislike unnecessary bloodshed because blood makes paperwork
+  difficult.
+
+---
+
 ## The Travelers
 
 _Source: `content/factions/travelers.md`_
@@ -425,8 +445,8 @@ rules.
 
 ### See also
 
-- [The Phage](../magic/the-phage.md)
-- [The Phage Investigation](../quests/q-phage-investigation.md)
+- The Phage
+- The Phage Investigation
 
 ---
 
@@ -501,7 +521,7 @@ to sound moral rather than merely strong.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 
 ---
 
@@ -616,7 +636,7 @@ _Source: `content/institutions/house-of-warlocks.md`_
 
 ## What players would know
 
-“House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**.
+“House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **The Silent Poet**.
 
 If you’re looking for the canonical entry, use **[House von Stillwort](house-von-stillwort.md)**.
 
@@ -709,7 +729,7 @@ _Source: `content/institutions/house-ventresca.md`_
 House Ventresca is one of the Twenty Houses. It is most often associated with
 maritime finance, convoy insurance, and freight leverage networks.
 
-Merchant-facing operations are often fronted by [Ventresca & Associati](../factions/ventresca-associati.md).
+Merchant-facing operations are often fronted by Ventresca & Associati.
 
 ### Sigil (player-safe)
 
@@ -1054,7 +1074,7 @@ They are also the one house commonly associated with **warlock power**—not as 
 
 ### Common rumors
 
-- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
+- Their ancestor made a pact with an entity called **The Silent Poet**, and the debt still echoes in the bloodline.
 - Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
 - Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
 - Outsiders call them “the House of Warlocks,” usually when they think no one is listening.

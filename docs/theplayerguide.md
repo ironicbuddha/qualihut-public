@@ -37,6 +37,7 @@
 - [La Mano Fortunata](#la-mano-fortunata)  `content/factions/mano-fortunata.md`
 - [La Compagnia del Ponte Nero](#la-compagnia-del-ponte-nero)  `content/factions/ponte-nero.md`
 - [The Southern Union](#the-southern-union)  `content/factions/southern-union.md`
+- ["The Third Key"](#the-third-key)  `content/factions/third-key.md`
 - [The Travelers](#the-travelers)  `content/factions/travelers.md`
 - [Banco Valdieri](#banco-valdieri)  `content/institutions/banco-valdieri.md`
 - [The Broadbarrel Caravan](#the-broadbarrel-caravan)  `content/institutions/broadbarrel-caravan.md`
@@ -89,6 +90,7 @@
 - [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
 - [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
+- ["The Brass Heron"](#the-brass-heron)  `content/locations/brass-heron.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - ["Casa dei Tre Spilli Guildhouse (Niederstadt)"](#casa-dei-tre-spilli-guildhouse-niederstadt)  `content/locations/casa-dei-tre-spilli-guildhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
@@ -114,6 +116,7 @@
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - ["Sankt Orn's Rest"](#sankt-orns-rest)  `content/locations/sankt-orns-rest.md`
 - ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
+- ["The Third Key Guildhall"](#the-third-key-guildhall)  `content/locations/third-key-guildhall.md`
 - ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
@@ -181,7 +184,7 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 
 ## Campaign Frame (Player-Facing)
 
-- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy ([Der Weitblick](institutions/der-weitblick.md)) and its cut-outs.
+- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy (Der Weitblick) and its cut-outs.
 - Expect covert work, leverage, and bureaucracy: maps, ledgers, favors, and deniable violence.
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
@@ -201,7 +204,7 @@ _Source: `content/economy/crossing-board.md`_
 
 The crossing board is a low, slide-played string instrument associated with
 [Statesboro](../locations/statesboro.md) and the wider
-[River Marches](../locations/river-marches.md). Played across the knees with a
+River Marches. Played across the knees with a
 bone, glass, or stone slide, it produces gliding notes court musicians often
 call mournful and Marchers call truthful.
 
@@ -406,7 +409,7 @@ _Source: `content/economy/marsh-dyed-textiles.md`_
 ![Marsh-Dyed Textiles](images/marsh-dyed-textiles.png)
 
 Marsh-dyed textiles are one of the best-known exports of
-[The River Marches](../locations/river-marches.md): supple river-silk and
+The River Marches: supple river-silk and
 reed-cloth worked into garments and bolts whose muted colors shift like wet
 stone, old bronze, moss, or storm water depending on the light.
 
@@ -417,7 +420,7 @@ stone, old bronze, moss, or storm water depending on the light.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)
 
 ---
@@ -570,7 +573,7 @@ fools still try it in private.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)
 
 ---
@@ -995,6 +998,25 @@ Union diplomats smile like merchants and argue like lawyers. In border taverns y
 
 ---
 
+## "The Third Key"
+
+_Source: `content/factions/third-key.md`_
+
+## What players would know
+
+The Third Key is a Valdengratz thieves' guild. It is known less for street
+robbery than for access: rooms opened without damage, cargo moved between
+official counts, and introductions made before a person realizes they need one.
+
+### Common rumors
+
+- A Third Key runner can tell whether a lock was opened, copied, or replaced.
+- They do not ask whether a client is innocent; they ask who will come looking.
+- Their members dislike unnecessary bloodshed because blood makes paperwork
+  difficult.
+
+---
+
 ## The Travelers
 
 _Source: `content/factions/travelers.md`_
@@ -1168,8 +1190,8 @@ rules.
 
 ### See also
 
-- [The Phage](../magic/the-phage.md)
-- [The Phage Investigation](../quests/q-phage-investigation.md)
+- The Phage
+- The Phage Investigation
 
 ---
 
@@ -1244,7 +1266,7 @@ to sound moral rather than merely strong.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 
 ---
 
@@ -1359,7 +1381,7 @@ _Source: `content/institutions/house-of-warlocks.md`_
 
 ## What players would know
 
-“House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**.
+“House of Warlocks” is a common outsider label for **[House von Stillwort](house-von-stillwort.md)**: the one elven noble lineage widely associated with warlock power tied to **The Silent Poet**.
 
 If you’re looking for the canonical entry, use **[House von Stillwort](house-von-stillwort.md)**.
 
@@ -1452,7 +1474,7 @@ _Source: `content/institutions/house-ventresca.md`_
 House Ventresca is one of the Twenty Houses. It is most often associated with
 maritime finance, convoy insurance, and freight leverage networks.
 
-Merchant-facing operations are often fronted by [Ventresca & Associati](../factions/ventresca-associati.md).
+Merchant-facing operations are often fronted by Ventresca & Associati.
 
 ### Sigil (player-safe)
 
@@ -1797,7 +1819,7 @@ They are also the one house commonly associated with **warlock power**—not as 
 
 ### Common rumors
 
-- Their ancestor made a pact with an entity called **[The Silent Poet](../people/magical-creatures/the-silent-poet.md)**, and the debt still echoes in the bloodline.
+- Their ancestor made a pact with an entity called **The Silent Poet**, and the debt still echoes in the bloodline.
 - Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
 - Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
 - Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
@@ -2222,7 +2244,7 @@ that arrives with seals.
 - [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
-- [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
+- Banco Valdieri Investigation (quest)
 
 ---
 
@@ -2273,6 +2295,26 @@ their badges—only their opinions.
 ### See also
 
 - [City Watch](../institutions/city-watch.md)
+
+---
+
+## "The Brass Heron"
+
+_Source: `content/locations/brass-heron.md`_
+
+## What players would know
+
+The Brass Heron is a mid-level inn in Valdengratz's better quarter: clean
+enough for merchants and company officers, plain enough that a traveler can
+stay there without becoming a topic of conversation. Its brass sign shows a
+long-legged heron standing in shallow water.
+
+### Common rumors
+
+- The rooms facing the inner court are quieter and cheaper than the street
+  rooms.
+- The innkeeper remembers every name that enters the register, but not every
+  face that leaves it.
 
 ---
 
@@ -2441,7 +2483,7 @@ _Source: `content/locations/glass-and-moth.md`_
 
 Glass & Moth is a licensed curios and ingredients shop in Hochsilvar's wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
 
-The proprietor is [Mordecai Orichalcum](../people/npcs/mordecai-orichalcum.md).
+The proprietor is Mordecai Orichalcum.
 
 ### View from the front door
 
@@ -2551,11 +2593,11 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 ### See also
 
 - [Banking Guild](../factions/banking-guild.md)
-- [White Stag](../factions/white-stag.md)
+- White Stag
 - [Banco Valdieri](../institutions/banco-valdieri.md)
 - [City Watch](../institutions/city-watch.md)
-- [Der Kronenschild](../institutions/der-kronenschild.md)
-- [Der Weitblick](../institutions/der-weitblick.md)
+- Der Kronenschild
+- Der Weitblick
 - [Hochsilvar City Square Market](hochsilvar-city-square-market.md)
 
 ---
@@ -2625,9 +2667,9 @@ One poster version pasted up near porter stalls:
 
 - [Hochsilvar](hochsilvar.md)
 - [Statesboro](statesboro.md)
-- [The River Marches](river-marches.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- The River Marches
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
@@ -2913,7 +2955,7 @@ _Source: `content/locations/statesboro.md`_
 
 ![Statesboro](images/statesboro.png)
 
-Statesboro is a road-and-river town in [The River Marches](river-marches.md),
+Statesboro is a road-and-river town in The River Marches,
 known for musicians, ferry songs, quay gossip, and a local style more likely to
 make imperial listeners frown than dance correctly. Its dialect is thick, its
 craft goods travel farther than many of its people do, and anyone from the
@@ -2927,13 +2969,36 @@ Marches tends to light up when they hear the name.
 
 ### See also
 
-- [The River Marches](river-marches.md)
+- The River Marches
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
+
+---
+
+## "The Third Key Guildhall"
+
+_Source: `content/locations/third-key-guildhall.md`_
+
+## What players would know
+
+The Third Key Guildhall occupies a narrow former countinghouse in Valdengratz,
+wedged between respectable merchant offices and a lane used by porters. Its
+front door bears only a small brass key with a third tooth.
+
+Inside, it looks like a place where records and deliveries are processed:
+benches, shelves, locked cabinets, and a counter for people who have arrived
+with the wrong name or the wrong problem.
+
+### Common rumors
+
+- The guildhall has three doors, but visitors are never told which one they
+  entered through.
+- The people behind the counter can find a missing person if the person wants
+  to be found.
 
 ---
 
@@ -3205,7 +3270,7 @@ Pilgrims and opportunists alike seek these places when they “wake,” because 
 
 ### See also
 
-- [Leyline Blights (Ecology After Extraction)](../environments/leyline-blights.md)
+- Leyline Blights (Ecology After Extraction)
 
 ---
 
@@ -3679,7 +3744,7 @@ dark.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 

@@ -32,6 +32,7 @@
 - [Banco Valdieri (Bankhouse)](#banco-valdieri-bankhouse)  `content/locations/banco-valdieri-bankhouse.md`
 - [Banco Valdieri Quarter](#banco-valdieri-quarter)  `content/locations/banco-valdieri-quarter.md`
 - [The Brass Buckler](#the-brass-buckler)  `content/locations/brass-buckler.md`
+- ["The Brass Heron"](#the-brass-heron)  `content/locations/brass-heron.md`
 - [The Broken Seal](#the-broken-seal)  `content/locations/broken-seal-tavern.md`
 - ["Casa dei Tre Spilli Guildhouse (Niederstadt)"](#casa-dei-tre-spilli-guildhouse-niederstadt)  `content/locations/casa-dei-tre-spilli-guildhouse.md`
 - [The Central Wilds](#the-central-wilds)  `content/locations/central-wilds.md`
@@ -57,6 +58,7 @@
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - ["Sankt Orn's Rest"](#sankt-orns-rest)  `content/locations/sankt-orns-rest.md`
 - ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
+- ["The Third Key Guildhall"](#the-third-key-guildhall)  `content/locations/third-key-guildhall.md`
 - ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
 - [Valdieri Family Quarters (Imperial City)](#valdieri-family-quarters-imperial-city)  `content/locations/valdieri-family-quarters.md`
@@ -97,7 +99,7 @@ Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not
 
 ## Campaign Frame (Player-Facing)
 
-- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy ([Der Weitblick](institutions/der-weitblick.md)) and its cut-outs.
+- You begin as competent professionals, assembled into a new team under the Empire’s long-view bureaucracy (Der Weitblick) and its cut-outs.
 - Expect covert work, leverage, and bureaucracy: maps, ledgers, favors, and deniable violence.
 - The world is a sandbox; choices move factions and change the map.
 - Magic is high-impact but not free; it has markets, custody chains, and consequences.
@@ -117,7 +119,7 @@ _Source: `content/economy/crossing-board.md`_
 
 The crossing board is a low, slide-played string instrument associated with
 [Statesboro](../locations/statesboro.md) and the wider
-[River Marches](../locations/river-marches.md). Played across the knees with a
+River Marches. Played across the knees with a
 bone, glass, or stone slide, it produces gliding notes court musicians often
 call mournful and Marchers call truthful.
 
@@ -322,7 +324,7 @@ _Source: `content/economy/marsh-dyed-textiles.md`_
 ![Marsh-Dyed Textiles](images/marsh-dyed-textiles.png)
 
 Marsh-dyed textiles are one of the best-known exports of
-[The River Marches](../locations/river-marches.md): supple river-silk and
+The River Marches: supple river-silk and
 reed-cloth worked into garments and bolts whose muted colors shift like wet
 stone, old bronze, moss, or storm water depending on the light.
 
@@ -333,7 +335,7 @@ stone, old bronze, moss, or storm water depending on the light.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)
 
 ---
@@ -486,7 +488,7 @@ fools still try it in private.
 
 ### See also
 
-- [The River Marches](../locations/river-marches.md)
+- The River Marches
 - [Statesboro](../locations/statesboro.md)
 
 ---
@@ -757,7 +759,7 @@ that arrives with seals.
 - [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
-- [Banco Valdieri Investigation (quest)](../quests/q-banco-valdieri-investigation.md)
+- Banco Valdieri Investigation (quest)
 
 ---
 
@@ -808,6 +810,26 @@ their badges—only their opinions.
 ### See also
 
 - [City Watch](../institutions/city-watch.md)
+
+---
+
+## "The Brass Heron"
+
+_Source: `content/locations/brass-heron.md`_
+
+## What players would know
+
+The Brass Heron is a mid-level inn in Valdengratz's better quarter: clean
+enough for merchants and company officers, plain enough that a traveler can
+stay there without becoming a topic of conversation. Its brass sign shows a
+long-legged heron standing in shallow water.
+
+### Common rumors
+
+- The rooms facing the inner court are quieter and cheaper than the street
+  rooms.
+- The innkeeper remembers every name that enters the register, but not every
+  face that leaves it.
 
 ---
 
@@ -976,7 +998,7 @@ _Source: `content/locations/glass-and-moth.md`_
 
 Glass & Moth is a licensed curios and ingredients shop in Hochsilvar's wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
 
-The proprietor is [Mordecai Orichalcum](../people/npcs/mordecai-orichalcum.md).
+The proprietor is Mordecai Orichalcum.
 
 ### View from the front door
 
@@ -1086,11 +1108,11 @@ Beyond the gates, the city’s shadow continues: roadside camps, rough shacks, a
 ### See also
 
 - [Banking Guild](../factions/banking-guild.md)
-- [White Stag](../factions/white-stag.md)
+- White Stag
 - [Banco Valdieri](../institutions/banco-valdieri.md)
 - [City Watch](../institutions/city-watch.md)
-- [Der Kronenschild](../institutions/der-kronenschild.md)
-- [Der Weitblick](../institutions/der-weitblick.md)
+- Der Kronenschild
+- Der Weitblick
 - [Hochsilvar City Square Market](hochsilvar-city-square-market.md)
 
 ---
@@ -1160,9 +1182,9 @@ One poster version pasted up near porter stalls:
 
 - [Hochsilvar](hochsilvar.md)
 - [Statesboro](statesboro.md)
-- [The River Marches](river-marches.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- The River Marches
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Travelers](../factions/travelers.md)
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
@@ -1448,7 +1470,7 @@ _Source: `content/locations/statesboro.md`_
 
 ![Statesboro](images/statesboro.png)
 
-Statesboro is a road-and-river town in [The River Marches](river-marches.md),
+Statesboro is a road-and-river town in The River Marches,
 known for musicians, ferry songs, quay gossip, and a local style more likely to
 make imperial listeners frown than dance correctly. Its dialect is thick, its
 craft goods travel farther than many of its people do, and anyone from the
@@ -1462,13 +1484,36 @@ Marches tends to light up when they hear the name.
 
 ### See also
 
-- [The River Marches](river-marches.md)
+- The River Marches
 - [The Last Lantern Inn](last-lantern-inn.md)
 - [Crossing Board](../economy/crossing-board.md)
-- [Statesboro Dance and Performance](statesboro-dance-and-performance.md)
-- [Statesboro Songbook](statesboro-songbook.md)
+- Statesboro Dance and Performance
+- Statesboro Songbook
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
+
+---
+
+## "The Third Key Guildhall"
+
+_Source: `content/locations/third-key-guildhall.md`_
+
+## What players would know
+
+The Third Key Guildhall occupies a narrow former countinghouse in Valdengratz,
+wedged between respectable merchant offices and a lane used by porters. Its
+front door bears only a small brass key with a third tooth.
+
+Inside, it looks like a place where records and deliveries are processed:
+benches, shelves, locked cabinets, and a counter for people who have arrived
+with the wrong name or the wrong problem.
+
+### Common rumors
+
+- The guildhall has three doors, but visitors are never told which one they
+  entered through.
+- The people behind the counter can find a missing person if the person wants
+  to be found.
 
 ---
 
