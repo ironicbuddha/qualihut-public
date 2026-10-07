@@ -31,6 +31,7 @@ Use this page as the table start page and fast-recall surface.
 - [Session 8 Recap: Blood in the Trees](meta/sessions/session-8/recap-player.md)
 - [Session 9 Recap: Bringing Nela Back](meta/sessions/session-9/recap-player.md)
 - [Session 10 Recap: Bloodroot Return and Customs](meta/sessions/session-10/recap-player.md)
+- [Session 11 Recap: White Stag and the Second Button](meta/sessions/session-11/recap-player.md)
 <!-- GENERATED_SESSION_RECAPS_END -->
 
 ## Current Campaign Context
