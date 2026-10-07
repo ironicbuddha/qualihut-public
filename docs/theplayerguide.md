@@ -116,6 +116,8 @@
 - [The Rusted Hook](#the-rusted-hook)  `content/locations/rusted-hook-tavern.md`
 - ["Sankt Orn's Rest"](#sankt-orns-rest)  `content/locations/sankt-orns-rest.md`
 - ["Statesboro"](#statesboro)  `content/locations/statesboro.md`
+- ["The Second Button"](#the-second-button)  `content/locations/the-second-button.md`
+- ["The Warm Press (Valdengratz)"](#the-warm-press-valdengratz)  `content/locations/the-warm-press.md`
 - ["The Third Key Guildhall"](#the-third-key-guildhall)  `content/locations/third-key-guildhall.md`
 - ["Tre Silli (Niederstadt)"](#tre-silli-niederstadt)  `content/locations/tre-silli.md`
 - [Valdengratz](#valdengratz)  `content/locations/valdengratz.md`
@@ -2976,6 +2978,52 @@ Marches tends to light up when they hear the name.
 - Statesboro Songbook
 - [Bob Johnson](../people/npcs/bob-johnson.md)
 - [Boy Willie Brown](../people/npcs/boy-willie-brown.md)
+
+---
+
+## "The Second Button"
+
+_Source: `content/locations/the-second-button.md`_
+
+## What players would know
+
+The Second Button is a small casino behind a respectable evening-clothes shop.
+Its sign shows a brass button hanging by a red thread. You can hire a coat at the
+front, lose its purchase price at the tables, and have the sleeves adjusted
+before you leave.
+
+Inside: oxblood felt, honey-colored lamps, narrow mirrors, and the dry rattle of
+bone dice. A seamstress works beside the coat desk. Staff mend a torn cuff
+without comment; they remember who tore it.
+
+### Common rumors
+
+- The house will lend you a coat before it will lend you a copper.
+- The private tables draw players whose names open doors across the city.
+- Some patrons leave with empty purses and very good appointments.
+
+---
+
+## "The Warm Press (Valdengratz)"
+
+_Source: `content/locations/the-warm-press.md`_
+
+## What players would know
+
+The Warm Press washes, mends, and presses clothes, and rents a few cheap rooms
+above the work floor. Its sign is a wooden smoothing iron with three brass pins
+hammered into the handle. Damp customers wait in borrowed shawls while their
+coats dry.
+
+The front room smells of hot linen, lye soap, and cabbage from the kitchen.
+Someone is always arguing about a missing stocking. Beyond the counter, a
+narrow staircase rises past curtains made from bedsheets too worn to rent out.
+
+### Common rumors
+
+- Ask for the “third pin” if your business needs a closed door.
+- They charge extra to return clothes without asking whose blood was on them.
+- The side stair is busier than the front door after dark.
 
 ---
 
