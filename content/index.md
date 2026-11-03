@@ -32,74 +32,56 @@ Use this page as the table start page and fast-recall surface.
 - [Session 9 Recap: Bringing Nela Back](meta/sessions/session-9/recap-player.md)
 - [Session 10 Recap: Bloodroot Return and Customs](meta/sessions/session-10/recap-player.md)
 - [Session 11 Recap: White Stag and the Second Button](meta/sessions/session-11/recap-player.md)
+- [Session 12 Recap: Caldera and the Volcano Ledger](meta/sessions/session-12/recap-player.md)
 <!-- GENERATED_SESSION_RECAPS_END -->
 
 ## Current Campaign Context
 
-The party has moved from interfering with a concealed Broadbarrel cargo chain
-to trying to understand when that cargo left the wagons. At Sankt Orn's Rest,
-the shock-braced compartments the party reached were empty. The suspicious
-wagons are still identifiable, and selected wagon positions showed unusual
-plant growth, but no physical trail revealed who moved the suspected cases or
-when the transfer happened.
+The party is in Valdengratz, preparing to operate as White Stag, a deniable
+team tasked with extracting the alchemist Matteo from the Southern Union.
+Before departure, they are following the remaining stolen-magic leads.
+Headquarters recovered twenty-four vials from the buried caches; the rest of
+the reported five hundred remain unaccounted for.
 
-The strongest explanations remain theories. The cargo may have moved during
-ordinary confusion, been hidden nearby for later reloading, affected the ground
-through concentrated magic, or crossed an unseen window involving Fey Roads or
-distorted time. None of those possibilities has been proved. The buried cases
-from the previous stop also remain unopened and unconfirmed.
+At the Warm Press, the party witnessed the aftermath of Esteban Caldera's
+assassination. Fren recognised the Cult of Ink's completed-contract mark.
+Byron subsequently reported the same cult had killed customs clerk Berto Senn
+and suspected someone was cleaning up loose ends. The client remains unknown.
+Branka and Marda never checked into their reserved rooms at the Brass Heron,
+and no arrest or sighting of Branka has been reported.
 
-The party has put information into motion to compensate. Fren sent one coded,
-sealed report toward Althric's office with recovery details for the buried
-cases and another toward the Valdengratz station with grounds for an inspection
-and a warning about the warded compartments. Branka detected an attempted
-covert entry into her room and is now more alert, while Jessa has seen Aurelia
-spending time with Marda. The caravan is preparing to leave Sankt Orn's Rest
-for the next leg toward Valdengratz.
+The party is now in Caldera's study, mid-morning. Some records were burnt,
+but a hidden safe preserved double accounts showing money laundering and a
+recurring entry called **Volcano**, appearing roughly every three months.
+They also found gems, a scroll warding against mind magic, and an escape
+identity naming Rafael Montesa of Vessara. The group agreed to take the find;
+its meaning still needs investigation.
 
 ### People currently relevant
 
-- [Esteban Caldera](people/npcs/esteban-caldera.md) - the hidden name drawn
-  from the coded ledger; his connection to the Valdengratz handoff is not yet
-  clear.
-- [Marda Flint](people/npcs/marda-flint.md) - the Brazen Pike's displaced
-  records-and-tallies hand, who knows enough to be useful and is being kept
-  away from sensitive work.
-- [Branka Voss](people/npcs/branka-voss.md) and
-  [Serak Thorn](people/npcs/serak-thorn.md) - escort leaders protecting the
-  hidden compartments and responding to their wards.
-- [Jessa Crow](people/npcs/jessa-crow.md) - assigned to watch Marda and keep
-  her away from sensitive matters; she has now seen Aurelia cultivating that
-  relationship.
-- [Lord Althric von Eichenwald](people/npcs/althric-von-eichenwald.md) - the
-  recipient of the party's coded recovery report about the buried cases.
+- **Esteban Caldera** — assassinated at the Warm Press; his surviving accounts provide the latest lead.
+- **Branka Voss and Marda Flint** — missing from their expected lodging; their whereabouts and circumstances remain unknown.
+- **Nello Varr** — expects the party at the Warm Press around lunchtime to collect a package for delivery to Vessara. Contents and recipient are still undisclosed.
+- **Byron Novembre** — the party's station contact; departure was discussed as sunset that day.
+- **Ada Serli** — introduced the party to Nello; Silk still owes her a favour.
 
 ### Places and forces in play
 
-- [The Broadbarrel Caravan](institutions/broadbarrel-caravan.md) - the
-  partially exposed cargo route whose inspected hidden compartments are now
-  empty.
-- [Sankt Orn's Rest](locations/sankt-orns-rest.md) - the town where the party
-  sent both reports and found the missing handoff window.
-- [Valdengratz](locations/valdengratz.md) - the named handoff point in the
-  ledger and the next place where allies may attempt an inspection.
-- [Brazen Pike Company](factions/brazen-pike-company.md) - the escort
-  controlling access to the suspicious wagons.
+- [Valdengratz](locations/valdengratz.md) — the city where the party is pursuing its remaining leads before departure.
+- **Caldera's manor** — the current location and source of the surviving accounts.
+- **Warm Press** — Nello's meeting place and the scene of Caldera's death.
+- **Brass Heron** — the party watched overnight, but neither Branka nor Marda arrived.
+- **Cult of Ink** — identified through the assassination mark; who hired it is unknown.
 
 ### Open Threads and Leads
 
-- Reach Valdengratz and coordinate with the warned station.
-- Learn whether Althric's people recovered the buried suspected cases.
-- Determine when the inspected Broadbarrel compartments were emptied.
-- Watch the marked wagons and any cargo that is repeatedly moved or unusually
-  guarded.
-- Work out whether the unusual plant growth is evidence, coincidence, or a
-  magical consequence.
-- Protect Marda or learn more from her without giving Jessa a cleaner link.
-- Learn who Esteban Caldera is and what he has to do with the Valdengratz
-  handoff.
-- Keep the attempted entry into Branka's room from becoming attributable to
-  the party.
+- Identify **Volcano** and explain the recurring ledger entries.
+- Examine Caldera's accounts and escape papers for connections to the missing magic.
+- Find out who ordered the killings of Caldera and Berto Senn.
+- Learn what happened to Branka and Marda.
+- Return to Nello at lunchtime for the promised package and delivery details.
+- Prepare for the Union mission before the sunset deadline.
+- Resolve the Bloodroot exposure: Cardinal Hofstetter retains the quartz, and the recommended cleansing ritual remains undone.
 
 <!-- GENERATED_REFERENCE_TABLES_START -->
 ## Player-Safe Reference Tables

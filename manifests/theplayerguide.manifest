@@ -2,7 +2,7 @@ OUTPUT=docs/theplayerguide
 TITLE=The Player Guide
 
 INCLUDE=content/_world_state.md
-INCLUDE=content/meta/campaign.md
+INCLUDE=content/meta/campaign/campaign.md
 
 INCLUDE=content/races/
 INCLUDE=content/environments/
