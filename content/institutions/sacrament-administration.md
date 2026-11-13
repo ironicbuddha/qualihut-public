@@ -13,4 +13,4 @@ Most people don’t know what sacrament is made from, only that it arrives by ca
 ### Common rumors
 
 - A missing crate of sacrament causes more panic than a missing crate of coin.
-- Some border towns have seen church caravans linger for days, as if waiting for the right omens to cross.
+- Some border towns have seen [church caravans](church-caravans.md) linger for days, as if waiting for the right omens to cross.

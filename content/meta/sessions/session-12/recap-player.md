@@ -6,8 +6,8 @@ type: session-recap
 
 ## Session 12 Recap: Caldera and the Volcano Ledger
 
-Before leaving the Second Button, Silk asked Ada about Esteban Caldera. She
-knew him as a smuggler and suggested asking at the Warm Press, where he kept
+Before leaving [the Second Button](../../../locations/the-second-button.md), Silk asked [Ada](../../../people/npcs/ada-serli.md) about [Esteban Caldera](../../../people/npcs/esteban-caldera.md). She
+knew him as a smuggler and suggested asking at [the Warm Press](../../../locations/the-warm-press.md), where he kept
 a room. As the party left, Terpsichore noticed the bar lady paying particular
 attention to their conversation and departure. Who she might be watching for
 remained an open question.
@@ -16,27 +16,27 @@ remained an open question.
 
 The group travelled through the undercity to the Warm Press, a busy bar above
 a pressing house. Asking for **the third pin** and naming the Second Button
-secured an introduction to **Nello Varr** upstairs.
+secured an introduction to **[Nello Varr](../../../people/npcs/nello-varr.md)** upstairs.
 
-Silk explained that Branka had left them caught up in a customs investigation.
-Nello suggested the **Brass Heron**, where Ponte Nero regularly lodged visiting
+Silk explained that [Branka](../../../people/npcs/branka-voss.md) had left them caught up in a customs investigation.
+Nello suggested the **[Brass Heron](../../../locations/brass-heron.md)**, where [Ponte Nero](../../../factions/ponte-nero.md) regularly lodged visiting
 mercenaries. He also knew that Caldera had a meeting at the Warm Press around
 midnight, and let the group wait in the bar.
 
 In return for his help, Nello proposed a delivery: collect a small package
-around lunchtime the next day and carry it to **Vessara**, capital of the
-Southern Union. Silk agreed to return. The recipient and contents would have
+around lunchtime the next day and carry it to **Vessara**, capital of [the
+Southern Union](../../../factions/southern-union.md). Silk agreed to return. The recipient and contents would have
 to wait until collection.
 
-Nello's office held a shrine to the raccoon-fox spirit. The party mentioned
+Nello's office held a shrine to the [raccoon-fox](../../../people/magical-creatures/raccoon-fox.md) spirit. The party mentioned
 similar sightings on their travels. Nello said that attracting its attention
 could be auspicious—or the opposite—and suggested consulting a proper shrine.
 
 ### Branka's empty room
 
-Fren and Aurelia went to the Brass Heron in disguise. With Aurelia charming
-the receptionist, they learned that Brazen Pike had rooms booked, but neither
-**Branka nor Marda** had checked in. The pair rented room five on the first
+[Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) and [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) went to the Brass Heron in disguise. With Aurelia charming
+the receptionist, they learned that [Brazen Pike](../../../factions/brazen-pike-company.md) had rooms booked, but neither
+**Branka nor [Marda](../../../people/npcs/marda-flint.md)** had checked in. The pair rented room five on the first
 floor, near the rooms reserved for them, and left its window open before
 returning to the Warm Press.
 
@@ -44,7 +44,7 @@ Meanwhile, Silk paid the young runner to point out Caldera when he arrived.
 Around eleven, Caldera entered with two companions, **Tomas and Ivo**, then
 went upstairs alone. Silk bought the pair drinks and joined them, carrying
 Terpsichore in the form of a little dog called **Princess**. Ivo came from
-Statesboro; Tomas was a Valdengratz local. They offered to introduce Silk to
+[Statesboro](../../../locations/statesboro.md); Tomas was a [Valdengratz](../../../locations/valdengratz.md) local. They offered to introduce Silk to
 Caldera.
 
 They never got the chance.
@@ -56,7 +56,7 @@ the bar. Fren turned invisible amid the commotion and followed the staff up.
 **Caldera was dead**, his throat cut at a desk.
 
 On Caldera's right hand, Fren saw an ink-like droplet crossed by a line. He
-recognised it as the **Cult of Ink's mark for a completed assassination
+recognised it as the **[Cult of Ink](../../../institutions/cult-of-ink.md)'s mark for a completed assassination
 contract**. Nello and the woman were discussing the death, and Nello sent his
 guard to fetch the city guard. Fren found no useful papers on the body; the
 desk and cabinet were locked.
@@ -67,12 +67,12 @@ regrouped outside, then chose to use the room already rented at the Brass
 Heron and keep watch for Branka or Marda.
 
 Neither arrived overnight. In the morning, caravan travellers and Brazen Pike
-members were at breakfast, including Jessa Crow, whom the party remembered
+members were at breakfast, including [Jessa Crow](../../../people/npcs/jessa-crow.md), whom the party remembered
 watching Marda and Aurelia. The group left without questioning them.
 
 ### Another death, and surviving records
 
-At the station, Byron already knew about Caldera. He reported a second Cult
+At the station, [Byron](../../../people/npcs/byron-novembre.md) already knew about Caldera. He reported a second Cult
 of Ink assassination: **Berto Senn, a customs clerk**. He suspected someone
 was cleaning up loose ends. There was still no report of Branka being arrested
 or even sighted.
@@ -91,8 +91,8 @@ legitimate businesses. One recurring entry appeared roughly every three months:
 
 The safe also held an escape kit: smaller gems and identity papers naming the
 holder **Rafael Montesa**, a merchant from Vessara. A separate lockbox contained
-two large blue gems and a scroll identified as a powerful **ward against mind
-magic**. The party agreed to take the records and valuables.
+two large blue gems and a scroll identified as a powerful **ward against [mind
+magic](../../../magic/spells/mind-magic.md)**. The party agreed to take the records and valuables.
 
 ## Where we left off
 

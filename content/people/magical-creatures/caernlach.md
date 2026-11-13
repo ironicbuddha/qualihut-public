@@ -13,7 +13,7 @@ When systems become too elegant—rituals too perfect, plans too clean, bargains
 ### Common rumors
 
 - The chuckle isn’t a sound. It’s a pattern break: the moment everything goes right and still feels wrong.
-- Fey Roads exist at the margins because the Fey don’t rule. They interfere.
+- Fey Roads exist at the margins because the [Fey](../../races/fey.md) don’t rule. They interfere.
 - The safest fey is the one who is bored with you.
 
 ### See also

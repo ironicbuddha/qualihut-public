@@ -25,7 +25,7 @@ People argue about calendars, but agree on one thing: when the moons align stran
 - One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
 - Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
 - Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
-- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+- [The Solar Church](../institutions/solar-church.md) pretends its miracles ignore the moons. Everybody else plans around them.
 
 ### See also
 

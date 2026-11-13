@@ -6,7 +6,7 @@ type: faction
 
 ## What players would know
 
-The Third Key is a Valdengratz thieves' guild. It is known less for street
+The Third Key is a [Valdengratz](../locations/valdengratz.md) thieves' guild. It is known less for street
 robbery than for access: rooms opened without damage, cargo moved between
 official counts, and introductions made before a person realizes they need one.
 

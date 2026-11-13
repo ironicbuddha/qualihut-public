@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-The Third Key Guildhall occupies a narrow former countinghouse in Valdengratz,
+The Third Key Guildhall occupies a narrow former countinghouse in [Valdengratz](valdengratz.md),
 wedged between respectable merchant offices and a lane used by porters. Its
 front door bears only a small brass key with a third tooth.
 

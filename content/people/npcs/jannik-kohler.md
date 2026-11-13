@@ -6,9 +6,9 @@ type: person
 
 ## What players would know
 
-Corporal Jannik Köhler is a City Watch corporal with the look of a man who
-doesn’t sleep enough and doesn’t complain about it. He drinks at The Brass
-Buckler with other Watch and keeps his voice low, like the walls can file a
+Corporal Jannik Köhler is a [City Watch](../../institutions/city-watch.md) corporal with the look of a man who
+doesn’t sleep enough and doesn’t complain about it. He drinks at [The Brass
+Buckler](../../locations/brass-buckler.md) with other Watch and keeps his voice low, like the walls can file a
 report.
 
 ### Common rumors

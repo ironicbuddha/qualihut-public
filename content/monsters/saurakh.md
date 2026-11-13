@@ -10,7 +10,7 @@ type: monster
 
 ![Saurakh](images/saurakh.png)
 
-The desert’s great herd reptiles, the saurakh are not “monsters” to the people who survive there. They are mobile water, shelter, and history: massive herbivores built to store and find what the desert refuses to keep in one place.
+[The desert](../environments/the-desert.md)’s great herd reptiles, the saurakh are not “monsters” to the people who survive there. They are mobile water, shelter, and history: massive herbivores built to store and find what the desert refuses to keep in one place.
 
 Caravans follow their routes the way towns follow rivers. When a herd changes its path, markets shift, oases get crowded, and someone’s law becomes someone else’s desperation.
 

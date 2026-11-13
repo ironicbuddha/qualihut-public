@@ -58,13 +58,13 @@ _Source: `content/_world_state.md`_
 
 ## World Snapshot
 
-Qualihut lies under the paper-sovereignty of the Divine Elvish Empire: a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
+Qualihut lies under the paper-sovereignty of the [Divine Elvish Empire](institutions/feudal-empire.md): a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
 
 Magic is real, finite, and increasingly _processed_ into something portable and tradable. The result is a world where spellcraft has a price tag and a custody chain—and where money can literally flare in your hands when you try to redeem it.
 
-Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; the central wilds refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under three moons. Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
+Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; [the central wilds](locations/central-wilds.md) refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under [three moons](environments/three-moons.md). Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
 
-Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
+Time is negotiated. The Empire keeps calendars and census clocks; the [Fey](races/fey.md) do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
 
 ## Current Pressures (Player-Facing)
 
@@ -227,7 +227,7 @@ People argue about calendars, but agree on one thing: when the moons align stran
 - One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
 - Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
 - Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
-- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+- [The Solar Church](../institutions/solar-church.md) pretends its miracles ignore the moons. Everybody else plans around them.
 
 ### See also
 
@@ -287,7 +287,7 @@ _Source: `content/magic/fey-roads.md`_
 
 The Fey Roads are not roads in the sensible sense. They are liminal paths where distance stops behaving, time slips its leash, and the world feels like it’s being negotiated rather than inhabited. People who travel them speak of “missing time” the way sailors speak of storms: not as a metaphor, but as a debt.
 
-Most sane folk avoid them. Those who can’t—spies, desperate merchants, pilgrims chasing miracles—do it with rituals, bargains, and guides who never quite answer questions directly. The Fey do not experience the Roads as dangerous; that’s part of what makes them terrifying.
+Most sane folk avoid them. Those who can’t—spies, desperate merchants, pilgrims chasing miracles—do it with rituals, bargains, and guides who never quite answer questions directly. The [Fey](../races/fey.md) do not experience the Roads as dangerous; that’s part of what makes them terrifying.
 
 ### Common rumors
 
@@ -473,7 +473,7 @@ _Source: `content/magic/nature-spirits-vs-fey.md`_
 ## What players would know
 
 Druids in Qualihut distinguish **place-bound nature spirits** (immanent,
-ecosystem-born persons) from the **Fey** (extrinsic visitors with different
+ecosystem-born persons) from the **[Fey](../races/fey.md)** (extrinsic visitors with different
 protocols). Mixing the two is a reliable way to misdiagnose a problem.
 
 ---
@@ -922,7 +922,7 @@ _Source: `content/meta/campaign/campaign.md`_
 
 ## What this campaign is
 
-This campaign lives in a high-magic feudal empire where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
+This campaign lives in a high-magic [feudal empire](../../institutions/feudal-empire.md) where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
 
 ### Tone & themes
 
@@ -1016,7 +1016,7 @@ Imperial authority is thin, so local lords, guilds, mayors, and caravans negotia
 
 ### Common rumors
 
-- Every province is controlled by one of the elven noble houses and has its own petty war brewing usually with neighboring provinces over some imagined slight or old grudge or contested resources, access to trade routes and so on the way petty neighbours usually feud.
+- Every province is controlled by one of the elven [noble houses](../institutions/noble-houses.md) and has its own petty war brewing usually with neighboring provinces over some imagined slight or old grudge or contested resources, access to trade routes and so on the way petty neighbours usually feud.
 - Paper notes and guild favors matter more than crowns.
 
 ---

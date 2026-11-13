@@ -10,7 +10,7 @@ type: location
 
 ![Casa dei Tre Spilli Guildhouse (Niederstadt)](images/casa-dei-tre-spilli-guildhouse.png)
 
-Casa dei Tre Spilli is one of those Niederstadt houses that pretends to be
+[Casa dei Tre Spilli](../factions/casa-dei-tre-spilli.md) is one of those [Niederstadt](niederstadt.md) houses that pretends to be
 three businesses at once: alterations, private rooms, and quiet company. The
 front looks harmless enough. The side stair looks like it has heard
 confessions. Locals often shorten it to

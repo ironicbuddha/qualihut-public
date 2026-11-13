@@ -7,7 +7,7 @@ type: person
 ## What players would know
 
 Nello Varr is the head washer at
-[the Warm Press](../../locations/the-warm-press.md) in Valdengratz. A wiry human
+[the Warm Press](../../locations/the-warm-press.md) in [Valdengratz](../../locations/valdengratz.md). A wiry human
 man in his early forties, he has a crooked nose, close-cut black curls, and
 forearms reddened by hot water. He wears a patched leather apron and keeps the
 rear-yard key on a cord beneath his shirt.

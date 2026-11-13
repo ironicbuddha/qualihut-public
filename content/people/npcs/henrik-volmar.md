@@ -7,7 +7,7 @@ type: person
 ## What players would know
 
 Henrik Volmar is a practical bulk-goods merchant who runs
-[The Broadbarrel Caravan](../../institutions/broadbarrel-caravan.md): salt pork
+[The Broadbarrel Caravan](../../institutions/broadbarrel-caravan.md): [salt pork](../../economy/salt-pork.md)
 jars, ale kegs, and yellow-grass sacks moved in big, boring volume.
 
 He pays for reliable security and predictable paperwork, not heroics.

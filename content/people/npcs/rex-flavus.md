@@ -10,7 +10,7 @@ type: person
 
 ![Rex Flavus](images/rex-flavus.png)
 
-Rex Flavus is a Ponte Nero routing clerk who works the night shift around
+Rex Flavus is a [Ponte Nero](../../factions/ponte-nero.md) routing clerk who works the night shift around
 animal-exchange paperwork and delivery sequencing. He has a reputation for
 keeping his hands clean while everyone else gets dirty.
 

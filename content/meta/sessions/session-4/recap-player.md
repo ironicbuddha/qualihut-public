@@ -6,12 +6,12 @@ type: session-recap
 
 ## Session 4 Recap: Broadbarrel Road
 
-The investigation left Hochsilvar behind and turned into an embedded road job.
+The investigation left [Hochsilvar](../../../locations/hochsilvar.md) behind and turned into an embedded road job.
 
 ## Recap
 
 You briefed your handler on what you had learned: the vault breach relied on
-living Valdieri blood, Branka was tied to the road lane, and Broadbarrel was
+living Valdieri blood, [Branka](../../../people/npcs/branka-voss.md) was tied to the road lane, and Broadbarrel was
 the strongest live lead. The answer back was simple: you had done enough to
 move. The city was now delay, not progress.
 
@@ -44,7 +44,7 @@ how carefully Branka's people controlled the road.
   caravan.
 - You confirmed that Branka's escort is disciplined, professional, and used to
   working together.
-- You did **not** yet confirm exactly where the refined magic is hidden among
+- You did **not** yet confirm exactly where the [refined magic](../../../magic/items/refined-magic.md) is hidden among
   the cargo.
 
 ## Current working picture

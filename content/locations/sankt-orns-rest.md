@@ -7,8 +7,8 @@ type: location
 ## What players would know
 
 Sankt Orn's Rest is a road town where caravans can add carts, repair wagons,
-lodge witnessed messages, and enter the Solar Church's custody system before
-the final approach to Valdengratz.
+lodge witnessed messages, and enter [the Solar Church](../institutions/solar-church.md)'s custody system before
+the final approach to [Valdengratz](valdengratz.md).
 
 The town grew around an older travelers' commons. Arriving crews still
 contribute food, labor, or spare tack to a common store, touch the worn

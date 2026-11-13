@@ -14,7 +14,7 @@ Most rangers specialize in a primary environment:
 
 - **Forest**: concealment, ambush, and reading canopy movement and animal displacement.
 - **Jungle**: disease, sabotage, and intelligence work in vertical, humid terrain.
-- **Desert**: water discipline, navigation by scarcity, and long-range interdiction.
+- **[Desert](../environments/the-desert.md)**: water discipline, navigation by scarcity, and long-range interdiction.
 - **Pass (Pass Wardens)**: mountain passes and hard corridors; escort and route-work where weather kills faster than blades (often an orc/half-orc specialty).
 
 ### Common rumors

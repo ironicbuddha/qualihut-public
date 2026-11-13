@@ -12,7 +12,7 @@ type: faction
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-La Casa dei Tre Spilli is a small Niederstadt thieves' guild wrapped in a
+La Casa dei Tre Spilli is a small [Niederstadt](../locations/niederstadt.md) thieves' guild wrapped in a
 respectable-enough front: mending, discreet rooms, and staff who know when not to
 remember faces. It is not rich enough to be elegant or brutal enough to be famous,
 which is exactly why certain kinds of business like it.

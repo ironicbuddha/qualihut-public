@@ -30,7 +30,7 @@ Any class can work here; what matters is where your power comes from and what it
 
 ### Subclass notes (current)
 
-- **Bards:** default PC colleges are **Lore** or **Dance**. Fey bards are NPC-facing; **College of Glamour** is not available for PCs. **College of Valor** is not used for PCs.
+- **Bards:** default PC colleges are **Lore** or **Dance**. [Fey](../races/fey.md) bards are NPC-facing; **College of Glamour** is not available for PCs. **College of Valor** is not used for PCs.
 
 ### Campaign contract (table expectations)
 
@@ -50,7 +50,7 @@ Any class can work here; what matters is where your power comes from and what it
 - Skills: +5 discretionary points across a short list (Deception, Insight, Intimidation, Investigation, Perception, Persuasion, Sleight of Hand, Stealth).
 - HP: either roll or take average per level.
 - Spells: curated/approved spell list. Current bans: **Goodberry**, **Find Traps**, **Knock**, **Prestidigitation**, **Protection from Evil and Good**.
-- Renamed spells (table terminology): **Fox Fire** (Faerie Fire), **Fiery Rebuke** (Hellish Rebuke), **Animal Omen** (Augury).
+- Renamed spells (table terminology): **Fox Fire** (Faerie Fire), **Fiery Rebuke** (Hellish Rebuke), **[Animal Omen](../magic/spells/animal-omen.md)** (Augury).
 - Explicitly ok: **Pass Without Trace**.
 - Starting gear: standard issue “assassin’s dagger” / returning dagger (in addition to normal gear).
 - Units: prefer **metric** (meters) at the table.

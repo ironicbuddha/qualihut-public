@@ -6,13 +6,13 @@ type: meta
 
 ## World Snapshot
 
-Qualihut lies under the paper-sovereignty of the Divine Elvish Empire: a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
+Qualihut lies under the paper-sovereignty of the [Divine Elvish Empire](institutions/feudal-empire.md): a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
 
 Magic is real, finite, and increasingly _processed_ into something portable and tradable. The result is a world where spellcraft has a price tag and a custody chain—and where money can literally flare in your hands when you try to redeem it.
 
-Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; the central wilds refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under three moons. Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
+Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; [the central wilds](locations/central-wilds.md) refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under [three moons](environments/three-moons.md). Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
 
-Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
+Time is negotiated. The Empire keeps calendars and census clocks; the [Fey](races/fey.md) do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
 
 ## Current Pressures (Player-Facing)
 

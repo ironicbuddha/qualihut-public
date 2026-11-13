@@ -16,7 +16,7 @@ Caravans usually skirt the edge of the plain. Those who cross do it in daylight,
 
 ### Common rumors
 
-- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
+- Giants walked the land before the [elves](../races/elves.md) “stood upright,” and these were left behind like dropped utensils.
 - The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
 - It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
 - After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.

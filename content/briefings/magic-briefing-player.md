@@ -11,7 +11,7 @@ In Qualihut, magic is real, useful, and never free.
 Two things matter more than spell lists:
 
 - Magic behaves like a **finite resource** you can refine, trade, and corrupt.
-- Time is **not universal**: consensus time exists; Fey time does not.
+- Time is **not universal**: consensus time exists; [Fey](../races/fey.md) time does not.
 
 ### The everyday reality
 
@@ -20,7 +20,7 @@ Two things matter more than spell lists:
 
 ### Refined magic (money that can explode)
 
-- Refined magic is power made portable—used like fuel, like currency, and like ordnance.
+- [Refined magic](../magic/items/refined-magic.md) is power made portable—used like fuel, like currency, and like ordnance.
 - It’s traded through seals, audits, and custody chains. If you touch it, you become interesting.
 
 ### Divine magic (miracles with bureaucracy)

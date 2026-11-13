@@ -38,7 +38,7 @@ This is why druids whisper: darkness is not evil—it is regulation; life that n
 
 ### The Fey Lord Who Chuckled
 
-And the Fey Lord looked upon what they had made—light with purpose, growth with rhythm, moons set to keep the dark from swallowing the living—and chuckled. In some tellings, the name of that sovereign is Caernlach.
+And the [Fey](../races/fey.md) Lord looked upon what they had made—light with purpose, growth with rhythm, moons set to keep the dark from swallowing the living—and chuckled. In some tellings, the name of that sovereign is [Caernlach](../people/magical-creatures/caernlach.md).
 
 Not in mockery. In recognition. The story says the Fey did not undo creation. They tilted it: bent distance, time, and certainty, just enough to keep the world alive.
 

@@ -8,7 +8,7 @@ type: person
 
 ![Vile Piglit](images/vile-piglit.png)
 
-Vile Piglit is a back-alley “rogue” in Niederstadt with an oversized swagger and a weapon he clearly can’t afford to lose. He talks like a veteran and moves like someone who learned intimidation from overheard stories.
+Vile Piglit is a back-alley “rogue” in [Niederstadt](../../locations/niederstadt.md) with an oversized swagger and a weapon he clearly can’t afford to lose. He talks like a veteran and moves like someone who learned intimidation from overheard stories.
 
 ### Common rumors
 

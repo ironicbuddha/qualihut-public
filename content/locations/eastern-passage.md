@@ -13,7 +13,7 @@ Settled folk call it impassable. Route people call it _priced_. Caravans that su
 ### Common rumors
 
 - Fire spirits guard the way and treat trespass like kindling.
-- Travelers can cross where armies can’t—because they don’t march, they negotiate.
+- [Travelers](../factions/travelers.md) can cross where armies can’t—because they don’t march, they negotiate.
 
 ### See also
 

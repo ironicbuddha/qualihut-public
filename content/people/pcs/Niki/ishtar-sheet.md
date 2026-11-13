@@ -11,7 +11,7 @@ type: person
 Ishtar is a wood-elf rogue and former acolyte: quiet, observant, persuasive,
 and built for infiltration rather than open confrontation.
 
-She joined the party at the handler briefing before the Broadbarrel pursuit and
+She joined the party at the handler briefing before the [Broadbarrel](../../../institutions/broadbarrel-caravan.md) pursuit and
 has quickly settled into the role of covert road operative.
 
 - Class / level: Rogue 3

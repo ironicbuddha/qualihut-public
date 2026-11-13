@@ -11,7 +11,7 @@ type: location
 ![The Rusted Hook (usual night)](images/rusted-hook-tavern.png)
 ![The Rusted Hook (post-blast cleanup)](images/rusted-hook-tavern-post-blast-01.png)
 
-The Rusted Hook is a dive bar in the roughest stretch of Niederstadt: cheap
+The Rusted Hook is a dive bar in the roughest stretch of [Niederstadt](niederstadt.md): cheap
 ale, bad air, and enough noise to bury a confession. People come here when they
 need a room that asks no questions and a crowd that minds its own survival.
 

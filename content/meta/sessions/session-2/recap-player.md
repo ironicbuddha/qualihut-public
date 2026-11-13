@@ -6,8 +6,8 @@ type: session-recap
 
 ## Session 2 Recap: Hochsilvar
 
-The investigation pushed deeper into Niederstadt and the transport networks
-around Ponte Nero.
+The investigation pushed deeper into [Niederstadt](../../../locations/niederstadt.md) and the transport networks
+around [Ponte Nero](../../../factions/ponte-nero.md).
 
 ## Read-Aloud Recap
 
@@ -16,7 +16,7 @@ low-grade street opportunists in a badly lit passage. You got through it
 without turning the whole district upside down, and in the aftermath settled
 on a codeword for real danger: `poet's balls`.
 
-At the Broken Seal, Aurelia reconnected with Cael Kohl, who pointed you toward
+At [the Broken Seal](../../../locations/broken-seal-tavern.md), [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) reconnected with Cael Kohl, who pointed you toward
 Rex Flavus in Ponte Nero and gave you a phrase to use: `we never did mind about
 the little things`. In return, Aurelia now owes Cael a favor.
 
@@ -28,12 +28,12 @@ guard.
 
 After that, you split up. One of you tailed Rex and learned that after work he
 stopped briefly at the Rusted Hook before heading home. The others went back
-through the bank and then to the Valdieri quarters, where you met Pietro Sarto
+through the bank and then to the [Valdieri quarters](../../../locations/valdieri-family-quarters.md), where you met Pietro Sarto
 at the gate and learned he could be found at the Lost Lantern.
 
 The next morning, when you checked back in on the bank side of the case, you
-confirmed something ugly: the guards who should have been posted at Banco
-Valdieri during the robbery had been reassigned through forged paperwork.
+confirmed something ugly: the guards who should have been posted at [Banco
+Valdieri](../../../institutions/banco-valdieri.md) during the robbery had been reassigned through forged paperwork.
 Captain Ensio Silbermark assigned detectives to investigate that internal mess.
 
 So, as we begin: you have a live meeting with Rex coming up, a servant contact

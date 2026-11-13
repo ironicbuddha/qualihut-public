@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-The Banco Valdieri Quarter is a wealthy slice of Hochsilvar:
+The Banco Valdieri Quarter is a wealthy slice of [Hochsilvar](hochsilvar.md):
 clean stone, guarded
 corners, expensive food, and shops that sell legitimacy at retail. It’s the kind
 of neighborhood where the street feels quieter because the consequences for

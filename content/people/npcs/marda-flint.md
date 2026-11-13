@@ -11,5 +11,5 @@ of someone already counting what will go missing if strangers get too close.
 
 ### Common rumors
 
-- If something is stolen from a Brazen Pike camp, Marda notices before the camp
+- If something is stolen from a [Brazen Pike](../../factions/brazen-pike-company.md) camp, Marda notices before the camp
   owner does.

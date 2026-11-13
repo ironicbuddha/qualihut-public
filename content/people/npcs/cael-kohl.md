@@ -12,10 +12,10 @@ type: person
 
 Cael Köhl is a polished undercity fixer with a habit of being in the right room
 five minutes before trouble starts. She works the edges of guild business around
-cards, couriers, and private introductions in Gesso Bianco circles, and she and
+cards, couriers, and private introductions in [Gesso Bianco](../../factions/gesso-bianco.md) circles, and she and
 the party's bard already know each other well enough to skip the usual posture.
 
-In Niederstadt she sometimes uses the name **Cale**, and can be found at
+In [Niederstadt](../../locations/niederstadt.md) she sometimes uses the name **Cale**, and can be found at
 [The Broken Seal](../../locations/broken-seal-tavern.md) after dark when she
 wants to be reachable.
 

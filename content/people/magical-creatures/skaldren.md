@@ -17,7 +17,7 @@ People invoke Skaldren in funerary rites, in confessions, and in the quiet langu
 
 ### Common rumors
 
-- If Althar is witness, Skaldren is receipt.
+- If [Althar](althar.md) is witness, Skaldren is receipt.
 - The Underworld can be bargained with, but not bribed.
 - Some oaths “hold” only because Skaldren remembers the shape of the promise.
 

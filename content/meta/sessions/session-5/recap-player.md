@@ -6,17 +6,17 @@ type: session-recap
 
 ## Session 5 Recap: Dawn Saurakh Raid
 
-The Broadbarrel lead turned from quiet observation into a disaster at the edge
+The [Broadbarrel](../../../institutions/broadbarrel-caravan.md) lead turned from quiet observation into a disaster at the edge
 of the road.
 
 ## Recap
 
 The caravan made camp beside the river as storm clouds gathered. There were
-about `35` wagons and roughly `40` saurakh, with the beasts corralled outside
-the main wagon circle. Earlier attempts to locate the hidden refined magic by
+about `35` wagons and roughly `40` [saurakh](../../../monsters/saurakh.md), with the beasts corralled outside
+the main wagon circle. Earlier attempts to locate the hidden [refined magic](../../../magic/items/refined-magic.md) by
 magic had not produced a clear result.
 
-Branka and Wilhelm were seen in tense conversation. Eavesdropping only caught
+[Branka](../../../people/npcs/branka-voss.md) and Wilhelm were seen in tense conversation. Eavesdropping only caught
 fragments, but the important word was clear: **goblins**. Branka then came to
 the party and explained that forward scouts had found a significant goblin
 presence in the woods. The guards would be doubled through the night, with
@@ -25,7 +25,7 @@ three shifts.
 The party debated whether to wait, help defend, or exploit the coming threat.
 Bianca went into the forest and returned with a weak herbal preparation that
 could make a few targets dizzy and uncertain on their feet. With music as a
-distraction, Ishtar successfully slipped the mixture into a Brazen Pike stew
+distraction, [Ishtar](../../../people/pcs/Niki/ishtar-sheet.md) successfully slipped the mixture into a [Brazen Pike](../../../factions/brazen-pike-company.md) stew
 pot.
 
 The night passed under worsening rain. Near dawn, as handlers began preparing
@@ -36,10 +36,10 @@ driving toward the beast enclosure.
 The fight broke open fast:
 
 - Bianca lit the first rush with moonlight, hurting several goblins and wolves.
-- Gash shot down multiple wolf riders from cover.
-- Fren tried to reposition across the wagons and spent much of the fight
+- [Gash](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) shot down multiple wolf riders from cover.
+- [Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) tried to reposition across the wagons and spent much of the fight
   wrestling with the mud.
-- Aurelia and Ishtar used the chaos to search wagons for signs of the hidden
+- [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) and Ishtar used the chaos to search wagons for signs of the hidden
   cargo.
 - Branka's people fought hard but were split between goblins, beasts, and
   keeping the caravan from collapsing.

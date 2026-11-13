@@ -8,7 +8,7 @@ type: location
 
 ![The Deep Market (Niederstadt)](images/niederstadt-deep-market.png)
 
-The Deep Market is Niederstadt’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
+The Deep Market is [Niederstadt](niederstadt.md)’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
 
 It’s the kind of market where you can buy a meal, a pry bar, and a lie within twenty paces.
 

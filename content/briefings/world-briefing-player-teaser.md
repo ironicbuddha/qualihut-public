@@ -8,7 +8,7 @@ type: briefing
 
 Ink is the Empire’s first weapon.
 
-They call it the Divine Elvish Empire, a sprawling feudal machine that claims whole regions with seals and signatures, then spends the next century discovering that maps don’t obey paperwork. In most towns, “the Empire” arrives as taxes, tolls, and sudden couriers bearing a stamped demand—someone, somewhere, has decided you belong to a ledger now.
+They call it the [Divine Elvish Empire](../institutions/feudal-empire.md), a sprawling feudal machine that claims whole regions with seals and signatures, then spends the next century discovering that maps don’t obey paperwork. In most towns, “the Empire” arrives as taxes, tolls, and sudden couriers bearing a stamped demand—someone, somewhere, has decided you belong to a ledger now.
 
 Power moves the same way: by courier, contract, and caravan. A noble’s decree is only as real as the riders who carry it. A guild’s promise is only as strong as the hands that witness it. When people speak of law, they mean the ability to enforce it without burning the world down in the process.
 
@@ -16,9 +16,9 @@ That tension—between what is claimed and what is controlled—is where Qualihu
 
 ## Magic, Made Portable
 
-Magic is real. It is also finite, tradable, and increasingly processed into something portable: refined magic, sealed into containers and moved like currency.
+Magic is real. It is also finite, tradable, and increasingly processed into something portable: [refined magic](../magic/items/refined-magic.md), sealed into containers and moved like currency.
 
-In the great cities, finance is becoming ritual. The Banking Guild offers promissory notes backed by vaults, seals, and witnessed redemption. Paper begins to behave like law. Merchants stop weighing coin and start weighing reputation. And when a ledger hiccups, a crowd can turn hungry fast—because the money in their hands is no longer just metal. It can flare, fail, or betray them.
+In the great cities, finance is becoming ritual. The [Banking Guild](../factions/banking-guild.md) offers promissory notes backed by vaults, seals, and witnessed redemption. Paper begins to behave like law. Merchants stop weighing coin and start weighing reputation. And when a ledger hiccups, a crowd can turn hungry fast—because the money in their hands is no longer just metal. It can flare, fail, or betray them.
 
 To spellcasters, refined magic is fuel: a way to push a casting beyond ordinary limits. To everyone else, it’s gold and gunpowder at the same time—valuable, dangerous, and worth killing for.
 
@@ -26,11 +26,11 @@ To spellcasters, refined magic is fuel: a way to push a casting beyond ordinary 
 
 In Qualihut, travel is never “routine.” It is a decision you make with your life.
 
-The Three-Moon Sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated. Old charts get people killed because they encourage confidence. Monsters treat shipping lanes like feeding corridors. Ports survive on conditional knowledge: this channel is passable _this month_, at _this moonrise_, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
+[The Three-Moon Sea](../environments/the-three-moon-sea.md) is not a road. With [three moons](../environments/three-moons.md) tugging at the world, tides argue with each other, currents migrate, and “safe passage” is never permanent—only negotiated. Old charts get people killed because they encourage confidence. Monsters treat shipping lanes like feeding corridors. Ports survive on conditional knowledge: this channel is passable _this month_, at _this moonrise_, if your captain knows the signs and your crew can stomach what they’ll see when the water decides to misbehave.
 
-Inland, old-growth forests are not wilderness so much as politics. Wood is scarce where it matters, and logging is trouble—legal trouble, religious trouble, and sometimes the kind of trouble that has no paperwork. Shrines appear where roads don’t, and certain groves are treated like borders: you can cross them, but only if you accept that you are being noticed.
+Inland, [old-growth forests](../environments/old-growth-forests.md) are not wilderness so much as politics. Wood is scarce where it matters, and logging is trouble—legal trouble, religious trouble, and sometimes the kind of trouble that has no paperwork. Shrines appear where roads don’t, and certain groves are treated like borders: you can cross them, but only if you accept that you are being noticed.
 
-And then there is the desert.
+And then there is [the desert](../environments/the-desert.md).
 
 The desert is not empty. It is unstable. Water does not “run” here; it relocates. Oases appear, vanish, and migrate as if the land is changing its mind. A good map is a story you can trade, not a truth you can trust. Caravans survive by treating the road as law: how you take water, what you leave behind, and whether you keep your word when the map stops caring.
 
@@ -38,13 +38,13 @@ The desert is not empty. It is unstable. Water does not “run” here; it reloc
 
 Fast travel exists—if you are willing to bargain with a world that does not experience time the way you do.
 
-The Fey Roads are liminal paths where distance stops behaving, time slips its leash, and the world feels like it’s being negotiated rather than inhabited. People speak of “missing time” the way sailors speak of storms: not as a metaphor, but as a debt. You can cross impossible distances, and return with memory-holes you cannot name, or a week you cannot account for, or an aftermath you didn’t earn but now have to live with.
+[The Fey Roads](../magic/fey-roads.md) are liminal paths where distance stops behaving, time slips its leash, and the world feels like it’s being negotiated rather than inhabited. People speak of “missing time” the way sailors speak of storms: not as a metaphor, but as a debt. You can cross impossible distances, and return with memory-holes you cannot name, or a week you cannot account for, or an aftermath you didn’t earn but now have to live with.
 
 Most sane folk avoid the Fey Roads. Those who can’t—spies, desperate merchants, pilgrims chasing miracles—do it with rituals, bargains, and guides who never quite answer questions directly.
 
 ## Faith, Authority, and the Price of Being Wrong
 
-The Empire keeps calendars and census clocks. The Fey do not. Time is negotiated.
+The Empire keeps calendars and census clocks. The [Fey](../races/fey.md) do not. Time is negotiated.
 
 Gods are present in the way storms are present—felt, argued about, never wholly trusted. People pray because it helps, because it might matter, because it’s what you do when the world is bigger than you. But no one sensible builds a plan that depends on divine certainty arriving on schedule.
 
@@ -54,7 +54,7 @@ Death is meaningful. The dead do not come back by default. If a return happens a
 
 Qualihut is a world of leverage: a stamped document that can move a caravan, a jar that can buy a city’s loyalty, a rumor that can start a war without a single banner raised.
 
-In the capital of Hochsilvar, court power turns defensive while guild power rises—decisions feel financial before they feel moral. At border cities like Valdengratz, passage is a market as much as it is a line: everyone sells something, whether it’s legitimacy, silence, or a stamped lid.
+In the capital of [Hochsilvar](../locations/hochsilvar.md), court power turns defensive while guild power rises—decisions feel financial before they feel moral. At border cities like [Valdengratz](../locations/valdengratz.md), passage is a market as much as it is a line: everyone sells something, whether it’s legitimacy, silence, or a stamped lid.
 
 And beyond the cities, the map is never finished. The wilds refuse to stay mapped. Sea routes migrate. Oases move. The Fey Roads whisper. The Empire claims, the world resists, and people adapt—ingeniously, ruthlessly, and often beautifully.
 
@@ -62,7 +62,7 @@ And beyond the cities, the map is never finished. The wilds refuse to stay mappe
 
 ### Ancestries (common and playable)
 
-In this campaign’s core assumptions, the “ordinary” mix is shaped by the Empire: humans and half-elves in the streets, elves in the archives and courts, and orcs wherever trade needs muscle, mediation, or someone who can speak to three different kinds of trouble in a single afternoon.
+In this campaign’s core assumptions, the “ordinary” mix is shaped by the Empire: [humans](../races/humans-living-in-the-elven-empire.md) and half-elves in the streets, [elves](../races/elves.md) in the archives and courts, and [orcs](../races/orcs.md) wherever trade needs muscle, mediation, or someone who can speak to three different kinds of trouble in a single afternoon.
 
 - **Human / Half-elf**: the Empire’s majority reality—local loyalties, hard compromises, and a life lived under paperwork that arrives from far away.
 - **Elf**: long-lived stewards of archives, forests, and heraldry; patient, political, and difficult to rush.

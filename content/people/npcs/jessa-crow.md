@@ -6,7 +6,7 @@ type: person
 
 ## What players would know
 
-Jessa Crow is the Brazen Pike face most likely to smile first and mean it
+Jessa Crow is the [Brazen Pike](../../factions/brazen-pike-company.md) face most likely to smile first and mean it
 least.
 
 ### Common rumors

@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-Lanternbreak Clearing is a long-used caravan camp on the Valdengratz route: a
+Lanternbreak Clearing is a long-used caravan camp on the [Valdengratz](valdengratz.md) route: a
 broad open patch in sparse timber where wagons can circle, fires can be seen,
 and sentries can watch every approach.
 

@@ -34,4 +34,4 @@ that arrives with seals.
 - [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
-- Banco Valdieri Investigation (quest)
+- [Banco Valdieri Investigation](../briefings/banco-valdieri-investigation.md) (quest)

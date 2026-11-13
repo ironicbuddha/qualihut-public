@@ -6,7 +6,7 @@ type: person
 
 ## What players would know
 
-Dren Malvo is one of the visibly dangerous Brazen Pike veterans: shield forward,
+Dren Malvo is one of the visibly dangerous [Brazen Pike](../../factions/brazen-pike-company.md) veterans: shield forward,
 eyes level, no interest in speaking twice.
 
 ### Common rumors

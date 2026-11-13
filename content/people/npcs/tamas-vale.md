@@ -6,7 +6,7 @@ type: person
 
 ## What players would know
 
-Tamas Vale is the one Brazen Pike arcanist people underestimate because he
+Tamas Vale is the one [Brazen Pike](../../factions/brazen-pike-company.md) arcanist people underestimate because he
 looks more like a tired scholar than a battlefield problem.
 
 ### Common rumors

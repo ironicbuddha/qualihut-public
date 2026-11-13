@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-The Brass Heron is a mid-level inn in Valdengratz's better quarter: clean
+The Brass Heron is a mid-level inn in [Valdengratz](valdengratz.md)'s better quarter: clean
 enough for merchants and company officers, plain enough that a traveler can
 stay there without becoming a topic of conversation. Its brass sign shows a
 long-legged heron standing in shallow water.

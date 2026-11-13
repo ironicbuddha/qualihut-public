@@ -6,7 +6,7 @@ type: combat-setup
 
 ## What players would know
 
-A known mugger spot in Niederstadt where tunnel lanes cross near a rough
+A known mugger spot in [Niederstadt](niederstadt.md) where tunnel lanes cross near a rough
 limestone chamber. Most locals avoid it unless they have numbers or local
 protection.
 

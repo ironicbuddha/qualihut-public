@@ -10,7 +10,7 @@ type: location
 
 ![Ventresca Guildhouse (Niederstadt)](images/ventresca-guildhouse.png)
 
-Niederstadt has offices that don’t advertise: basements where ink dries fast, where
+[Niederstadt](niederstadt.md) has offices that don’t advertise: basements where ink dries fast, where
 your name matters more than your face, and where a stamped receipt can make
 contraband look like cargo. If you don’t know where to knock, you’ll never find
 them.

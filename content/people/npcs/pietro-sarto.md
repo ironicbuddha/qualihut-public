@@ -10,14 +10,14 @@ type: person
 
 ![Pietro Sarto](images/pietro-sarto.png)
 
-Pietro Sarto is a stable boy and runner at the Valdieri family quarters in
-Hochsilvar’s Imperial City. He knows tack, schedules, and which doors servants
+Pietro Sarto is a stable boy and runner at the [Valdieri family quarters](../../locations/valdieri-family-quarters.md) in
+[Hochsilvar](../../locations/hochsilvar.md)’s Imperial City. He knows tack, schedules, and which doors servants
 are allowed to use. He is a young half-elf, around sixteen, with white hair,
 blue eyes, and the start of a wispy beard. He is polite to anyone in good cloth
 and wary of anyone who asks questions like a magistrate. He is from
 [Statesboro](../../locations/statesboro.md) in
 The River Marches, which is why any talk of
-Bob Johnson and Boy Willie Brown gets through his professional composure faster
+[Bob Johnson](bob-johnson.md) and [Boy Willie Brown](boy-willie-brown.md) gets through his professional composure faster
 than most things do.
 
 He is one of the party's servant-side contacts on the Valdieri thread.

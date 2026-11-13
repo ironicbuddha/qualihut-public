@@ -8,9 +8,9 @@ type: monster
 
 ![Skyrider](images/skyrider.png)
 
-A skyrider is a desert flying reptile that rides heat the way ships ride wind. It glides on thermals, hunts by vibration and scent, and can vanish into dust-haze with alarming speed.
+A skyrider is a [desert](../environments/the-desert.md) flying reptile that rides heat the way ships ride wind. It glides on thermals, hunts by vibration and scent, and can vanish into dust-haze with alarming speed.
 
-In settled lands, “skyrider” is used sloppily to mean the animal, the bonded rider, or the pair. Among the Travelers, the word is respected: it names a creature that can keep you alive—or get you killed—faster than a blade.
+In settled lands, “skyrider” is used sloppily to mean the animal, the bonded rider, or the pair. Among [the Travelers](../factions/travelers.md), the word is respected: it names a creature that can keep you alive—or get you killed—faster than a blade.
 
 ### Common rumors
 

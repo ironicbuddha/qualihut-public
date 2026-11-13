@@ -6,7 +6,7 @@ type: session-recap
 
 ## Session 3 Recap: Hochsilvar
 
-The Banco Valdieri investigation stopped feeling like a sealed city mystery and
+The [Banco Valdieri investigation](../../../briefings/banco-valdieri-investigation.md) stopped feeling like a sealed city mystery and
 started feeling like a live moving operation.
 
 ## What happened
@@ -17,14 +17,14 @@ started feeling like a live moving operation.
 - You established that a handoff took place at
   **[Tre Silli](../../../locations/tre-silli.md)**, connecting the blood trail to
   the female orc you were tracking.
-- That strongly tied **Branka** to the blood side of the job rather than only
+- That strongly tied **[Branka](../../../people/npcs/branka-voss.md)** to the blood side of the job rather than only
   the road side.
-- You confirmed that **Broadbarrel** was traveling under **Brazen Pike** guard.
+- You confirmed that **[Broadbarrel](../../../institutions/broadbarrel-caravan.md)** was traveling under **[Brazen Pike](../../../factions/brazen-pike-company.md)** guard.
 - Branka’s behavior around the shipment made it clear that the cargo matters
   enough to justify serious escort discipline.
 - You also discovered that the city is not neutral ground anymore:
   street kids and at least one goblin rooftop courier are part of a watcher
-  network, and Gash in particular may already be under observation.
+  network, and [Gash](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) in particular may already be under observation.
 
 ## Current working theory
 
@@ -42,8 +42,8 @@ Broadbarrel now looks like the strongest live lead.
 ## Active leads for next session
 
 - Catch up to **Broadbarrel** and find a way to stay close to the caravan.
-- Decide whether to spend any remaining time in Hochsilvar on unfinished city
-  leads such as **Pietro** or **[Tre Silli](../../../locations/tre-silli.md)**.
+- Decide whether to spend any remaining time in [Hochsilvar](../../../locations/hochsilvar.md) on unfinished city
+  leads such as **[Pietro](../../../people/npcs/pietro-sarto.md)** or **[Tre Silli](../../../locations/tre-silli.md)**.
 - Work out who is running the local watcher network and how much they already
   know about your movements.
 

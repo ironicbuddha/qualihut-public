@@ -12,7 +12,7 @@ type: location
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-Duvalli Vineyard is spoken of as a remote wine estate supplying select merchants in Hochsilvar. Most people know it by label, not by map.
+Duvalli Vineyard is spoken of as a remote wine estate supplying select merchants in [Hochsilvar](hochsilvar.md). Most people know it by label, not by map.
 
 Caravans that claim Duvalli origin are treated as routine trade, which makes the name useful for legitimate commerce and suspicious movement alike.
 

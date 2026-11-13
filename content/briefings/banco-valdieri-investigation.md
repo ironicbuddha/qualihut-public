@@ -12,7 +12,7 @@ Joint Task Force personnel only. Do not copy. Do not annotate. Do not discuss ou
 
 ### Situation summary
 
-Banco Valdieri has suffered a major theft of refined magic jars. This threatens public confidence in the [Banking Guild](../factions/banking-guild.md)’s promissory-note system and, by extension, the calm the Crown is selling to the city.
+Banco Valdieri has suffered a major theft of [refined magic](../magic/items/refined-magic.md) jars. This threatens public confidence in the [Banking Guild](../factions/banking-guild.md)’s promissory-note system and, by extension, the calm the Crown is selling to the city.
 
 This occurs during **[The Royal Games](../institutions/royal-games.md)** (solstice week). Hochsilvar is overcrowded: rival supporters roam drunk and loud, cargo traffic surges, and every empty bed is already occupied. Expect delays, distractions, and incidents that look “random” until they don’t.
 

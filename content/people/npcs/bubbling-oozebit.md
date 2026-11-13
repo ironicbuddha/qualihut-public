@@ -8,7 +8,7 @@ type: person
 
 ![Bubbling Oozebit](images/bubbling-oozebit.png)
 
-Bubbling Oozebit is a wiry alley-rogue in Niederstadt with nervous hands and a grin that appears whenever he’s frightened. He’s the kind of person who laughs at the wrong time because silence feels like doom. he has a persistent nasal drip, which makes him sniff frequently.
+Bubbling Oozebit is a wiry alley-rogue in [Niederstadt](../../locations/niederstadt.md) with nervous hands and a grin that appears whenever he’s frightened. He’s the kind of person who laughs at the wrong time because silence feels like doom. he has a persistent nasal drip, which makes him sniff frequently.
 
 ### Common rumors
 

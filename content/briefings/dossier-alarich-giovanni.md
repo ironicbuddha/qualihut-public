@@ -9,9 +9,9 @@ type: handout
 > FILE: BV-PRINCIPALS / HOCHSILVAR  
 > DATE: ████-██-██  
 > HANDLING: INTERNAL / NEED-TO-KNOW  
-> NOTE: Portions of this document have been **redacted** to preserve operational integrity and prevent panic behavior during Royal Games week.
+> NOTE: Portions of this document have been **redacted** to preserve operational integrity and prevent panic behavior during [Royal Games](../institutions/royal-games.md) week.
 
-### Subject A — Giovanni Valdieri (Bank Owner)
+### Subject A — [Giovanni Valdieri](../people/npcs/giovanni-valdieri.md) (Bank Owner)
 
 **Summary assessment:** _Mostly harmless._ Dangerous only in the way influential people become dangerous when frightened.
 
@@ -30,7 +30,7 @@ type: handout
 
 **Recommendation:** treat as a stakeholder, not a suspect. Keep him talking. Do not promise outcomes you can’t deliver.
 
-### Subject B — Magister Argentum Alarich von Silberhain (Ward Custodian)
+### Subject B — [Magister Argentum Alarich von Silberhain](../people/npcs/alarich-von-silberhain.md) (Ward Custodian)
 
 **Summary assessment:** _Mostly harmless._ A procedural specialist with a bruised ego and a ledger-brain.
 

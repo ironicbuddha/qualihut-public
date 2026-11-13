@@ -11,7 +11,7 @@ type: person
 ![Waldrun](images/waldrun.png)
 ![Waldrun — Iconography](images/waldrun-iconography.png)
 
-Waldrun is the Forest: the god of borders, wild law, and things that grow without permission. Where Althar’s worship is administered, Waldrun’s is practiced: groves, taboos, animal signs, and the quiet certainty that the land does not care who owns it.
+Waldrun is the Forest: the god of borders, wild law, and things that grow without permission. Where [Althar](althar.md)’s worship is administered, Waldrun’s is practiced: groves, taboos, animal signs, and the quiet certainty that the land does not care who owns it.
 
 Druidic tradition teaches that mortals can only perceive Waldrun through masks—three sacred forms that do different work in the world:
 

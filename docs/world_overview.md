@@ -83,13 +83,13 @@ _Source: `content/_world_state.md`_
 
 ## World Snapshot
 
-Qualihut lies under the paper-sovereignty of the Divine Elvish Empire: a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
+Qualihut lies under the paper-sovereignty of the [Divine Elvish Empire](institutions/feudal-empire.md): a sprawling feudal machine that claims everything in ink and controls far less in practice. Power travels by courier, contract, and caravan; most people feel “the Empire” as taxes, tolls, and the sudden arrival of someone with a seal.
 
 Magic is real, finite, and increasingly _processed_ into something portable and tradable. The result is a world where spellcraft has a price tag and a custody chain—and where money can literally flare in your hands when you try to redeem it.
 
-Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; the central wilds refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under three moons. Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
+Travel is dangerous by default. [Old-growth forests](environments/old-growth-forests.md) are protected and politically touchy; [the central wilds](locations/central-wilds.md) refuse to stay mapped; the [Three-Moon Sea](environments/the-three-moon-sea.md) is unstable under [three moons](environments/three-moons.md). Those who gamble on the [Fey Roads](magic/fey-roads.md) can cross impossible distances, but time and memory do not always come back in the same shape.
 
-Time is negotiated. The Empire keeps calendars and census clocks; the Fey do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
+Time is negotiated. The Empire keeps calendars and census clocks; the [Fey](races/fey.md) do not. Gods are present in the way storms are present—felt, argued about, never wholly trusted. The dead do not come back by default; if a return happens at all, it is a cost, a condition, or a story.
 
 ## Current Pressures (Player-Facing)
 
@@ -310,7 +310,7 @@ Most households keep mild blends for preservation and parasite-killing. The trul
 
 ### Common rumors
 
-- The best spice comes from insects that only feed on yellow grass during the height of summer.
+- The best spice comes from insects that only feed on [yellow grass](yellow-grass.md) during the height of summer.
 - Some “spice” isn’t heat at all—just a joy that makes you forget the hour.
 
 ---
@@ -428,7 +428,7 @@ _Source: `content/economy/saurakh.md`_
 
 Saurakh are the caravans’ quiet miracle: huge herbivorous reptiles built for heat, distance, and long days under a harness. A good saurakh team can haul a life’s worth of goods across bad roads without eating itself into bankruptcy. A panicked saurakh can turn a crowded street into a disaster before anyone finishes shouting.
 
-They are heat-tolerant and most active in the day in desert regions, but in high-altitude cold they become nearly motionless to conserve warmth. In temperate parts of the Empire they can be pushed into night travel under duress, though handlers consider it bad practice.
+They are heat-tolerant and most active in the day in [desert](../environments/the-desert.md) regions, but in high-altitude cold they become nearly motionless to conserve warmth. In temperate parts of the Empire they can be pushed into night travel under duress, though handlers consider it bad practice.
 
 ### Names you might hear
 
@@ -452,14 +452,14 @@ _Source: `content/economy/sea-trade-routes.md`_
 
 ## What players would know
 
-The sea is not a road. With three moons tugging at the world, tides argue with each other, currents migrate, and whole stretches of water become treacherous without warning. “Normal shipping” exists only as a story told by people who want investors.
+The sea is not a road. With [three moons](../environments/three-moons.md) tugging at the world, tides argue with each other, currents migrate, and whole stretches of water become treacherous without warning. “Normal shipping” exists only as a story told by people who want investors.
 
 Real routes are conditional: a certain moonrise, a certain season, a certain captain who survived it and hasn’t gone soft in the head. Merchants pay for tide-readers, priest-navigators, armed convoys, and insurance scribes who write contracts like prayers. Lose a route, and ports starve; hold one, and everyone suddenly has an opinion about your morals.
 
 ### Common rumors
 
 - The safest lane this year won’t be the safest lane next year—don’t trust old charts.
-- Some captains swear the sea recognizes ships that have spilled refined magic.
+- Some captains swear the sea recognizes ships that have spilled [refined magic](../magic/items/refined-magic.md).
 
 ### See also
 
@@ -542,7 +542,7 @@ Farmers talk about it like it has moods. A cloudy summer can thin the harvest; a
 ### Common rumors
 
 - The yellow in the stalk is “stored sunlight,” and certain priests insist you can taste the season in the crust.
-- Some old families claim the elves taught the crop… and taught it to be dependent, too.
+- Some old families claim the [elves](../races/elves.md) taught the crop… and taught it to be dependent, too.
 
 ### See also
 
@@ -696,7 +696,7 @@ People argue about calendars, but agree on one thing: when the moons align stran
 - One moon is always “high” (strong), one is fading, and one is quiet. The world is never neutral.
 - Triple alignment is rare and weird: births don’t fit lineage, vows bind too hard, and old stories walk around like they own the place.
 - Triple alignment comes about once in a lifetime—roughly every four decades—and every calendar lies about the exact week.
-- The Solar Church pretends its miracles ignore the moons. Everybody else plans around them.
+- [The Solar Church](../institutions/solar-church.md) pretends its miracles ignore the moons. Everybody else plans around them.
 
 ### See also
 
@@ -761,7 +761,7 @@ that arrives with seals.
 - [Banco Valdieri (institution)](../institutions/banco-valdieri.md)
 - [Hochsilvar](hochsilvar.md)
 - [Niederstadt](niederstadt.md)
-- Banco Valdieri Investigation (quest)
+- [Banco Valdieri Investigation](../briefings/banco-valdieri-investigation.md) (quest)
 
 ---
 
@@ -771,7 +771,7 @@ _Source: `content/locations/banco-valdieri-quarter.md`_
 
 ## What players would know
 
-The Banco Valdieri Quarter is a wealthy slice of Hochsilvar:
+The Banco Valdieri Quarter is a wealthy slice of [Hochsilvar](hochsilvar.md):
 clean stone, guarded
 corners, expensive food, and shops that sell legitimacy at retail. It’s the kind
 of neighborhood where the street feels quieter because the consequences for
@@ -821,7 +821,7 @@ _Source: `content/locations/brass-heron.md`_
 
 ## What players would know
 
-The Brass Heron is a mid-level inn in Valdengratz's better quarter: clean
+The Brass Heron is a mid-level inn in [Valdengratz](valdengratz.md)'s better quarter: clean
 enough for merchants and company officers, plain enough that a traveler can
 stay there without becoming a topic of conversation. Its brass sign shows a
 long-legged heron standing in shallow water.
@@ -873,7 +873,7 @@ _Source: `content/locations/casa-dei-tre-spilli-guildhouse.md`_
 
 ![Casa dei Tre Spilli Guildhouse (Niederstadt)](images/casa-dei-tre-spilli-guildhouse.png)
 
-Casa dei Tre Spilli is one of those Niederstadt houses that pretends to be
+[Casa dei Tre Spilli](../factions/casa-dei-tre-spilli.md) is one of those [Niederstadt](niederstadt.md) houses that pretends to be
 three businesses at once: alterations, private rooms, and quiet company. The
 front looks harmless enough. The side stair looks like it has heard
 confessions. Locals often shorten it to
@@ -943,7 +943,7 @@ _Source: `content/locations/duvalli-vineyard.md`_
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-Duvalli Vineyard is spoken of as a remote wine estate supplying select merchants in Hochsilvar. Most people know it by label, not by map.
+Duvalli Vineyard is spoken of as a remote wine estate supplying select merchants in [Hochsilvar](hochsilvar.md). Most people know it by label, not by map.
 
 Caravans that claim Duvalli origin are treated as routine trade, which makes the name useful for legitimate commerce and suspicious movement alike.
 
@@ -984,7 +984,7 @@ Settled folk call it impassable. Route people call it _priced_. Caravans that su
 ### Common rumors
 
 - Fire spirits guard the way and treat trespass like kindling.
-- Travelers can cross where armies can’t—because they don’t march, they negotiate.
+- [Travelers](../factions/travelers.md) can cross where armies can’t—because they don’t march, they negotiate.
 
 ### See also
 
@@ -998,7 +998,7 @@ _Source: `content/locations/glass-and-moth.md`_
 
 ## What players would know
 
-Glass & Moth is a licensed curios and ingredients shop in Hochsilvar's wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
+Glass & Moth is a licensed curios and ingredients shop in [Hochsilvar](hochsilvar.md)'s wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
 
 The proprietor is Mordecai Orichalcum.
 
@@ -1025,7 +1025,7 @@ Key:
 
 - If you touch the wrong jar without asking, you forget what you meant to buy.
 - Nothing in the front racks is truly dangerous. The dangerous things are behind the curtain.
-- The staff can tell who has handled refined magic recently, just by the residue it leaves in your habits.
+- The staff can tell who has handled [refined magic](../magic/items/refined-magic.md) recently, just by the residue it leaves in your habits.
 
 ---
 
@@ -1062,7 +1062,7 @@ _Source: `content/locations/hochsilvar-city-square-market.md`_
 
 ![Hochsilvar City Square Market](images/hochsilvar-city-square-market-01.png)
 
-This is Hochsilvar’s main city-square market: a loud wet market where food, candles, rope, soap, and small mercies are bought in the open air beneath Watch eyes.
+This is [Hochsilvar](hochsilvar.md)’s main city-square market: a loud wet market where food, candles, rope, soap, and small mercies are bought in the open air beneath Watch eyes.
 
 During **[The Royal Games](../institutions/royal-games.md)** it becomes a moving wall of bodies—chants, drunk supporters, and temporary stalls swelling the lanes until you can’t tell whether you’re being jostled by accident or assessed.
 
@@ -1125,7 +1125,7 @@ _Source: `content/locations/lanternbreak-clearing.md`_
 
 ## What players would know
 
-Lanternbreak Clearing is a long-used caravan camp on the Valdengratz route: a
+Lanternbreak Clearing is a long-used caravan camp on the [Valdengratz](valdengratz.md) route: a
 broad open patch in sparse timber where wagons can circle, fires can be seen,
 and sentries can watch every approach.
 
@@ -1235,7 +1235,7 @@ _Source: `content/locations/niederstadt-avenue-of-butchers.md`_
 
 ![Avenue of Butchers](images/niederstadt-avenue-of-butchers-01.png)
 
-Avenue of Butchers is Niederstadt’s meat street: a long, covered lane of hooks, smoke, salt, and knives where people buy what keeps and sells what doesn’t.
+Avenue of Butchers is [Niederstadt](niederstadt.md)’s meat street: a long, covered lane of hooks, smoke, salt, and knives where people buy what keeps and sells what doesn’t.
 
 They’re famous for charcuterie that travels well—sausages, smoked cuts, cured strips—food built for laborers, caravans, and anyone who wants a meal that doesn’t ask questions.
 
@@ -1253,7 +1253,7 @@ _Source: `content/locations/niederstadt-crossroads-hold-up.md`_
 
 ## What players would know
 
-A known mugger spot in Niederstadt where tunnel lanes cross near a rough
+A known mugger spot in [Niederstadt](niederstadt.md) where tunnel lanes cross near a rough
 limestone chamber. Most locals avoid it unless they have numbers or local
 protection.
 
@@ -1277,7 +1277,7 @@ _Source: `content/locations/niederstadt-deep-market.md`_
 
 ![The Deep Market (Niederstadt)](images/niederstadt-deep-market.png)
 
-The Deep Market is Niederstadt’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
+The Deep Market is [Niederstadt](niederstadt.md)’s hard commerce: food that keeps in damp stone, tools that don’t ask questions, and stalls where metalwork, armor fittings, and “spare” weapons are sold with the calm efficiency of people who expect inspections to fail.
 
 It’s the kind of market where you can buy a meal, a pry bar, and a lie within twenty paces.
 
@@ -1295,7 +1295,7 @@ _Source: `content/locations/niederstadt-echo-amphitheatre.md`_
 
 ## What players would know
 
-Deep in Niederstadt there’s an amphitheatre whose acoustics are unnervingly perfect: a whisper on the stone can carry like a confession, and applause can sound like a verdict.
+Deep in [Niederstadt](niederstadt.md) there’s an amphitheatre whose acoustics are unnervingly perfect: a whisper on the stone can carry like a confession, and applause can sound like a verdict.
 
 People use it for performances when they want an audience that won’t talk about it later. Others use it because it’s one of the few places below where a message can be heard exactly as spoken—no wind, no street noise, no misunderstanding.
 
@@ -1315,7 +1315,7 @@ _Source: `content/locations/niederstadt.md`_
 
 ![Niederstadt](images/niederstadt.png)
 
-Niederstadt is the city beneath [Hochsilvar](hochsilvar.md): aqueducts, older stone, and neighborhoods the surface insists are “temporary” despite being older than some noble houses. It is where water moves, goods move, and secrets move—especially when streets above are watched.
+Niederstadt is the city beneath [Hochsilvar](hochsilvar.md): aqueducts, older stone, and neighborhoods the surface insists are “temporary” despite being older than some [noble houses](../institutions/noble-houses.md). It is where water moves, goods move, and secrets move—especially when streets above are watched.
 
 To live topside is to pretend the undercity is an embarrassment. To live below is to know the undercity is infrastructure.
 
@@ -1370,7 +1370,7 @@ Caravans usually skirt the edge of the plain. Those who cross do it in daylight,
 
 ### Common rumors
 
-- Giants walked the land before the elves “stood upright,” and these were left behind like dropped utensils.
+- Giants walked the land before the [elves](../races/elves.md) “stood upright,” and these were left behind like dropped utensils.
 - The cups sometimes “hum” during solstice storms—too low to hear, but enough to feel in your teeth.
 - It’s customary to toss a coin or a crust of bread into the nearest cup when passing; nobody remembers why, but most travelers do it anyway.
 - After heavy storms, a cup is occasionally found “full”: rainwater, dead birds, or—rarely—perfectly dry salt.
@@ -1389,9 +1389,9 @@ _Source: `content/locations/ponte-nero-guildhouse.md`_
 
 ![Ponte Nero Guildhouse Yard](images/ponte-nero-guildhouse.png)
 
-In Niederstadt there are “stables” that don’t smell like stables and “pilgrimage
+In [Niederstadt](niederstadt.md) there are “stables” that don’t smell like stables and “pilgrimage
 logistics” offices that seem to know which streets will be closed tomorrow. Most
-people only learn the name Ponte Nero when they need a route more than an answer.
+people only learn the name [Ponte Nero](../factions/ponte-nero.md) when they need a route more than an answer.
 
 ### Common rumors
 
@@ -1411,7 +1411,7 @@ _Source: `content/locations/rusted-hook-tavern.md`_
 ![The Rusted Hook (usual night)](images/rusted-hook-tavern.png)
 ![The Rusted Hook (post-blast cleanup)](images/rusted-hook-tavern-post-blast-01.png)
 
-The Rusted Hook is a dive bar in the roughest stretch of Niederstadt: cheap
+The Rusted Hook is a dive bar in the roughest stretch of [Niederstadt](niederstadt.md): cheap
 ale, bad air, and enough noise to bury a confession. People come here when they
 need a room that asks no questions and a crowd that minds its own survival.
 
@@ -1429,8 +1429,8 @@ _Source: `content/locations/sankt-orns-rest.md`_
 ## What players would know
 
 Sankt Orn's Rest is a road town where caravans can add carts, repair wagons,
-lodge witnessed messages, and enter the Solar Church's custody system before
-the final approach to Valdengratz.
+lodge witnessed messages, and enter [the Solar Church](../institutions/solar-church.md)'s custody system before
+the final approach to [Valdengratz](valdengratz.md).
 
 The town grew around an older travelers' commons. Arriving crews still
 contribute food, labor, or spare tack to a common store, touch the worn
@@ -1548,7 +1548,7 @@ _Source: `content/locations/third-key-guildhall.md`_
 
 ## What players would know
 
-The Third Key Guildhall occupies a narrow former countinghouse in Valdengratz,
+The Third Key Guildhall occupies a narrow former countinghouse in [Valdengratz](valdengratz.md),
 wedged between respectable merchant offices and a lane used by porters. Its
 front door bears only a small brass key with a third tooth.
 
@@ -1571,7 +1571,7 @@ _Source: `content/locations/tre-silli.md`_
 
 ## What players would know
 
-Tre Silli is the quick Niederstadt street-name people use for the shabby house
+Tre Silli is the quick [Niederstadt](niederstadt.md) street-name people use for the shabby house
 of rooms, stitching, and discreet business tied to
 [Casa dei Tre Spilli Guildhouse (Niederstadt)](casa-dei-tre-spilli-guildhouse.md).
 People say it casually when they want to sound local and vaguely when they do
@@ -1643,7 +1643,7 @@ _Source: `content/locations/vellum-and-vine.md`_
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-Vellum & Vine is a polished wine merchant and tasting room in Hochsilvar’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
+Vellum & Vine is a polished wine merchant and tasting room in [Hochsilvar](hochsilvar.md)’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
 
 Locals treat it as respectable commerce. People who work investigations treat it as a place where courier traffic and client lists matter as much as the wine.
 
@@ -1664,7 +1664,7 @@ _Source: `content/locations/ventresca-guildhouse.md`_
 
 ![Ventresca Guildhouse (Niederstadt)](images/ventresca-guildhouse.png)
 
-Niederstadt has offices that don’t advertise: basements where ink dries fast, where
+[Niederstadt](niederstadt.md) has offices that don’t advertise: basements where ink dries fast, where
 your name matters more than your face, and where a stamped receipt can make
 contraband look like cargo. If you don’t know where to knock, you’ll never find
 them.
@@ -1751,7 +1751,7 @@ Imperial authority is thin, so local lords, guilds, mayors, and caravans negotia
 
 ### Common rumors
 
-- Every province is controlled by one of the elven noble houses and has its own petty war brewing usually with neighboring provinces over some imagined slight or old grudge or contested resources, access to trade routes and so on the way petty neighbours usually feud.
+- Every province is controlled by one of the elven [noble houses](../institutions/noble-houses.md) and has its own petty war brewing usually with neighboring provinces over some imagined slight or old grudge or contested resources, access to trade routes and so on the way petty neighbours usually feud.
 - Paper notes and guild favors matter more than crowns.
 
 ---

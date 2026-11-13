@@ -8,7 +8,7 @@ type: location
 
 ![Hochsilvar City Square Market](images/hochsilvar-city-square-market-01.png)
 
-This is Hochsilvar’s main city-square market: a loud wet market where food, candles, rope, soap, and small mercies are bought in the open air beneath Watch eyes.
+This is [Hochsilvar](hochsilvar.md)’s main city-square market: a loud wet market where food, candles, rope, soap, and small mercies are bought in the open air beneath Watch eyes.
 
 During **[The Royal Games](../institutions/royal-games.md)** it becomes a moving wall of bodies—chants, drunk supporters, and temporary stalls swelling the lanes until you can’t tell whether you’re being jostled by accident or assessed.
 

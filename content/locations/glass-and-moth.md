@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-Glass & Moth is a licensed curios and ingredients shop in Hochsilvar's wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
+Glass & Moth is a licensed curios and ingredients shop in [Hochsilvar](hochsilvar.md)'s wealthy core, tucked into the [Banco Valdieri Quarter](banco-valdieri-quarter.md). It sells the practical end of magic: things you can measure, label, seal, and argue about.
 
 The proprietor is Mordecai Orichalcum.
 
@@ -33,4 +33,4 @@ Key:
 
 - If you touch the wrong jar without asking, you forget what you meant to buy.
 - Nothing in the front racks is truly dangerous. The dangerous things are behind the curtain.
-- The staff can tell who has handled refined magic recently, just by the residue it leaves in your habits.
+- The staff can tell who has handled [refined magic](../magic/items/refined-magic.md) recently, just by the residue it leaves in your habits.

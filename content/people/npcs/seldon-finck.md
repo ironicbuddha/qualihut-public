@@ -9,7 +9,7 @@ type: person
 ![Seldon Finck](images/seldon-finck.png)
 
 Seldon Finck is a tall female elf of Umbral origin who serves as a Customs and
-Excise adjudicator in Valdengratz. She is conservatively dressed, severe in
+Excise adjudicator in [Valdengratz](../../locations/valdengratz.md). She is conservatively dressed, severe in
 manner, and rarely raises her voice. In daylight she wears smoked glasses; her
 white hair is tied back in a practical ponytail, and her piercing violet eyes
 are difficult to forget.

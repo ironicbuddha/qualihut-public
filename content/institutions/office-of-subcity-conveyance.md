@@ -10,7 +10,7 @@ type: institution
 
 ![Office of Subcity Conveyance](images/office-of-subcity-conveyance.png)
 
-The Office of Subcity Conveyance is the Niederstadt-facing authority over ramps,
+The Office of Subcity Conveyance is the [Niederstadt](../locations/niederstadt.md)-facing authority over ramps,
 freight declarations, tunnel closures, and the paperwork that decides whether a
 load is delayed, inspected, or allowed to vanish below. Most people only deal
 with it when a wagon is missing, a manifest is wrong, or a clerk decides the

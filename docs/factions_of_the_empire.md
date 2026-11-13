@@ -122,7 +122,7 @@ _Source: `content/factions/casa-dei-tre-spilli.md`_
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-La Casa dei Tre Spilli is a small Niederstadt thieves' guild wrapped in a
+La Casa dei Tre Spilli is a small [Niederstadt](../locations/niederstadt.md) thieves' guild wrapped in a
 respectable-enough front: mending, discreet rooms, and staff who know when not to
 remember faces. It is not rich enough to be elegant or brutal enough to be famous,
 which is exactly why certain kinds of business like it.
@@ -259,7 +259,7 @@ _Source: `content/factions/third-key.md`_
 
 ## What players would know
 
-The Third Key is a Valdengratz thieves' guild. It is known less for street
+The Third Key is a [Valdengratz](../locations/valdengratz.md) thieves' guild. It is known less for street
 robbery than for access: rooms opened without damage, cargo moved between
 official counts, and introductions made before a person realizes they need one.
 
@@ -346,7 +346,7 @@ _Source: `content/institutions/banco-valdieri.md`_
 
 ![Banco Valdieri](images/banco-valdieri.png)
 
-Banco Valdieri is one of [Hochsilvar](../locations/hochsilvar.md)’s marble-faced certainties: reputable, wealthy, and guarded like a minor palace. It sits close to the [Banking Guild](../factions/banking-guild.md)’s promissory-note experiment, where paper promises are backed by refined magic and the public is asked to believe the ledgers.
+Banco Valdieri is one of [Hochsilvar](../locations/hochsilvar.md)’s marble-faced certainties: reputable, wealthy, and guarded like a minor palace. It sits close to the [Banking Guild](../factions/banking-guild.md)’s promissory-note experiment, where paper promises are backed by [refined magic](../magic/items/refined-magic.md) and the public is asked to believe the ledgers.
 
 If you want to know how much power a bank has, don’t look at its coin—look at who defers to it. Valdieri gets visits from guild representatives, court couriers, and people who never give their full names.
 
@@ -372,7 +372,7 @@ _Source: `content/institutions/broadbarrel-caravan.md`_
 
 ![The Broadbarrel Caravan](images/broadbarrel-caravan.png)
 
-The Broadbarrel Caravan is a slow, heavy staple convoy: salt pork jars, ale
+The Broadbarrel Caravan is a slow, heavy staple convoy: [salt pork](../economy/salt-pork.md) jars, ale
 kegs, and yellow-grass sacks hauled in bulk under strict schedules.
 
 It is run by [Henrik Volmar](../people/npcs/henrik-volmar.md) and currently
@@ -1077,7 +1077,7 @@ They are also the one house commonly associated with **warlock power**—not as 
 - Their ancestor made a pact with an entity called **The Silent Poet**, and the debt still echoes in the bloodline.
 - Their warlocks are tolerated because they are useful—and watched because they are never fully trusted.
 - Their household teaches “restraint” like a martial art: when not to speak, when not to write, when not to remember.
-- Outsiders call them “the House of Warlocks,” usually when they think no one is listening.
+- Outsiders call them “the [House of Warlocks](house-of-warlocks.md),” usually when they think no one is listening.
 
 ---
 
@@ -1138,7 +1138,7 @@ _Source: `content/institutions/lamp-feeders-niederstadt.md`_
 
 ![Lamp Feeders (Niederstadt Utility)](images/lamp-feeders-niederstadt.png)
 
-The Lamp Feeders are Niederstadt's municipal lighting crews. They maintain
+The Lamp Feeders are [Niederstadt](../locations/niederstadt.md)'s municipal lighting crews. They maintain
 caged bioluminescent beetles that light tunnels, stairs, and market approaches
 through the undercity night.
 
@@ -1164,7 +1164,7 @@ _Source: `content/institutions/lineage-stewardship.md`_
 
 ## What players would know
 
-Elven noble houses treat family like a long project. Lineage stewards are the people who keep that project on track: genealogists, match‑brokers, physicians, and quiet advisors who talk about “harmony” the way generals talk about supply.
+Elven [noble houses](noble-houses.md) treat family like a long project. Lineage stewards are the people who keep that project on track: genealogists, match‑brokers, physicians, and quiet advisors who talk about “harmony” the way generals talk about supply.
 
 In polite company, stewardship is framed as care—preventing scandal, preserving health, arranging alliances. In rougher company, it’s framed as control. Human courtiers whisper about ledgers that track bloodlines across centuries and about children “sent away” to cloisters for reasons nobody will state plainly.
 
@@ -1283,7 +1283,7 @@ _Source: `content/institutions/office-of-subcity-conveyance.md`_
 
 ![Office of Subcity Conveyance](images/office-of-subcity-conveyance.png)
 
-The Office of Subcity Conveyance is the Niederstadt-facing authority over ramps,
+The Office of Subcity Conveyance is the [Niederstadt](../locations/niederstadt.md)-facing authority over ramps,
 freight declarations, tunnel closures, and the paperwork that decides whether a
 load is delayed, inspected, or allowed to vanish below. Most people only deal
 with it when a wagon is missing, a manifest is wrong, or a clerk decides the
@@ -1357,7 +1357,7 @@ Most rangers specialize in a primary environment:
 
 - **Forest**: concealment, ambush, and reading canopy movement and animal displacement.
 - **Jungle**: disease, sabotage, and intelligence work in vertical, humid terrain.
-- **Desert**: water discipline, navigation by scarcity, and long-range interdiction.
+- **[Desert](../environments/the-desert.md)**: water discipline, navigation by scarcity, and long-range interdiction.
 - **Pass (Pass Wardens)**: mountain passes and hard corridors; escort and route-work where weather kills faster than blades (often an orc/half-orc specialty).
 
 ### Common rumors
@@ -1401,7 +1401,7 @@ Most people don’t know what sacrament is made from, only that it arrives by ca
 ### Common rumors
 
 - A missing crate of sacrament causes more panic than a missing crate of coin.
-- Some border towns have seen church caravans linger for days, as if waiting for the right omens to cross.
+- Some border towns have seen [church caravans](church-caravans.md) linger for days, as if waiting for the right omens to cross.
 
 ---
 

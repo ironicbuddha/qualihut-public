@@ -10,12 +10,12 @@ The wolves did not stay dead.
 
 As the party pushed toward Nela's cries, cracking bones sounded behind them.
 The three Hemowolves rose again and spread out through the undergrowth. The
-party brought them down a second time, then took precautions: Gashesh cut off
-their heads, Fren supplied oil, and Ishtar set the piled bodies alight.
+party brought them down a second time, then took precautions: [Gashesh](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) cut off
+their heads, [Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) supplied oil, and [Ishtar](../../../people/pcs/Niki/ishtar-sheet.md) set the piled bodies alight.
 
 The stench left Fren doubled over and vomiting. Beneath the party's feet,
 roots began grabbing at boots. Progress became a succession of falls, cuts,
-and helping one another upright. Aurelia's scratched left arm grew cold and
+and helping one another upright. [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md)'s scratched left arm grew cold and
 stiff. Ahead, an animated tree struck Ishtar hard enough to send her sprawling.
 
 Once Fren could cast again, his icy armor froze the growth that lashed at him.
@@ -42,7 +42,7 @@ and reassured her.
 Back at the caravan, Nela ran into her father's arms. The rescuers received
 a heroes' welcome, followed by a request to quarantine with Nela, away from
 the other travelers and the animals. The caravan would remain overnight.
-When Aurelia explained her lingering numbness, Branka sent a guard to clean
+When Aurelia explained her lingering numbness, [Branka](../../../people/npcs/branka-voss.md) sent a guard to clean
 and treat the wound. Warmth returned, and eventually her arm felt like her
 own again.
 
@@ -57,5 +57,5 @@ responsibility to the people still beside him.
 - Nela is alive and back with her father.
 - The party has been asked to quarantine after its exposure in the grove.
 - The caravan is staying overnight and plans to leave in the morning.
-- Valdengratz lies ahead. Fren hopes his earlier message will bring help, and
+- [Valdengratz](../../../locations/valdengratz.md) lies ahead. Fren hopes his earlier message will bring help, and
   has suggested using the contraband barrels to prompt a caravan search.

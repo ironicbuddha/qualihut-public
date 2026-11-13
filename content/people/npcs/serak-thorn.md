@@ -6,11 +6,11 @@ type: person
 
 ## What players would know
 
-Serak Thorn is Branka Voss's lieutenant in the
+Serak Thorn is [Branka Voss](branka-voss.md)'s lieutenant in the
 [Brazen Pike Company](../../factions/brazen-pike-company.md): a hard-faced
 contract sergeant who speaks like every word is part of a checklist.
 
-On the Broadbarrel run, he is the one most likely to handle procedure, guard
+On the [Broadbarrel](../../institutions/broadbarrel-caravan.md) run, he is the one most likely to handle procedure, guard
 discipline, and any conversation that sounds like a problem.
 
 ### Common rumors

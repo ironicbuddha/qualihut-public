@@ -17,7 +17,7 @@ Farmers talk about it like it has moods. A cloudy summer can thin the harvest; a
 ### Common rumors
 
 - The yellow in the stalk is “stored sunlight,” and certain priests insist you can taste the season in the crust.
-- Some old families claim the elves taught the crop… and taught it to be dependent, too.
+- Some old families claim the [elves](../races/elves.md) taught the crop… and taught it to be dependent, too.
 
 ### See also
 

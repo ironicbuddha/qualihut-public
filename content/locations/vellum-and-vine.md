@@ -12,7 +12,7 @@ type: location
 
 <!-- Replace with a player-safe image path next to this .md. -->
 
-Vellum & Vine is a polished wine merchant and tasting room in Hochsilvar’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
+Vellum & Vine is a polished wine merchant and tasting room in [Hochsilvar](hochsilvar.md)’s wealthy core, where expensive bottles and discreet conversations are sold in equal measure.
 
 Locals treat it as respectable commerce. People who work investigations treat it as a place where courier traffic and client lists matter as much as the wine.
 

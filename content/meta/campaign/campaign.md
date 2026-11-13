@@ -6,7 +6,7 @@ type: meta
 
 ## What this campaign is
 
-This campaign lives in a high-magic feudal empire where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
+This campaign lives in a high-magic [feudal empire](../../institutions/feudal-empire.md) where guild power is rising, divine institutions are unreliable in ways nobody wants to admit, and “fast travel” exists only through liminal bargains that bend time and memory.
 
 ### Tone & themes
 

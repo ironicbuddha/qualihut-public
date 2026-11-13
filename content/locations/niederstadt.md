@@ -8,7 +8,7 @@ type: location
 
 ![Niederstadt](images/niederstadt.png)
 
-Niederstadt is the city beneath [Hochsilvar](hochsilvar.md): aqueducts, older stone, and neighborhoods the surface insists are “temporary” despite being older than some noble houses. It is where water moves, goods move, and secrets move—especially when streets above are watched.
+Niederstadt is the city beneath [Hochsilvar](hochsilvar.md): aqueducts, older stone, and neighborhoods the surface insists are “temporary” despite being older than some [noble houses](../institutions/noble-houses.md). It is where water moves, goods move, and secrets move—especially when streets above are watched.
 
 To live topside is to pretend the undercity is an embarrassment. To live below is to know the undercity is infrastructure.
 

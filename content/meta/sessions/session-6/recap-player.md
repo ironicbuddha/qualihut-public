@@ -11,7 +11,7 @@ physical.
 
 ## Recap
 
-Gash and Aurelia took
+[Gash](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) and [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) took
 Bianca Montelupo's remains back
 to a nearby druid circle. The druids were expecting you. They had prepared a
 place for her, spoke of the knowledge she had carried and would no longer pass
@@ -21,10 +21,10 @@ Gash received a small pouch of soil from the burial place. Aurelia offered a
 song. The night became more wake than ceremony, with food, wine, quiet company,
 and stories of Bianca as she had actually been.
 
-Back with the Broadbarrel problem, the recovered ledger proved stranger than
+Back with the [Broadbarrel](../../../institutions/broadbarrel-caravan.md) problem, the recovered ledger proved stranger than
 ordinary cargo paperwork. It smelled of wet ink, salt, and something bitter. It
 was written in code, referred to seals and linked documents, and pointed toward
-a handoff at Valdengratz.
+a handoff at [Valdengratz](../../../locations/valdengratz.md).
 
 Several phrases stood out:
 
@@ -33,14 +33,14 @@ Several phrases stood out:
 - `quiet jars`
 
 The ledger also showed the same wagon appearing against three different cargo
-references, with important linking details missing. When Fren and Aurelia
+references, with important linking details missing. When [Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) and Aurelia
 studied the blank space where a name should have been, the page pushed back:
 pressure in the throat, wet ink where no ink should be, and a sign of the
 Silent Poet's influence.
 
 With `Identify`, Fren drew a hidden name out of the blank:
 
-**Esteban Caldera.**
+**[Esteban Caldera](../../../people/npcs/esteban-caldera.md).**
 
 The caravan then gained a new complication. A nervous arithmancer named
 [Magister Lio Greven](../../../people/npcs/lio-greven.md) arrived with a
@@ -56,13 +56,13 @@ and tallies, but Marda had been pushed onto ordinary wagon-readiness work
 instead. She was angry, off balance, and no longer doing the job she was
 supposed to control.
 
-Ishtara overheard Branka and Serak discussing Marda. They wanted
+Ishtara overheard [Branka](../../../people/npcs/branka-voss.md) and [Serak](../../../people/npcs/serak-thorn.md) discussing Marda. They wanted
 [Jessa Crow](../../../people/npcs/jessa-crow.md) to keep an eye on her and keep
 her away from sensitive matters.
 
 Aurelia got Marda drinking and talking. Marda revealed that about ten wagons
 had additional shock bracing even though they were supposedly carrying ordinary
-freight like wheat, yellow grass, and ale. One damaged wagon had already shown
+freight like wheat, [yellow grass](../../../economy/yellow-grass.md), and ale. One damaged wagon had already shown
 a hidden compartment near the front under the driver's seat.
 
 The party tested the pattern. Under cover of invisibility, music, camp noise,
@@ -84,8 +84,8 @@ The numbers are worrying. If one box holds about twelve vials, then ten boxes
 would only account for about one hundred and twenty vials. The Valdieri theft
 was much larger than that.
 
-The next stop is Sankt Orn's Rest, a market and church town associated with the
-sun god. The current plan is to use the postal system there to send Althric a
+The next stop is [Sankt Orn's Rest](../../../locations/sankt-orns-rest.md), a market and church town associated with the
+sun god. The current plan is to use the postal system there to send [Althric](../../../people/npcs/althric-von-eichenwald.md) a
 secure message: a partial cache has been found, buried, and marked, and someone
 else should be sent to recover it.
 
@@ -130,6 +130,6 @@ chance that Branka notices the pattern.
 - Work out how many more boxes can be removed before Branka reacts.
 - Decide whether Marda can be used, protected, or turned.
 - Learn who Esteban Caldera is.
-- Find out whether the remaining stolen refined magic is elsewhere in the
+- Find out whether the remaining stolen [refined magic](../../../magic/items/refined-magic.md) is elsewhere in the
   caravan, on another route, or already split into another chain.
 - Keep Jessa from connecting the party to the missing boxes.

@@ -10,7 +10,7 @@ type: location
 
 ![The Broadbarrel Caravan](images/broadbarrel-caravan.png)
 
-The Broadbarrel Caravan is a slow, heavy staple convoy: salt pork jars, ale
+The Broadbarrel Caravan is a slow, heavy staple convoy: [salt pork](../economy/salt-pork.md) jars, ale
 kegs, and yellow-grass sacks hauled in bulk under strict schedules.
 
 It is run by [Henrik Volmar](../people/npcs/henrik-volmar.md) and currently

@@ -9,14 +9,14 @@ type: session-recap
 The quarantine morning began with dreams.
 
 Each of the party had woken with a vivid, uneasy memory: roots, earth, and the
-sense of being pulled down. Branka found no visible corruption, but asked them
-to watch for it over the next forty-eight hours. If anything appeared, the
-Solar Church in Valdengratz might be able to help.
+sense of being pulled down. [Branka](../../../people/npcs/branka-voss.md) found no visible corruption, but asked them
+to watch for it over the next forty-eight hours. If anything appeared, [the
+Solar Church](../../../institutions/solar-church.md) in [Valdengratz](../../../locations/valdengratz.md) might be able to help.
 
 The party chose to return to the Bloodroot Grove before the caravan got too far
 away. Branka supplied healing, medical kits, oil, and a light steel helm that
-Fren identified as a defense against charm and other mind-affecting magic.
-Aurelia took the helm.
+[Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) identified as a defense against charm and other mind-affecting magic.
+[Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) took the helm.
 
 The grove was dying. Its growth had begun to rot, and the clearing contained old
 crates, the strange helm, and five pieces of quartz marked with red veins. The
@@ -27,7 +27,7 @@ rang like a bell.
 The party investigated the former root-cages. The one that had held Nela opened
 into a deep passage below the tree; fire thrown down it sent smoke climbing back
 out. The other siphons were different: hardened within, but still capable of
-causing strange sensations. Gashesh was briefly overcome with unnatural hunger
+causing strange sensations. [Gashesh](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) was briefly overcome with unnatural hunger
 and then eye irritation near separate trunks.
 
 Fire alone was not enough. Healing magic opened one of the siphons, and a crude
@@ -45,15 +45,15 @@ river city whose border crossing runs on customs stamps, cargo seals, and close
 inspection. Fren sent a warning to the guards about the suspicious barrels.
 Customs began searching the caravan.
 
-Seldon Finck, a Customs and Excise adjudicator, heard the warning. Henrik and
+[Seldon Finck](../../../people/npcs/seldon-finck.md), a Customs and Excise adjudicator, heard the warning. Henrik and
 Branka answered with an accusation of their own: they said they had watched the
 party approach the barrels and that the party was responsible for the smuggled
 wine. Finck found that the seals had been tampered with.
 
 The party's cover credentials did not satisfy Finck's records, and the group
 was taken to the customs office while the dispute was examined. Fren shared the
-broader investigation with the officials, including the name Esteban Caldera.
-At last Byron Novembre arrived. He confirmed that the party were agents of Der
+broader investigation with the officials, including the name [Esteban Caldera](../../../people/npcs/esteban-caldera.md).
+At last [Byron Novembre](../../../people/npcs/byron-novembre.md) arrived. He confirmed that the party were agents of Der
 Weitblick on a national-security mission and took responsibility for bringing
 them to a debrief.
 

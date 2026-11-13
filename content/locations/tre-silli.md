@@ -6,7 +6,7 @@ type: location
 
 ## What players would know
 
-Tre Silli is the quick Niederstadt street-name people use for the shabby house
+Tre Silli is the quick [Niederstadt](niederstadt.md) street-name people use for the shabby house
 of rooms, stitching, and discreet business tied to
 [Casa dei Tre Spilli Guildhouse (Niederstadt)](casa-dei-tre-spilli-guildhouse.md).
 People say it casually when they want to sound local and vaguely when they do

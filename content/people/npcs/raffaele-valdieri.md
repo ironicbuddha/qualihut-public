@@ -10,7 +10,7 @@ type: person
 
 ![Raffaele Valdieri](images/raffaele-valdieri.png)
 
-Raffaele Valdieri is a minor Valdieri cousin: the kind of family member who gets invited to dinners for appearances and quietly managed the rest of the time. In Hochsilvar’s rumor economy, he’s “the problem relative” with expensive tastes and unreliable judgment.
+Raffaele Valdieri is a minor Valdieri cousin: the kind of family member who gets invited to dinners for appearances and quietly managed the rest of the time. In [Hochsilvar](../../locations/hochsilvar.md)’s rumor economy, he’s “the problem relative” with expensive tastes and unreliable judgment.
 
 ### Common rumors
 

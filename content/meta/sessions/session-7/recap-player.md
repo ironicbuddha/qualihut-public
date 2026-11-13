@@ -11,11 +11,11 @@ then discovered that the suspected cargo had moved without anyone seeing when.
 
 ## Recap
 
-The Broadbarrel caravan reached
+[The Broadbarrel caravan](../../../institutions/broadbarrel-caravan.md) reached
 [Sankt Orn's Rest](../../../locations/sankt-orns-rest.md), a road town where
 repairs, witnessed messages, Church custody, and caravan records all meet.
 
-Fren used the town's Post-Service to send two coded, sealed reports. The first
+[Fren](../../../people/pcs/Ben/frenunulemulo-sheet.md) used the town's Post-Service to send two coded, sealed reports. The first
 went to
 [Lord Althric von Eichenwald](../../../people/npcs/althric-von-eichenwald.md)
 and described the suspected cases buried beside the road, the landmarks used
@@ -27,9 +27,9 @@ compartments, and a warning that the compartments may be trapped or dangerous
 to force open.
 
 While those messages entered the relay, the party created cover in the town's
-inn. Aurelia bought drinks for
+inn. [Aurelia](../../../people/pcs/Thandi/aurelia-sheet.md) bought drinks for
 [Marda Flint](../../../people/npcs/marda-flint.md), played for the room, and
-kept Marda away from the rest of the Brazen Pike for as long as she could.
+kept Marda away from the rest of the [Brazen Pike](../../../factions/brazen-pike-company.md) for as long as she could.
 Marda did not give up a new piece of hard evidence, and she saw through
 Aurelia's attempt to suggest that something was about to go wrong. Aurelia
 covered the awkwardness by presenting the evening as a search for friendly
@@ -43,7 +43,7 @@ recommendation to Fren's old academy. He also helped Fren look at the cargo
 problem differently: if the count does not balance, follow the wagons that are
 repeatedly moved, watched, or protected.
 
-Gashesh and Ishtar used the noise and attention in the inn to search the
+[Gashesh](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) and [Ishtar](../../../people/pcs/Niki/ishtar-sheet.md) used the noise and attention in the inn to search the
 caravan again. With invisibility, careful lock work, and minor illusion as
 cover, they inspected the shock-braced wagons and the wagon that had been
 unloaded for repairs.
@@ -60,7 +60,7 @@ The ground added another mystery. Selected wagon positions showed unusual
 plant growth, but there was no useful trail showing who had moved the cases.
 The party considered several possibilities: a transfer during the town's
 confusion, a nearby temporary hiding place, magic affecting the ground, or a
-Fey Road or time distortion that created a handoff window nobody remembered.
+[Fey Road](../../../magic/fey-roads.md) or time distortion that created a handoff window nobody remembered.
 None of those explanations was proved.
 
 During the search, Gashesh saw a
@@ -133,4 +133,4 @@ her door, the next leg is unlikely to offer the same access.
 - Protect Marda—or learn more from her—without giving Jessa a cleaner link.
 - Keep the attempted entry into Branka's room from becoming attributable to
   the party.
-- Find out where Esteban Caldera fits into the Valdengratz end of the route.
+- Find out where [Esteban Caldera](../../../people/npcs/esteban-caldera.md) fits into the Valdengratz end of the route.

@@ -10,7 +10,7 @@ type: institution
 
 ![Lamp Feeders (Niederstadt Utility)](images/lamp-feeders-niederstadt.png)
 
-The Lamp Feeders are Niederstadt's municipal lighting crews. They maintain
+The Lamp Feeders are [Niederstadt](../locations/niederstadt.md)'s municipal lighting crews. They maintain
 caged bioluminescent beetles that light tunnels, stairs, and market approaches
 through the undercity night.
 

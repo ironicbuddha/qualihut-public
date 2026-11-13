@@ -8,7 +8,7 @@ type: location
 
 ![Avenue of Butchers](images/niederstadt-avenue-of-butchers-01.png)
 
-Avenue of Butchers is Niederstadt’s meat street: a long, covered lane of hooks, smoke, salt, and knives where people buy what keeps and sells what doesn’t.
+Avenue of Butchers is [Niederstadt](niederstadt.md)’s meat street: a long, covered lane of hooks, smoke, salt, and knives where people buy what keeps and sells what doesn’t.
 
 They’re famous for charcuterie that travels well—sausages, smoked cuts, cured strips—food built for laborers, caravans, and anyone who wants a meal that doesn’t ask questions.
 

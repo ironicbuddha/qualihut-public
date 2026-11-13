@@ -6,7 +6,7 @@ type: person
 
 ## What players would know
 
-Irena Voss keeps The Last Lantern Inn near one of Hochsilvar’s gates. She treats
+Irena Voss keeps [The Last Lantern Inn](../../locations/last-lantern-inn.md) near one of [Hochsilvar](../../locations/hochsilvar.md)’s gates. She treats
 travelers like weather: unavoidable, often unpleasant, but manageable if you know
 when to close the shutters.
 

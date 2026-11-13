@@ -6,7 +6,7 @@ type: person
 
 ## What players would know
 
-Virelya is named in some stories as the Fey Queen: the sovereign of bargains, prices, and names that stop fitting. Where the Fey King is attention, the Fey Queen is cost.
+Virelya is named in some stories as the [Fey](../../races/fey.md) Queen: the sovereign of bargains, prices, and names that stop fitting. Where the Fey King is attention, the Fey Queen is cost.
 
 People who fear the Fey don’t fear knives. They fear coming home with a new name that fits too well.
 

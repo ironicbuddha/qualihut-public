@@ -12,8 +12,8 @@ After the caravan entered the dark forest, a child's cries drew the party away
 from the ordinary route. The sound came from ahead, but the trees made it
 difficult to judge how far away—or how safe—the child really was.
 
-Three Hemowolves attacked. The party killed them, but the fight left Ishtar and
-Gashesh spattered with their blood. The party raised face masks as a wall of
+Three Hemowolves attacked. The party killed them, but the fight left [Ishtar](../../../people/pcs/Niki/ishtar-sheet.md) and
+[Gashesh](../../../people/pcs/Roo/gashesh-netz-gloom-stalker-sheet.md) spattered with their blood. The party raised face masks as a wall of
 red-grey mist began forming across the path.
 
 The mist is now moving toward the bodies of the dead wolves. Somewhere beyond
