@@ -32,6 +32,7 @@ const contentTypeLabels: Readonly<Record<string, string>> = {
   monster: "Creature",
   person: "Character",
   race: "Species",
+  reference: "Reference",
   "session-recap": "Session Recap",
   spell: "Spell",
   "tradecraft-manual": "Tradecraft Manual",
