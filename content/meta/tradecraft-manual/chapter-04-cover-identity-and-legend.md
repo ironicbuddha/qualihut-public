@@ -10,6 +10,11 @@ type: tradecraft-manual
 
 *The Hermit Crab: The Burden of a Borrowed Home*
 
+> “The thane of Cawdor lives: why do you dress me\
+> In borrow’d robes?”
+>
+> **[William Shakespeare, *Macbeth*, Act I, Scene 3](https://shakespeare.mit.edu/macbeth/macbeth.1.3.html#113)**
+
 A warehouse keeper engages a cooper to repair damaged casks. The cooper arrives with tools, examines the work and agrees a price. Before the morning is over, the keeper has complained about three late consignments and named the carrier he holds responsible.
 
 The cooper has learned something his patron wished to know. He has also undertaken to repair the casks.
