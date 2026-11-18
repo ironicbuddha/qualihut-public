@@ -32,7 +32,7 @@ const title = page.kind === "folder-page" ? page.folder.label : record!.data.tit
   ) : (
     <div class="reading-shell">
       {headings.length > 0 && <nav class="page-toc" aria-label="On this page"><p>On this page</p><ol>{headings.map((heading) => <li data-level={heading.level}><a href={`#${heading.id}`}>{heading.text}</a></li>)}</ol></nav>}
-      <article>
+      <article class:list={[{ "manual-preview": record?.data.type === "tradecraft-manual" && headings.length === 0 }]}>
         {page.kind === "item-page" && <FolderContext links={page.folderContext} currentLabel={record!.data.title} />}
         <h1>{record!.data.title}</h1>
         <Fragment set:html={rendered} />

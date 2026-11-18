@@ -42,6 +42,8 @@ const { title, isHome = false } = Astro.props
   article { min-width: 0; max-width: 54rem; overflow-x: clip; }
   .reading-shell { display: grid; grid-template-columns: minmax(10rem, 13rem) minmax(0, 54rem); gap: clamp(2rem, 6vw, 5rem); }
   .campaign-index .reading-shell { grid-template-columns: minmax(10rem, 13rem) minmax(0, 1fr); }
+  .reading-shell > article:only-child { grid-column: 1 / -1; }
+  .reading-shell h1 { overflow-wrap: anywhere; }
   .page-toc { position: sticky; top: 1.25rem; align-self: start; padding-top: 0.5rem; font: 0.82rem/1.4 system-ui, sans-serif; }
   .page-toc p { margin: 0 0 0.5rem; color: #53614a; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
   .page-toc ol { margin: 0; padding: 0; list-style: none; }
@@ -71,6 +73,11 @@ const { title, isHome = false } = Astro.props
     mask-composite: intersect;
   }
   blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #94a481; color: #53614a; }
+  .manual-preview h1 { font-size: clamp(2rem, 5vw, 3.75rem); text-wrap: balance; }
+  .manual-preview > p:has(> img:only-child) { float: left; width: clamp(7rem, 28%, 15rem); margin: 0 clamp(1rem, 3vw, 2.5rem) 1rem 0; }
+  .manual-preview img { margin: 0; }
+  .manual-preview blockquote { display: flow-root; margin-inline: 0; padding: 0; border: 0; }
+  .manual-preview hr { clear: both; }
   code { font-size: 0.9em; }
   pre { overflow-x: auto; padding: 1rem; background: #eae6dc; }
   .header-anchor { margin-left: 0.4rem; color: #839074; text-decoration: none; }
