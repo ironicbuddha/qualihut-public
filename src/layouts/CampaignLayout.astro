@@ -62,6 +62,14 @@ const { title, isHome = false } = Astro.props
   th, td { padding: 0.65rem; vertical-align: top; border-bottom: 1px solid #d9dacd; text-align: left; }
   th { color: #465f38; font-family: system-ui, sans-serif; font-size: 0.75rem; letter-spacing: 0.04em; text-transform: uppercase; }
   img { display: block; max-width: 100%; height: auto; margin: 1.5rem 0; border: 1px solid #d9dacd; }
+  article img[src^="/media/meta/tradecraft-manual/images/"] {
+    --feather: clamp(8px, 2vw, 20px);
+    border: 0;
+    mask-image:
+      linear-gradient(to right, transparent, black var(--feather), black calc(100% - var(--feather)), transparent),
+      linear-gradient(to bottom, transparent, black var(--feather), black calc(100% - var(--feather)), transparent);
+    mask-composite: intersect;
+  }
   blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #94a481; color: #53614a; }
   code { font-size: 0.9em; }
   pre { overflow-x: auto; padding: 1rem; background: #eae6dc; }
