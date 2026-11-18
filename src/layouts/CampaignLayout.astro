@@ -74,10 +74,10 @@ const { title, isHome = false } = Astro.props
   }
   blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #94a481; color: #53614a; }
   .manual-preview h1 { font-size: clamp(2rem, 5vw, 3.75rem); text-wrap: balance; }
-  .manual-preview > p:has(> img:only-child) { float: left; width: clamp(7rem, 28%, 15rem); margin: 0 clamp(1rem, 3vw, 2.5rem) 1rem 0; }
-  .manual-preview img { margin: 0; }
-  .manual-preview blockquote { display: flow-root; margin-inline: 0; padding: 0; border: 0; }
-  .manual-preview hr { clear: both; }
+  .reading-shell > .manual-preview { width: 100%; margin-inline: auto; }
+  .manual-preview > p:has(> img:only-child) { max-width: none; }
+  .manual-preview img { margin-inline: auto; }
+  .manual-preview blockquote { margin-inline: 0; padding: 0; border: 0; }
   code { font-size: 0.9em; }
   pre { overflow-x: auto; padding: 1rem; background: #eae6dc; }
   .header-anchor { margin-left: 0.4rem; color: #839074; text-decoration: none; }
