@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![A leaf-tailed gecko clinging sideways to a twig among two dry leaves](images/chapter-19-deception-disinformation-and-influence.jpg)
 
+*The Leaf-Tailed Gecko: When the Eye Sees a Leaf*
+
+> “The world is still deceived with ornament.”
+>
+> **[William Shakespeare, *The Merchant of Venice*, Act III, Scene 2](https://shakespeare.mit.edu/merchant/merchant.3.2.html)**
+
 **Draft chapter.** Deliberately shaping an adversary’s understanding.
 
 ## Delay Dressed as Diligence

@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![Two European fireflies on opposite sides of a curled grass blade, the winged male alighting above the wingless female](images/chapter-13-clandestine-communications.jpg)
 
+*The Fireflies: A Light Answered Across the Grass*
+
+> “How far that little candle throws his beams!”
+>
+> **[William Shakespeare, *The Merchant of Venice*, Act V, Scene 1](https://shakespeare.mit.edu/merchant/merchant.5.1.html)**
+
 **Draft chapter.** Couriers, dead drops, recognition signals and secret correspondence.
 
 ## A Mark with an Agreed Meaning

@@ -6,6 +6,13 @@ type: tradecraft-manual
 
 ![A hare crouched in a shallow form at the edge of stubble](images/chapter-18-countersurveillance-and-evasion.jpg)
 
+*The Hare: One Ear Turned Back*
+
+> “By this, poor Wat, far off upon a hill,\
+> Stands on his hinder legs with listening ear,”
+>
+> **[William Shakespeare, *Venus and Adonis*](https://shakespeare.mit.edu/Poetry/VenusAndAdonis.html)**
+
 **Draft chapter.** Recognising and responding to hostile observation.
 
 ## The Errand and the Meeting
