@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![Two jackdaws on a gate rail, one offering the other a pale scrap of wool](images/chapter-05-human-intelligence.jpg)
 
+*The Jackdaws: An Offering on the Gate Rail*
+
+> “Give every man thy ear, but few thy voice;”
+>
+> **[William Shakespeare, *Hamlet*, Act I, Scene 3](https://shakespeare.mit.edu/hamlet/hamlet.1.3.html#71)**
+
 **Draft chapter.** Obtaining intelligence through people and relationships.
 
 ## An Invitation to Correct
