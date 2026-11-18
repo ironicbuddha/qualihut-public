@@ -34,6 +34,7 @@ const contentTypeLabels: Readonly<Record<string, string>> = {
   race: "Species",
   "session-recap": "Session Recap",
   spell: "Spell",
+  "tradecraft-manual": "Tradecraft Manual",
 }
 
 const teaserMarkdown = new MarkdownIt({ html: false })

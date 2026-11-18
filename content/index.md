@@ -17,6 +17,7 @@ Use this page as the table start page and fast-recall surface.
 - [World Briefing (Player Teaser)](briefings/world-briefing-player-teaser.md)
 - [Character Creation + Table Rules](briefings/character-creation-and-table-rules.md)
 - [Play Contract + Working Agreements](briefings/play-contract.md)
+- [The Invisible Trade — field manual](meta/tradecraft-manual/index.md)
 
 ## Session recaps
 
