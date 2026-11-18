@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![A sociable weaver clinging upside down at one entrance of a communal nest](images/chapter-21-building-a-clandestine-network.jpg)
 
+*The Sociable Weaver: Many Doors Under One Roof*
+
+> “Union is strength.”
+>
+> **[Aesop, *The Lion and the Three Bulls*](https://github.com/GITenberg/Aesop-s-Fables--13-Translated-by-George-Fyler-Townsend_21/blob/master/21.txt)**
+
 **Draft chapter.** Developing and organising contacts, assets and support infrastructure.
 
 ---

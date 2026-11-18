@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![A song thrush beside its anvil stone](images/chapter-23-intelligence-analysis-and-source-evaluation.jpg)
 
+*The Song Thrush: What a Broken Shell Can Prove*
+
+> “It is a capital mistake to theorize before one has data.”
+>
+> **[Arthur Conan Doyle, *A Scandal in Bohemia*](https://github.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/blob/master/1661.txt)**
+
 **Draft chapter.** Corroboration, reliability, interpretation and uncertainty.
 
 ---

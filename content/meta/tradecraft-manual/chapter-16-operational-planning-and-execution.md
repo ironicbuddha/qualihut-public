@@ -6,6 +6,12 @@ type: tradecraft-manual
 
 ![A small orb-weaver spanning a gap between two thorn stems](images/chapter-16-operational-planning-and-execution.jpg)
 
+*The Orb-Weaver: What the First Thread Must Hold*
+
+> “Ponder and deliberate before you make a move.”
+>
+> **[Sun Tzu, *The Art of War*, Chapter VII, §21](https://github.com/GITenberg/The-Art-of-War_132/blob/master/132.txt)**
+
 **Draft chapter.** Objectives, resources, exposure, contingencies and withdrawal.
 
 ---
