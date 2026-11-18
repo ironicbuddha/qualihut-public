@@ -4,6 +4,8 @@ title: "5. Human Intelligence (HUMINT)"
 type: tradecraft-manual
 ---
 
+![Two jackdaws on a gate rail, one offering the other a pale scrap of wool](images/chapter-05-human-intelligence.jpg)
+
 **Draft chapter.** Obtaining intelligence through people and relationships.
 
 ## An Invitation to Correct

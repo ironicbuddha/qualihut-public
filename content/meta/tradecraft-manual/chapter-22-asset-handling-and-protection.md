@@ -4,6 +4,8 @@ title: "22. Asset Handling and Protection"
 type: tradecraft-manual
 ---
 
+![A great crested grebe carrying two striped chicks between the folded feathers of its back](images/chapter-22-asset-handling-and-protection.jpg)
+
 **Draft chapter.** Maintaining relationships and protecting sources.
 
 ---

@@ -4,6 +4,8 @@ title: "27. The Arcane Intelligence Contest"
 type: tradecraft-manual
 ---
 
+![A moon moth banking past the open wing of a hunting bat](images/chapter-27-the-arcane-intelligence-contest.jpg)
+
 **Draft chapter.** Technological and magical developments in espionage.
 
 ---

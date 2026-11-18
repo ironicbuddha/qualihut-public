@@ -4,6 +4,8 @@ title: "21. Building a Clandestine Network"
 type: tradecraft-manual
 ---
 
+![A sociable weaver clinging upside down at one entrance of a communal nest](images/chapter-21-building-a-clandestine-network.jpg)
+
 **Draft chapter.** Developing and organising contacts, assets and support infrastructure.
 
 ---

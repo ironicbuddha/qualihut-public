@@ -4,6 +4,8 @@ title: "19. Deception, Disinformation and Influence"
 type: tradecraft-manual
 ---
 
+![A leaf-tailed gecko clinging sideways to a twig among two dry leaves](images/chapter-19-deception-disinformation-and-influence.jpg)
+
 **Draft chapter.** Deliberately shaping an adversary’s understanding.
 
 ## Delay Dressed as Diligence

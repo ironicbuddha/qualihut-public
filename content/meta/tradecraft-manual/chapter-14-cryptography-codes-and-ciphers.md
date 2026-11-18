@@ -4,6 +4,8 @@ title: "14. Cryptography, Codes and Ciphers"
 type: tradecraft-manual
 ---
 
+![A cuttlefish turning beside a pale stone](images/chapter-14-cryptography-codes-and-ciphers.jpg)
+
 **Draft chapter.** Encryption, codebooks, keys and authentication.
 
 ---

@@ -4,6 +4,8 @@ title: "25. Imperial Intelligence and the Solar Church"
 type: tradecraft-manual
 ---
 
+![A peregrine falcon mantling on the chipped capital of a high stone column](images/chapter-25-imperial-intelligence-and-the-solar-church.jpg)
+
 **Draft chapter.** Imperial doctrine and intelligence institutions.
 
 See also [The Solar Church](../../institutions/solar-church.md).

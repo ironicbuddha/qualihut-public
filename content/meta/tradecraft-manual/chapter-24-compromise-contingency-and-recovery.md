@@ -4,6 +4,8 @@ title: "24. Compromise, Contingency and Recovery"
 type: tradecraft-manual
 ---
 
+![A beaver pressing a forked willow branch into a small breach in its dam](images/chapter-24-compromise-contingency-and-recovery.jpg)
+
 **Draft chapter.** Responding to operational failure and rebuilding capability.
 
 ---

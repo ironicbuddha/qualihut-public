@@ -4,6 +4,8 @@ title: "8. Open-Source Intelligence (OSINT)"
 type: tradecraft-manual
 ---
 
+![A starling picking through an open walnut husk on a worn doorstep](images/chapter-08-open-source-intelligence.jpg)
+
 **Draft chapter.** Deriving intelligence from publicly accessible information.
 
 ---

@@ -4,6 +4,8 @@ title: "13. Clandestine Communications"
 type: tradecraft-manual
 ---
 
+![Two European fireflies on opposite sides of a curled grass blade, the winged male alighting above the wingless female](images/chapter-13-clandestine-communications.jpg)
+
 **Draft chapter.** Couriers, dead drops, recognition signals and secret correspondence.
 
 ## A Mark with an Agreed Meaning

@@ -4,6 +4,8 @@ title: "18. Countersurveillance and Evasion"
 type: tradecraft-manual
 ---
 
+![A hare crouched in a shallow form at the edge of stubble](images/chapter-18-countersurveillance-and-evasion.jpg)
+
 **Draft chapter.** Recognising and responding to hostile observation.
 
 ## The Errand and the Meeting

@@ -4,6 +4,8 @@ title: "20. Magical Security and Countermeasures"
 type: tradecraft-manual
 ---
 
+![A pill woodlouse halfway rolled around a bead of grit](images/chapter-20-magical-security-and-countermeasures.jpg)
+
 **Draft chapter.** Protection from magical intelligence collection.
 
 ---

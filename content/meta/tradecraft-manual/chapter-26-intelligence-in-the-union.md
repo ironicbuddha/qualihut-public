@@ -4,6 +4,8 @@ title: "26. Intelligence in the Union"
 type: tradecraft-manual
 ---
 
+![Three hermit ibises coming to rest on separate ledges of the same broken escarpment](images/chapter-26-intelligence-in-the-union.jpg)
+
 **Draft chapter.** Decentralised intelligence, insurgencies and information markets.
 
 See also [The Southern Union](../../factions/southern-union.md).
